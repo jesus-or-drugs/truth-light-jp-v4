@@ -1,0 +1,11 @@
+{
+  "InChI Keyを想定": {
+    "label": "麻薬及び向精神薬取締法",
+    "controlled": true,
+    "scheduling": "向精神薬第一類",
+    "sources": [
+      { "title": "e-Gov法令", "url": "..." },
+      { "title": "厚労省告示/資料", "url": "..." }
+    ]
+  }
+}

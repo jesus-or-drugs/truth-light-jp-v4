@@ -1,0 +1,49 @@
+{
+    "id": "lsd",
+    "name": { "ja": "LSD", "en": "LSD" },
+    "iupac_name": "1-(1,3-benzodioxol-5-yl)-N-methylpropan-2-amine",
+    "aliases": [
+        "リゼルグ酸ジエチルアミド",
+        "アシッド",
+        "L"    
+    ],
+    "identifier": {
+        "pubchem_cid": "5761",
+        "inchi_key": "VAYOSLLFUXYJDT-RDTXWAMCSA-N",
+        "smiles": "CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C"
+    },
+    "categories": ["psychedelic", "stimulant"],
+    "legal": {
+        "jp": {
+            "key": "InChI Keyを想定"
+        }
+    },
+    "summary": "LSDは最もよく知られ、最も研究されている幻覚剤です。他のすべての幻覚剤と比較される基準となっています。極めて低用量でも効果を発揮し、ブロッターや液体の形で入手するのが最も一般的です。",
+    "history": "MDAは1912年に合成された。1970年代にアメリカで広く使用された。",
+    "effects": {
+        "effects_positive": [
+            "altered_perception",
+            "enhanced_sensory_perception",
+            "energy_increase",
+            "sociality_increase"
+        ],
+        "effects_negative": [
+            "anxiety",
+            "jaw_tension",
+            "nausea",
+            "insomnia",
+            "paranoia",
+            "panic"
+        ]},
+    "external_resources": {
+        "experiences": {
+            "label": "Erowid: LSD Experience Vault",
+            "url": "https://erowid.org/experiences/subs/exp_LSD.shtml"
+        },
+        "dosage_duration": {
+            "label": "TripSit: LSD",
+            "url": "https://tripsit.me/factsheets/lsd"
+        }
+    },
+    "resource": ""
+}

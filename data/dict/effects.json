@@ -1,0 +1,68 @@
+{
+  "euphoria": {
+    "label_ja": "多幸感",
+    "valence": "positive"
+  },
+  "empathy": {
+    "label_ja": "共感性の増大",
+    "valence": "positive"
+  },
+  "increased_focus": {
+    "label_ja": "集中力の増加",
+    "valence": "positive"
+  },
+  "calmness": {
+    "label_ja": "落ち着き",
+    "valence": "positive"
+  },
+
+  "altered_perception": {
+    "label_ja": "知覚変容",
+    "valence": "neutral"
+  },
+  "altered_thought": {
+    "label_ja": "思考変容",
+    "valence": "neutral"
+  },
+  "time_distortion": {
+    "label_ja": "時間感覚の歪み",
+    "valence": "neutral"
+  },
+  "dissociation": {
+    "label_ja": "解離",
+    "valence": "neutral"
+  },
+  "hallucination": {
+    "label_ja": "幻覚",
+    "valence": "neutral"
+  },
+
+  "anxiety": {
+    "label_ja": "不安",
+    "valence": "negative"
+  },
+  "paranoia": {
+    "label_ja": "被害妄想",
+    "valence": "negative"
+  },
+  "confusion": {
+    "label_ja": "混乱",
+    "valence": "negative"
+  },
+  "nausea": {
+    "label_ja": "吐き気",
+    "valence": "negative"
+  },
+  "impaired_coordination": {
+    "label_ja": "運動協調の低下",
+    "valence": "negative"
+  },
+  "impaired_memory": {
+    "label_ja": "記憶障害",
+    "valence": "negative"
+  },
+  "delirium": {
+    "label_ja": "せん妄",
+    "valence": "negative"
+  }
+}
