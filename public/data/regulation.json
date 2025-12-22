@@ -1,0 +1,16 @@
+[
+  {
+    "id": "legal_status",
+    "name_ja": "legal_status",
+    "name_en": "legal_status",
+    "aliases": [],
+    "categories": [],
+    "legal": [],
+    "identifiers": {
+      "pubchem_cid": null,
+      "smiles": null
+    },
+    "summary": "",
+    "refs": []
+  }
+]

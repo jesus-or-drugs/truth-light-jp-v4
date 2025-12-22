@@ -4,15 +4,14 @@
   "type": "module",
   "scripts": {
     "gen": "node scripts/gen.mjs",
-
     "dev": "npm run gen && nuxt dev",
     "build": "npm run gen && nuxt build",
     "generate": "npm run gen && nuxt generate",
-
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/image": "2.0.0",
     "nuxt": "^3.20.2",
     "vue": "^3.5.25",
     "vue-router": "^4.6.4"

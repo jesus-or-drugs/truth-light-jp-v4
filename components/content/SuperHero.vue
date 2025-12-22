@@ -4,11 +4,7 @@
       <ContentSlot :use="$slots.title" unwrap="p" />
     </h1>
     <div class="flex">
-
-      <!-- <ClientOnly fallback-tag="div" fallback="loading..."> -->
-        <LayoutSearchBar />
-      <!-- </ClientOnly> -->
-       
+        <!-- <LayoutSearchBar />  -->
     </div>
   </section>
 </template>
@@ -17,12 +13,6 @@
 import type { S } from 'vue-router/dist/router-CWoNjPRp.mjs';
 
 defineProps<{
-  announcement?: {
-    to?: string;
-    target?: Target;
-    icon?: string;
-    title: string;
-  };
   actions: {
     name: string;
     leftIcon?: string;

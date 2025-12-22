@@ -1,24 +1,18 @@
 <template>
-  <div class="prose prose-neutral dark:prose-invert">
-    <ContentRenderer
-      :key="page._id"
-      :value="page"
-      :data="(appConfig.shadcnDocs as any)?.data"
-    />
+  <div class="prose">
+    <h1>テストメッセージ</h1>
   </div>
 </template>
 
 <script setup lang="ts">
-const { page } = useContent();
-const config = useConfig();
 const appConfig = useAppConfig();
 
 useSeoMeta({
-  title: `${page.value?.title ?? '404'} - ${config.value.site.name}`,
-  ogTitle: page.value?.title,
-  description: page.value?.description,
-  ogDescription: page.value?.description,
-  ogImage: config.value.site.ogImage,
-  twitterCard: 'summary_large_image',
+  title: `${appConfig.truthlight.site.name ?? '404'}`,
+  ogTitle: appConfig.truthlight.site.name,
+  description: appConfig.truthlight.site.name,
+  ogDescription: appConfig.truthlight.site.name,
+  ogImage: appConfig.truthlight.site.ogImage,
+  twitterCard: 'summary_large_image'
 });
 </script>
