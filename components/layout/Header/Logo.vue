@@ -2,7 +2,8 @@
   <div>
     <NuxtLink v-if="logo?.light && logo?.dark" to="/" class="flex">
       <NuxtImg :src="logo.dark" class="h-7 dark:block" />
-      <span v-if="showTitle && title" class="ml-3 self-center text-2xl text-white font-bold">
+      <span v-if="showTitle && title" class="ml-3 self-center text-2xl text-white font-bold"
+      style="font-family: 'Avenir', 'Avenir Next', 'Segoe UI', 'Helvetica Neue', 'Arial', 'sans-serif';">
         {{ title }}
       </span>
     </NuxtLink>

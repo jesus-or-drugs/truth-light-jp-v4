@@ -9,7 +9,12 @@ export default defineAppConfig({
       customizable: true,
       color: 'slate',
       radius: 0.5,
-    },
+      fontFamily: {
+        title: ['Avenir', 'Avenir Next', 'Segoe UI', 'Helvetica Neue', 'Arial', 'sans-serif'],
+        sans: ['ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', '游ゴシック体', 'Yu Gothic', 'YuGothic', 'メイリオ', 'Meiryo', 'sans-serif'],
+        mono: ['Source Han Code JP', '源ノ角ゴシック Code JP', 'Source Han Code', '源ノ角ゴシック Code', 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Monaco', 'Consolas', 'Liberation Mono', 'Courier New']
+        }
+      },
     header: {
       title: 'Truth Light',
       showTitle: true,
