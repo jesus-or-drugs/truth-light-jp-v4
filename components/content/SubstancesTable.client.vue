@@ -7,18 +7,12 @@ type Substance = {
   id: string
   common_name?: string
   aliases?: string[]
-  identifiers?: {
-    pubchem_cid? : number
-    inchi_key?: string
-    smiles?: string
-  }
   categories?: string[]
   legal?: {
-    ja?: {
+    jp?: {
       law_category?: string
     }
   }
-  summary?: string
 }
 
 const pending = ref(true)
@@ -49,22 +43,20 @@ onMounted(async () => {
 
   const options ={
     valueNames: ['commonName', 'aliases','category','legal'],
-    item: `<tr class="border-b border-teal-600 h-14"><td class="name"><span class="commonName"></span><br /><span class="aliases"></span></td><td class="category"></td><td class="legal"></td></tr>`
+    item: `<tr><td class="name bg-[#192539] border-b border-teal-600 h-14 p-4"><span class="commonName"></span><br /><span class="aliases text-slate-400"></span></td><td class="category bg-[#192539] border-b border-teal-600 h-14 p-4"></td><td class="legal bg-[#192539] border-b border-teal-600 h-14 p-4"></td></tr>`
   }
   // 0件初期化でも落ちないように item テンプレを渡す（ここ超重要）
   listInstance.value = new List("substances-table", options)
-
-  console.log(substances.value[0]?.identifiers?.pubchem_cid)
   
   // データをList.jsに流し込む
     console.log("sample row:", substances.value[0])
-    console.log("sample identifiers:", substances.value[0]?.identifiers)
+    console.log("sample law_category:", substances.value[0]?.legal?.jp?.law_category)
   listInstance.value.add(
     substances.value.map((s) => ({
         commonName: s.common_name ?? s.id,
         aliases: s.aliases ?? "",
         category: s.categories ?? "",
-        legal: s.legal ?? ""
+        legal: s.legal?.jp?.law_category ?? ""
     }
     ))
   )
@@ -72,7 +64,7 @@ onMounted(async () => {
 
 // ソート用クラス名トグル
 // テーブルのclass名に合わせる
-type SortKey = "name"  
+type SortKey = "name" | "category" | "legal"
 type SortDir = "asc" | "desc"
 
 const activeKey = ref<SortKey>("name")
@@ -105,13 +97,21 @@ const sortClass = (key: SortKey) => {
             </div>
 
             <div class="border-l border-t border-b rounded-l-xl overflow-hidden border-teal-600">
-              <div class="max-h-[70vh] overflow-y-auto">
-                <table class="w-full">
-                    <thead class="title border-b borderteal-600">
+              <div class="max-h-[80vh] overflow-y-auto">
+                <table class="w-full border-separate border-spacing-0">
+                    <thead class="title">
                       <tr class="sticky">
-                          <th class="nameTitle sticky top-0 bg-slate-800 text-left">
+                          <th class="nameTitle sticky border-b border-teal-600 top-0 bg-[#192539] text-left p-4">
                               <button class="sort sort-toggle asc" data-sort="name" :class="sortClass('name')" @click="toggleSort(`name`)">名称</button><br />
-                              <input type="search" class="search w-2/3" placeholder="MDMA etc.." />
+                              <input type="search" class="search w-full h-7 p-2 bg-slate-700 rounded-lg" placeholder="MDMA etc.." />
+                          </th>
+                          <th class="categoryTitle sticky border-b border-teal-600 top-0 bg-[#192539] text-left pt-4 pb-4 pr-4">
+                              <button class="sort sort-toggle asc" data-sort="name" :class="sortClass('category')" @click="toggleSort(`category`)">カテゴリー</button><br />
+                              <input type="search" class="search w-full h-7 p-2 bg-slate-700 rounded-lg" placeholder="中枢神経刺激薬" />
+                          </th>
+                          <th class="legalTitle sticky border-b border-teal-600 top-0 bg-[#192539] text-left pt-4 pb-4 pr-4">
+                              <button class="sort sort-toggle asc" data-sort="name" :class="sortClass('legal')" @click="toggleSort(`legal`)">名称</button><br />
+                              <input type="search" class="search w-full h-7 p-2 bg-slate-700 rounded-lg" placeholder="指定薬物 etc.." />
                           </th>
                       </tr>
                     </thead>

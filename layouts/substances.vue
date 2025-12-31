@@ -1,6 +1,6 @@
 <template>
   <div
-  class="h-[100dvh] flex flex-col flex-1 overflow-hidden bg-slate-800 text-white">
+  class="h-[100dvh] flex flex-col overflow-hidden bg-slate-800 text-white">
     <LayoutHeader
     variant="substances" />
 
