@@ -1,0 +1,40 @@
+{
+  "id": "2fmp",
+  "common_name": "2FMP",
+  "systematic name": "1-(2-furuorophenyl)puropan- 2-amine",
+  "aliases": [
+    "2-Fluoroamphetamine",
+    "2F-AMP"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "１－（２－フルオロフェニル）プロパン－２－アミン及びその塩類",
+      "effective_date": "2014/12/26",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

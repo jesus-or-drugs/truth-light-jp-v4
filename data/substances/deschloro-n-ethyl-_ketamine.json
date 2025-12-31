@@ -1,0 +1,41 @@
+{
+  "id": "deschloro-n-ethyl-_ketamine",
+  "common_name": "Deschloro-N-ethyl- ketamine",
+  "systematic name": "2-(echiruamineo)-2-phenylshiku rohekisanon",
+  "aliases": [
+    "Eticyclidone",
+    "O-PCE",
+    "2-Oxo-PCE"
+  ],
+  "identifiers": {
+    "pubchem_cid": "132989542",
+    "inchi_key": "IDLSBAANXISGEI-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "２－（エチルアミノ）－２－フェニルシクロヘキサノン及びその塩類",
+      "effective_date": "2018/08/22",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

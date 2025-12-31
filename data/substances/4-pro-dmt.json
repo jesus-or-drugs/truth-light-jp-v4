@@ -1,0 +1,37 @@
+{
+  "id": "4-pro-dmt",
+  "common_name": "4-PrO-DMT",
+  "systematic name": "4-puropanoiruokishi-N,N-jime chirutoriputamine",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "４－プロパノイルオキシ－Ｎ，Ｎ－ジメチルトリプタミン",
+      "effective_date": "2025/10/29",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

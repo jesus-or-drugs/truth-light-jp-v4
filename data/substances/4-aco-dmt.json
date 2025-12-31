@@ -1,8 +1,37 @@
 {
   "id": "4-aco-dmt",
-  "name_ja": "4-AcO-DMT",
-  "name_en": "4-AcO-DMT",
-  "identifier": {
-    "pubchem_cid": 15429212
+  "common_name": "4-AcO-DMT",
+  "systematic name": "4-acetoxy-N,N-jimechirutoripu tamine",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "15429212",
+    "inchi_key": "RTLRUOSYLFOFHV-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "４－アセトキシ－Ｎ，Ｎ－ジメチルトリプタミン及びその塩類",
+      "effective_date": "2015/07/29",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
   }
 }

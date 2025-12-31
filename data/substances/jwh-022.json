@@ -1,0 +1,37 @@
+{
+  "id": "jwh-022",
+  "common_name": "JWH-022",
+  "systematic name": "nafutaren-1-iru[1-(pento-4 -en-1-iru)-1H-indo-ru -3-iru]metanon",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "91936930",
+    "inchi_key": "IVVCMEGHVSDGFJ-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物(包括)",
+      "official_name": "ナフタレン－１－イル[１－（ペント－４－エン－１－イル）－１Ｈ－インドール－３－イル]メタノン及びその塩類",
+      "effective_date": "2012/06/01",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

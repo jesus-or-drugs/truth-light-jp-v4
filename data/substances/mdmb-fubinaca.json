@@ -1,0 +1,39 @@
+{
+  "id": "mdmb-fubinaca",
+  "common_name": "MDMB-FUBINACA",
+  "systematic name": "mechiru=2-[1-(4-furuorobenji ru)-1H-indazo-ru-3-karubo kisamido]-3,3-jimechirubutanoa-to",
+  "aliases": [
+    "FUB-ADB"
+  ],
+  "identifiers": {
+    "pubchem_cid": "119025665",
+    "inchi_key": "RFCDVEHNYDVCMU-LJQANCHMSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "メチル＝２－[１－（４－フルオロベンジル）－１Ｈ－インダゾール－３－カルボキサミド]－３，３－ジメチルブタノアート及びその塩類",
+      "effective_date": "2015/02/18",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

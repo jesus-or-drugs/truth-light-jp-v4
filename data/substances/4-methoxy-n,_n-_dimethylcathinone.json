@@ -1,0 +1,39 @@
+{
+  "id": "4-methoxy-n,_n-_dimethylcathinone",
+  "common_name": "4-Methoxy-N, N- dimethylcathinone",
+  "systematic name": "1-(4-methoxyphenyl)-2-(jimechi ruamineo)puropan-1-on 類",
+  "aliases": [
+    "N-Methylmethedrone"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物(包括)",
+      "official_name": "１－（４－メトキシフェニル）－２－（ジメチルアミノ）プロパン－１－オン及びその塩類",
+      "effective_date": "2013/04/30",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "jwh-122_n-(4-pentenyl)誘導体",
+  "common_name": "JWH-122 N-(4-pentenyl)誘導体",
+  "systematic name": "(4-mechirunafutaren-1-iru)[1 -(pento-4-en-1-iru)-1 H-indo-ru-3-iru]metanon及び その salts",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物(包括)",
+      "official_name": "（４－メチルナフタレン－１－イル）[１－（ペント－４－エン－１－イル）－１ Ｈ－インドール－３－イル]メタノン及びその塩類",
+      "effective_date": "2012/10/17",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

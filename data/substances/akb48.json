@@ -1,8 +1,39 @@
 {
   "id": "akb48",
-  "name_ja": "AKB48",
-  "name_en": "AKB48",
-  "identifier": {
-    "pubchem_cid": 57404063
+  "common_name": "AKB48",
+  "systematic name": "N-(1-adamantyl)-1-pentylindazole-3-carboxamide",
+  "aliases": [
+    "APINACA"
+  ],
+  "identifiers": {
+    "pubchem_cid": "57404063",
+    "inchi_key": "UCTCCIPCJZKWEZ-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "Ｎ－（１－アダマンチル）－１－ペンチル－１Ｈ－インダゾール－３－カルボキサミド及びその塩類",
+      "effective_date": "2012/06/01",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
   }
 }

@@ -1,0 +1,39 @@
+{
+  "id": "3-fluoromethamphetamine",
+  "common_name": "3-Fluoromethamphetamine",
+  "systematic name": "1-(3-furuorophenyl)-N-mechi rupuropan-2-amine",
+  "aliases": [
+    "3-FMA"
+  ],
+  "identifiers": {
+    "pubchem_cid": "58216164",
+    "inchi_key": "RRVAUTPWWWFYQT-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "１－（３－フルオロフェニル）－Ｎ－メチルプロパン－２－アミン及びその塩類",
+      "effective_date": "2013/06/28",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "thj-018",
+  "common_name": "THJ-018",
+  "systematic name": "nafutaren-1-iru(1-penchiru-1 H-indazo-ru-3-iru)metanon及 びその salts",
+  "aliases": [
+    "JWH-018 indazole analog"
+  ],
+  "identifiers": {
+    "pubchem_cid": "124518671",
+    "inchi_key": "VAKGBPSFDNTMDJ-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "ナフタレン－１－イル（１－ペンチル－１ Ｈ－インダゾール－３－イル）メタノン及びその塩類",
+      "effective_date": "2014/08/15",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "jwh-250",
+  "common_name": "JWH-250",
+  "systematic name": "2-(2-methoxyphenyl)-1-(1- penchiru-1H-indo-ru-3-i ru)etanon",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "44397540",
+    "inchi_key": "FFLSJIQJQKDDCM-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "２－（２－メトキシフェニル）－１－（１ーペンチル－ １Ｈ－インドール－３－イル）エタノン及びその塩類",
+      "effective_date": "2010/08/25",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3,_4-mdpm",
+  "common_name": "3, 4-MDPM",
+  "systematic name": "3-mechiru-2-(3,4-mechirenjio kishiphenyl)moruforin 類",
+  "aliases": [
+    "3-MDPM",
+    "3",
+    "4- Methylenedioxyphenmetrazine"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "３－メチル－２－（３，４－メチレンジオキシフェニル）モルフォリン及びその塩類",
+      "effective_date": "2024/08/07",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

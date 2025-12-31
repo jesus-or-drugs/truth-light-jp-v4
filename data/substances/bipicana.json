@@ -1,0 +1,37 @@
+{
+  "id": "bipicana",
+  "common_name": "BiPICANA",
+  "systematic name": "N-(nafutaren-1-iru)-1-pen chiru-N-(1-penchiru-1H-in do-ru-3-karuboniru)-1H-in do-ru-3-karubokisamido 類",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "162368425",
+    "inchi_key": "JUJSXRUYGOTLSI-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "Ｎ－（ナフタレン－１－イル）－１－ペンチル－Ｎ－（１－ペンチル－１Ｈ－インドール－３－カルボニル）－１Ｈ－イン ドール－３－カルボキサミド及びその塩類",
+      "effective_date": "2014/08/15",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

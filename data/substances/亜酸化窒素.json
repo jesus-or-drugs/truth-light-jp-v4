@@ -1,0 +1,39 @@
+{
+  "id": "亜酸化窒素",
+  "common_name": "亜酸化窒素",
+  "systematic name": "一酸化二窒素",
+  "aliases": [
+    "Nitrous oxide"
+  ],
+  "identifiers": {
+    "pubchem_cid": "948",
+    "inchi_key": "GQPLMRYTRLFLPF-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "一酸化二窒素",
+      "effective_date": "2016/02/18",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

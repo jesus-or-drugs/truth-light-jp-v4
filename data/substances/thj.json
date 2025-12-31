@@ -1,0 +1,37 @@
+{
+  "id": "thj",
+  "common_name": "THJ",
+  "systematic name": "1-penchiru-N-(kinorin-8-i ru)-1H-indazo-ru-3-karubo kisamido",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "124519290",
+    "inchi_key": "YAYIQXMTUCPLHG-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "１－ペンチル－Ｎ－（キノリン－８－イル）－１Ｈ－インダゾール－３－カルボキサミド及びその塩類",
+      "effective_date": "2016/06/22",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "4-methoxy-α-phpp",
+  "common_name": "4-Methoxy-α-PHPP",
+  "systematic name": "",
+  "aliases": [
+    "4-Methoxy-PV8"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物(包括)",
+      "official_name": "１－（４－メトキシフェニル）－２－（ピロリジン－１－イル）ヘプタン－１－オン及びその塩類",
+      "effective_date": "-",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

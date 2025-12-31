@@ -1,0 +1,39 @@
+{
+  "id": "n-cyclohexylbutylone",
+  "common_name": "N-Cyclohexylbutylone",
+  "systematic name": "2-(cyclohexylamineo)-1-(3, 4-mechirenjiokishiphenyl)butan- 1-on",
+  "aliases": [
+    "Cybutylone"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "２－（シクロヘキシルアミノ）－１－（３，４－メチレンジオキシフェニル）ブタン－１－オン及びその塩類",
+      "effective_date": "2023/10/26",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

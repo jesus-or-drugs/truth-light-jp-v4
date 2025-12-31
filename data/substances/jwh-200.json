@@ -1,0 +1,37 @@
+{
+  "id": "jwh-200",
+  "common_name": "JWH-200",
+  "systematic name": "[1-(2-moruforinoechiru)-1H- indo-ru-3-iru](nafutaren-1 -iru)metanon",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "10045570",
+    "inchi_key": "SZWYXJHTNGJPKU-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "［１－（２－モルフォリノエチル）－１Ｈ－インドール－３－イル］（ナフタレン－１－イル）メタノン及びその塩類",
+      "effective_date": "2011/04/14",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

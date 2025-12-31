@@ -1,0 +1,37 @@
+{
+  "id": "1t-lsd",
+  "common_name": "1T-LSD",
+  "systematic name": "N,N-jiechiru-7-mechiru-4-(chi ofen-2-karuboniru)-4,6,6 a,7,8,9-hekisahidoroindoro[4, 3-fg]kinorin-9-karubokisamido及 びその salts",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "Ｎ，Ｎ－ジエチル－７－メチル－４－（チオフェン－２－カルボニル）－４，６，６ ａ，７，８，９－ヘキサヒドロインドロ［４，３－ｆｇ］キノリン－９－カルボキサミド及びその塩類",
+      "effective_date": "2024/05/01",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

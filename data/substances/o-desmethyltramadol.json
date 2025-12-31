@@ -1,0 +1,39 @@
+{
+  "id": "o-desmethyltramadol",
+  "common_name": "O-Desmethyltramadol",
+  "systematic name": "2-[(jimechiruamineo)mechiru]-1-(3 -hidorokishiphenyl)shikurohekisano- ru",
+  "aliases": [
+    "O-DSMT"
+  ],
+  "identifiers": {
+    "pubchem_cid": "9838803",
+    "inchi_key": "UWJUQVWARXYRCG-HIFRSBDPSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "２－［（ジメチルアミノ）メチル］－1－（３－ヒドロキシフェニル）シクロヘキサノール及びその塩類",
+      "effective_date": "2016/11/01",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

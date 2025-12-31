@@ -1,0 +1,39 @@
+{
+  "id": "4-methoxymethcathinone",
+  "common_name": "4-Methoxymethcathinone",
+  "systematic name": "1-(4-methoxyphenyl)-2-(mechiru amineo)puropan-1-on",
+  "aliases": [
+    "Methedrone"
+  ],
+  "identifiers": {
+    "pubchem_cid": "216281",
+    "inchi_key": "MQUIHBQDYYAEMH-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物(包括)",
+      "official_name": "１－（４－メトキシフェニル）－２－（メチルアミノ）プロパン－１－オン及びその塩類",
+      "effective_date": "2011/04/14",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

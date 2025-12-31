@@ -1,0 +1,37 @@
+{
+  "id": "3-meo-pcmo",
+  "common_name": "3-MeO-PCMo",
+  "systematic name": "4-[1-(3-methoxyphenyl)shikuro hekishiru]moruforin",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "132605908",
+    "inchi_key": "BOGOEDFWPOXWQE-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "４－［１－（３－メトキシフェニル）シクロヘキシル］モルフォリン及びその塩類",
+      "effective_date": "2015/12/15",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

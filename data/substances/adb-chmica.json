@@ -1,0 +1,41 @@
+{
+  "id": "adb-chmica",
+  "common_name": "ADB-CHMICA",
+  "systematic name": "N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)indole-3-carboxamide",
+  "aliases": [
+    "ADB-CHMINACA",
+    "ADB-CHMICA",
+    "MAB-CHMICA"
+  ],
+  "identifiers": {
+    "pubchem_cid": "68894304",
+    "inchi_key": "ZWCCSIUBHCZKOY-GOSISDBHSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "N－（１－アミノ－３，３－ジメチル－１－オキソブタン－２－イル）－１－（シクロヘキシルメチル）－１Ｈ－インドール－３－カルボキサミド及びその塩類",
+      "effective_date": "2019/02/19",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

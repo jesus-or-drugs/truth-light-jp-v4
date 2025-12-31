@@ -1,0 +1,39 @@
+{
+  "id": "nne1",
+  "common_name": "NNE1",
+  "systematic name": "N-(nafutaren-1-iru)-1-pen chiru-1H-indo-ru-3-karuboki samido",
+  "aliases": [
+    "MN-24"
+  ],
+  "identifiers": {
+    "pubchem_cid": "54752945",
+    "inchi_key": "GWCQNKRMTGVYIZ-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "Ｎ－（ナフタレン－１－イル）－１－ペンチル－１Ｈ－インドール－３－カルボキサミド及びその塩類",
+      "effective_date": "2013/10/21",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

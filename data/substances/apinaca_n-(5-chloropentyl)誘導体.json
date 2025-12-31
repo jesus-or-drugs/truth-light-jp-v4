@@ -1,0 +1,37 @@
+{
+  "id": "apinaca_n-(5-chloropentyl)誘導体",
+  "common_name": "APINACA N-(5-chloropentyl)誘導体",
+  "systematic name": "N-(1-Adamantyl)-1-(5-chloropenthyl)-1H-indazole-3-carboxamide",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "Ｎ－（１－アダマンチル）－１－（５－クロロペンチル）－１Ｈ－インダゾール－３－カルボキサミド及びその塩類",
+      "effective_date": "2016/04/08",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

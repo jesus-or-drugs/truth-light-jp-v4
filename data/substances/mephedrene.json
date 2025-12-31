@@ -1,0 +1,39 @@
+{
+  "id": "mephedrene",
+  "common_name": "Mephedrene",
+  "systematic name": "N-mechiru-1-(5-mechiruchiofen -2-iru)puropan-2-amine及び その salts",
+  "aliases": [
+    "5-MMPA"
+  ],
+  "identifiers": {
+    "pubchem_cid": "64487873",
+    "inchi_key": "HZICDJQMPRFRKC-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "N－メチル－１－（５－メチルチオフェン－２－イル）プロパン－２－アミン及びその塩類",
+      "effective_date": "2022/12/16",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

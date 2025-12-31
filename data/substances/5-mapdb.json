@@ -1,0 +1,37 @@
+{
+  "id": "5-mapdb",
+  "common_name": "5-MAPDB",
+  "systematic name": "1-(2,3-jihidorobenzofuran-5- iru)-N-mechirupuropan-2-ami n",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "112500533",
+    "inchi_key": "PLQTZOCLUHHCOI-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "１－（２，３－ジヒドロベンゾフラン－５－イル）－Ｎ－メチルプロパン－２－アミン及びその塩類",
+      "effective_date": "2015/11/25",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

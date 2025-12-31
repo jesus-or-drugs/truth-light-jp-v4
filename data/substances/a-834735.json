@@ -1,0 +1,37 @@
+{
+  "id": "a-834735",
+  "common_name": "A-834735",
+  "systematic name": "{1-[(tetrahydropiran-4-iru)me chiru]-1H-indo-ru-3-iru} (2,2,3,3-tetoramechirushikuropuro pan-1-iru)metanon",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "11544639",
+    "inchi_key": "NQTMRZNYLIGQCF-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "｛１－［（テトラヒドロピラン－４－イル）メチル］－１Ｈ－インドール－３－イル｝（２，２，３，３－テトラメチルシクロプロパン－１－イル）メタノン及びその塩類",
+      "effective_date": "2013/06/28",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

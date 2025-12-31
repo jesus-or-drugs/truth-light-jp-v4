@@ -1,8 +1,37 @@
 {
   "id": "fub-apinaca",
-  "name_ja": "FUB-APINACA",
-  "name_en": "FUB-APINACA",
-  "identifier": {
-    "pubchem_cid": 118796517
+  "common_name": "FUB-APINACA",
+  "systematic name": "N-(1-adamantyl)-1-[(4-fluorophenyl)methyl]indazole-3-carboxamide",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "118796517",
+    "inchi_key": "MWBHSNBPUSKVDD-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "Ｎ－（１－アダマンチル）－１－（４－フルオロベンジル）－１Ｈ－インダゾール－３－カルボキサミド及びその塩類",
+      "effective_date": "2014/12/26",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
   }
 }

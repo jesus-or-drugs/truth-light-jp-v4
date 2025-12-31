@@ -1,8 +1,40 @@
 {
   "id": "ald-52",
-  "name_ja": "ALD-52",
-  "name_en": "ALD-52",
-  "identifier": {
-    "pubchem_cid": 201111
+  "common_name": "ALD-52",
+  "systematic name": "(6aR,9R)-4-acetyl-N,N-diethyl-7-methyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide",
+  "aliases": [
+    "1-Acetyl-LSD",
+    "1A-LSD"
+  ],
+  "identifiers": {
+    "pubchem_cid": "201111",
+    "inchi_key": "FJOWXGYLIWJFCH-OXQOHEQNSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "４－アセチル－N，N－ジエチル－７－メチル－４，６，６a，７，８，９－ヘキサヒドロインドロ[４，３－ｆｇ]キノリン－９－カルボキサミド及びその塩類",
+      "effective_date": "2020/02/28",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
   }
 }

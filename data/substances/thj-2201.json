@@ -1,0 +1,37 @@
+{
+  "id": "thj-2201",
+  "common_name": "THJ-2201",
+  "systematic name": "[1-(5-furuoropenchiru)-1H-i ndazo-ru-3-iru](nafutaren-1 -iru)metanon",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "91864533",
+    "inchi_key": "DULWRYKFTVFPTL-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "[１－（５－フルオロペンチル）－１Ｈ－インダゾール－３－イル]（ナフタレン－１－イル）メタノン及びその塩類",
+      "effective_date": "2014/08/15",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

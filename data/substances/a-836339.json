@@ -1,0 +1,37 @@
+{
+  "id": "a-836339",
+  "common_name": "A-836339",
+  "systematic name": "(Z)-N-[3-(2-methoxyechiru) -4,5-jimechiruchiazo-ru-2(3H) -iriden]-2,2,3,3-tetoramechi rushikuropuropankarubokisamido及びそ の salts",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "17754357",
+    "inchi_key": "JKGIMVBQKSRTGX-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "（Z）－N－［３－（２－メトキシエチル）－４，５－ジメチルチアゾール－2（３H）－イリデン］－２，２，３，３－テトラメチルシクロプロパンカルボキサミド及びその塩類",
+      "effective_date": "2014/03/06",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

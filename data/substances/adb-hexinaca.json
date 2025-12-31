@@ -1,0 +1,39 @@
+{
+  "id": "adb-hexinaca",
+  "common_name": "ADB-HEXINACA",
+  "systematic name": "N-(1-amineo-3,3-jimechiru-1 -okisobutan-2-iru)-1-heki shiru-1H-indazo-ru-3-karubo kisamido",
+  "aliases": [
+    "ADB-HINACA"
+  ],
+  "identifiers": {
+    "pubchem_cid": "162705326",
+    "inchi_key": "PZMLDAGKYPJWHJ-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "Ｎ－（１－アミノ－３，３－ジメチル－１－オキソブタン－２－イル）－１－ヘキシル－１Ｈ－インダゾール－３－カルボキサミド及びその塩類",
+      "effective_date": "2022/12/16",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

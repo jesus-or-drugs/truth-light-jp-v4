@@ -1,0 +1,37 @@
+{
+  "id": "isobutyrylfentanyl",
+  "common_name": "Isobutyrylfentanyl",
+  "systematic name": "N-(1-fenechirupiperijin-4-i ru)-N-phenylisobutylamido及び その salts",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "14402357",
+    "inchi_key": "WRPFPNIHTOSMKU-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "Ｎ－(1－フェネチルピペリジン－４－イル)－Ｎ－フェニルイソブチルアミド及びその塩類",
+      "effective_date": "2020/08/26",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

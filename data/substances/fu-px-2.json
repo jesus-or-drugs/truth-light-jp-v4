@@ -1,9 +1,37 @@
 {
   "id": "fu-px-2",
-  "name_ja": "FU-PX-2",
-  "name_en": "FU-PX-2",
-  "identifier": {
+  "common_name": "FU-PX-2",
+  "systematic name": "N-(1-amino-1-oxo-3-phenylpropan-2-yl)-1-(5-fluorobenzyl)indazole-3-carboxamide",
+  "aliases": [],
+  "identifiers": {
     "pubchem_cid": "",
-    "inchikey": ""
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "Ｎ－（１－アミノ－１－オキソ－３－フェニルプロパン－２－イル）－１－（４－フルオロベンジル）－１Ｈ－インダゾール－３－カルボキサミド及びその塩類",
+      "effective_date": "2015/08/19",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
   }
 }

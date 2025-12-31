@@ -1,0 +1,37 @@
+{
+  "id": "4-ethylmethcathinone",
+  "common_name": "4-Ethylmethcathinone",
+  "systematic name": "1-(4-echiruphenyl)-2-(mechiru amineo)puropan-1-on",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "71316576",
+    "inchi_key": "FUYPDKFWOHBUFT-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物(包括)",
+      "official_name": "１－（４－エチルフェニル）－２－（メチルアミノ）プロパン－１－オン及びその塩類",
+      "effective_date": "2012/12/17",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

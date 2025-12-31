@@ -1,0 +1,39 @@
+{
+  "id": "methylnaphthidate",
+  "common_name": "Methylnaphthidate",
+  "systematic name": "2-(nafutaren-2-iru)-2-(pi perijin-2-iru) acetatemechiruesute ru",
+  "aliases": [
+    "HDMP-28"
+  ],
+  "identifiers": {
+    "pubchem_cid": "9817261",
+    "inchi_key": "DNRNSIJBSCBESJ-IAGOWNOFSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "２－（ナフタレン－２－イル）－２－（ピペリジン－２－イル）酢酸メチルエステル及びその塩類",
+      "effective_date": "2015/11/25",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

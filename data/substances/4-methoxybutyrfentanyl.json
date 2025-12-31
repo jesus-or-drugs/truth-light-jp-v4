@@ -1,0 +1,41 @@
+{
+  "id": "4-methoxybutyrfentanyl",
+  "common_name": "4-Methoxybutyrfentanyl",
+  "systematic name": "N-(4-methoxyphenyl)-N-(1- fenechirupiperijin-4-iru)butan amido",
+  "aliases": [
+    "p-Methoxybutyrylfentanyl",
+    "4-MeO-BF",
+    "p-MeO-BF"
+  ],
+  "identifiers": {
+    "pubchem_cid": "118796493",
+    "inchi_key": "FNVSEQCPMXWQKG-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "Ｎ－（４－メトキシフェニル）－Ｎ－（１－フェネチルピペリジン－４－イル）ブタンアミド及びその塩類",
+      "effective_date": "2019/02/19",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

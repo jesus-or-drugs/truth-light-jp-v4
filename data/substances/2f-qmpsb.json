@@ -1,0 +1,37 @@
+{
+  "id": "2f-qmpsb",
+  "common_name": "2F-QMPSB",
+  "systematic name": "kinorin-8-iru=3-[(4,4-jifu ruoropiperijin-1-iru)suruhoni ru]-4-mechirubenzoa-to",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "155884739",
+    "inchi_key": "JOSWCKYCXJMLNM-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "キノリン－８－イル＝３－［（４，４－ジフルオロピペリジン－１－イル）スルホニル］－４－メチルベンゾア－ト及びその塩類",
+      "effective_date": "2021/10/21",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

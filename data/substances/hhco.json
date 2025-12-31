@@ -1,0 +1,40 @@
+{
+  "id": "hhco",
+  "common_name": "HHCO",
+  "systematic name": "6a,7,8,9,10,10a-hekisahidoro-6, 6,9-torimechiru-3-penchiru-6H-jibe nzo[b,d]piran-1-iru=asete-to及 びその salts",
+  "aliases": [
+    "HHC-O",
+    "HHC-O-acetate"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物(包括)",
+      "official_name": "６ａ，７，８，９，１０，１０ａ－ヘキサヒドロ－６，６，９－トリメチル－３－ペンチル－６Ｈ－ジベンゾ［ｂ，ｄ］ピラン－１－イル＝アセテート及びその塩類",
+      "effective_date": "2023/03/10",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

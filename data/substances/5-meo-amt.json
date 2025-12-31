@@ -1,0 +1,37 @@
+{
+  "id": "5-meo-amt",
+  "common_name": "5-MeO-AMT",
+  "systematic name": "1-(5-methoxy-1H-indo-ru- 3-iru)puropan-2-amine及びそ の salts",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "36906",
+    "inchi_key": "OGNJZVNNKBZFRM-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "１－（５－メトキシ－１Ｈ－インドール－\n３－イル）プロパン－２－アミン及びその塩類",
+      "effective_date": "2007/02/28",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

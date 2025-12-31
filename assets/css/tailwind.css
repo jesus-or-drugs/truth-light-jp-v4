@@ -4,7 +4,9 @@
 
 @layer base {
   html, body {
-    @apply bg-teal-50;
+    @apply bg-slate-50;
     @apply text-slate-900;
   }
 }
+
+html, body, #__nuxt { height: 100%; }

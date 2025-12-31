@@ -1,0 +1,37 @@
+{
+  "id": "cumyl-5f-p7aica",
+  "common_name": "CUMYL-5F-P7AICA",
+  "systematic name": "1-(5-furuoropenchiru)-N-(2 -phenylpuropan-2-iru)-1H -piroro[2,3-b]pirijin-3-karu bokisamido",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "129532613",
+    "inchi_key": "MXJYOUMYJGNQEY-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "１－（５－フルオロペンチル）－Ｎ－（２－フェニルプロパン－２－イル）－１Ｈ－ピロロ［２，３－ｂ］ピリジン－３－カルボキサミド及びその塩類",
+      "effective_date": "2016/02/10",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

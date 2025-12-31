@@ -1,0 +1,37 @@
+{
+  "id": "25e-nbome",
+  "common_name": "25E-NBOMe",
+  "systematic name": "2-(4-echiru-2,5-jimethoxyfe niru)-N-(2-methoxybenzylu)e tanamine",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "118796522",
+    "inchi_key": "PXDVGFGXPVCNAB-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "２－（４－エチル－２，５－ジメトキシフェニル）－Ｎ－（２－メトキシベンジル）エタンアミン及びその塩類",
+      "effective_date": "2015/05/22",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

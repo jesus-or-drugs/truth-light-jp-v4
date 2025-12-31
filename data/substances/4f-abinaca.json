@@ -1,9 +1,37 @@
 {
   "id": "4f-abinaca",
-  "name_ja": "4F-ABINACA",
-  "name_en": "4F-ABINACA",
-  "identifier": {
-    "pubchem_cid": "",
-    "inchikey": ""
+  "common_name": "4F-ABINACA",
+  "systematic name": "N-(1-Adamantyl)-1-(4-fuluoropentyl)indazole-3-carboxyamide",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "118796478",
+    "inchi_key": "CBDPDVXPZYOIRM-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "Ｎ－（１－アダマンチル）－１－（４―フルオロブチル）－１Ｈ－インダゾ－ル－３－カルボキサミド及びその塩類",
+      "effective_date": "2023/06/21",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
   }
 }

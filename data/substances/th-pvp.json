@@ -1,0 +1,37 @@
+{
+  "id": "th-pvp",
+  "common_name": "TH-PVP",
+  "systematic name": "2-(pirorijin-1-iru)-1-(5, 6,7,8-tetrahydronafutaren-2- iru)pentan-1-on",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "132989549",
+    "inchi_key": "MMIKQWIZKBYLKZ-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "２－（ピロリジン－１－イル）－１－（５，\n６，７，８－テトラヒドロナフタレン－２－イル）ペンタン－１－オン及びその塩類",
+      "effective_date": "2015/12/15",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

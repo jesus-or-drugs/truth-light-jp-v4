@@ -1,0 +1,41 @@
+{
+  "id": "3-ho-pcp",
+  "common_name": "3-HO-PCP",
+  "systematic name": "3-[1-(piperijin-1-iru)shikuro hekishiru]feno-ru",
+  "aliases": [
+    "3-OH-PCP",
+    "3-hydroxy-PCP",
+    "PCP-3-OH"
+  ],
+  "identifiers": {
+    "pubchem_cid": "133277",
+    "inchi_key": "AMSXTZUCNOKUEN-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "３－［１－（ピペリジン－１－イル）シクロヘキシル］フェノール及びその塩類",
+      "effective_date": "2018/12/19",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "5f-nne1",
+  "common_name": "5F-NNE1",
+  "systematic name": "N-(nafutaren-1-iru)-1-(5- furuoropenchiru)-1H-indo-ru -3-karubokisamido",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "118796566",
+    "inchi_key": "DJKVOBZLMBHFKX-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "Ｎ－（ナフタレン－１－イル）－１－（５－フルオロペンチル）－１Ｈ－インドール－３－カルボキサミド及びその塩類",
+      "effective_date": "2013/10/21",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

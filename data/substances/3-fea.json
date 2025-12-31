@@ -1,0 +1,39 @@
+{
+  "id": "3-fea",
+  "common_name": "3-FEA",
+  "systematic name": "N-echiru-1-(3-furuorofeni ru)puropan-2-amine",
+  "aliases": [
+    "3-fluoroethamphetamine"
+  ],
+  "identifiers": {
+    "pubchem_cid": "57458869",
+    "inchi_key": "CKPWHLGHHXSVJI-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "N－エチル－１－（３－フルオロフェニル）プロパン－２－アミン及びその塩類",
+      "effective_date": "2018/11/14",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

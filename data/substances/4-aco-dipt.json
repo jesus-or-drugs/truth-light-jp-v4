@@ -1,8 +1,37 @@
 {
   "id": "4-aco-dipt",
-  "name_ja": "4-AcO-DIPT",
-  "name_en": "4-AcO-DIPT",
-  "identifier": {
-    "pubchem_cid": 24801868
+  "common_name": "4-AcO-DIPT",
+  "systematic name": "[3-[2-[di(propan-2-yl)amino]ethyl]-1H-indol-4-yl] acetate",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "24801868",
+    "inchi_key": "ZPAOVGZYDSXCPK-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "４－アセトキシ－Ｎ，Ｎ－ジイソプロピルトリプタミン及びその塩類",
+      "effective_date": "2007/02/28",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
   }
 }

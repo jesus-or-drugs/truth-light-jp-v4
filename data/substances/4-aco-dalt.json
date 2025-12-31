@@ -1,8 +1,37 @@
 {
   "id": "4-aco-dalt",
-  "name_ja": "4-AcO-DALT",
-  "name_en": "4-AcO-DALT",
-  "identifier": {
-    "pubchem_cid": 119025857
+  "common_name": "4-AcO-DALT",
+  "systematic name": "[3-[2-[bis(prop-2-enyl)amino]ethyl]-1H-indol-4-yl] acetate",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "119025857",
+    "inchi_key": "WRHFDIBXZYYCHO-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "４－アセトキシ－Ｎ，Ｎ－ジアリルトリプタミン及びその塩類",
+      "effective_date": "2015/07/29",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
   }
 }

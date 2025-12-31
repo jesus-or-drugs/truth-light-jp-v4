@@ -21,7 +21,7 @@
     <section class="flex flex-col w-auto items-center justify-center mb-12 py-6">
       <h2 class="mb-6 text-3xl font-bold"
       style="font-family: 'Avenir', 'Avenir Next', 'Segoe UI', 'Helvetica Neue', 'Arial', 'sans-serif';"
-      >Vision</h2>
+      >Value</h2>
       <p class="text-lg">神学的</p>
       <p class="text-lg">哲学的</p>
       <p class="text-lg">社会学的</p>

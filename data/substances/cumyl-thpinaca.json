@@ -1,0 +1,37 @@
+{
+  "id": "cumyl-thpinaca",
+  "common_name": "CUMYL-THPINACA",
+  "systematic name": "N-(2-phenylpuropan-2-iru) -1-[(tetrahydro-2H-piran-4 -iru)mechiru]-1H-indazo-ru- 3-karubokisamido",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "86273679",
+    "inchi_key": "HINCNLQQLQFMRD-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "Ｎ－（２－フェニルプロパン－２－イル）－１－［（テトラヒドロ－２Ｈ－ピラン－４－イル）メチル］－１Ｈ－インダゾール－３－カルボキサミド及びその塩類",
+      "effective_date": "2016/03/09",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

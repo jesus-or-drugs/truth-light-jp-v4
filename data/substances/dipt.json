@@ -1,0 +1,37 @@
+{
+  "id": "dipt",
+  "common_name": "DIPT",
+  "systematic name": "N,N-jiisopropyltoriputamine及び その salts",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "26903",
+    "inchi_key": "ZRVAAGAZUWXRIP-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "Ｎ，Ｎ－ジイソプロピルトリプタミン及びその塩類",
+      "effective_date": "2007/02/28",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

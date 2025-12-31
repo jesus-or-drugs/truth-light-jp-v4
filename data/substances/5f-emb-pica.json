@@ -1,0 +1,39 @@
+{
+  "id": "5f-emb-pica",
+  "common_name": "5F-EMB-PICA",
+  "systematic name": "echiru=2-[1-(5-furuoropenchi ru) -1H-indo-ru-3-karuboki samido]-3-mechirubutanoa-to及びそ の salts",
+  "aliases": [
+    "EMB-2201"
+  ],
+  "identifiers": {
+    "pubchem_cid": "155907803",
+    "inchi_key": "WPRKGJGOLPGBMG-IBGZPJMESA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "エチル＝２－［１－(５－フルオロペンチル) －１H－インドール－３－カルボキサミド］－３－メチルブタノアート及びその塩類",
+      "effective_date": "2021/08/25",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

@@ -1,8 +1,37 @@
 {
   "id": "am1248",
-  "name_ja": "AM1248",
-  "name_en": "AM1248",
-  "identifier": {
-    "pubchem_cid": 10293794
+  "common_name": "AM1248",
+  "systematic name": "1-adamantyl-[1-[(1-methylpiperidin-2-yl)methyl]indol-3-yl]methanone",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "10293794",
+    "inchi_key": "JRECAXBHMULNJQ-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "１－アダマンチル｛１－［（１－メチルピペリジン－２－イル）メチル］－１Ｈ－インドール－３－イル｝メタノン及びその塩類",
+      "effective_date": "2013/04/30",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
   }
 }

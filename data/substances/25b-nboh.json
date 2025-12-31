@@ -1,0 +1,40 @@
+{
+  "id": "25b-nboh",
+  "common_name": "25B-NBOH",
+  "systematic name": "2-[(4-buromo-2,5-jimethoxy fenechiruamineo)mechiru]feno-ru及 びその salts",
+  "aliases": [
+    "2C-B-NBOH",
+    "NBOH-2C-B"
+  ],
+  "identifiers": {
+    "pubchem_cid": "125181394",
+    "inchi_key": "RSUNJYKZRKIBNB-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "２－［（４－ブロモ－２，５－ジメトキシフェネチルアミノ）メチル］フェノール及びその塩類",
+      "effective_date": "2017/12/19",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

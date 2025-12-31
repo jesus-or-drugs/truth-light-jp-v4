@@ -1,0 +1,37 @@
+{
+  "id": "5-meo-dpt",
+  "common_name": "5-MeO-DPT",
+  "systematic name": "5-methoxy-N,N-jipuropirutoripu tamine",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "14011047",
+    "inchi_key": "PNHPVNBKLQWBKH-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "５－メトキシ－Ｎ，Ｎ－ジプロピルトリプタミン及びその塩類",
+      "effective_date": "2007/02/28",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

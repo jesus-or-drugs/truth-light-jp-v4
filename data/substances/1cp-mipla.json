@@ -1,0 +1,37 @@
+{
+  "id": "1cp-mipla",
+  "common_name": "1cP-MiPLA",
+  "systematic name": "4-(shikuropuropirukaruboniru)-N- mechiru-N-(puropan-2-iru)-7 -mechiru-4,6,6a,7,8,9-heki sahidoroindoro[4,3-fg]kinorin- 9-karubokisamido",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "170763684",
+    "inchi_key": "DBIYDHUGEKMIHZ-DYESRHJHSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "４－（シクロプロピルカルボニル）－Ｎ－メチル－Ｎ－（プロパン－２－イル）－７－メチル－４，６，６ａ，７，８，９－ヘキサヒドロインドロ［４，３－ｆｇ］キノリン－９－カルボキサミド及びその塩類",
+      "effective_date": "2025/01/27",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

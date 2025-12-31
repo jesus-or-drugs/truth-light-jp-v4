@@ -1,0 +1,39 @@
+{
+  "id": "mn-18",
+  "common_name": "MN-18",
+  "systematic name": "N-(nafutaren-1-iru)-1-pen chiru-1H-indazo-ru-3-karubo kisamido",
+  "aliases": [
+    "MN-18"
+  ],
+  "identifiers": {
+    "pubchem_cid": "119058030",
+    "inchi_key": "UJKHLVOEXULDRU-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "N－（ナフタレン－１－イル）－１－ペンチル－１Ｈ－インダゾール－３－カルボキサミド及びその塩類",
+      "effective_date": "2014/03/06",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

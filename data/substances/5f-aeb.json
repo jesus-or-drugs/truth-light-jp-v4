@@ -1,0 +1,37 @@
+{
+  "id": "5f-aeb",
+  "common_name": "5F-AEB",
+  "systematic name": "echiru=2-[1-(5-furuoropenchi ru)-1H-indazo-ru-3-karubo kisamido]-3-mechirubutanoa-to及び その salts",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "125181449",
+    "inchi_key": "YWSYUMWEKPNAHT-KRWDZBQOSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "エチル＝２－［１－（５－フルオロペンチル）－１Ｈ－インダゾール－３－カルボキサミド］－３－メチルブタノアート及びその塩類",
+      "effective_date": "2016/06/22",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

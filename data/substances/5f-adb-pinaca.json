@@ -1,0 +1,37 @@
+{
+  "id": "5f-adb-pinaca",
+  "common_name": "5F-ADB-PINACA",
+  "systematic name": "N-[1-amino-3,3-dimethyl-1-oxobutan-2-yl]-1-(5-fluoropentyl)indazole-3-carboxamide",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "119026135",
+    "inchi_key": "SOYDDJYBRCNNIT-MRXNPFEDSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "Ｎ－（１－アミノ－３，３－ジメチル－１－オキソブタン－２－イル）－１－（５－フルオロペンチル）－１Ｈ－インダゾール－３－カルボキサミド及びその塩類",
+      "effective_date": "2014/11/18",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

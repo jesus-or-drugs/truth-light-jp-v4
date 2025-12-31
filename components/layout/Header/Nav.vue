@@ -12,6 +12,11 @@
 
 <script setup lang="ts">
 const appConfig = useAppConfig()
+const props = defineProps<{
+  variant?: "default" | "substances" | "legal",
+}>()
 
 const nav = appConfig.truthlight?.header?.nav ?? {}
+
+
 </script>

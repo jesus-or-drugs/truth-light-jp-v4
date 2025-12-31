@@ -1,0 +1,39 @@
+{
+  "id": "4f-mdmb-bica",
+  "common_name": "4F-MDMB-BICA",
+  "systematic name": "mechiru=2-[1-(4-furuorobuchi ru)-1H-indo-ru-3-karuboki samido]-3,3-jimechirubutanoa-to及 びその salts",
+  "aliases": [
+    "4F-MDMB-BUTICA"
+  ],
+  "identifiers": {
+    "pubchem_cid": "157010663",
+    "inchi_key": "QIKHYQCWGUGFBB-QGZVFWFLSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "メチル＝２－［１－（４－フルオロブチ ル）－１H－インドール－３－カルボキサミド］－３，３－ジメチルブタノア－ト及びその塩類",
+      "effective_date": "2021/06/17",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

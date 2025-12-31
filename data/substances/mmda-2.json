@@ -1,0 +1,37 @@
+{
+  "id": "mmda-2",
+  "common_name": "MMDA-2",
+  "systematic name": "1-(2-methoxy-4,5-mechirenjio kishiphenyl)puropan-2-amine及 びその salts",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "90966",
+    "inchi_key": "GPVJAXJRAZVITB-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "１－（２－メトキシ－４，５－メチレンジオキシフェニル）プロパン－２－アミン及びその塩類",
+      "effective_date": "2007/02/28",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "buphedrone",
+  "common_name": "Buphedrone",
+  "systematic name": "2-(mechiruamineo)-1-phenylbutan- 1-on",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "53249194",
+    "inchi_key": "DDPMGIMJSRUULN-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物(包括)",
+      "official_name": "2－（メチルアミノ）－1－フェニルブタン－1－オン及びその塩類",
+      "effective_date": "2012/10/17",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

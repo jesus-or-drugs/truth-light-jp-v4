@@ -1,0 +1,39 @@
+{
+  "id": "3-me-pcpy",
+  "common_name": "3-Me-PCPy",
+  "systematic name": "1-[1-(3-mechiruphenyl)shikurohe kishiru]pirorijin",
+  "aliases": [
+    "3-Methyl rolicyclidine"
+  ],
+  "identifiers": {
+    "pubchem_cid": "137332188",
+    "inchi_key": "JZVMREFYFTZXGN-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "１－［１－（３－メチルフェニル）シクロヘキシル］ピロリジン及びその塩類",
+      "effective_date": "2023/03/10",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

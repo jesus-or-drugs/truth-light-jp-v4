@@ -1,0 +1,39 @@
+{
+  "id": "5f-cumyl-pegaclone",
+  "common_name": "5F-CUMYL-PEGACLONE",
+  "systematic name": "5-(5-furuoropenchiru)-2-(2 -phenylpuropan-2-iru)-2,5 -jihidoro-1H-pirido[4,3-b]in do-ru-1-on",
+  "aliases": [
+    "5FーSGT-151"
+  ],
+  "identifiers": {
+    "pubchem_cid": "134818048",
+    "inchi_key": "SMRRORRDOWXERZ-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "５－（５－フルオロペンチル）－２－（２－フェニルプロパン－２－イル）－２，５－ジヒドロ－１H－ピリド［４，３－ｂ］インドール－１－オン及びその塩類",
+      "effective_date": "-",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "4-eapb",
+  "common_name": "4-EAPB",
+  "systematic name": "1-(benzofuran-4-iru)-N-e chirupuropan-2-amine 類",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "137699817",
+    "inchi_key": "MRILILMKQADCNG-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "１－（ベンゾフラン－４－イル）－Ｎ－エチルプロパン－２－アミン及びその塩類",
+      "effective_date": "-",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

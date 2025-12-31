@@ -1,0 +1,37 @@
+{
+  "id": "ortho-methylfentanyl_o-methylfentanyl",
+  "common_name": "ortho-Methylfentanyl o-Methylfentanyl",
+  "systematic name": "N-(2-mechiruphenyl)-N-(1- fenechirupiperijin-4-iru)puro panamido",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "Ｎ－（２－メチルフェニル）－Ｎ－（１－フェネチルピペリジン－４－イル）プロパンアミド",
+      "effective_date": "2025/10/29",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

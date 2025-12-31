@@ -1,0 +1,37 @@
+{
+  "id": "3-ho-pce",
+  "common_name": "3-HO-PCE",
+  "systematic name": "3-[1-(echiruamineo)shikurohekishi ru]feno-ru",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "137332171",
+    "inchi_key": "MIKNPNLBFHVMKK-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "３－［１－（エチルアミノ）シクロヘキシル］フェノール及びその塩類",
+      "effective_date": "-",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4f-4-mar",
+  "common_name": "4F-4-MAR",
+  "systematic name": "5-(4-furuorophenyl)-4-mechi ru-4,5-jihidorookisazo-ru-2 -amine",
+  "aliases": [
+    "4-fluoro-4-Methylaminorex",
+    "4-FPO",
+    "4F-MAR"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "５－（４－フルオロフェニル）－４－メチル－４，５－ジヒドロオキサゾール－２－アミン及びその塩類",
+      "effective_date": "2025/08/29",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

@@ -1,8 +1,39 @@
 {
   "id": "apica",
-  "name_ja": "APICA",
-  "name_en": "APICA",
-  "identifier": {
-    "pubchem_cid": 71308155
+  "common_name": "APICA",
+  "systematic name": "N-(1-adamantyl)-1-pentylindole-3-carboxamide",
+  "aliases": [
+    "2NE1"
+  ],
+  "identifiers": {
+    "pubchem_cid": "71308155",
+    "inchi_key": "MDJYHWLDDJBTMX-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "Ｎ－（１－アダマンチル）－１－ペンチル－１Ｈ－インドール－３－カルボキサミド及びその塩類",
+      "effective_date": "2012/06/01",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
   }
 }

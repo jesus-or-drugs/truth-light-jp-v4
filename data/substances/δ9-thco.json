@@ -1,0 +1,41 @@
+{
+  "id": "δ9-thco",
+  "common_name": "Δ9-THCO",
+  "systematic name": "6a,7,8,10a-tetrahydro-6,6,9-to rimechiru-3-penchiru-6H-jibenzo[b, d]piran-1-iru=asete-to 類",
+  "aliases": [
+    "THC-O",
+    "THCO",
+    "THC-O-acetate"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物(包括)",
+      "official_name": "６ａ，７，８，１０ａ－テトラヒドロ－６，６，９－トリメチル－３－ペンチル－６Ｈ－ジベンゾ［ｂ， ｄ］ピン－１－イル＝アセテート及びその塩類",
+      "effective_date": "-",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

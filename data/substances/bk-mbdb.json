@@ -1,0 +1,39 @@
+{
+  "id": "bk-mbdb",
+  "common_name": "bk-MBDB",
+  "systematic name": "2-mechiruamineo-1-(3,4-mechirenji okishiphenyl)butan-1-on及びそ の salts",
+  "aliases": [
+    "Butylone"
+  ],
+  "identifiers": {
+    "pubchem_cid": "56843046",
+    "inchi_key": "CGKQZIULZRXRRJ-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物(包括)",
+      "official_name": "２－メチルアミノ－１－（３，４－メチレンジオキシフェニル）ブタン－１－オン及びその塩類",
+      "effective_date": "2007/12/12",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

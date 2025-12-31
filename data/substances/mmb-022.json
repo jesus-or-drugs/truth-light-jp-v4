@@ -1,0 +1,40 @@
+{
+  "id": "mmb-022",
+  "common_name": "MMB-022",
+  "systematic name": "mechiru=3-mechiru-2-[1-(penta -4-en-1-iru)-1H-indo- ru-3-karubokisamido]butanoa-to及 びその salts",
+  "aliases": [
+    "AMB-4en-PICA",
+    "MMB-4en-PICA"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "メチル＝３－メチル－２－［１－（ペンタ－４－エン－１－イル）－１Ｈ－インドール－３－カルボキサミド］ブタノアート及びその塩類",
+      "effective_date": "2021/01/22",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

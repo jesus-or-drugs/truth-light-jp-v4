@@ -1,0 +1,37 @@
+{
+  "id": "adb-binaca",
+  "common_name": "ADB-BINACA",
+  "systematic name": "N-(1-amineo-3,3-jimechiru-1 -okisobutan-2-iru)-1-ben jiru-1H-indazo-ru-3-karubo kisamido",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "129406620",
+    "inchi_key": "IUFIUAWRCUVUCQ-GOSISDBHSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "Ｎ－（１－アミノ－３，３－ジメチル－１－オキソブタン－２－イル）－１－ベンジル－１Ｈ－インダゾール－３－カルボキサミド及びその塩類",
+      "effective_date": "2023/08/31",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mdpbp",
+  "common_name": "MDPBP",
+  "systematic name": "1-(3, 4-mechirenjiokishiphenyl)- 2-(pirorijin-1-iru)butan-1- on",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "71300672",
+    "inchi_key": "OLVLMDVPMCIBQW-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物(包括)",
+      "official_name": "１－（３, ４－メチレンジオキシフェニル）－２－（ピロリジン－１－イル）ブタン－１－オン及びその塩類",
+      "effective_date": "2012/10/17",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

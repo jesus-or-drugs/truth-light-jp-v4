@@ -1,0 +1,39 @@
+{
+  "id": "7-hydroxymitragynine",
+  "common_name": "7-Hydroxymitragynine",
+  "systematic name": "(E)-mechiru=2-[(2S,3S,7aS, 12bS)-3-echiru-7a-hidorokishi -8-methoxy-1,2,3,4,6,7,7 a,12b-okutahidoroindoro[2,3- a]kinorijin-2-iru]-3-methoxy akurira-to",
+  "aliases": [
+    "7a-Hydroxy-7H-mitragynine"
+  ],
+  "identifiers": {
+    "pubchem_cid": "44301524",
+    "inchi_key": "RYENLSMHLCNXJT-CYXFISRXSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "（Ｅ）－メチル＝２－［（２Ｓ，３Ｓ，７ａＳ，１２ｂＳ）－３－エチル－７ａ－ヒドロキシ－８－メトキシ－１，２，３，４，６，７，７ ａ，１２ｂ－オクタヒドロインドロ［２，３－ ａ］キノリジン－２－イル］－３－メトキシアクリラート及びその塩類",
+      "effective_date": "2016/03/09",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

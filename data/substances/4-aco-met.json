@@ -1,8 +1,37 @@
 {
   "id": "4-aco-met",
-  "name_ja": "4-AcO-MET",
-  "name_en": "4-AcO-MET",
-  "identifier": {
-    "pubchem_cid": 71308138
+  "common_name": "4-AcO-MET",
+  "systematic name": "[3-[2-[ethyl(methyl)amino]ethyl]-1H-indol-4-yl] acetate",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "71308138",
+    "inchi_key": "OMDKHOOGGJRLLX-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "４－アセトキシ－Ｎ－エチル－Ｎ－メチルトリプタミン及びその塩類",
+      "effective_date": "2015/07/29",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
   }
 }

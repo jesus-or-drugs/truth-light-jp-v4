@@ -1,0 +1,39 @@
+{
+  "id": "デスエチルピロバレロン",
+  "common_name": "デスエチルピロバレロン",
+  "systematic name": "1-(4-mechiruphenyl)-2-(piroriji n-1-iru)puropan-1-on及びそ の salts",
+  "aliases": [
+    "4-MePPP"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物(包括)",
+      "official_name": "１－（４－メチルフェニル）－２－（ピロリジン－１－イル）プロパン－１－オン及びその塩類",
+      "effective_date": "2012/10/17",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

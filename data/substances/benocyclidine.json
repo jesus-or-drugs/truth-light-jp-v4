@@ -1,0 +1,39 @@
+{
+  "id": "benocyclidine",
+  "common_name": "Benocyclidine",
+  "systematic name": "1-[1-(benzo[b]chiofen-2- iru)cyclohexyl]piperijin及びそ の salts",
+  "aliases": [
+    "BTCP"
+  ],
+  "identifiers": {
+    "pubchem_cid": "123692",
+    "inchi_key": "RGSVXQJPSWZXOP-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "１－［１－（ベンゾ［ｂ］チオフェン－２－ イル）シクロヘキシル］ピペリジン及びその塩類",
+      "effective_date": "2021/10/21",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

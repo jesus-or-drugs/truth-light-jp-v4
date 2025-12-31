@@ -1,0 +1,37 @@
+{
+  "id": "4-methyl-n-methylbuphedrone",
+  "common_name": "4-Methyl-N-methylbuphedrone",
+  "systematic name": "2-(jimechiruamineo)-1-(4-mechiru phenyl)butan-1-on",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "91698929",
+    "inchi_key": "UKVFBTRCNFUOFU-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物(包括)",
+      "official_name": "２－（ジメチルアミノ）－１－（４－メチル フェニル）ブタン－１－オン及びその塩類",
+      "effective_date": "2013/04/30",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

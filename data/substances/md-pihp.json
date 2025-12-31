@@ -1,0 +1,39 @@
+{
+  "id": "md-pihp",
+  "common_name": "MD-PiHP",
+  "systematic name": "4-mechiru-1-(3,4-mechirenjio kishiphenyl)-2-(pirorijin-1- iru)pentan-1-on",
+  "aliases": [
+    "MD-PHiP"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "４－メチル－１－（３，４－メチレンジオキシフェニル）－２－（ピロリジン－１－イル）ペンタン－１－オン及びその塩類",
+      "effective_date": "2024/11/06",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

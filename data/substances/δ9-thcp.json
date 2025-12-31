@@ -1,0 +1,39 @@
+{
+  "id": "δ9-thcp",
+  "common_name": "Δ9-THCP",
+  "systematic name": "3-hepuchiru-6a,7,8,10a-tetrahydro -6,6,9-torimechiru-6H-jibenzo[b, d]piran-1-o-ru",
+  "aliases": [
+    "THC-Heptyl"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物(包括)",
+      "official_name": "３－ヘプチル－６ａ，７，８，１０ａ－テトラヒドロ－６，６，９－トリメチル－６Ｈ－ジベンゾ［ｂ， ｄ］ピラン－１－オール及びその塩類",
+      "effective_date": "2022/03/07",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

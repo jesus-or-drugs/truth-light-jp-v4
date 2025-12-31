@@ -1,0 +1,39 @@
+{
+  "id": "fxe",
+  "common_name": "FXE",
+  "systematic name": "2-(echiruamineo)-2-(3-furuoro phenyl)shikurohekisanon 類",
+  "aliases": [
+    "Fluorexetamine"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "２－（エチルアミノ）－２－（３－フルオロフェニル）シクロヘキサノン及びその塩類",
+      "effective_date": "2023/08/31",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

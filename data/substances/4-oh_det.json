@@ -1,0 +1,37 @@
+{
+  "id": "4-oh_det",
+  "common_name": "4-OH DET",
+  "systematic name": "N,N-jiechiru-4-hidorokishitoripu tamine",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "Ｎ，Ｎ－ジエチル－４－ヒドロキシトリプタミン及びその塩類",
+      "effective_date": "2013/04/30",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

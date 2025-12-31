@@ -1,0 +1,37 @@
+{
+  "id": "cumyl-cbmica",
+  "common_name": "CUMYL-CBMICA",
+  "systematic name": "1-(shikurobuchirumechiru)-N-(2- phenylpuropan-2-iru)-1H-i ndo-ru-3-karubokisamido",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "155884426",
+    "inchi_key": "INXXQNIOWMOYEJ-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "1－（シクロブチルメチル）－N－（２－ フェニルプロパン－２－イル）－１H－インドール－3－カルボキサミド及びその塩類",
+      "effective_date": "2022/06/28",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

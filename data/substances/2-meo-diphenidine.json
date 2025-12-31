@@ -1,0 +1,39 @@
+{
+  "id": "2-meo-diphenidine",
+  "common_name": "2-MeO-diphenidine",
+  "systematic name": "1-[1-(2-methoxyphenyl)-2- phenylechiru]piperijin 類",
+  "aliases": [
+    "Methoxphenidine"
+  ],
+  "identifiers": {
+    "pubchem_cid": "67833251",
+    "inchi_key": "QXXCUXIRBHSITD-UHFFFAOYSA-N",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "１－［１－（２－メトキシフェニル）－２－フェニルエチル］ピペリジン及びその塩類",
+      "effective_date": "2014/09/19",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}
