@@ -21,7 +21,7 @@
       class="w-full relative flex flex-row justify-between items-center gap-2 px-4 md:px-6 my-auto"
     >
       <div class="w-full shrink-0"><LayoutHeaderLogo :subtitle="subtitle" :variant="props.variant" /></div>
-      <div><LayoutHeaderNav :variant="props.variant" /></div>
+      <!-- <div><LayoutHeaderNav :variant="props.variant" /></div> -->
       <div><LayoutHeaderToc /></div>
     </div>
   </header>

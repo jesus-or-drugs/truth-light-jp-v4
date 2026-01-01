@@ -1,12 +1,33 @@
 {
   "id": "thj-2201",
   "common_name": "THJ-2201",
-  "systematic name": "[1-(5-furuoropenchiru)-1H-i ndazo-ru-3-iru](nafutaren-1 -iru)metanon",
-  "aliases": [],
+  "systematic name": "[1-(5-fluoropentyl)indazol-3-yl]-naphthalen-1-ylmethanone",
+  "aliases": [
+    "THJ-2201",
+    "D7P051IW0T",
+    "J3.314.549G",
+    "DTXSID901010029",
+    "RefChem:897991",
+    "DTXCID801436446",
+    "THJ 2201",
+    "UNII-D7P051IW0T",
+    "(1-(5-Fluoropentyl)-1H-indazol-3-yl)(naphthalen-1-yl)methanone",
+    "AM-2201 Indazole",
+    "THJ2201",
+    "[1-(5-fluoropentyl)indazol-3-yl]-naphthalen-1-ylmethanone",
+    "DEA No. 7024",
+    "[1-(5-Fluoropentyl)-1H-indazol-3-yl](naphthalen-1-yl)methanone",
+    "SCHEMBL29019206",
+    "NS00017912",
+    "Q21098896",
+    "THJ-2201 (1-[(5-Fluoropentyl)-1H-indazol-3-yl](naphthalen-1-yl)methanone)"
+  ],
   "identifiers": {
     "pubchem_cid": "91864533",
     "inchi_key": "DULWRYKFTVFPTL-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "DULWRYKFTVFPTL-UHFFFAOYSA-N",
+    "pubchemCID": "91864533"
   },
   "categories": [],
   "legal": {
@@ -33,5 +54,36 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/91864533"
+  ],
+  "molecular_formula": "C23H21FN2O",
+  "molecular_weight": "360.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "[1-(5-fluoropentyl)indazol-3-yl]-naphthalen-1-ylmethanone",
+  "synonyms_pubchem": [
+    "THJ-2201",
+    "1801552-01-1",
+    "D7P051IW0T",
+    "J3.314.549G",
+    "DTXSID901010029",
+    "RefChem:897991",
+    "DTXCID801436446",
+    "THJ 2201",
+    "UNII-D7P051IW0T",
+    "(1-(5-Fluoropentyl)-1H-indazol-3-yl)(naphthalen-1-yl)methanone",
+    "AM-2201 Indazole",
+    "THJ2201",
+    "[1-(5-fluoropentyl)indazol-3-yl]-naphthalen-1-ylmethanone",
+    "DEA No. 7024",
+    "[1-(5-Fluoropentyl)-1H-indazol-3-yl](naphthalen-1-yl)methanone",
+    "SCHEMBL29019206",
+    "NS00017912",
+    "Q21098896",
+    "THJ-2201 (1-[(5-Fluoropentyl)-1H-indazol-3-yl](naphthalen-1-yl)methanone)",
+    "THJ-2201 (1-[(5-Fluoropentyl)-1H-indazol-3-yl](naphthalen-1-yl)methanone) 0.1 mg/ml in Acetonitrile",
+    "THJ-2201 (1-[(5-Fluoropentyl)-1H-indazol-3-yl](naphthalen-1-yl)methanone) 1.0 mg/ml in Acetonitrile"
+  ]
 }

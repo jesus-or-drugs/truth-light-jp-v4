@@ -1,14 +1,26 @@
 {
   "id": "mexedrone",
   "common_name": "Mexedrone",
-  "systematic name": "3-methoxy-2-(mechiruamineo)-1- (4-mechiruphenyl)puropan-1-o n",
+  "systematic name": "3-methoxy-2-(methylamino)-1-(4-methylphenyl)propan-1-one",
   "aliases": [
-    "4-MMC-OMe"
+    "Mexedrone",
+    "2AFZ6G3X7J",
+    "3-methoxy-2-(methylamino)-1-(4-methylphenyl)propan-1-one",
+    "DTXSID401032903",
+    "RefChem:158431",
+    "DTXCID201517931",
+    "UNII-2AFZ6G3X7J",
+    "3-Methoxy-2-(methylamino)-1-(4-methylphenyl)-1-propanone",
+    "1-Propanone, 3-methoxy-2-(methylamino)-1-(4-methylphenyl)-",
+    "Mexedrone (hydrochloride)",
+    "RLD91502"
   ],
   "identifiers": {
     "pubchem_cid": "129318262",
     "inchi_key": "JHGDCSPZKQLBOP-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "JHGDCSPZKQLBOP-UHFFFAOYSA-N",
+    "pubchemCID": "129318262"
   },
   "categories": [],
   "legal": {
@@ -35,5 +47,27 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/129318262"
+  ],
+  "molecular_formula": "C12H17NO2",
+  "molecular_weight": "207.27",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "3-methoxy-2-(methylamino)-1-(4-methylphenyl)propan-1-one",
+  "synonyms_pubchem": [
+    "Mexedrone",
+    "2AFZ6G3X7J",
+    "3-methoxy-2-(methylamino)-1-(4-methylphenyl)propan-1-one",
+    "2166915-02-0",
+    "DTXSID401032903",
+    "RefChem:158431",
+    "DTXCID201517931",
+    "UNII-2AFZ6G3X7J",
+    "3-Methoxy-2-(methylamino)-1-(4-methylphenyl)-1-propanone",
+    "1-Propanone, 3-methoxy-2-(methylamino)-1-(4-methylphenyl)-",
+    "Mexedrone (hydrochloride)",
+    "RLD91502"
+  ]
 }

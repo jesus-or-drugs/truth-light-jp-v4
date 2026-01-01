@@ -1,12 +1,40 @@
 {
   "id": "5-apb",
   "common_name": "5-APB",
-  "systematic name": "1-(benzofuran-5-iru)puropan -2-amine",
-  "aliases": [],
+  "systematic name": "1-(1-benzofuran-5-yl)propan-2-amine",
+  "aliases": [
+    "5-(2-Aminopropyl)benzofuran",
+    "5-APB",
+    "1-(Benzofuran-5-yl)propan-2-amine",
+    "5-Benzofuranethanamine, alpha-methyl-",
+    "alpha-Methyl-5-benzofuranethanamine",
+    "2M3825704H",
+    "DTXSID101010106",
+    "RefChem:101585",
+    "DTXCID401436525",
+    "6U6P4JU5L2",
+    "UNII-2M3825704H",
+    "1-(1-benzofuran-5-yl)propan-2-amine",
+    "orb2815527",
+    "SCHEMBL5988009",
+    "SCHEMBL29528156",
+    "CHEBI:190864",
+    "1-(benzofur-5-yl)-2-aminopropane",
+    "1-(1-benzouran-5-yl)propan-2-amine",
+    "AKOS006291449",
+    "PD048193",
+    "DB-132072",
+    ".ALPHA.-METHYL-5-BENZOFURANETHANAMINE",
+    "NS00017330",
+    "5-BENZOFURANETHANAMINE, .ALPHA.-METHYL-",
+    "Q4639569"
+  ],
   "identifiers": {
     "pubchem_cid": "9837232",
     "inchi_key": "VKUMKUZDZWHMQU-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "VKUMKUZDZWHMQU-UHFFFAOYSA-N",
+    "pubchemCID": "9837232"
   },
   "categories": [],
   "legal": {
@@ -33,5 +61,41 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/9837232"
+  ],
+  "molecular_formula": "C11H13NO",
+  "molecular_weight": "175.23",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(1-benzofuran-5-yl)propan-2-amine",
+  "synonyms_pubchem": [
+    "5-(2-Aminopropyl)benzofuran",
+    "5-APB",
+    "286834-81-9",
+    "1-(Benzofuran-5-yl)propan-2-amine",
+    "5-Benzofuranethanamine, alpha-methyl-",
+    "alpha-Methyl-5-benzofuranethanamine",
+    "2M3825704H",
+    "DTXSID101010106",
+    "RefChem:101585",
+    "DTXCID401436525",
+    "6U6P4JU5L2",
+    "UNII-2M3825704H",
+    "1-(1-benzofuran-5-yl)propan-2-amine",
+    "orb2815527",
+    "SCHEMBL5988009",
+    "SCHEMBL29528156",
+    "CHEBI:190864",
+    "1-(benzofur-5-yl)-2-aminopropane",
+    "1-(1-benzouran-5-yl)propan-2-amine",
+    "AKOS006291449",
+    "PD048193",
+    "DB-132072",
+    ".ALPHA.-METHYL-5-BENZOFURANETHANAMINE",
+    "NS00017330",
+    "5-BENZOFURANETHANAMINE, .ALPHA.-METHYL-",
+    "Q4639569"
+  ]
 }

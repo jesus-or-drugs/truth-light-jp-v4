@@ -1,12 +1,29 @@
 {
   "id": "methamnetamine",
   "common_name": "Methamnetamine",
-  "systematic name": "N-mechiru-1-(nafutaren-2-i ru)puropan-2-amine",
-  "aliases": [],
+  "systematic name": "N-methyl-1-naphthalen-2-ylpropan-2-amine",
+  "aliases": [
+    "Methamnetamine",
+    "Methylnaphetamine",
+    "N-Methyl-PAL-287",
+    "CAS64BB01B",
+    "UNII-CAS64BB01B",
+    "PAL-1046",
+    "2-Naphthaleneethanamine, N,alpha-dimethyl-",
+    "2-NAPHTHALENEETHANAMINE, N,.ALPHA.-DIMETHYL-",
+    "RefChem:156855",
+    "SCHEMBL8694702",
+    "SCHEMBL10023024",
+    "SCHEMBL29602616",
+    "DTXSID801032850",
+    "Q21098978"
+  ],
   "identifiers": {
     "pubchem_cid": "17802040",
     "inchi_key": "BWWWOLYZMKACSB-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "BWWWOLYZMKACSB-UHFFFAOYSA-N",
+    "pubchemCID": "17802040"
   },
   "categories": [],
   "legal": {
@@ -33,5 +50,30 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/17802040"
+  ],
+  "molecular_formula": "C14H17N",
+  "molecular_weight": "199.29",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-methyl-1-naphthalen-2-ylpropan-2-amine",
+  "synonyms_pubchem": [
+    "Methamnetamine",
+    "Methylnaphetamine",
+    "N-Methyl-PAL-287",
+    "CAS64BB01B",
+    "UNII-CAS64BB01B",
+    "PAL-1046",
+    "1178720-66-5",
+    "2-Naphthaleneethanamine, N,alpha-dimethyl-",
+    "2-NAPHTHALENEETHANAMINE, N,.ALPHA.-DIMETHYL-",
+    "RefChem:156855",
+    "SCHEMBL8694702",
+    "SCHEMBL10023024",
+    "SCHEMBL29602616",
+    "DTXSID801032850",
+    "Q21098978"
+  ]
 }

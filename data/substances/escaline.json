@@ -1,12 +1,36 @@
 {
   "id": "escaline",
   "common_name": "Escaline",
-  "systematic name": "2-(4-etokishi-3,5-jimethoxy phenyl)etanamine",
-  "aliases": [],
+  "systematic name": "2-(4-ethoxy-3,5-dimethoxyphenyl)ethanamine",
+  "aliases": [
+    "Escaline",
+    "4-Ethoxy-3,5-dimethoxybenzeneethanamine",
+    "Q13F1C1N8I",
+    "ETHYLAMINE, 3,5-DIMETHOXY-4-ETHOXYPHENYL-",
+    "RefChem:1070585",
+    "2-(4-ethoxy-3,5-dimethoxyphenyl)ethanamine",
+    "Benzeneethanamine, 4-ethoxy-3,5-dimethoxy-",
+    "3,5-Dimethoxy-4 ethoxyphenylethylamine",
+    "3,5-dimethoxy-4-ethoxyphenethylamine",
+    "CHEMBL319415",
+    "BRN 3291768",
+    "UNII-Q13F1C1N8I",
+    "3,5-Methoxy-4-ethoxyphenethylamine",
+    "E (PSYCHEDELIC)",
+    "SCHEMBL1119068",
+    "DTXSID60192455",
+    "PBA20182",
+    "BDBM50059893",
+    "NS00017683",
+    "2-(4-Ethoxy-3,5-dimethoxy-phenyl)-ethylamine",
+    "Q3057837"
+  ],
   "identifiers": {
     "pubchem_cid": "38240",
     "inchi_key": "RHOGRSKNWDNCDN-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "RHOGRSKNWDNCDN-UHFFFAOYSA-N",
+    "pubchemCID": "38240"
   },
   "categories": [],
   "legal": {
@@ -33,5 +57,37 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/38240"
+  ],
+  "molecular_formula": "C12H19NO3",
+  "molecular_weight": "225.28",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(4-ethoxy-3,5-dimethoxyphenyl)ethanamine",
+  "synonyms_pubchem": [
+    "Escaline",
+    "39201-82-6",
+    "4-Ethoxy-3,5-dimethoxybenzeneethanamine",
+    "Q13F1C1N8I",
+    "ETHYLAMINE, 3,5-DIMETHOXY-4-ETHOXYPHENYL-",
+    "RefChem:1070585",
+    "2-(4-ethoxy-3,5-dimethoxyphenyl)ethanamine",
+    "Benzeneethanamine, 4-ethoxy-3,5-dimethoxy-",
+    "3,5-Dimethoxy-4 ethoxyphenylethylamine",
+    "3,5-dimethoxy-4-ethoxyphenethylamine",
+    "CHEMBL319415",
+    "BRN 3291768",
+    "UNII-Q13F1C1N8I",
+    "3,5-Methoxy-4-ethoxyphenethylamine",
+    "E (PSYCHEDELIC)",
+    "SCHEMBL1119068",
+    "DTXSID60192455",
+    "PBA20182",
+    "BDBM50059893",
+    "NS00017683",
+    "2-(4-Ethoxy-3,5-dimethoxy-phenyl)-ethylamine",
+    "Q3057837"
+  ]
 }

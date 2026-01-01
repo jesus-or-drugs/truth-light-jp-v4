@@ -1,14 +1,21 @@
 {
   "id": "3f-phenetrazine",
   "common_name": "3F-Phenetrazine",
-  "systematic name": "3-echiru-2-(3-furuorofeni ru)moruforin",
+  "systematic name": "3-ethyl-2-(3-fluorophenyl)morpholine",
   "aliases": [
-    "3-FPE"
+    "3-Ethyl-2-(3-fluorophenyl)morpholine",
+    "3F-phenetrazine",
+    "3-Fluorophenetrazine",
+    "2LQ5EFT6KU",
+    "3-FPE",
+    "DTXSID601343067"
   ],
   "identifiers": {
     "pubchem_cid": "165361708",
     "inchi_key": "GPTHUZORYIVVNJ-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "GPTHUZORYIVVNJ-UHFFFAOYSA-N",
+    "pubchemCID": "165361708"
   },
   "categories": [],
   "legal": {
@@ -35,5 +42,21 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/165361708"
+  ],
+  "molecular_formula": "C12H16FNO",
+  "molecular_weight": "209.26",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "3-ethyl-2-(3-fluorophenyl)morpholine",
+  "synonyms_pubchem": [
+    "3-Ethyl-2-(3-fluorophenyl)morpholine",
+    "3F-phenetrazine",
+    "3-Fluorophenetrazine",
+    "2LQ5EFT6KU",
+    "3-FPE",
+    "DTXSID601343067"
+  ]
 }

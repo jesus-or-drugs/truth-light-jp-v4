@@ -1,12 +1,25 @@
 {
   "id": "am2233",
   "common_name": "AM2233",
-  "systematic name": "(2-yo-dophenyl){1-[(1-mechiru piperijin-2-iru)mechiru]-1H- indo-ru-3-iru}metanon",
-  "aliases": [],
+  "systematic name": "(2-iodophenyl)-[1-[[(2R)-1-methylpiperidin-2-yl]methyl]indol-3-yl]methanone",
+  "aliases": [
+    "AM2233",
+    "2-iodophenyl-(1-(1-methylpiperidin-2-ylmethyl)-1H-indol-3-yl)methanone",
+    "RefChem:111793",
+    "AM 2233",
+    "UNII-160N27WT0S",
+    "CHEMBL2093080",
+    "(+)-AM-2233",
+    "Q27895654",
+    "(2-iodophenyl)-[1-[[(2R)-1-methylpiperidin-2-yl]methyl]indol-3-yl]methanone",
+    "1-((N-METHYL-2-PIPERIDINYL)METHYL)-3-(2-IODOBENZOYL)-1H-INDOLE, (R)-"
+  ],
   "identifiers": {
     "pubchem_cid": "9955789",
     "inchi_key": "KSLCYQTUSSEGPT-MRXNPFEDSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "KSLCYQTUSSEGPT-MRXNPFEDSA-N",
+    "pubchemCID": "9955789"
   },
   "categories": [],
   "legal": {
@@ -33,5 +46,27 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/9955789"
+  ],
+  "molecular_formula": "C22H23IN2O",
+  "molecular_weight": "458.3",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "(2-iodophenyl)-[1-[[(2R)-1-methylpiperidin-2-yl]methyl]indol-3-yl]methanone",
+  "synonyms_pubchem": [
+    "444912-55-4",
+    "AM2233",
+    "2-iodophenyl-(1-(1-methylpiperidin-2-ylmethyl)-1H-indol-3-yl)methanone",
+    "RefChem:111793",
+    "AM 2233",
+    "UNII-160N27WT0S",
+    "CHEMBL2093080",
+    "(+)-AM-2233",
+    "Q27895654",
+    "(2-iodophenyl)-[1-[[(2R)-1-methylpiperidin-2-yl]methyl]indol-3-yl]methanone",
+    "1-((N-METHYL-2-PIPERIDINYL)METHYL)-3-(2-IODOBENZOYL)-1H-INDOLE, (R)-",
+    "METHANONE, (2-IODOPHENYL)(1-(((2R)-1-METHYL-2-PIPERIDINYL)METHYL)-1H-INDOL-3-YL)-"
+  ]
 }

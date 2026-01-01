@@ -1,12 +1,34 @@
 {
   "id": "mephtetramine",
   "common_name": "Mephtetramine",
-  "systematic name": "2-[(mechiruamineo)mechiru]-3,4-ji hidoronafutaren-1(2H)-on及びそ の salts",
-  "aliases": [],
+  "systematic name": "2-(methylaminomethyl)-3,4-dihydro-2H-naphthalen-1-one",
+  "aliases": [
+    "Mephtetramine",
+    "G1SMV522NM",
+    "2-((Methylamino)methyl)-3,4-dihydronaphthalen-1(2H)-one",
+    "1(2H)-Naphthalenone, 3,4-dihydro-2-((methylamino)methyl)-",
+    "DTXSID501342092",
+    "2-[(Methylamino)methyl]-3,4-dihydronaphthalen-1(2H)-one",
+    "RefChem:156510",
+    "DTXCID801771109",
+    "UNII-G1SMV522NM",
+    "MTTA (hydrochloride)",
+    "Mephtetramine hydrochloride",
+    "SCHEMBL6630251",
+    "FTRWLSZFQILOOD-UHFFFAOYSA-N",
+    "DRA86066",
+    "MFCD20684561",
+    "SY326855",
+    "NS00017361",
+    "Q27278605",
+    "2-(methylaminomethyl)-3,4,dihydro-1-(2h)-naphthalenone"
+  ],
   "identifiers": {
     "pubchem_cid": "69845357",
     "inchi_key": "FTRWLSZFQILOOD-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "FTRWLSZFQILOOD-UHFFFAOYSA-N",
+    "pubchemCID": "69845357"
   },
   "categories": [],
   "legal": {
@@ -33,5 +55,35 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/69845357"
+  ],
+  "molecular_formula": "C12H15NO",
+  "molecular_weight": "189.25",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(methylaminomethyl)-3,4-dihydro-2H-naphthalen-1-one",
+  "synonyms_pubchem": [
+    "Mephtetramine",
+    "403860-66-2",
+    "G1SMV522NM",
+    "2-((Methylamino)methyl)-3,4-dihydronaphthalen-1(2H)-one",
+    "1(2H)-Naphthalenone, 3,4-dihydro-2-((methylamino)methyl)-",
+    "DTXSID501342092",
+    "2-[(Methylamino)methyl]-3,4-dihydronaphthalen-1(2H)-one",
+    "RefChem:156510",
+    "DTXCID801771109",
+    "UNII-G1SMV522NM",
+    "MTTA (hydrochloride)",
+    "Mephtetramine hydrochloride",
+    "SCHEMBL6630251",
+    "FTRWLSZFQILOOD-UHFFFAOYSA-N",
+    "DRA86066",
+    "MFCD20684561",
+    "SY326855",
+    "NS00017361",
+    "Q27278605",
+    "2-(methylaminomethyl)-3,4,dihydro-1-(2h)-naphthalenone"
+  ]
 }

@@ -1,12 +1,43 @@
 {
   "id": "2c-e",
   "common_name": "2C-E",
-  "systematic name": "2-(4-echiru-2,5-jimethoxyfe niru)etanamine",
-  "aliases": [],
+  "systematic name": "2-(4-ethyl-2,5-dimethoxyphenyl)ethanamine",
+  "aliases": [
+    "4-ETHYL-2,5-DIMETHOXY-.BETA.-PHENETHYLAMINE",
+    "RefChem:522743",
+    "4-ethyl-2,5-dimethoxy-beta-phenethylamine",
+    "2,5-Dimethoxy-4-ethylphenethylamine",
+    "2C-E",
+    "Eternity [Street Name]",
+    "Aqua Rust [Street Name]",
+    "Hummingbird [Street Name]",
+    "UNII-I190284UXX",
+    "2-(4-ethyl-2,5-dimethoxyphenyl)ethanamine",
+    "I190284UXX",
+    "CHEMBL124063",
+    "DEA No. 7509",
+    "2,5-Dimethoxy-4-ethyl phenethylamine",
+    "Benzeneethanamine, 4-ethyl-2,5-dimethoxy-",
+    "SCHEMBL1047455",
+    "SCHEMBL29373743",
+    "DTXSID40221772",
+    "VDRGNAMREYBIHA-UHFFFAOYSA-N",
+    "BDBM50240788",
+    "AKOS025149885",
+    "PD046585",
+    "2-(2,5-dimethoxy-4-ethylphenyl)ethylamine",
+    "NS00017898",
+    "2-(4-Ethyl-2,5-dimethoxy-phenyl)-ethylamine",
+    "539D349",
+    "Q209242",
+    "2-(2,5-DIMETHOXY-4-ETHYLPHENYL)ETHANAMINE"
+  ],
   "identifiers": {
     "pubchem_cid": "24729233",
     "inchi_key": "VDRGNAMREYBIHA-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "VDRGNAMREYBIHA-UHFFFAOYSA-N",
+    "pubchemCID": "24729233"
   },
   "categories": [],
   "legal": {
@@ -33,5 +64,44 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/24729233"
+  ],
+  "molecular_formula": "C12H19NO2",
+  "molecular_weight": "209.28",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(4-ethyl-2,5-dimethoxyphenyl)ethanamine",
+  "synonyms_pubchem": [
+    "4-ETHYL-2,5-DIMETHOXY-.BETA.-PHENETHYLAMINE",
+    "RefChem:522743",
+    "4-ethyl-2,5-dimethoxy-beta-phenethylamine",
+    "2,5-Dimethoxy-4-ethylphenethylamine",
+    "71539-34-9",
+    "2C-E",
+    "Eternity [Street Name]",
+    "Aqua Rust [Street Name]",
+    "Hummingbird [Street Name]",
+    "UNII-I190284UXX",
+    "2-(4-ethyl-2,5-dimethoxyphenyl)ethanamine",
+    "I190284UXX",
+    "CHEMBL124063",
+    "DEA No. 7509",
+    "2,5-Dimethoxy-4-ethyl phenethylamine",
+    "Benzeneethanamine, 4-ethyl-2,5-dimethoxy-",
+    "SCHEMBL1047455",
+    "SCHEMBL29373743",
+    "DTXSID40221772",
+    "VDRGNAMREYBIHA-UHFFFAOYSA-N",
+    "BDBM50240788",
+    "AKOS025149885",
+    "PD046585",
+    "2-(2,5-dimethoxy-4-ethylphenyl)ethylamine",
+    "NS00017898",
+    "2-(4-Ethyl-2,5-dimethoxy-phenyl)-ethylamine",
+    "539D349",
+    "Q209242",
+    "2-(2,5-DIMETHOXY-4-ETHYLPHENYL)ETHANAMINE"
+  ]
 }

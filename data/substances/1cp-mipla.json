@@ -1,12 +1,19 @@
 {
   "id": "1cp-mipla",
   "common_name": "1cP-MiPLA",
-  "systematic name": "4-(shikuropuropirukaruboniru)-N- mechiru-N-(puropan-2-iru)-7 -mechiru-4,6,6a,7,8,9-heki sahidoroindoro[4,3-fg]kinorin- 9-karubokisamido",
-  "aliases": [],
+  "systematic name": "(6aR,9R)-4-(cyclopropanecarbonyl)-N,7-dimethyl-N-propan-2-yl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide",
+  "aliases": [
+    "1cP-MiPLA",
+    "SCHEMBL30797414",
+    "PD198024",
+    "HY-150346"
+  ],
   "identifiers": {
     "pubchem_cid": "170763684",
     "inchi_key": "DBIYDHUGEKMIHZ-DYESRHJHSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "DBIYDHUGEKMIHZ-DYESRHJHSA-N",
+    "pubchemCID": "170763684"
   },
   "categories": [],
   "legal": {
@@ -33,5 +40,19 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/170763684"
+  ],
+  "molecular_formula": "C24H29N3O2",
+  "molecular_weight": "391.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "(6aR,9R)-4-(cyclopropanecarbonyl)-N,7-dimethyl-N-propan-2-yl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide",
+  "synonyms_pubchem": [
+    "1cP-MiPLA",
+    "SCHEMBL30797414",
+    "PD198024",
+    "HY-150346"
+  ]
 }

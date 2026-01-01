@@ -1,16 +1,39 @@
 {
   "id": "3-ho-pcp",
   "common_name": "3-HO-PCP",
-  "systematic name": "3-[1-(piperijin-1-iru)shikuro hekishiru]feno-ru",
+  "systematic name": "3-(1-piperidin-1-ylcyclohexyl)phenol",
   "aliases": [
+    "3-Hydroxyphencyclidine",
+    "Pcp-3-OH",
+    "V886QLHNA6",
+    "Phenol, 3-(1-(1-piperidinyl)cyclohexyl)-",
+    "1-(1-(3-Hydroxyphenyl)-cyclohexyl)piperidine",
+    "DTXSID20229918",
+    "3-(1-(1-PIPERIDINYL)CYCLOHEXYL)PHENOL",
+    "RefChem:94370",
+    "DTXCID70152409",
+    "3-HO-PCP",
+    "3-(1-piperidin-1-ylcyclohexyl)phenol",
+    "3-HYDROXY PCP",
+    "UNII-V886QLHNA6",
     "3-OH-PCP",
-    "3-hydroxy-PCP",
-    "PCP-3-OH"
+    "CHEMBL123708",
+    "SCHEMBL29769890",
+    "3-HYDROXY PCP [NFLIS-DRUG]",
+    "PD078912",
+    "NS00067978",
+    "1-[1(3-hydroxyphenyl)cyclo-hexyl]pip eridine",
+    "3-(1-(PIPERIDIN-1-YL)CYCLOHEXYL)PHENOL",
+    "1-(1-(3-HYDROXYPHENYL)CYCLOHEXYL)PIPERIDINE",
+    "N-(1-(3-HYDROXYPHENYL)CYCLOHEXYL)PIPERIDINE",
+    "Q20707014"
   ],
   "identifiers": {
     "pubchem_cid": "133277",
     "inchi_key": "AMSXTZUCNOKUEN-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "AMSXTZUCNOKUEN-UHFFFAOYSA-N",
+    "pubchemCID": "133277"
   },
   "categories": [],
   "legal": {
@@ -37,5 +60,40 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/133277"
+  ],
+  "molecular_formula": "C17H25NO",
+  "molecular_weight": "259.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "3-(1-piperidin-1-ylcyclohexyl)phenol",
+  "synonyms_pubchem": [
+    "3-Hydroxyphencyclidine",
+    "79787-43-2",
+    "Pcp-3-OH",
+    "V886QLHNA6",
+    "Phenol, 3-(1-(1-piperidinyl)cyclohexyl)-",
+    "1-(1-(3-Hydroxyphenyl)-cyclohexyl)piperidine",
+    "DTXSID20229918",
+    "3-(1-(1-PIPERIDINYL)CYCLOHEXYL)PHENOL",
+    "RefChem:94370",
+    "DTXCID70152409",
+    "3-HO-PCP",
+    "3-(1-piperidin-1-ylcyclohexyl)phenol",
+    "3-HYDROXY PCP",
+    "UNII-V886QLHNA6",
+    "3-OH-PCP",
+    "CHEMBL123708",
+    "SCHEMBL29769890",
+    "3-HYDROXY PCP [NFLIS-DRUG]",
+    "PD078912",
+    "NS00067978",
+    "1-[1(3-hydroxyphenyl)cyclo-hexyl]pip eridine",
+    "3-(1-(PIPERIDIN-1-YL)CYCLOHEXYL)PHENOL",
+    "1-(1-(3-HYDROXYPHENYL)CYCLOHEXYL)PIPERIDINE",
+    "N-(1-(3-HYDROXYPHENYL)CYCLOHEXYL)PIPERIDINE",
+    "Q20707014"
+  ]
 }

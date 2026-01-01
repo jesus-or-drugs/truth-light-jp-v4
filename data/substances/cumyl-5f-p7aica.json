@@ -1,12 +1,33 @@
 {
   "id": "cumyl-5f-p7aica",
   "common_name": "CUMYL-5F-P7AICA",
-  "systematic name": "1-(5-furuoropenchiru)-N-(2 -phenylpuropan-2-iru)-1H -piroro[2,3-b]pirijin-3-karu bokisamido",
-  "aliases": [],
+  "systematic name": "1-(5-fluoropentyl)-N-(2-phenylpropan-2-yl)pyrrolo[2,3-b]pyridine-3-carboxamide",
+  "aliases": [
+    "5F-CUMYL-P7AICA",
+    "V3J3TQ3UPP",
+    "DTXSID601019272",
+    "RefChem:103551",
+    "DTXCID001477244",
+    "5-Fluoro cumyl-p7aica",
+    "UNII-V3J3TQ3UPP",
+    "CHEMBL5218844",
+    "5F-CUMYL-7-PAICA",
+    "CUMYL-5F-P7AICA",
+    "CUMYL-5-fluoro-P7AICA",
+    "C22H26FN3O",
+    "SCHEMBL25367373",
+    "BDBM50607230",
+    "PD044027",
+    "NS00096965",
+    "CUMYL-5-fluoro P7AICA; 5-fluoro CUMYL-7-PAICA;",
+    "1-(5-FLUOROPENTYL)-N-(2-PHENYLPROPAN-2-YL)PYRROLO[2,3-B]PYRIDINE-3-CARBOXAMIDE"
+  ],
   "identifiers": {
     "pubchem_cid": "129532613",
     "inchi_key": "MXJYOUMYJGNQEY-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "MXJYOUMYJGNQEY-UHFFFAOYSA-N",
+    "pubchemCID": "129532613"
   },
   "categories": [],
   "legal": {
@@ -33,5 +54,39 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/129532613"
+  ],
+  "molecular_formula": "C22H26FN3O",
+  "molecular_weight": "367.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(5-fluoropentyl)-N-(2-phenylpropan-2-yl)pyrrolo[2,3-b]pyridine-3-carboxamide",
+  "synonyms_pubchem": [
+    "5F-CUMYL-P7AICA",
+    "2171492-36-5",
+    "V3J3TQ3UPP",
+    "DTXSID601019272",
+    "1-(5-Fluoropentyl)-N-(1-methyl-1-phenylethyl)-1H-pyrrolo(2,3-b)pyridine-3-carboxamide",
+    "RefChem:103551",
+    "DTXCID001477244",
+    "5-Fluoro cumyl-p7aica",
+    "UNII-V3J3TQ3UPP",
+    "CHEMBL5218844",
+    "1H-Pyrrolo[2,3-b]pyridine-3-carboxamide, 1-(5-fluoropentyl)-N-(1-methyl-1-phenylethyl)-",
+    "5F-CUMYL-7-PAICA",
+    "1-(5-Fluoropentyl)-N-(2-phenylpropan-2-yl)-1H-pyrrolo(2,3-b)pyridine-3-carboxamide",
+    "1-(5-fluoropentyl)-N-(2-phenylpropan-2-yl)-1h-pyrrolo[2,3-b]pyridine-3-carboxamide",
+    "CUMYL-5F-P7AICA",
+    "CUMYL-5-fluoro-P7AICA",
+    "C22H26FN3O",
+    "SCHEMBL25367373",
+    "BDBM50607230",
+    "PD044027",
+    "NS00096965",
+    "CUMYL-5-fluoro P7AICA; 5-fluoro CUMYL-7-PAICA;",
+    "1-(5-fluoropentyl)-N-(1-methyl-1-phenyl-ethyl)pyrrolo[2,3-b]pyridine-3-carboxamide",
+    "1-(5-FLUOROPENTYL)-N-(2-PHENYLPROPAN-2-YL)PYRROLO[2,3-B]PYRIDINE-3-CARBOXAMIDE"
+  ]
 }

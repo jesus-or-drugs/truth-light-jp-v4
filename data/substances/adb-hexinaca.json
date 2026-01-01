@@ -1,14 +1,19 @@
 {
   "id": "adb-hexinaca",
   "common_name": "ADB-HEXINACA",
-  "systematic name": "N-(1-amineo-3,3-jimechiru-1 -okisobutan-2-iru)-1-heki shiru-1H-indazo-ru-3-karubo kisamido",
+  "systematic name": "N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-hexylindazole-3-carboxamide",
   "aliases": [
-    "ADB-HINACA"
+    "ADB-HEXINACA",
+    "S52CH8BKB6",
+    "ADB-HEXINACA [NFLIS-DRUG]",
+    "N-(1-AMINO-3,3-DIMETHYL-1-OXOBUTAN-2-YL)-1-HEXYL-1H-INDAZOLE-3-CARBOXAMIDE"
   ],
   "identifiers": {
     "pubchem_cid": "162705326",
     "inchi_key": "PZMLDAGKYPJWHJ-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "PZMLDAGKYPJWHJ-UHFFFAOYSA-N",
+    "pubchemCID": "162705326"
   },
   "categories": [],
   "legal": {
@@ -35,5 +40,19 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/162705326"
+  ],
+  "molecular_formula": "C20H30N4O2",
+  "molecular_weight": "358.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-hexylindazole-3-carboxamide",
+  "synonyms_pubchem": [
+    "ADB-HEXINACA",
+    "S52CH8BKB6",
+    "ADB-HEXINACA [NFLIS-DRUG]",
+    "N-(1-AMINO-3,3-DIMETHYL-1-OXOBUTAN-2-YL)-1-HEXYL-1H-INDAZOLE-3-CARBOXAMIDE"
+  ]
 }

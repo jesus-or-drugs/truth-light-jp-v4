@@ -1,14 +1,28 @@
 {
   "id": "lsz",
   "common_name": "LSZ",
-  "systematic name": "(2,4-jimechiruazechijin-1-i ru)-(7-mechiru-4,6,6a,7,8,9 -hekisahidoroindoro[4,3-fg]kino rin-9-iru)metanon",
+  "systematic name": "[(6aR,9R)-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinolin-9-yl]-[(2S,4S)-2,4-dimethylazetidin-1-yl]methanone",
   "aliases": [
-    "LA-SS-Az"
+    "Lysergic acid 2,4-dimethylazetidide",
+    "8SWJ525W4R",
+    "DIAZEDINE",
+    "DTXSID201026958",
+    "RefChem:1050010",
+    "DTXCID801513632",
+    "UNII-8SWJ525W4R",
+    "LSZ",
+    "LSZ (D-tartrate) (solution)",
+    "LA-SS-AZ",
+    "SCHEMBL20970898",
+    "AKOS040752700",
+    "LYSERGIC ACID 2,4-DIMETHYLAZETIDIDE, (S,S)-(+)-"
   ],
   "identifiers": {
     "pubchem_cid": "71301249",
     "inchi_key": "DUKNIHFTDAXJON-CTQRGLTFSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "DUKNIHFTDAXJON-CTQRGLTFSA-N",
+    "pubchemCID": "71301249"
   },
   "categories": [],
   "legal": {
@@ -35,5 +49,32 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/71301249"
+  ],
+  "molecular_formula": "C21H25N3O",
+  "molecular_weight": "335.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "[(6aR,9R)-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinolin-9-yl]-[(2S,4S)-2,4-dimethylazetidin-1-yl]methanone",
+  "synonyms_pubchem": [
+    "Lysergic acid 2,4-dimethylazetidide",
+    "8SWJ525W4R",
+    "470666-31-0",
+    "DIAZEDINE",
+    "DTXSID201026958",
+    "RefChem:1050010",
+    "DTXCID801513632",
+    "(2S,4S)-1-(((8beta)-9,10-Didehydro-6-methylergolin-8-yl)carbonyl)-2,4-dimethylazetidine",
+    "UNII-8SWJ525W4R",
+    "LSZ",
+    "LSZ (D-tartrate) (solution)",
+    "LA-SS-AZ",
+    "SCHEMBL20970898",
+    "AKOS040752700",
+    "LYSERGIC ACID 2,4-DIMETHYLAZETIDIDE, (S,S)-(+)-",
+    "[(6aR,9R)-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinolin-9-yl]-[(2S,4S)-2,4-dimethylazetidin-1-yl]methanone",
+    "AZETIDINE, 1-(((8.BETA.)-9,10-DIDEHYDRO-6-METHYLERGOLIN-8-YL)CARBONYL)-2,4-DIMETHYL-, (2S,4S)-"
+  ]
 }

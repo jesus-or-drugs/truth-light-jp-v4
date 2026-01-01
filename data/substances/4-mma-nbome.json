@@ -1,12 +1,27 @@
 {
   "id": "4-mma-nbome",
   "common_name": "4-MMA-NBOMe",
-  "systematic name": "N-(2-methoxybenzylu)-N-mechi ru-1-(4-mechiruphenyl)puropan -2-amine",
-  "aliases": [],
+  "systematic name": "N-[(2-methoxyphenyl)methyl]-N-methyl-1-(4-methylphenyl)propan-2-amine",
+  "aliases": [
+    "4-mma-nbome",
+    "4-MMA NBOME",
+    "35F0DYU61Z",
+    "N-(ORTHO-METHOXYBENZYL)-4-METHYLMETHAMPHETAMINE",
+    "N-(2-METHOXYBENZYL)-N-METHYL-1-(4-METHYLPHENYL)PROPAN-2-AMINE",
+    "N-((2-METHOXYPHENYL)METHYL)-N-METHYL-1-(P-TOLYL)PROPAN-2-AMINE",
+    "RefChem:198750",
+    "N-[(2-Methoxyphenyl)methyl]-N,?,4-trimethylbenzeneethanamine",
+    "DTXSID401342025",
+    "PD057263",
+    "Q27256459",
+    "N-[(2-Methoxyphenyl)methyl]-N-methyl-1-(4-methylphenyl)propan-2-amine"
+  ],
   "identifiers": {
     "pubchem_cid": "132989148",
     "inchi_key": "OPOYXGQXRAORRI-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "OPOYXGQXRAORRI-UHFFFAOYSA-N",
+    "pubchemCID": "132989148"
   },
   "categories": [],
   "legal": {
@@ -33,5 +48,28 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/132989148"
+  ],
+  "molecular_formula": "C19H25NO",
+  "molecular_weight": "283.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-[(2-methoxyphenyl)methyl]-N-methyl-1-(4-methylphenyl)propan-2-amine",
+  "synonyms_pubchem": [
+    "4-mma-nbome",
+    "4-MMA NBOME",
+    "35F0DYU61Z",
+    "N-(ORTHO-METHOXYBENZYL)-4-METHYLMETHAMPHETAMINE",
+    "N-(2-METHOXYBENZYL)-N-METHYL-1-(4-METHYLPHENYL)PROPAN-2-AMINE",
+    "N-((2-METHOXYPHENYL)METHYL)-N-METHYL-1-(P-TOLYL)PROPAN-2-AMINE",
+    "RefChem:198750",
+    "2055107-74-7",
+    "N-[(2-Methoxyphenyl)methyl]-N,?,4-trimethylbenzeneethanamine",
+    "DTXSID401342025",
+    "PD057263",
+    "Q27256459",
+    "N-[(2-Methoxyphenyl)methyl]-N-methyl-1-(4-methylphenyl)propan-2-amine"
+  ]
 }

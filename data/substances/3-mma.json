@@ -1,14 +1,40 @@
 {
   "id": "3-mma",
   "common_name": "3-MMA",
-  "systematic name": "1-(3-mechiruphenyl)-N-mechiru puropan-2-amine",
+  "systematic name": "1-(3-methoxy-4-methylphenyl)propan-2-amine",
   "aliases": [
-    "3-Methylmethamphetamine"
+    "3-Methoxy-4-methylamphetamine",
+    "BHS67KQE5Q",
+    "RefChem:911474",
+    "3-MMA",
+    "1-(3-methoxy-4-methylphenyl)propan-2-amine",
+    "1-Mmpap",
+    "UNII-BHS67KQE5Q",
+    "Propane, 1-(3-Methoxy-4-methylphenyl)-2-amino-",
+    "Formoterol Impurity 48",
+    "CHEMBL47696",
+    "SCHEMBL2559132",
+    "SCHEMBL30797834",
+    "XDXMRSBXBOXSQW-UHFFFAOYSA-N",
+    "DTXSID401007386",
+    "P-METHYL-M-METHOXYAMPHETAMINE",
+    "AKOS005216246",
+    "DB-290691",
+    "1-(3-Methoxy-4-methylphenyl)-2-propanamine",
+    "1-(3-methoxy-4-methyl-phenyl)propan-2-amine",
+    "1-(3-methoxy-4-methyl-phenyl)-2-aminopropane",
+    "EN300-713911",
+    "Q2813117",
+    "3-METHOXY-.ALPHA.,4-DIMETHYLBENZENEETHANAMINE",
+    "PHENETHYLAMINE, 3-METHOXY-.ALPHA.,4-DIMETHYL-",
+    "BENZENEETHANAMINE, 3-METHOXY-.ALPHA.,4-DIMETHYL-"
   ],
   "identifiers": {
     "pubchem_cid": "91253",
     "inchi_key": "XDXMRSBXBOXSQW-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "XDXMRSBXBOXSQW-UHFFFAOYSA-N",
+    "pubchemCID": "91253"
   },
   "categories": [],
   "legal": {
@@ -35,5 +61,43 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/91253"
+  ],
+  "molecular_formula": "C11H17NO",
+  "molecular_weight": "179.26",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(3-methoxy-4-methylphenyl)propan-2-amine",
+  "synonyms_pubchem": [
+    "3-Methoxy-4-methylamphetamine",
+    "BHS67KQE5Q",
+    "RefChem:911474",
+    "124206-66-2",
+    "3-MMA",
+    "1-(3-methoxy-4-methylphenyl)propan-2-amine",
+    "1-Mmpap",
+    "24160-29-0",
+    "87179-33-7",
+    "UNII-BHS67KQE5Q",
+    "Propane, 1-(3-Methoxy-4-methylphenyl)-2-amino-",
+    "Formoterol Impurity 48",
+    "CHEMBL47696",
+    "SCHEMBL2559132",
+    "SCHEMBL30797834",
+    "XDXMRSBXBOXSQW-UHFFFAOYSA-N",
+    "DTXSID401007386",
+    "P-METHYL-M-METHOXYAMPHETAMINE",
+    "AKOS005216246",
+    "DB-290691",
+    "1-(3-Methoxy-4-methylphenyl)-2-propanamine",
+    "1-(3-methoxy-4-methyl-phenyl)propan-2-amine",
+    "1-(3-methoxy-4-methyl-phenyl)-2-aminopropane",
+    "EN300-713911",
+    "Q2813117",
+    "3-METHOXY-.ALPHA.,4-DIMETHYLBENZENEETHANAMINE",
+    "PHENETHYLAMINE, 3-METHOXY-.ALPHA.,4-DIMETHYL-",
+    "BENZENEETHANAMINE, 3-METHOXY-.ALPHA.,4-DIMETHYL-"
+  ]
 }

@@ -1,12 +1,39 @@
 {
   "id": "2c-tfm",
   "common_name": "2C-TFM",
-  "systematic name": "2-[2,5-jimethoxy-4-(torifuru oromechiru)phenyl]etanamine及び その salts",
-  "aliases": [],
+  "systematic name": "2-[2,5-dimethoxy-4-(trifluoromethyl)phenyl]ethanamine",
+  "aliases": [
+    "2,5-DIMETHOXY-4-(TRIFLUOROMETHYL)PHENETHYLAMINE",
+    "16O4G6IKYL",
+    "Benzeneethanamine, 2,5-dimethoxy-4-(trifluoromethyl)-",
+    "2,5-Dimethoxy-4-(trifluoromethyl)-benzeneethanamine",
+    "DTXSID70439308",
+    "2,5-Dimethoxy-4-(trifluoromethyl)benzeneethanamine",
+    "RefChem:1060094",
+    "DTXCID00390130",
+    "2C-TFM",
+    "UNII-16O4G6IKYL",
+    "2-[2,5-dimethoxy-4-(trifluoromethyl)phenyl]ethanamine",
+    "CHEMBL136354",
+    "SCHEMBL14655561",
+    "SCHEMBL29633076",
+    "CHEBI:184026",
+    "LYXGNMLWYONZID-UHFFFAOYSA-N",
+    "BDBM50038369",
+    "AKOS022182192",
+    "PD046632",
+    "DB-346509",
+    "NS00017407",
+    "Q3014225",
+    "2-[2,5-dimethoxy-4-(triluoromethyl)phenyl]ethanamine",
+    "2-(2,5-Dimethoxy-4-trifluoromethyl-phenyl)-ethylamine"
+  ],
   "identifiers": {
     "pubchem_cid": "10399795",
     "inchi_key": "LYXGNMLWYONZID-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "LYXGNMLWYONZID-UHFFFAOYSA-N",
+    "pubchemCID": "10399795"
   },
   "categories": [],
   "legal": {
@@ -33,5 +60,40 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/10399795"
+  ],
+  "molecular_formula": "C11H14F3NO2",
+  "molecular_weight": "249.23",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-[2,5-dimethoxy-4-(trifluoromethyl)phenyl]ethanamine",
+  "synonyms_pubchem": [
+    "2,5-DIMETHOXY-4-(TRIFLUOROMETHYL)PHENETHYLAMINE",
+    "159277-08-4",
+    "16O4G6IKYL",
+    "Benzeneethanamine, 2,5-dimethoxy-4-(trifluoromethyl)-",
+    "2,5-Dimethoxy-4-(trifluoromethyl)-benzeneethanamine",
+    "DTXSID70439308",
+    "2,5-Dimethoxy-4-(trifluoromethyl)benzeneethanamine",
+    "RefChem:1060094",
+    "DTXCID00390130",
+    "2C-TFM",
+    "UNII-16O4G6IKYL",
+    "2-[2,5-dimethoxy-4-(trifluoromethyl)phenyl]ethanamine",
+    "CHEMBL136354",
+    "SCHEMBL14655561",
+    "SCHEMBL29633076",
+    "CHEBI:184026",
+    "LYXGNMLWYONZID-UHFFFAOYSA-N",
+    "BDBM50038369",
+    "AKOS022182192",
+    "PD046632",
+    "DB-346509",
+    "NS00017407",
+    "Q3014225",
+    "2-[2,5-dimethoxy-4-(triluoromethyl)phenyl]ethanamine",
+    "2-(2,5-Dimethoxy-4-trifluoromethyl-phenyl)-ethylamine"
+  ]
 }

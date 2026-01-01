@@ -2,11 +2,27 @@
   "id": "亜硝酸シクロヘキシル",
   "common_name": "亜硝酸シクロヘキシル",
   "systematic name": "cyclohexyl nitrite",
-  "aliases": [],
+  "aliases": [
+    "Cyclohexyl nitrite",
+    "Nitrous acid, cyclohexyl ester",
+    "02XU02QRLX",
+    "DTXSID30337856",
+    "RefChem:129690",
+    "DTXCID60288943",
+    "nitrous acid cyclohexyl ester",
+    "UNII-02XU02QRLX",
+    "SCHEMBL2057544",
+    "Cyclohexyl ester of nitrous acid",
+    "NRCNZCLHYWKEDX-UHFFFAOYSA-N",
+    "AKOS016004984",
+    "Q5198717"
+  ],
   "identifiers": {
     "pubchem_cid": "545140",
     "inchi_key": "NRCNZCLHYWKEDX-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "NRCNZCLHYWKEDX-UHFFFAOYSA-N",
+    "pubchemCID": "545140"
   },
   "categories": [],
   "legal": {
@@ -33,5 +49,29 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/545140"
+  ],
+  "molecular_formula": "C6H11NO2",
+  "molecular_weight": "129.16",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "cyclohexyl nitrite",
+  "synonyms_pubchem": [
+    "Cyclohexyl nitrite",
+    "5156-40-1",
+    "Nitrous acid, cyclohexyl ester",
+    "02XU02QRLX",
+    "DTXSID30337856",
+    "RefChem:129690",
+    "DTXCID60288943",
+    "nitrous acid cyclohexyl ester",
+    "UNII-02XU02QRLX",
+    "SCHEMBL2057544",
+    "Cyclohexyl ester of nitrous acid",
+    "NRCNZCLHYWKEDX-UHFFFAOYSA-N",
+    "AKOS016004984",
+    "Q5198717"
+  ]
 }

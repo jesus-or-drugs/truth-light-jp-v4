@@ -1,12 +1,33 @@
 {
   "id": "desoxy-d2pm",
   "common_name": "Desoxy-D2PM",
-  "systematic name": "2-(jiphenylmechiru)pirorijin及び その salts",
-  "aliases": [],
+  "systematic name": "2-benzhydrylpyrrolidine",
+  "aliases": [
+    "2-(diphenylmethyl)pyrrolidine",
+    "DTXSID801308207",
+    "RefChem:1061824",
+    "DTXCID50949894",
+    "2-benzhydrylpyrrolidine",
+    "2-Diphenylmethylpyrrolidine",
+    "Desoxy-D2PM",
+    "QF8JZD7LRR",
+    "Pyrrolidine, 2-(diphenylmethyl)-",
+    "2-Diphenylmethylpyrrolidine, (+/-)-",
+    "UH7U0MAY6C",
+    "UNII-QF8JZD7LRR",
+    "UNII-UH7U0MAY6C",
+    "SCHEMBL2842321",
+    "AKOS022535055",
+    "NS00017961",
+    "EN300-1863758",
+    "Q4596875"
+  ],
   "identifiers": {
     "pubchem_cid": "1295",
     "inchi_key": "OXOBKZZXZVFOBB-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "OXOBKZZXZVFOBB-UHFFFAOYSA-N",
+    "pubchemCID": "1295"
   },
   "categories": [],
   "legal": {
@@ -33,5 +54,34 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/1295"
+  ],
+  "molecular_formula": "C17H19N",
+  "molecular_weight": "237.34",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-benzhydrylpyrrolidine",
+  "synonyms_pubchem": [
+    "2-(diphenylmethyl)pyrrolidine",
+    "383127-45-5",
+    "DTXSID801308207",
+    "RefChem:1061824",
+    "DTXCID50949894",
+    "2-benzhydrylpyrrolidine",
+    "2-Diphenylmethylpyrrolidine",
+    "Desoxy-D2PM",
+    "QF8JZD7LRR",
+    "Pyrrolidine, 2-(diphenylmethyl)-",
+    "2-Diphenylmethylpyrrolidine, (+/-)-",
+    "UH7U0MAY6C",
+    "UNII-QF8JZD7LRR",
+    "UNII-UH7U0MAY6C",
+    "SCHEMBL2842321",
+    "AKOS022535055",
+    "NS00017961",
+    "EN300-1863758",
+    "Q4596875"
+  ]
 }

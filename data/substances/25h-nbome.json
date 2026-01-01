@@ -1,12 +1,36 @@
 {
   "id": "25h-nbome",
   "common_name": "25H-NBOMe",
-  "systematic name": "2-(2,5-jimethoxyphenyl)-N- (2-methoxybenzylu)etanamine及 びその salts",
-  "aliases": [],
+  "systematic name": "2-(2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine",
+  "aliases": [
+    "25H-NBOMe",
+    "2c-H-Nbome",
+    "2,5-Dimethoxy-N-((2-methoxyphenyl)methyl)benzeneethanamine",
+    "RN5ZVN74Y9",
+    "UNII-RN5ZVN74Y9",
+    "Benzeneethanamine, 2,5-dimethoxy-N-((2-methoxyphenyl)methyl)-",
+    "DTXSID201014187",
+    "2,5-Dimethoxy-N-[(2-methoxyphenyl)methyl]benzeneethanamine",
+    "RefChem:197430",
+    "DTXCID201436731",
+    "RMLXCDMTGWSEOU-UHFFFAOYSA-N",
+    "2-(2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine",
+    "2-(2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine",
+    "SCHEMBL17287296",
+    "SCHEMBL29633027",
+    "SCHEMBL29633101",
+    "CHEBI:191069",
+    "PD048036",
+    "NS00017236",
+    "Q27288204",
+    "Benzeneethanamine, 2,5-dimethoxy-n-[(2-methoxyphenyl)methylene]-"
+  ],
   "identifiers": {
     "pubchem_cid": "39424372",
     "inchi_key": "RMLXCDMTGWSEOU-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "RMLXCDMTGWSEOU-UHFFFAOYSA-N",
+    "pubchemCID": "39424372"
   },
   "categories": [],
   "legal": {
@@ -33,5 +57,37 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/39424372"
+  ],
+  "molecular_formula": "C18H23NO3",
+  "molecular_weight": "301.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine",
+  "synonyms_pubchem": [
+    "25H-NBOMe",
+    "2c-H-Nbome",
+    "2,5-Dimethoxy-N-((2-methoxyphenyl)methyl)benzeneethanamine",
+    "919797-16-3",
+    "RN5ZVN74Y9",
+    "UNII-RN5ZVN74Y9",
+    "Benzeneethanamine, 2,5-dimethoxy-N-((2-methoxyphenyl)methyl)-",
+    "DTXSID201014187",
+    "2,5-Dimethoxy-N-[(2-methoxyphenyl)methyl]benzeneethanamine",
+    "RefChem:197430",
+    "DTXCID201436731",
+    "RMLXCDMTGWSEOU-UHFFFAOYSA-N",
+    "2-(2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine",
+    "2-(2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine",
+    "SCHEMBL17287296",
+    "SCHEMBL29633027",
+    "SCHEMBL29633101",
+    "CHEBI:191069",
+    "PD048036",
+    "NS00017236",
+    "Q27288204",
+    "Benzeneethanamine, 2,5-dimethoxy-n-[(2-methoxyphenyl)methylene]-"
+  ]
 }

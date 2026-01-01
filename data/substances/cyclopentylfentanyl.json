@@ -1,12 +1,33 @@
 {
   "id": "cyclopentylfentanyl",
   "common_name": "Cyclopentylfentanyl",
-  "systematic name": "N-(1-fenechirupiperijin-4-i ru)-N-phenylshikuropentankarubo kisamido",
-  "aliases": [],
+  "systematic name": "N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]cyclopentanecarboxamide",
+  "aliases": [
+    "Cyclopentylfentanyl",
+    "Cyclopentyl fentanyl",
+    "Cyclopentyl-fentanyl",
+    "DEA No. 9847",
+    "79NY29L78C",
+    "N-(1-Phenethyl-4-piperidyl)-N-phenyl-cyclopentanecarboxamide",
+    "N-(1-Phenethylpiperidin-4-yl)-N-phenylcyclopentanecarboxamide",
+    "DTXSID801036783",
+    "CYCLOPENTYL FENTANYL [NFLIS-DRUG]",
+    "N-PHENYL-N-(1-(2-PHENYLETHYL)PIPERIDIN-4-YL)CYCLOPENTANECARBOXAMIDE",
+    "CYCLOPENTYL FENTANYL (NFLIS-DRUG)",
+    "RefChem:581098",
+    "DTXCID301520872",
+    "CP-F",
+    "UNII-79NY29L78C",
+    "Cyclopentyl fentanyl (hydrochloride)",
+    "SCHEMBL18623774",
+    "NID91801"
+  ],
   "identifiers": {
     "pubchem_cid": "126682248",
     "inchi_key": "PEASFKSPITUZGT-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "PEASFKSPITUZGT-UHFFFAOYSA-N",
+    "pubchemCID": "126682248"
   },
   "categories": [],
   "legal": {
@@ -33,5 +54,34 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/126682248"
+  ],
+  "molecular_formula": "C25H32N2O",
+  "molecular_weight": "376.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]cyclopentanecarboxamide",
+  "synonyms_pubchem": [
+    "Cyclopentylfentanyl",
+    "Cyclopentyl fentanyl",
+    "Cyclopentyl-fentanyl",
+    "DEA No. 9847",
+    "79NY29L78C",
+    "2088918-01-6",
+    "N-(1-Phenethyl-4-piperidyl)-N-phenyl-cyclopentanecarboxamide",
+    "N-(1-Phenethylpiperidin-4-yl)-N-phenylcyclopentanecarboxamide",
+    "DTXSID801036783",
+    "CYCLOPENTYL FENTANYL [NFLIS-DRUG]",
+    "N-PHENYL-N-(1-(2-PHENYLETHYL)PIPERIDIN-4-YL)CYCLOPENTANECARBOXAMIDE",
+    "CYCLOPENTYL FENTANYL (NFLIS-DRUG)",
+    "RefChem:581098",
+    "DTXCID301520872",
+    "CP-F",
+    "UNII-79NY29L78C",
+    "Cyclopentyl fentanyl (hydrochloride)",
+    "SCHEMBL18623774",
+    "NID91801"
+  ]
 }

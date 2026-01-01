@@ -3,12 +3,21 @@
   "common_name": "APP-BUTINACA",
   "systematic name": "N-[(2S)-1-amino-1-oxo-3-phenylpropan-2-yl]-1-butylindazole-3-carboxamide",
   "aliases": [
-    "APP-BINACA"
+    "APP-BUTINACA",
+    "APP-BINACA",
+    "CHEMBL5184576",
+    "APP-Butinaca (CRM)",
+    "SCHEMBL30446074",
+    "DTXSID801018206",
+    "BDBM50590330",
+    "N-[(1S)-2-amino-1-benzyl-2-oxo-ethyl]-1-butyl-indazole-3-carboxamide"
   ],
   "identifiers": {
     "pubchem_cid": "154735174",
     "inchi_key": "OYARCJMQMAFMTG-KRWDZBQOSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "OYARCJMQMAFMTG-KRWDZBQOSA-N",
+    "pubchemCID": "154735174"
   },
   "categories": [],
   "legal": {
@@ -35,5 +44,24 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/154735174"
+  ],
+  "molecular_formula": "C21H24N4O2",
+  "molecular_weight": "364.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-[(2S)-1-amino-1-oxo-3-phenylpropan-2-yl]-1-butylindazole-3-carboxamide",
+  "synonyms_pubchem": [
+    "APP-BUTINACA",
+    "APP-BINACA",
+    "2682867-56-5",
+    "CHEMBL5184576",
+    "APP-Butinaca (CRM)",
+    "SCHEMBL30446074",
+    "DTXSID801018206",
+    "BDBM50590330",
+    "N-[(1S)-2-amino-1-benzyl-2-oxo-ethyl]-1-butyl-indazole-3-carboxamide"
+  ]
 }

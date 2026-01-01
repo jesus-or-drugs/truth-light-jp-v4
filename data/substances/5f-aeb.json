@@ -1,12 +1,36 @@
 {
   "id": "5f-aeb",
   "common_name": "5F-AEB",
-  "systematic name": "echiru=2-[1-(5-furuoropenchi ru)-1H-indazo-ru-3-karubo kisamido]-3-mechirubutanoa-to及び その salts",
-  "aliases": [],
+  "systematic name": "ethyl (2S)-2-[[1-(5-fluoropentyl)indazole-3-carbonyl]amino]-3-methylbutanoate",
+  "aliases": [
+    "5F-EMB-PINACA",
+    "5-FLUORO-AEB",
+    "5-FLUORO AEB RM",
+    "5F-AEB",
+    "5-FLUORO EMB-PINACA",
+    "64OSW0N4YB",
+    "5F-AEB [NFLIS-DRUG]",
+    "5F-AEB (NFLIS-DRUG)",
+    "ETHYL (1-(5-FLUOROPENTYL)-1H-INDAZOLE-3-CARBONYL)-L-VALINATE",
+    "ETHYL 2-((1-(5-FLUOROPENTYL)-1H-INDAZOL-3-YL)FORMAMIDO)-3-METHYLBUTANOATE",
+    "ETHYL 2-((1-(5-FLUOROPENTYL)INDAZOLE-3-CARBONYL)AMINO)-3-METHYL-BUTANOATE",
+    "RefChem:103553",
+    "ethyl(1-(5-fluoropentyl)-1H-indazole-3-carbonyl)-L-valinate",
+    "SCHEMBL30641078",
+    "DTXSID101342119",
+    "PD017697",
+    "NS00017999",
+    "ethyl [1-(5-fluoropentyl)-1h-indazole-3-carbonyl]valinate",
+    "N-[[1-(5-Fluoropentyl)-1H-indazol-3-yl]carbonyl]-L-valine ethyl ester",
+    "ethyl (2S)-2-[[1-(5-fluoropentyl)indazole-3-carbonyl]amino]-3-methyl-butanoate",
+    "ethyl (2S)-2-[[1-(5-fluoropentyl)indazole-3-carbonyl]amino]-3-methylbutanoate"
+  ],
   "identifiers": {
     "pubchem_cid": "125181449",
     "inchi_key": "YWSYUMWEKPNAHT-KRWDZBQOSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "YWSYUMWEKPNAHT-KRWDZBQOSA-N",
+    "pubchemCID": "125181449"
   },
   "categories": [],
   "legal": {
@@ -33,5 +57,37 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/125181449"
+  ],
+  "molecular_formula": "C20H28FN3O3",
+  "molecular_weight": "377.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "ethyl (2S)-2-[[1-(5-fluoropentyl)indazole-3-carbonyl]amino]-3-methylbutanoate",
+  "synonyms_pubchem": [
+    "5F-EMB-PINACA",
+    "5-FLUORO-AEB",
+    "5-FLUORO AEB RM",
+    "5F-AEB",
+    "5-FLUORO EMB-PINACA",
+    "64OSW0N4YB",
+    "5F-AEB [NFLIS-DRUG]",
+    "5F-AEB (NFLIS-DRUG)",
+    "ETHYL (1-(5-FLUOROPENTYL)-1H-INDAZOLE-3-CARBONYL)-L-VALINATE",
+    "ETHYL 2-((1-(5-FLUOROPENTYL)-1H-INDAZOL-3-YL)FORMAMIDO)-3-METHYLBUTANOATE",
+    "ETHYL 2-((1-(5-FLUOROPENTYL)INDAZOLE-3-CARBONYL)AMINO)-3-METHYL-BUTANOATE",
+    "RefChem:103553",
+    "2365471-51-6",
+    "ethyl(1-(5-fluoropentyl)-1H-indazole-3-carbonyl)-L-valinate",
+    "SCHEMBL30641078",
+    "DTXSID101342119",
+    "PD017697",
+    "NS00017999",
+    "ethyl [1-(5-fluoropentyl)-1h-indazole-3-carbonyl]valinate",
+    "N-[[1-(5-Fluoropentyl)-1H-indazol-3-yl]carbonyl]-L-valine ethyl ester",
+    "ethyl (2S)-2-[[1-(5-fluoropentyl)indazole-3-carbonyl]amino]-3-methyl-butanoate",
+    "ethyl (2S)-2-[[1-(5-fluoropentyl)indazole-3-carbonyl]amino]-3-methylbutanoate"
+  ]
 }

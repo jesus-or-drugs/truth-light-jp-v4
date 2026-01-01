@@ -1,12 +1,25 @@
 {
   "id": "1cp-lsd",
   "common_name": "1cP-LSD",
-  "systematic name": "4-(shikuropuropirukaruboniru)-N, N-jiechiru-7-mechiru-4,6,6a, 7,8,9-hekisahidoroindoro[4,3- fg]kinorin-9-karubokisamido及びそ の salts",
-  "aliases": [],
+  "systematic name": "(6aR,9R)-4-(cyclopropanecarbonyl)-N,N-diethyl-7-methyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide",
+  "aliases": [
+    "1CP-LSD",
+    "1-CYCLOPROPIONYL LSD",
+    "7UU7S6TN3J",
+    "N1-(CYCLOPROPYLMETHANOYL)-LYSERGIC ACID DIETHYLAMIDE",
+    "RefChem:202225",
+    "1-cyclopropanoyl-d-lysergic acid diethylamide",
+    "SCHEMBL26970689",
+    "DTXSID101337401",
+    "PD131616",
+    "N1-(Cyclopropylmethanoyl)-lysergic acid diethylamide)"
+  ],
   "identifiers": {
     "pubchem_cid": "155884675",
     "inchi_key": "RAFUPYYDHPFASC-DYESRHJHSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "RAFUPYYDHPFASC-DYESRHJHSA-N",
+    "pubchemCID": "155884675"
   },
   "categories": [],
   "legal": {
@@ -33,5 +46,27 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/155884675"
+  ],
+  "molecular_formula": "C24H29N3O2",
+  "molecular_weight": "391.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "(6aR,9R)-4-(cyclopropanecarbonyl)-N,N-diethyl-7-methyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide",
+  "synonyms_pubchem": [
+    "1CP-LSD",
+    "1-CYCLOPROPIONYL LSD",
+    "7UU7S6TN3J",
+    "N1-(CYCLOPROPYLMETHANOYL)-LYSERGIC ACID DIETHYLAMIDE",
+    "RefChem:202225",
+    "1-cyclopropanoyl-d-lysergic acid diethylamide",
+    "(6aR,9R)-4-(Cyclopropanecarbonyl)-N,N-diethyl-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide; 1cP-LSD",
+    "SCHEMBL26970689",
+    "DTXSID101337401",
+    "PD131616",
+    "N1-(Cyclopropylmethanoyl)-lysergic acid diethylamide)",
+    "(6AR,9R)-4-(CYCLOPROPANECARBONYL)-N,N-DIETHYL-7-METHYL-4,6,6A,7,8,9-HEXAHYDROINDOLO(4,3-FG)QUINOLINE-9-CARBOXAMIDE"
+  ]
 }

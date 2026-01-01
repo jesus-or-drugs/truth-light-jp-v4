@@ -1,14 +1,45 @@
 {
   "id": "4-methoxymethcathinone",
   "common_name": "4-Methoxymethcathinone",
-  "systematic name": "1-(4-methoxyphenyl)-2-(mechiru amineo)puropan-1-on",
+  "systematic name": "1-(4-methoxyphenyl)-2-(methylamino)propan-1-one",
   "aliases": [
-    "Methedrone"
+    "Methoxyphedrine",
+    "Methedrone",
+    "4-Methoxymethcathinone",
+    "Methoxyphedrinum",
+    "metoxifedrina",
+    "J6.703B",
+    "L7HY239I58",
+    "DTXSID20862127",
+    "RefChem:157094",
+    "DTXCID70810936",
+    "1-(4-methoxyphenyl)-2-(methylamino)propan-1-one",
+    "1-p-Methoxyphenyl-2-methylaminopropan-1-one",
+    "Methoxifedrina",
+    "beta-keto-PMMA",
+    "bk-PMMA",
+    "PMMC",
+    "para-Methoxymethcathinone",
+    "Methoxyphedrine [INN:DCF]",
+    "Methoxyphedrin",
+    "UNII-L7HY239I58",
+    "4'-Methoxy-2-methylaminopropiophenone",
+    "(RS)-4'-Methoxy-2-methylaminopropiophenone",
+    "METHOXYPHEDRINE [INN]",
+    "SCHEMBL729034",
+    "CHEMBL2106893",
+    "METHOXYPHEDRINE [WHO-DD]",
+    "MQUIHBQDYYAEMH-UHFFFAOYSA-N",
+    "AKOS006274254",
+    "NS00015452",
+    "530M541"
   ],
   "identifiers": {
     "pubchem_cid": "216281",
     "inchi_key": "MQUIHBQDYYAEMH-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "MQUIHBQDYYAEMH-UHFFFAOYSA-N",
+    "pubchemCID": "216281"
   },
   "categories": [],
   "legal": {
@@ -35,5 +66,48 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/216281"
+  ],
+  "molecular_formula": "C11H15NO2",
+  "molecular_weight": "193.24",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(4-methoxyphenyl)-2-(methylamino)propan-1-one",
+  "synonyms_pubchem": [
+    "Methoxyphedrine",
+    "530-54-1",
+    "Methedrone",
+    "4-Methoxymethcathinone",
+    "Methoxyphedrinum",
+    "metoxifedrina",
+    "J6.703B",
+    "L7HY239I58",
+    "DTXSID20862127",
+    "RefChem:157094",
+    "DTXCID70810936",
+    "684-468-7",
+    "1-(4-methoxyphenyl)-2-(methylamino)propan-1-one",
+    "1-p-Methoxyphenyl-2-methylaminopropan-1-one",
+    "Methoxifedrina",
+    "beta-keto-PMMA",
+    "bk-PMMA",
+    "PMMC",
+    "para-Methoxymethcathinone",
+    "Methoxyphedrine [INN:DCF]",
+    "Methoxyphedrin",
+    "UNII-L7HY239I58",
+    "4'-Methoxy-2-methylaminopropiophenone",
+    "(RS)-4'-Methoxy-2-methylaminopropiophenone",
+    "METHOXYPHEDRINE [INN]",
+    "SCHEMBL729034",
+    "CHEMBL2106893",
+    "METHOXYPHEDRINE [WHO-DD]",
+    "MQUIHBQDYYAEMH-UHFFFAOYSA-N",
+    "AKOS006274254",
+    "NS00015452",
+    "530M541",
+    "Q2506962"
+  ]
 }

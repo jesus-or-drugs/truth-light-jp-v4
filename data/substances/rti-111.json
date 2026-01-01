@@ -1,15 +1,23 @@
 {
   "id": "rti-111",
   "common_name": "RTI-111",
-  "systematic name": "mechiru=3-(3,4-jikurorophenyl) -8-mechiru-8-azabishikuro[3. 2.1]okutan-2-karubokishira-to",
+  "systematic name": "methyl (1R,2S,3S,5S)-3-(3,4-dichlorophenyl)-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate;hydrochloride",
   "aliases": [
-    "Dichloropane",
-    "O-401"
+    "RTI-111",
+    "N-Methyldichloropane hydrochloride",
+    "7V8GL5F9MQ",
+    "RTI-4229-111",
+    "DTXSID40431334",
+    "RefChem:180106",
+    "DTXCID50382166",
+    "UNII-7V8GL5F9MQ"
   ],
   "identifiers": {
     "pubchem_cid": "9820470",
     "inchi_key": "RHWDQYHGQIZSGW-LZRDFDPJSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "RHWDQYHGQIZSGW-LZRDFDPJSA-N",
+    "pubchemCID": "9820470"
   },
   "categories": [],
   "legal": {
@@ -36,5 +44,28 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/9820470"
+  ],
+  "molecular_formula": "C16H20Cl3NO2",
+  "molecular_weight": "364.7",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "methyl (1R,2S,3S,5S)-3-(3,4-dichlorophenyl)-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate;hydrochloride",
+  "synonyms_pubchem": [
+    "RTI-111",
+    "150653-91-1",
+    "N-Methyldichloropane hydrochloride",
+    "7V8GL5F9MQ",
+    "RTI-4229-111",
+    "DTXSID40431334",
+    "Methyl 3-(3,4-dichlorophenyl)-8-methyl-8-azabicyclo(3.2.1)octane-2-carboxylate hydrochloride",
+    "8-Azabicyclo(3.2.1)octane-2-carboxylic acid, 3-(3,4-dichlorophenyl)-8-methyl-, methyl ester, hydrochloride, (1R,2S,3S,5S)-",
+    "8-Azabicyclo(3.2.1)octane-2-carboxylic acid, 3-(3,4-dichlorophenyl)-8-methyl-, methyl ester, hydrochloride, (1R-(exo,exo))-",
+    "RefChem:180106",
+    "DTXCID50382166",
+    "UNII-7V8GL5F9MQ",
+    "Methyl (1R,2S,3S,5S)-3-(3,4-dichlorophenyl)-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate;hydrochloride"
+  ]
 }

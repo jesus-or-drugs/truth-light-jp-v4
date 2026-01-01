@@ -1,12 +1,24 @@
 {
   "id": "n-desethyl_etonitazene",
   "common_name": "N-Desethyl Etonitazene",
-  "systematic name": "2-(4-etokishibenzylu)-1-(e chiruamineo)echiru-5-nitorobenzui midazo-ru",
-  "aliases": [],
+  "systematic name": "2-[2-[(4-ethoxyphenyl)methyl]-5-nitrobenzimidazol-1-yl]-N-ethylethanamine",
+  "aliases": [
+    "N-Desethyletonitazene",
+    "QRN9B8Z285",
+    "1H-Benzimidazole-1-ethanamine, 2-((4-ethoxyphenyl)methyl)-N-ethyl-5-nitro-",
+    "RefChem:202114",
+    "N-desethyl Etonitazene",
+    "UNII-QRN9B8Z285",
+    "DTXSID201342217",
+    "2-[2-[(4-ethoxyphenyl)methyl]-5-nitrobenzimidazol-1-yl]-N-ethylethanamine",
+    "2-[2-[(4-ethoxyphenyl)methyl]-5-nitro-benzimidazol-1-yl]-N-ethyl-ethanamine"
+  ],
   "identifiers": {
     "pubchem_cid": "162623580",
     "inchi_key": "RESPFUMJVJRUMB-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "RESPFUMJVJRUMB-UHFFFAOYSA-N",
+    "pubchemCID": "162623580"
   },
   "categories": [],
   "legal": {
@@ -33,5 +45,25 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/162623580"
+  ],
+  "molecular_formula": "C20H24N4O3",
+  "molecular_weight": "368.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-[2-[(4-ethoxyphenyl)methyl]-5-nitrobenzimidazol-1-yl]-N-ethylethanamine",
+  "synonyms_pubchem": [
+    "N-Desethyletonitazene",
+    "2732926-26-8",
+    "QRN9B8Z285",
+    "1H-Benzimidazole-1-ethanamine, 2-((4-ethoxyphenyl)methyl)-N-ethyl-5-nitro-",
+    "RefChem:202114",
+    "N-desethyl Etonitazene",
+    "UNII-QRN9B8Z285",
+    "DTXSID201342217",
+    "2-[2-[(4-ethoxyphenyl)methyl]-5-nitrobenzimidazol-1-yl]-N-ethylethanamine",
+    "2-[2-[(4-ethoxyphenyl)methyl]-5-nitro-benzimidazol-1-yl]-N-ethyl-ethanamine"
+  ]
 }

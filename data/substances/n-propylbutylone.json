@@ -1,15 +1,30 @@
 {
   "id": "n-propylbutylone",
   "common_name": "N-Propylbutylone",
-  "systematic name": "1-(3,4-mechirenjiokishiphenyl) -2-(puropiruamineo)butan-1-o n",
+  "systematic name": "1-(1,3-benzodioxol-5-yl)-2-(propylamino)butan-1-one",
   "aliases": [
+    "n-Propyl bk-bdb",
     "Putylone",
-    "bk-PBDB"
+    "n-Propylbutylone",
+    "betaK-Pdbd",
+    "UNII-46BQ874756",
+    "46BQ874756",
+    ".BETA.K-PDBD",
+    "1-(1,3-Benzodioxol-5-yl)-2-(propylamino)butan-1-one",
+    "1-Butanone, 1-(1,3-benzodioxol-5-yl)-2-(propylamino)-",
+    "Butyrophenone, 3',4'-(methylenedioxy)-2-(propylamino)-",
+    "RefChem:202211",
+    "DTXSID201341990",
+    "PD163861",
+    "Q27895585",
+    "1-(1,3-Benzodioxol-5-yl)-2-(propylamino)-1-butanone"
   ],
   "identifiers": {
     "pubchem_cid": "122129922",
     "inchi_key": "NRIHOTHAMAUSRO-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "NRIHOTHAMAUSRO-UHFFFAOYSA-N",
+    "pubchemCID": "122129922"
   },
   "categories": [],
   "legal": {
@@ -36,5 +51,31 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/122129922"
+  ],
+  "molecular_formula": "C14H19NO3",
+  "molecular_weight": "249.30",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(1,3-benzodioxol-5-yl)-2-(propylamino)butan-1-one",
+  "synonyms_pubchem": [
+    "n-Propyl bk-bdb",
+    "Putylone",
+    "n-Propylbutylone",
+    "betaK-Pdbd",
+    "UNII-46BQ874756",
+    "46BQ874756",
+    ".BETA.K-PDBD",
+    "1-(1,3-Benzodioxol-5-yl)-2-(propylamino)butan-1-one",
+    "1-Butanone, 1-(1,3-benzodioxol-5-yl)-2-(propylamino)-",
+    "Butyrophenone, 3',4'-(methylenedioxy)-2-(propylamino)-",
+    "802286-81-3",
+    "RefChem:202211",
+    "DTXSID201341990",
+    "PD163861",
+    "Q27895585",
+    "1-(1,3-Benzodioxol-5-yl)-2-(propylamino)-1-butanone"
+  ]
 }

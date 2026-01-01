@@ -1,12 +1,24 @@
 {
   "id": "hmdma",
   "common_name": "HMDMA",
-  "systematic name": "N-mechiru-4-(3,4-mechirenjio kishiphenyl)butan-2-amine及びそ の salts",
-  "aliases": [],
+  "systematic name": "N-methyl-N-(2-methylpropyl)-1,3-benzodioxol-5-amine",
+  "aliases": [
+    "HMDMA",
+    "N-Methyl-3,4-methylenedioxyphenylisobutylamine",
+    "1,3-Benzodioxole-5-propanamine, N,alpha-dimethyl-, (+-)-",
+    "RefChem:163695",
+    "n-methyl-n-(2-methylpropyl)-1,3-benzodioxol-5-amine",
+    "DTXSID00910655",
+    "N,alpha-dimethyl-1,3-benzodioxole-5-propanamine",
+    "Propylamine, N,1-dimethyl-3-(3,4-methylenedioxyphenyl)-",
+    "N-METHYL-N-(2-METHYLPROPYL)-2H-1,3-BENZODIOXOL-5-AMINE"
+  ],
   "identifiers": {
     "pubchem_cid": "130058",
     "inchi_key": "PUKMCMUXXJZVNY-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "PUKMCMUXXJZVNY-UHFFFAOYSA-N",
+    "pubchemCID": "130058"
   },
   "categories": [],
   "legal": {
@@ -33,5 +45,26 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/130058"
+  ],
+  "molecular_formula": "C12H17NO2",
+  "molecular_weight": "207.27",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-methyl-N-(2-methylpropyl)-1,3-benzodioxol-5-amine",
+  "synonyms_pubchem": [
+    "HMDMA",
+    "N-Methyl-3,4-methylenedioxyphenylisobutylamine",
+    "108248-08-4",
+    "1,3-Benzodioxole-5-propanamine, N,alpha-dimethyl-, (+-)-",
+    "RefChem:163695",
+    "n-methyl-n-(2-methylpropyl)-1,3-benzodioxol-5-amine",
+    "92279-87-3",
+    "DTXSID00910655",
+    "N,alpha-dimethyl-1,3-benzodioxole-5-propanamine",
+    "Propylamine, N,1-dimethyl-3-(3,4-methylenedioxyphenyl)-",
+    "N-METHYL-N-(2-METHYLPROPYL)-2H-1,3-BENZODIOXOL-5-AMINE"
+  ]
 }

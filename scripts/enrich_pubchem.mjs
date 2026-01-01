@@ -34,9 +34,14 @@ function parseArgs(argv) {
     dir: "data/substances",
     dryRun: false,
     force: false,
-    throttleMs: 250, // <= 5 req/sec (PubChem policy guidance) :contentReference[oaicite:2]{index=2}
+    throttleMs: 250, // <= 5 req/sec (PubChem policy guidance)
     maxSynonyms: 200,
-    only: null, // optional: enrich single id/file
+    maxAliases: 30, // aliases に入れる上限（フィルタ後）
+    only: null,
+
+    // ★追加：上書きしたい時だけ使う
+    overwriteSystematic: false,
+    overwriteAliases: false,
   };
 
   for (let i = 2; i < argv.length; i++) {
@@ -46,7 +51,11 @@ function parseArgs(argv) {
     else if (a === "--dir") args.dir = argv[++i];
     else if (a === "--throttle-ms") args.throttleMs = Number(argv[++i] ?? 250);
     else if (a === "--max-synonyms") args.maxSynonyms = Number(argv[++i] ?? 200);
+    else if (a === "--max-aliases") args.maxAliases = Number(argv[++i] ?? 30);
     else if (a === "--only") args.only = argv[++i];
+
+    else if (a === "--overwrite-systematic") args.overwriteSystematic = true;
+    else if (a === "--overwrite-aliases") args.overwriteAliases = true;
   }
   return args;
 }
@@ -70,19 +79,16 @@ async function fetchJson(url, { throttleMs, cache, cacheKey }) {
 
   const res = await fetch(url, {
     headers: {
-      // polite UA
       "User-Agent": "truth-light-jp (PubChem enrichment script)",
       "Accept": "application/json,text/plain,*/*",
     },
   });
 
-  // PubChem sometimes returns non-JSON error bodies; handle gracefully
   const text = await res.text();
   let data = null;
   try {
     data = JSON.parse(text);
   } catch {
-    // keep raw text in error
     if (!res.ok) {
       throw new Error(`HTTP ${res.status} ${res.statusText} for ${url}\n${text.slice(0, 300)}`);
     }
@@ -95,16 +101,16 @@ async function fetchJson(url, { throttleMs, cache, cacheKey }) {
 
   if (cacheKey) cache[cacheKey] = data;
 
-  // Throttle (PubChem recommends limiting request volume) :contentReference[oaicite:3]{index=3}
   await sleep(throttleMs);
   return data;
 }
 
 function pickQueryName(substance) {
-  // Prefer English name; fallback to Japanese name; fallback to id
+  // Prefer English name; fallback to Japanese name; fallback to common_name; fallback to id
   return (
     substance?.name_en ||
     substance?.name_ja ||
+    substance?.common_name ||
     substance?.name ||
     substance?.id ||
     null
@@ -112,18 +118,61 @@ function pickQueryName(substance) {
 }
 
 function extractCidsFromPugResult(obj) {
-  // Typical PUG-REST CID list: { IdentifierList: { CID: [ ... ] } }
   const cids = obj?.IdentifierList?.CID;
   return Array.isArray(cids) ? cids.map((n) => String(n)) : [];
+}
+
+function normalizeIdentifiers(identifiers) {
+  const out = { ...(identifiers ?? {}) };
+
+  // ありがちな揺れ吸収
+  if (out.inchi_key && !out.inchikey) out.inchikey = out.inchi_key;
+  if (out.inchikey && !out.inchi_key) out.inchi_key = out.inchikey;
+
+  if (out.pubchemCID && !out.pubchem_cid) out.pubchem_cid = out.pubchemCID;
+  if (out.pubchem_cid && !out.pubchemCID) out.pubchemCID = out.pubchem_cid;
+
+  return out;
+}
+
+function getSystematicName(obj) {
+  return obj?.["systematic name"] ?? obj?.systematic_name ?? null;
+}
+
+function setSystematicName(obj, val) {
+  if (!val) return;
+  // “どっちのキーでも参照できる”ように両方入れる（好みで片方だけでもOK）
+  obj["systematic name"] = val;
+  obj.systematic_name = val;
+}
+
+function sanitizeSynonymsForAliases(syns) {
+  const cleaned = (syns ?? [])
+    .map((s) => String(s).trim())
+    .filter(Boolean)
+    .filter((s) => s.length <= 80)
+    .filter((s) => !/^inchi=/i.test(s))
+    .filter((s) => !/^smiles\s*:/i.test(s))
+    .filter((s) => !/^\d+(\-\d+)*$/.test(s)) // ただの数字/ハイフン列
+    .filter((s) => !/^cid\s*\d+$/i.test(s));
+
+  // 大文字小文字の重複潰し
+  const seen = new Set();
+  const out = [];
+  for (const s of cleaned) {
+    const k = s.toLowerCase();
+    if (seen.has(k)) continue;
+    seen.add(k);
+    out.push(s);
+  }
+  return out;
 }
 
 async function resolveCid({ identifiers, name, throttleMs, cache }) {
   const base = "https://pubchem.ncbi.nlm.nih.gov/rest/pug";
 
-  // If already have CID, trust it
   if (identifiers?.pubchem_cid) return { cid: String(identifiers.pubchem_cid), candidates: [] };
 
-  // If have InChIKey, ask PubChem by inchikey → cids
   if (identifiers?.inchikey) {
     const ik = encodeURIComponent(String(identifiers.inchikey));
     const url = `${base}/compound/inchikey/${ik}/cids/JSON`;
@@ -133,7 +182,6 @@ async function resolveCid({ identifiers, name, throttleMs, cache }) {
     return { cid: null, candidates };
   }
 
-  // If have SMILES, ask PubChem by smiles → cids
   if (identifiers?.smiles) {
     const smi = encodeURIComponent(String(identifiers.smiles));
     const url = `${base}/compound/smiles/${smi}/cids/JSON`;
@@ -143,7 +191,6 @@ async function resolveCid({ identifiers, name, throttleMs, cache }) {
     return { cid: null, candidates };
   }
 
-  // Else: by name → cids (PubChem tutorial uses /compound/name/{name}/cids) :contentReference[oaicite:4]{index=4}
   if (name) {
     const q = encodeURIComponent(String(name));
     const url = `${base}/compound/name/${q}/cids/JSON`;
@@ -158,7 +205,8 @@ async function resolveCid({ identifiers, name, throttleMs, cache }) {
 
 async function fetchProperties(cid, { throttleMs, cache }) {
   const base = "https://pubchem.ncbi.nlm.nih.gov/rest/pug";
-  // PUG-REST property endpoint is /compound/cid/{cid}/property/Prop1,Prop2/.../JSON :contentReference[oaicite:5]{index=5}
+
+  // ★IUPACName を追加
   const props = [
     "MolecularFormula",
     "MolecularWeight",
@@ -166,7 +214,9 @@ async function fetchProperties(cid, { throttleMs, cache }) {
     "IsomericSMILES",
     "InChI",
     "InChIKey",
+    "IUPACName",
   ].join(",");
+
   const url = `${base}/compound/cid/${encodeURIComponent(cid)}/property/${props}/JSON`;
   const data = await fetchJson(url, { throttleMs, cache, cacheKey: `props:${cid}:${props}` });
 
@@ -176,12 +226,9 @@ async function fetchProperties(cid, { throttleMs, cache }) {
 
 async function fetchSynonyms(cid, { throttleMs, cache }) {
   const base = "https://pubchem.ncbi.nlm.nih.gov/rest/pug";
-  // Synonyms endpoint exists; tutorial shows TXT format: /compound/cid/{cid}/synonyms/TXT :contentReference[oaicite:6]{index=6}
-  // JSON also supported by PUG-REST services. We'll request JSON.
   const url = `${base}/compound/cid/${encodeURIComponent(cid)}/synonyms/JSON`;
   const data = await fetchJson(url, { throttleMs, cache, cacheKey: `syn:${cid}` });
 
-  // Typical: { InformationList: { Information: [ { CID, Synonym: [...] } ] } }
   const info = data?.InformationList?.Information?.[0];
   const syns = info?.Synonym;
   return Array.isArray(syns) ? syns.map(String) : [];
@@ -191,8 +238,7 @@ function ensureShape(obj, idFromFile) {
   const out = { ...obj };
   out.id = out.id ?? idFromFile;
 
-  out.identifiers = out.identifiers ?? out.identifier ?? {};
-  // normalize: some files may use `identifier`
+  out.identifiers = normalizeIdentifiers(out.identifiers ?? out.identifier ?? {});
   delete out.identifier;
 
   out.refs = toArray(out.refs ?? out.references ?? []);
@@ -204,7 +250,10 @@ function ensureShape(obj, idFromFile) {
   return out;
 }
 
-async function enrichOneFile(filePath, { dryRun, force, throttleMs, maxSynonyms, cache }) {
+async function enrichOneFile(
+  filePath,
+  { dryRun, force, throttleMs, maxSynonyms, maxAliases, overwriteSystematic, overwriteAliases, cache }
+) {
   const id = path.basename(filePath).replace(/\.json$/i, "");
   const raw = ensureShape(readJson(filePath), id);
 
@@ -212,7 +261,6 @@ async function enrichOneFile(filePath, { dryRun, force, throttleMs, maxSynonyms,
 
   const before = JSON.stringify(raw);
 
-  // Resolve CID
   const { cid, candidates } = await resolveCid({
     identifiers: raw.identifiers,
     name,
@@ -221,13 +269,17 @@ async function enrichOneFile(filePath, { dryRun, force, throttleMs, maxSynonyms,
   });
 
   if (!cid) {
-    // If multiple candidates, skip unless --force
     if (candidates.length > 1 && force) {
       raw.identifiers.pubchem_cid = candidates[0];
       raw.pubchem_candidates = candidates;
     } else {
       raw.pubchem_candidates = candidates;
-      return { id, changed: false, skipped: true, reason: candidates.length > 1 ? "multiple CIDs" : "no CID" };
+      return {
+        id,
+        changed: false,
+        skipped: true,
+        reason: candidates.length > 1 ? "multiple CIDs" : "no CID",
+      };
     }
   } else {
     raw.identifiers.pubchem_cid = raw.identifiers.pubchem_cid ?? cid;
@@ -238,10 +290,9 @@ async function enrichOneFile(filePath, { dryRun, force, throttleMs, maxSynonyms,
   // Fetch props
   const props = await fetchProperties(cidFinal, { throttleMs, cache });
   if (props) {
-    // Only fill missing; never overwrite explicit human edits
     raw.identifiers.inchikey = raw.identifiers.inchikey ?? props.InChIKey ?? null;
+    raw.identifiers.inchi_key = raw.identifiers.inchi_key ?? raw.identifiers.inchikey ?? null;
 
-    // prefer existing SMILES if set
     raw.identifiers.smiles =
       raw.identifiers.smiles ??
       props.CanonicalSMILES ??
@@ -251,16 +302,40 @@ async function enrichOneFile(filePath, { dryRun, force, throttleMs, maxSynonyms,
     raw.molecular_formula = raw.molecular_formula ?? props.MolecularFormula ?? null;
     raw.molecular_weight = raw.molecular_weight ?? props.MolecularWeight ?? null;
 
-    // Optional: store both SMILES variants
     raw.smiles_canonical = raw.smiles_canonical ?? props.CanonicalSMILES ?? null;
     raw.smiles_isomeric = raw.smiles_isomeric ?? props.IsomericSMILES ?? null;
+
+    // ★systematic name (IUPACName)
+    const currentSys = getSystematicName(raw);
+    const nextSys = props.IUPACName ?? null;
+
+    if (nextSys) {
+      const shouldWrite =
+        overwriteSystematic ||
+        currentSys == null ||
+        String(currentSys).trim() === "";
+
+      if (shouldWrite) setSystematicName(raw, nextSys);
+    }
   }
 
-  // Fetch synonyms (store separately from curated aliases)
+  // Fetch synonyms
   const syns = await fetchSynonyms(cidFinal, { throttleMs, cache });
+
   if (syns.length) {
-    raw.synonyms_pubchem = mergeUnique(raw.synonyms_pubchem ?? [], syns)
-      .slice(0, maxSynonyms);
+    // 既存どおり：フルは synonyms_pubchem に
+    raw.synonyms_pubchem = mergeUnique(raw.synonyms_pubchem ?? [], syns).slice(0, maxSynonyms);
+
+    // ★aliases に“使えそうなやつ”だけ入れる
+    const usable = sanitizeSynonymsForAliases(syns).slice(0, maxAliases);
+
+    const shouldWriteAliases = overwriteAliases || (raw.aliases?.length ?? 0) === 0;
+    if (shouldWriteAliases) {
+      raw.aliases = mergeUnique(overwriteAliases ? [] : raw.aliases, usable);
+    } else {
+      // aliases が既にある場合は「足すだけ」
+      raw.aliases = mergeUnique(raw.aliases, usable);
+    }
   }
 
   // Add refs
@@ -287,7 +362,10 @@ async function main() {
     process.exit(1);
   }
 
-  let files = fs.readdirSync(srcDir).filter((f) => f.endsWith(".json"));
+  let files = fs
+    .readdirSync(srcDir)
+    .filter((f) => f.endsWith(".json"))
+    .filter((f) => !f.startsWith("_"));
   if (args.only) {
     const onlyFile = args.only.endsWith(".json") ? args.only : `${args.only}.json`;
     files = files.filter((f) => f === onlyFile);
@@ -304,6 +382,9 @@ async function main() {
         force: args.force,
         throttleMs: args.throttleMs,
         maxSynonyms: args.maxSynonyms,
+        maxAliases: args.maxAliases,
+        overwriteSystematic: args.overwriteSystematic,
+        overwriteAliases: args.overwriteAliases,
         cache,
       });
 
@@ -324,9 +405,7 @@ async function main() {
 
   saveCache(cachePath, cache);
 
-  console.log(
-    `[enrich] done. changed=${changedCount}, skipped=${skippedCount}, dryRun=${args.dryRun}`
-  );
+  console.log(`[enrich] done. changed=${changedCount}, skipped=${skippedCount}, dryRun=${args.dryRun}`);
 }
 
 main().catch((e) => {

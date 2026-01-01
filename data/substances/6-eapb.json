@@ -1,12 +1,34 @@
 {
   "id": "6-eapb",
   "common_name": "6-EAPB",
-  "systematic name": "1-(benzofuran-6-iru)-N-e chirupuropan-2-amine 類",
-  "aliases": [],
+  "systematic name": "1-(1-benzofuran-6-yl)-N-ethylpropan-2-amine",
+  "aliases": [
+    "6-EAPB",
+    "LWB2M746C9",
+    "1-(1-benzofuran-6-yl)-N-ethylpropan-2-amine",
+    "(1-(benzofuran-6-yl)-N-ethylpropan-2-amine)",
+    "DTXSID001010103",
+    "N-ETHYL-.ALPHA.-METHYL-6-BENZOFURANETHANAMINE",
+    "6-BENZOFURANETHANAMINE, N-ETHYL-.ALPHA.-METHYL-",
+    "(1-(1-BENZOFURAN-6-YL)PROPAN-2-YL)(ETHYL)AMINE",
+    "RefChem:104572",
+    "DTXCID001436523",
+    "6-BENZOFURANETHANAMINE, N-ETHYL-ALPHA-METHYL-",
+    "N-ETHYL-ALPHA-METHYL-6-BENZOFURANETHANAMINE",
+    "UNII-LWB2M746C9",
+    "1-(benzofuran-6-yl)-N-ethylpropan-2-amine",
+    "SCHEMBL27197707",
+    "SCHEMBL30457781",
+    "FB138075",
+    "PD046181",
+    "NS00068014"
+  ],
   "identifiers": {
     "pubchem_cid": "102336591",
     "inchi_key": "MIRNYUKRRZFBOI-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "MIRNYUKRRZFBOI-UHFFFAOYSA-N",
+    "pubchemCID": "102336591"
   },
   "categories": [],
   "legal": {
@@ -33,5 +55,36 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/102336591"
+  ],
+  "molecular_formula": "C13H17NO",
+  "molecular_weight": "203.28",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(1-benzofuran-6-yl)-N-ethylpropan-2-amine",
+  "synonyms_pubchem": [
+    "6-EAPB",
+    "LWB2M746C9",
+    "1-(1-benzofuran-6-yl)-N-ethylpropan-2-amine",
+    "(1-(benzofuran-6-yl)-N-ethylpropan-2-amine)",
+    "DTXSID001010103",
+    "N-ETHYL-.ALPHA.-METHYL-6-BENZOFURANETHANAMINE",
+    "6-BENZOFURANETHANAMINE, N-ETHYL-.ALPHA.-METHYL-",
+    "(1-(1-BENZOFURAN-6-YL)PROPAN-2-YL)(ETHYL)AMINE",
+    "RefChem:104572",
+    "DTXCID001436523",
+    "6-BENZOFURANETHANAMINE, N-ETHYL-ALPHA-METHYL-",
+    "N-ETHYL-ALPHA-METHYL-6-BENZOFURANETHANAMINE",
+    "1632539-47-9",
+    "UNII-LWB2M746C9",
+    "1-(benzofuran-6-yl)-N-ethylpropan-2-amine",
+    "SCHEMBL27197707",
+    "SCHEMBL30457781",
+    "FB138075",
+    "PD046181",
+    "NS00068014",
+    "6-EAPB; 6-Benzofuranethanamine, N-ethyl-a-methyl-; N-Ethyl-a-methyl-6-benzofuranethanamine; 1-(Benzofuran-6-yl)-N-ethyl-propan-2-amine; 6-EAPB"
+  ]
 }

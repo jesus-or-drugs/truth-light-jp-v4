@@ -1,12 +1,31 @@
 {
   "id": "ma-chminaca",
   "common_name": "MA-CHMINACA",
-  "systematic name": "mechiru=2-[1-(cyclohexylmechi ru)-1H-indazo-ru-3-karubo kisamido]-3-mechirubutanoa-to及び その salts",
-  "aliases": [],
+  "systematic name": "methyl (2S)-2-[[1-(cyclohexylmethyl)indazole-3-carbonyl]amino]-3-methylbutanoate",
+  "aliases": [
+    "ma-chminaca",
+    "Mab-ab-chminaca",
+    "AMB-CHMINACA",
+    "OU56JJP891",
+    "Methyl (1-(cyclohexylmethyl)-1H-indazole-3-carbonyl)-L-valinate",
+    "RefChem:201545",
+    "AB-CHMINACAMetaboliteM2MethylEster",
+    "UNII-OU56JJP891",
+    "Methyl (2S)-2-[[1-(cyclohexylmethyl)indazole-3-carbonyl]amino]-3-methylbutanoate",
+    "AB-CHMINACA Metabolite M2 Methyl Ester",
+    "SCHEMBL30641101",
+    "DTXSID601344891",
+    "MFCD30718092",
+    "NS00101075",
+    "Q21098942",
+    "N-[[1-(Cyclohexylmethyl)-1H-indazol-3-yl]carbonyl]-L-valine methyl ester"
+  ],
   "identifiers": {
     "pubchem_cid": "119026010",
     "inchi_key": "CRGGXDSTBHQLKJ-SFHVURJKSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "CRGGXDSTBHQLKJ-SFHVURJKSA-N",
+    "pubchemCID": "119026010"
   },
   "categories": [],
   "legal": {
@@ -33,5 +52,35 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/119026010"
+  ],
+  "molecular_formula": "C21H29N3O3",
+  "molecular_weight": "371.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "methyl (2S)-2-[[1-(cyclohexylmethyl)indazole-3-carbonyl]amino]-3-methylbutanoate",
+  "synonyms_pubchem": [
+    "ma-chminaca",
+    "1971007-96-1",
+    "Mab-ab-chminaca",
+    "AMB-CHMINACA",
+    "OU56JJP891",
+    "Methyl (1-(cyclohexylmethyl)-1H-indazole-3-carbonyl)-L-valinate",
+    "Methyl (2S)-2-((1-(cyclohexylmethyl)indazole-3-carbonyl)amino)-3-methyl-butanoate",
+    "methyl (2S)-2-[[1-(cyclohexylmethyl)indazole-3-carbonyl]amino]-3-methyl-butanoate",
+    "RefChem:201545",
+    "AB-CHMINACAMetaboliteM2MethylEster",
+    "UNII-OU56JJP891",
+    "Methyl (2S)-2-[[1-(cyclohexylmethyl)indazole-3-carbonyl]amino]-3-methylbutanoate",
+    "AB-CHMINACA Metabolite M2 Methyl Ester",
+    "SCHEMBL30641101",
+    "DTXSID601344891",
+    "MFCD30718092",
+    "NS00101075",
+    "Q21098942",
+    "N-[[1-(Cyclohexylmethyl)-1H-indazol-3-yl]carbonyl]-L-valine methyl ester",
+    "methyl (2s)-2-{[1-(cyclohexylmethyl)-1h-indazole-3-carbonyl]amino}-3-methylbutanoate"
+  ]
 }

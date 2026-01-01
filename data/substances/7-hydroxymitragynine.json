@@ -1,14 +1,36 @@
 {
   "id": "7-hydroxymitragynine",
   "common_name": "7-Hydroxymitragynine",
-  "systematic name": "(E)-mechiru=2-[(2S,3S,7aS, 12bS)-3-echiru-7a-hidorokishi -8-methoxy-1,2,3,4,6,7,7 a,12b-okutahidoroindoro[2,3- a]kinorijin-2-iru]-3-methoxy akurira-to",
+  "systematic name": "methyl (E)-2-[(2S,3S,7aS,12bS)-3-ethyl-7a-hydroxy-8-methoxy-2,3,4,6,7,12b-hexahydro-1H-indolo[2,3-a]quinolizin-2-yl]-3-methoxyprop-2-enoate",
   "aliases": [
-    "7a-Hydroxy-7H-mitragynine"
+    "7-Hydroxymitragynine",
+    "Mitragynine hydroxyindolenine",
+    "7-hydroxy-mitragynine",
+    "2T3TWA75R0",
+    "DTXSID20903988",
+    "RefChem:914344",
+    "DTXCID801331923",
+    "7-Hydroxy Mitragynine",
+    "9-Methoxycorynantheidine hydroxyindolenine",
+    "CHEMBL61630",
+    "UNII-2T3TWA75R0",
+    "7-OH-MIT",
+    "SCHEMBL11986821",
+    "CHEBI:180536",
+    "BDBM50474153",
+    "FH74974",
+    "NCGC00488460-01",
+    "PD057019",
+    "7-Hydroxymitragynine 100 microg/mL in Methanol",
+    "Q4642872",
+    "7-Hydroxy Mitragynine (100 mg/mL in 0.1 N Ammonia in Methanol)"
   ],
   "identifiers": {
     "pubchem_cid": "44301524",
     "inchi_key": "RYENLSMHLCNXJT-CYXFISRXSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "RYENLSMHLCNXJT-CYXFISRXSA-N",
+    "pubchemCID": "44301524"
   },
   "categories": [],
   "legal": {
@@ -35,5 +57,41 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/44301524"
+  ],
+  "molecular_formula": "C23H30N2O5",
+  "molecular_weight": "414.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "methyl (E)-2-[(2S,3S,7aS,12bS)-3-ethyl-7a-hydroxy-8-methoxy-2,3,4,6,7,12b-hexahydro-1H-indolo[2,3-a]quinolizin-2-yl]-3-methoxyprop-2-enoate",
+  "synonyms_pubchem": [
+    "7-Hydroxymitragynine",
+    "174418-82-7",
+    "Mitragynine hydroxyindolenine",
+    "7-hydroxy-mitragynine",
+    "2T3TWA75R0",
+    "DTXSID20903988",
+    "Indolo(2,3-a)quinolizine-2-acetic acid, 3-ethyl-1,2,3,4,6,7,7a,12b-octahydro-7a-hydroxy-8-methoxy-alpha-(methoxymethylene)-, methyl ester, (alphaE,2S,3S,7aS,12bS)-",
+    "Indolo[2,3-a]quinolizine-2-acetic acid, 3-ethyl-1,2,3,4,6,7,7a,12b-octahydro-7a-hydroxy-8-methoxy-alpha-(methoxymethylene)-, methyl ester, (alphaE,2S,3S,7aS,12bS)-",
+    "RefChem:914344",
+    "DTXCID801331923",
+    "7-Hydroxy Mitragynine",
+    "9-Methoxycorynantheidine hydroxyindolenine",
+    "CHEMBL61630",
+    "methyl (E)-2-[(2S,3S,7aS,12bS)-3-ethyl-7a-hydroxy-8-methoxy-2,3,4,6,7,12b-hexahydro-1H-indolo[2,3-a]quinolizin-2-yl]-3-methoxyprop-2-enoate",
+    "UNII-2T3TWA75R0",
+    "7-OH-MIT",
+    "SCHEMBL11986821",
+    "CHEBI:180536",
+    "BDBM50474153",
+    "FH74974",
+    "NCGC00488460-01",
+    "PD057019",
+    "7-Hydroxymitragynine 100 microg/mL in Methanol",
+    "Q4642872",
+    "7-Hydroxy Mitragynine (100 mg/mL in 0.1 N Ammonia in Methanol)",
+    "methyl (E)-2-[(2S,3S,7aS,12bS)-3-ethyl-7a-hydroxy-8-methoxy-2,3,4,6,7,12b-hexahydro-1H-indolo[2,3-a]quinolizin-2-yl]-3-methoxy-prop-2-enoate"
+  ]
 }

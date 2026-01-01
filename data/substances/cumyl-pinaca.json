@@ -1,12 +1,31 @@
 {
   "id": "cumyl-pinaca",
   "common_name": "CUMYL-PINACA",
-  "systematic name": "1-penchiru-N-(2-phenylpuro pan-2-iru)-1H-indazo-ru -3-karubokisamido",
-  "aliases": [],
+  "systematic name": "1-pentyl-N-(2-phenylpropan-2-yl)indazole-3-carboxamide",
+  "aliases": [
+    "Cumyl-PINACA",
+    "3N1P3KD3CV",
+    "SGT-24",
+    "N-(1-methyl-1-phenylethyl)-1-pentyl-1H-indazole-3-carboxamide",
+    "1-pentyl-N-(2-phenylpropan-2-yl)-1h-indazole-3-carboxamide",
+    "DTXSID001019036",
+    "RefChem:926585",
+    "DTXCID301477031",
+    "CUMYL-PINACA (CRM)",
+    "UNII-3N1P3KD3CV",
+    "1-pentyl-N-(2-phenylpropan-2-yl)indazole-3-carboxamide",
+    "SCHEMBL16173752",
+    "SCHEMBL30353002",
+    "AGC74215",
+    "NS00101004",
+    "1H-INDAZOLE-3-CARBOXAMIDE, N-(1-METHYL-1-PHENYLETHYL)-1-PENTYL-"
+  ],
   "identifiers": {
     "pubchem_cid": "86273676",
     "inchi_key": "LCBASRYREGWIJT-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "LCBASRYREGWIJT-UHFFFAOYSA-N",
+    "pubchemCID": "86273676"
   },
   "categories": [],
   "legal": {
@@ -33,5 +52,32 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/86273676"
+  ],
+  "molecular_formula": "C22H27N3O",
+  "molecular_weight": "349.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-pentyl-N-(2-phenylpropan-2-yl)indazole-3-carboxamide",
+  "synonyms_pubchem": [
+    "Cumyl-PINACA",
+    "1400742-15-5",
+    "3N1P3KD3CV",
+    "SGT-24",
+    "N-(1-methyl-1-phenylethyl)-1-pentyl-1H-indazole-3-carboxamide",
+    "1-pentyl-N-(2-phenylpropan-2-yl)-1h-indazole-3-carboxamide",
+    "DTXSID001019036",
+    "RefChem:926585",
+    "DTXCID301477031",
+    "CUMYL-PINACA (CRM)",
+    "UNII-3N1P3KD3CV",
+    "1-pentyl-N-(2-phenylpropan-2-yl)indazole-3-carboxamide",
+    "SCHEMBL16173752",
+    "SCHEMBL30353002",
+    "AGC74215",
+    "NS00101004",
+    "1H-INDAZOLE-3-CARBOXAMIDE, N-(1-METHYL-1-PHENYLETHYL)-1-PENTYL-"
+  ]
 }

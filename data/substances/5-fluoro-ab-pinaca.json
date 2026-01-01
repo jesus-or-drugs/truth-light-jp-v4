@@ -1,12 +1,30 @@
 {
   "id": "5-fluoro-ab-pinaca",
   "common_name": "5-Fluoro-AB-PINACA",
-  "systematic name": "N-(1-amineo-3-mechiru-1-oki sobutan-2-iru)-1-(5-furuoro penchiru)-1H-indazo-ru-3-karubo kisamido",
-  "aliases": [],
+  "systematic name": "N-[(2S)-1-amino-3-methyl-1-oxobutan-2-yl]-1-(5-fluoropentyl)indazole-3-carboxamide",
+  "aliases": [
+    "5-Fluoro-AB-PINACA",
+    "5F-AB-PINACA",
+    "UNII-3L83B2298V",
+    "5-Fluoro AB-PINACA",
+    "3L83B2298V",
+    "CHEMBL4077214",
+    "AB-PINACA 5-fluoro analog",
+    "SCHEMBL21140768",
+    "SCHEMBL29822416",
+    "DTXSID401009970",
+    "BDBM50249597",
+    "5F-AB-PINACA, 1mg/ml in Methanol",
+    "5F-AB-PINACA, 0.1mg/ml in Methanol",
+    "PD019020",
+    "Q20707112"
+  ],
   "identifiers": {
     "pubchem_cid": "91936927",
     "inchi_key": "WCBYXIBEPFZUBG-HNNXBMFYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "WCBYXIBEPFZUBG-HNNXBMFYSA-N",
+    "pubchemCID": "91936927"
   },
   "categories": [],
   "legal": {
@@ -33,5 +51,36 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/91936927"
+  ],
+  "molecular_formula": "C18H25FN4O2",
+  "molecular_weight": "348.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-[(2S)-1-amino-3-methyl-1-oxobutan-2-yl]-1-(5-fluoropentyl)indazole-3-carboxamide",
+  "synonyms_pubchem": [
+    "5-Fluoro-AB-PINACA",
+    "5F-AB-PINACA",
+    "1800101-60-3",
+    "UNII-3L83B2298V",
+    "5-Fluoro AB-PINACA",
+    "3L83B2298V",
+    "CHEMBL4077214",
+    "1H-Indazole-3-carboxamide, N-((1S)-1-(aminocarbonyl)-2-methylpropyl)-1-(5-fluoropentyl)-",
+    "N-((1S)-1-(Aminocarbonyl)-2-methylpropyl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide",
+    "N-[(2S)-1-amino-3-methyl-1-oxobutan-2-yl]-1-(5-fluoropentyl)indazole-3-carboxamide",
+    "N-[(1S)-1-(aminocarbonyl)-2-methylpropyl]-1-(5-fluoropentyl)-1H-indazole-3-carboxamide",
+    "AB-PINACA 5-fluoro analog",
+    "SCHEMBL21140768",
+    "SCHEMBL29822416",
+    "DTXSID401009970",
+    "BDBM50249597",
+    "5F-AB-PINACA, 1mg/ml in Methanol",
+    "5F-AB-PINACA, 0.1mg/ml in Methanol",
+    "PD019020",
+    "Q20707112",
+    "(s)-N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-1h-indazole-3-carboxamide"
+  ]
 }

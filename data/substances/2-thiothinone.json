@@ -1,14 +1,27 @@
 {
   "id": "2-thiothinone",
   "common_name": "2-Thiothinone",
-  "systematic name": "2-(mechiruamineo)-1-(chiofen- 2-iru)puropan-1-on",
+  "systematic name": "2-(methylamino)-1-thiophen-2-ylpropan-1-one",
   "aliases": [
-    "βk-MPA"
+    "Thiothinone",
+    "2-Thiothinone",
+    "2-(Methylamino)-1-(2-thienyl)-1-propanone",
+    "8C758Z7L72",
+    "UNII-8C758Z7L72",
+    "1-Propanone, 2-(methylamino)-1-(2-thienyl)-",
+    "RefChem:197960",
+    "SCHEMBL5227559",
+    "DTXSID901031598",
+    "PD045190",
+    "NS00096984",
+    "Q27270177"
   ],
   "identifiers": {
     "pubchem_cid": "12198617",
     "inchi_key": "DOZQPYDMJMLVKX-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "DOZQPYDMJMLVKX-UHFFFAOYSA-N",
+    "pubchemCID": "12198617"
   },
   "categories": [],
   "legal": {
@@ -35,5 +48,28 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/12198617"
+  ],
+  "molecular_formula": "C8H11NOS",
+  "molecular_weight": "169.25",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(methylamino)-1-thiophen-2-ylpropan-1-one",
+  "synonyms_pubchem": [
+    "Thiothinone",
+    "2-Thiothinone",
+    "2-(Methylamino)-1-(2-thienyl)-1-propanone",
+    "8C758Z7L72",
+    "UNII-8C758Z7L72",
+    "1-Propanone, 2-(methylamino)-1-(2-thienyl)-",
+    "RefChem:197960",
+    "24065-17-6",
+    "SCHEMBL5227559",
+    "DTXSID901031598",
+    "PD045190",
+    "NS00096984",
+    "Q27270177"
+  ]
 }

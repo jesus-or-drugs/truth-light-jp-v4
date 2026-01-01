@@ -1,14 +1,27 @@
 {
   "id": "5f-emb-pica",
   "common_name": "5F-EMB-PICA",
-  "systematic name": "echiru=2-[1-(5-furuoropenchi ru) -1H-indo-ru-3-karuboki samido]-3-mechirubutanoa-to及びそ の salts",
+  "systematic name": "ethyl (2S)-2-[[1-(5-fluoropentyl)indole-3-carbonyl]amino]-3-methylbutanoate",
   "aliases": [
-    "EMB-2201"
+    "ZWF7RX4ZHP",
+    "5F-EMB-PICA",
+    "5-FLUORO EMB-PICA",
+    "EMB-2201",
+    "ETHYL (1-(5-FLUOROPENTYL)-1H-INDOLE-3-CARBONYL)-L-VALINATE",
+    "RefChem:198901",
+    "N-[[1-(5-fluoropentyl)-1H-indol-3-yl]carbonyl]-L-valine, ethyl ester",
+    "ethyl (2S)-2-[[1-(5-fluoropentyl)indole-3-carbonyl]amino]-3-methylbutanoate",
+    "DTXSID401339999",
+    "PD131021",
+    "Ethyl N-{[1-(5-fluoropentyl)-1H-indol-3-yl]carbonyl}-L-valinate",
+    "ethyl (2S)-2-[[1-(5-fluoropentyl)indole-3-carbonyl]amino]-3-methyl-butanoate"
   ],
   "identifiers": {
     "pubchem_cid": "155907803",
     "inchi_key": "WPRKGJGOLPGBMG-IBGZPJMESA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "WPRKGJGOLPGBMG-IBGZPJMESA-N",
+    "pubchemCID": "155907803"
   },
   "categories": [],
   "legal": {
@@ -35,5 +48,28 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/155907803"
+  ],
+  "molecular_formula": "C21H29FN2O3",
+  "molecular_weight": "376.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "ethyl (2S)-2-[[1-(5-fluoropentyl)indole-3-carbonyl]amino]-3-methylbutanoate",
+  "synonyms_pubchem": [
+    "ZWF7RX4ZHP",
+    "5F-EMB-PICA",
+    "5-FLUORO EMB-PICA",
+    "EMB-2201",
+    "ETHYL (1-(5-FLUOROPENTYL)-1H-INDOLE-3-CARBONYL)-L-VALINATE",
+    "RefChem:198901",
+    "2648861-83-8",
+    "N-[[1-(5-fluoropentyl)-1H-indol-3-yl]carbonyl]-L-valine, ethyl ester",
+    "ethyl (2S)-2-[[1-(5-fluoropentyl)indole-3-carbonyl]amino]-3-methylbutanoate",
+    "DTXSID401339999",
+    "PD131021",
+    "Ethyl N-{[1-(5-fluoropentyl)-1H-indol-3-yl]carbonyl}-L-valinate",
+    "ethyl (2S)-2-[[1-(5-fluoropentyl)indole-3-carbonyl]amino]-3-methyl-butanoate"
+  ]
 }

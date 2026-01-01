@@ -3,12 +3,35 @@
   "common_name": "APICA",
   "systematic name": "N-(1-adamantyl)-1-pentylindole-3-carboxamide",
   "aliases": [
-    "2NE1"
+    "APICA",
+    "2NE1",
+    "N-(1-Adamantyl)-1-pentyl-1H-indole-3-carboxamide",
+    "DTXSID80745427",
+    "RefChem:1090774",
+    "DTXCID70696171",
+    "SDB-001",
+    "N-(1-adamantyl)-1-pentylindole-3-carboxamide",
+    "UNII-HKU510FH74",
+    "HKU510FH74",
+    "SDB 001",
+    "CHEMBL4104511",
+    "1-pentyl-N-tricyclo[3.3.1.13,7]dec-1-yl-1H-indole-3-carboxamide",
+    "1-PENTYL-N-TRICYCLO(3.3.1.13,7)DEC-1-YL-1H-INDOLE-3-CARBOXAMIDE",
+    "N-(adamtan-1-yl)-1-pentyl-1H-indole-3-carboxamide",
+    "SCHEMBL17291908",
+    "SCHEMBL29462270",
+    "BDBM50257659",
+    "MFCD27952520",
+    "AKOS025149436",
+    "CA175123",
+    "NS00018073"
   ],
   "identifiers": {
     "pubchem_cid": "71308155",
     "inchi_key": "MDJYHWLDDJBTMX-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "MDJYHWLDDJBTMX-UHFFFAOYSA-N",
+    "pubchemCID": "71308155"
   },
   "categories": [],
   "legal": {
@@ -35,5 +58,38 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/71308155"
+  ],
+  "molecular_formula": "C24H32N2O",
+  "molecular_weight": "364.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-(1-adamantyl)-1-pentylindole-3-carboxamide",
+  "synonyms_pubchem": [
+    "APICA",
+    "1345973-50-3",
+    "2NE1",
+    "N-(1-Adamantyl)-1-pentyl-1H-indole-3-carboxamide",
+    "DTXSID80745427",
+    "RefChem:1090774",
+    "DTXCID70696171",
+    "SDB-001",
+    "N-(1-adamantyl)-1-pentylindole-3-carboxamide",
+    "UNII-HKU510FH74",
+    "HKU510FH74",
+    "SDB 001",
+    "CHEMBL4104511",
+    "1-pentyl-N-tricyclo[3.3.1.13,7]dec-1-yl-1H-indole-3-carboxamide",
+    "1-PENTYL-N-TRICYCLO(3.3.1.13,7)DEC-1-YL-1H-INDOLE-3-CARBOXAMIDE",
+    "N-(adamtan-1-yl)-1-pentyl-1H-indole-3-carboxamide",
+    "SCHEMBL17291908",
+    "SCHEMBL29462270",
+    "BDBM50257659",
+    "MFCD27952520",
+    "AKOS025149436",
+    "CA175123",
+    "NS00018073"
+  ]
 }

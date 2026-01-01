@@ -1,12 +1,35 @@
 {
   "id": "jwh-182",
   "common_name": "JWH-182",
-  "systematic name": "(1-penchiru-1H-indo-ru-3 -iru)(4-puropirunafutaren-1 -iru)metanon",
-  "aliases": [],
+  "systematic name": "(1-pentylindol-3-yl)-(4-propylnaphthalen-1-yl)methanone",
+  "aliases": [
+    "JWH-182",
+    "7H0XW15CON",
+    "DTXSID401337155",
+    "RefChem:1087912",
+    "DTXCID201767508",
+    "CHEMBL564302",
+    "Methanone, (1-pentyl-1H-indol-3-yl)(4-propyl-1-naphthalenyl)-",
+    "1-pentyl-3-(4-propylnaphthalene-1-carbonyl)-1H-indole",
+    "(1-pentyl-1H-indol-3-yl)(4-propylnaphthalen-1-yl)methanone",
+    "JWH 182",
+    "SCHEMBL6331544",
+    "SCHEMBL29385305",
+    "BDBM50414056",
+    "AKOS027330821",
+    "DS-017471",
+    "NS00017573",
+    "(4-ethyl-1-naphthyl)-(1-pentylindol-3-yl)methanone",
+    "Q27268277",
+    "(1-pentylindol-3-yl)-(4-propylnaphthalen-1-yl)methanone",
+    "(1-PENTYL-1H-INDOL-3-YL)(4-PROPYL-1-NAPHTHALENYL)METHANONE"
+  ],
   "identifiers": {
     "pubchem_cid": "45268702",
     "inchi_key": "AKGUMDFQXWZHHS-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "AKGUMDFQXWZHHS-UHFFFAOYSA-N",
+    "pubchemCID": "45268702"
   },
   "categories": [],
   "legal": {
@@ -33,5 +56,36 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/45268702"
+  ],
+  "molecular_formula": "C27H29NO",
+  "molecular_weight": "383.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "(1-pentylindol-3-yl)-(4-propylnaphthalen-1-yl)methanone",
+  "synonyms_pubchem": [
+    "JWH-182",
+    "824960-02-3",
+    "7H0XW15CON",
+    "DTXSID401337155",
+    "RefChem:1087912",
+    "DTXCID201767508",
+    "CHEMBL564302",
+    "Methanone, (1-pentyl-1H-indol-3-yl)(4-propyl-1-naphthalenyl)-",
+    "1-pentyl-3-(4-propylnaphthalene-1-carbonyl)-1H-indole",
+    "(1-pentyl-1H-indol-3-yl)(4-propylnaphthalen-1-yl)methanone",
+    "JWH 182",
+    "SCHEMBL6331544",
+    "SCHEMBL29385305",
+    "BDBM50414056",
+    "AKOS027330821",
+    "DS-017471",
+    "NS00017573",
+    "(4-ethyl-1-naphthyl)-(1-pentylindol-3-yl)methanone",
+    "Q27268277",
+    "(1-pentylindol-3-yl)-(4-propylnaphthalen-1-yl)methanone",
+    "(1-PENTYL-1H-INDOL-3-YL)(4-PROPYL-1-NAPHTHALENYL)METHANONE"
+  ]
 }

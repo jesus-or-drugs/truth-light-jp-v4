@@ -1,12 +1,37 @@
 {
   "id": "5-apdb",
   "common_name": "5-APDB",
-  "systematic name": "1-(2,3-jihidorobenzofuran-5- iru)puropan-2-amine 類",
-  "aliases": [],
+  "systematic name": "1-(2,3-dihydro-1-benzofuran-5-yl)propan-2-amine",
+  "aliases": [
+    "5-APDB",
+    "3-Desoxy-MDA",
+    "UNII-UI10BAJ8SH",
+    "UI10BAJ8SH",
+    "EMA-4",
+    "5-NProp-DBF",
+    "5-(2-aminopropyl)-2,3-dihydrobenzofuran",
+    "J3.334.442B",
+    "RefChem:102019",
+    "5-BENZOFURANETHANAMINE, 2,3-DIHYDRO-ALPHA-METHYL-, (+-)-",
+    "5-BENZOFURANETHANAMINE, 2,3-DIHYDRO-.ALPHA.-METHYL-, (+-)-",
+    "1-(2,3-dihydro-1-benzofuran-5-yl)propan-2-amine",
+    "5-(Aminopropyl)-2,3-dihydrobenzofuran",
+    "CHEMBL123351",
+    "SCHEMBL2561330",
+    "SCHEMBL29804006",
+    "DTXSID70934560",
+    "AKOS009989690",
+    "PD048326",
+    "NS00017971",
+    "Q4639568",
+    "5-BENZOFURANETHANAMINE, 2,3-DIHYDRO-.ALPHA.-METHYL-, (+/-)-"
+  ],
   "identifiers": {
     "pubchem_cid": "192601",
     "inchi_key": "PZTJXZKNTPCPJL-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "PZTJXZKNTPCPJL-UHFFFAOYSA-N",
+    "pubchemCID": "192601"
   },
   "categories": [],
   "legal": {
@@ -33,5 +58,38 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/192601"
+  ],
+  "molecular_formula": "C11H15NO",
+  "molecular_weight": "177.24",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(2,3-dihydro-1-benzofuran-5-yl)propan-2-amine",
+  "synonyms_pubchem": [
+    "152624-03-8",
+    "5-APDB",
+    "3-Desoxy-MDA",
+    "UNII-UI10BAJ8SH",
+    "UI10BAJ8SH",
+    "EMA-4",
+    "5-NProp-DBF",
+    "5-(2-aminopropyl)-2,3-dihydrobenzofuran",
+    "J3.334.442B",
+    "RefChem:102019",
+    "5-BENZOFURANETHANAMINE, 2,3-DIHYDRO-ALPHA-METHYL-, (+-)-",
+    "5-BENZOFURANETHANAMINE, 2,3-DIHYDRO-.ALPHA.-METHYL-, (+-)-",
+    "1-(2,3-dihydro-1-benzofuran-5-yl)propan-2-amine",
+    "5-(Aminopropyl)-2,3-dihydrobenzofuran",
+    "CHEMBL123351",
+    "SCHEMBL2561330",
+    "SCHEMBL29804006",
+    "DTXSID70934560",
+    "AKOS009989690",
+    "PD048326",
+    "NS00017971",
+    "Q4639568",
+    "5-BENZOFURANETHANAMINE, 2,3-DIHYDRO-.ALPHA.-METHYL-, (+/-)-"
+  ]
 }

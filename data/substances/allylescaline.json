@@ -1,12 +1,35 @@
 {
   "id": "allylescaline",
   "common_name": "Allylescaline",
-  "systematic name": "2-(4-ariruokishi-3,5-jimeto kishiphenyl)etanamine 類",
-  "aliases": [],
+  "systematic name": "2-(3,5-dimethoxy-4-prop-2-enoxyphenyl)ethanamine",
+  "aliases": [
+    "Allylescaline",
+    "3,5-DIMETHOXY-4-(ALLYLOXY)PHENETHYLAMINE",
+    "J39IWS08EN",
+    "4-Allyloxy-3,5-dimethoxyphenethylamine",
+    "3,5-DIMETHOXY-4-(2-PROPEN-1-YLOXY)BENZENEETHANAMINE",
+    "BENZENEETHANAMINE, 3,5-DIMETHOXY-4-(2-PROPEN-1-YLOXY)-",
+    "RefChem:110906",
+    "UNII-J39IWS08EN",
+    "3,5-Dimethoxy-4-(2-propenyloxy)benzeneethanamine",
+    "2-(3,5-dimethoxy-4-prop-2-enoxyphenyl)ethanamine",
+    "Benzeneethanamine, 3,5-dimethoxy-4-(2-propenyloxy)-",
+    "SCHEMBL20970915",
+    "DTXSID80660348",
+    "PBA20175",
+    "AKOS005930490",
+    "3,5-Dimethoxy-4-allyloxyphenethylamine",
+    "DB-347848",
+    "NS00018397",
+    "Q4733442",
+    "2-{3,5-Dimethoxy-4-[(prop-2-en-1-yl)oxy]phenyl}ethan-1-amine"
+  ],
   "identifiers": {
     "pubchem_cid": "44719469",
     "inchi_key": "JNUAYHHGCXYBHX-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "JNUAYHHGCXYBHX-UHFFFAOYSA-N",
+    "pubchemCID": "44719469"
   },
   "categories": [],
   "legal": {
@@ -33,5 +56,37 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/44719469"
+  ],
+  "molecular_formula": "C13H19NO3",
+  "molecular_weight": "237.29",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(3,5-dimethoxy-4-prop-2-enoxyphenyl)ethanamine",
+  "synonyms_pubchem": [
+    "Allylescaline",
+    "39201-75-7",
+    "3,5-DIMETHOXY-4-(ALLYLOXY)PHENETHYLAMINE",
+    "J39IWS08EN",
+    "4-Allyloxy-3,5-dimethoxyphenethylamine",
+    "3,5-DIMETHOXY-4-(2-PROPEN-1-YLOXY)BENZENEETHANAMINE",
+    "BENZENEETHANAMINE, 3,5-DIMETHOXY-4-(2-PROPEN-1-YLOXY)-",
+    "RefChem:110906",
+    "UNII-J39IWS08EN",
+    "3,5-Dimethoxy-4-(2-propenyloxy)benzeneethanamine",
+    "2-(3,5-dimethoxy-4-prop-2-enoxyphenyl)ethanamine",
+    "Benzeneethanamine, 3,5-dimethoxy-4-(2-propenyloxy)-",
+    "SCHEMBL20970915",
+    "DTXSID80660348",
+    "PBA20175",
+    "AKOS005930490",
+    "3,5-Dimethoxy-4-allyloxyphenethylamine",
+    "DB-347848",
+    "NS00018397",
+    "Q4733442",
+    "2-{3,5-Dimethoxy-4-[(prop-2-en-1-yl)oxy]phenyl}ethan-1-amine",
+    "Allylescaline; Benzeneethanamine, 3,5-dimethoxy-4-(2-propen-1-yloxy)-; Benzeneethanamine, 3,5-dimethoxy-4-(2-propenyloxy)- (9CI); 3,5-Dimethoxy-4-(allyloxy)phenethylamine; 4-Allyloxy-3,5-dimethoxyphenethylazan"
+  ]
 }

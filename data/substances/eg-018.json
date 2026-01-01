@@ -1,12 +1,31 @@
 {
   "id": "eg-018",
   "common_name": "EG-018",
-  "systematic name": "nafutaren-1-iru(9-penchiru-9 H-karubazo-ru-3-iru)metanon",
-  "aliases": [],
+  "systematic name": "naphthalen-1-yl-(9-pentylcarbazol-3-yl)methanone",
+  "aliases": [
+    "naphthalen-1-yl(9-pentyl-9h-carbazol-3-yl)methanone",
+    "eg-018",
+    "5G2788GL5G",
+    "RefChem:136347",
+    "1-Naphthyl-(9-pentylcarbazol-3-yl)methanone",
+    "naphthalen-1-yl-(9-pentylcarbazol-3-yl)methanone",
+    "UNII-5G2788GL5G",
+    "EG 018",
+    "C28H25NO",
+    "SCHEMBL30031560",
+    "SCHEMBL31052986",
+    "DTXSID001337258",
+    "UND32091",
+    "NS00017385",
+    "1-Naphthalenyl(9-pentyl-9H-carbazol-3-yl)methanone",
+    "Q27262035"
+  ],
   "identifiers": {
     "pubchem_cid": "118796466",
     "inchi_key": "FJMMDJDPNLZYLA-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "FJMMDJDPNLZYLA-UHFFFAOYSA-N",
+    "pubchemCID": "118796466"
   },
   "categories": [],
   "legal": {
@@ -33,5 +52,32 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/118796466"
+  ],
+  "molecular_formula": "C28H25NO",
+  "molecular_weight": "391.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "naphthalen-1-yl-(9-pentylcarbazol-3-yl)methanone",
+  "synonyms_pubchem": [
+    "naphthalen-1-yl(9-pentyl-9h-carbazol-3-yl)methanone",
+    "eg-018",
+    "2219320-91-7",
+    "5G2788GL5G",
+    "RefChem:136347",
+    "1-Naphthyl-(9-pentylcarbazol-3-yl)methanone",
+    "naphthalen-1-yl-(9-pentylcarbazol-3-yl)methanone",
+    "UNII-5G2788GL5G",
+    "EG 018",
+    "C28H25NO",
+    "SCHEMBL30031560",
+    "SCHEMBL31052986",
+    "DTXSID001337258",
+    "UND32091",
+    "NS00017385",
+    "1-Naphthalenyl(9-pentyl-9H-carbazol-3-yl)methanone",
+    "Q27262035"
+  ]
 }

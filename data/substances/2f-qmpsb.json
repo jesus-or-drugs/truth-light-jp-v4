@@ -1,12 +1,27 @@
 {
   "id": "2f-qmpsb",
   "common_name": "2F-QMPSB",
-  "systematic name": "kinorin-8-iru=3-[(4,4-jifu ruoropiperijin-1-iru)suruhoni ru]-4-mechirubenzoa-to",
-  "aliases": [],
+  "systematic name": "quinolin-8-yl 3-(4,4-difluoropiperidin-1-yl)sulfonyl-4-methylbenzoate",
+  "aliases": [
+    "2F-QMPSB",
+    "F2QP2J5B2Z",
+    "SGT-13",
+    "QUINOLIN-8-YL 3-((4,4-DIFLUOROPIPERIDIN-1-YL)SULFONYL)-4-METHYLBENZOATE",
+    "RefChem:198003",
+    "2-fluoro QMPSB",
+    "C22H20F2N2O4S",
+    "DTXSID301337095",
+    "PD121680",
+    "HY-158943",
+    "8-Quinolinyl 3-[(4,4-difluoro-1-piperidinyl)sulfonyl]-4-methylbenzoate",
+    "8-quinolyl 3-[(4,4-difluoro-1-piperidyl)sulfonyl]-4-methyl-benzoate"
+  ],
   "identifiers": {
     "pubchem_cid": "155884739",
     "inchi_key": "JOSWCKYCXJMLNM-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "JOSWCKYCXJMLNM-UHFFFAOYSA-N",
+    "pubchemCID": "155884739"
   },
   "categories": [],
   "legal": {
@@ -33,5 +48,28 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/155884739"
+  ],
+  "molecular_formula": "C22H20F2N2O4S",
+  "molecular_weight": "446.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "quinolin-8-yl 3-(4,4-difluoropiperidin-1-yl)sulfonyl-4-methylbenzoate",
+  "synonyms_pubchem": [
+    "2F-QMPSB",
+    "F2QP2J5B2Z",
+    "SGT-13",
+    "QUINOLIN-8-YL 3-((4,4-DIFLUOROPIPERIDIN-1-YL)SULFONYL)-4-METHYLBENZOATE",
+    "RefChem:198003",
+    "2-fluoro QMPSB",
+    "2707165-48-6",
+    "C22H20F2N2O4S",
+    "DTXSID301337095",
+    "PD121680",
+    "HY-158943",
+    "8-Quinolinyl 3-[(4,4-difluoro-1-piperidinyl)sulfonyl]-4-methylbenzoate",
+    "8-quinolyl 3-[(4,4-difluoro-1-piperidyl)sulfonyl]-4-methyl-benzoate"
+  ]
 }

@@ -1,12 +1,39 @@
 {
   "id": "aleph-2",
   "common_name": "ALEPH-2",
-  "systematic name": "1-(4-echirusurufaniru-2,5- jimethoxyphenyl)puropan-2-ami n",
-  "aliases": [],
+  "systematic name": "1-(4-ethylsulfanyl-2,5-dimethoxyphenyl)propan-2-amine",
+  "aliases": [
+    "2,5-dimethoxy-4-ethylthioamphetamine",
+    "Aleph-2",
+    "UNII-Z1I419DRZZ",
+    "Z1I419DRZZ",
+    "J2.263.284A",
+    "4-(Ethylthio)-2,5-dimethoxy-alpha-methylbenzeneethanamine",
+    "1-[4-(ETHYLSULFANYL)-2,5-DIMETHOXYPHENYL]PROPAN-2-AMINE",
+    "Benzeneethanamine, 4-(ethylthio)-2,5-dimethoxy-alpha-methyl-",
+    "4-(ETHYLTHIO)-2,5-DIMETHOXY-.ALPHA.-METHYLBENZENEETHANAMINE",
+    "BENZENEETHANAMINE, 4-(ETHYLTHIO)-2,5-DIMETHOXY-.ALPHA.-METHYL-",
+    "1-(4-(ethylsulfanyl)-2,5-dimethoxyphenyl)propan-2-amine",
+    "RefChem:82894",
+    "CHEMBL339611",
+    "1-(4-ethylsulfanyl-2,5-dimethoxyphenyl)propan-2-amine",
+    "4-(ethylthio)-2,5-dimethoxy-alpha-methyl-benzeneethanamine",
+    "SCHEMBL713042",
+    "SCHEMBL29543481",
+    "DTXSID401043188",
+    "KHA56200",
+    "BDBM50164337",
+    "DB13940",
+    "NS00017998",
+    "Q16527585",
+    "2-(4-Ethylsulfanyl-2,5-dimethoxy-phenyl)-1-methyl-ethylamine"
+  ],
   "identifiers": {
     "pubchem_cid": "10264356",
     "inchi_key": "MCYCODJKXUJSAT-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "MCYCODJKXUJSAT-UHFFFAOYSA-N",
+    "pubchemCID": "10264356"
   },
   "categories": [],
   "legal": {
@@ -33,5 +60,40 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/10264356"
+  ],
+  "molecular_formula": "C13H21NO2S",
+  "molecular_weight": "255.38",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(4-ethylsulfanyl-2,5-dimethoxyphenyl)propan-2-amine",
+  "synonyms_pubchem": [
+    "2,5-dimethoxy-4-ethylthioamphetamine",
+    "Aleph-2",
+    "185562-00-9",
+    "UNII-Z1I419DRZZ",
+    "Z1I419DRZZ",
+    "J2.263.284A",
+    "4-(Ethylthio)-2,5-dimethoxy-alpha-methylbenzeneethanamine",
+    "1-[4-(ETHYLSULFANYL)-2,5-DIMETHOXYPHENYL]PROPAN-2-AMINE",
+    "Benzeneethanamine, 4-(ethylthio)-2,5-dimethoxy-alpha-methyl-",
+    "4-(ETHYLTHIO)-2,5-DIMETHOXY-.ALPHA.-METHYLBENZENEETHANAMINE",
+    "BENZENEETHANAMINE, 4-(ETHYLTHIO)-2,5-DIMETHOXY-.ALPHA.-METHYL-",
+    "1-(4-(ethylsulfanyl)-2,5-dimethoxyphenyl)propan-2-amine",
+    "RefChem:82894",
+    "CHEMBL339611",
+    "1-(4-ethylsulfanyl-2,5-dimethoxyphenyl)propan-2-amine",
+    "4-(ethylthio)-2,5-dimethoxy-alpha-methyl-benzeneethanamine",
+    "SCHEMBL713042",
+    "SCHEMBL29543481",
+    "DTXSID401043188",
+    "KHA56200",
+    "BDBM50164337",
+    "DB13940",
+    "NS00017998",
+    "Q16527585",
+    "2-(4-Ethylsulfanyl-2,5-dimethoxy-phenyl)-1-methyl-ethylamine"
+  ]
 }

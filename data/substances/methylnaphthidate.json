@@ -1,14 +1,34 @@
 {
   "id": "methylnaphthidate",
   "common_name": "Methylnaphthidate",
-  "systematic name": "2-(nafutaren-2-iru)-2-(pi perijin-2-iru) acetatemechiruesute ru",
+  "systematic name": "methyl (2R)-2-naphthalen-2-yl-2-[(2R)-piperidin-2-yl]acetate",
   "aliases": [
-    "HDMP-28"
+    "Methylnaphthidate",
+    "hdmp-28",
+    "DL-Threo-methylnaphthidate",
+    "T52Y9T2U0W",
+    "UNII-T52Y9T2U0W",
+    "Methyl 2-(naphthalen-2-yl)-2-(piperidin-2-yl)acetate",
+    "2-Piperidineacetic acid, alpha-2-naphthalenyl-, methyl ester",
+    "2-Piperidineacetic acid, alpha-2-naphthalenyl-, methyl ester, (alphaR,2R)-rel-",
+    "2-PIPERIDINEACETIC ACID, .ALPHA.-2-NAPHTHALENYL-, METHYL ESTER",
+    "RefChem:158268",
+    "CHEMBL1183494",
+    "SCHEMBL30036151",
+    "CHEBI:172381",
+    "DTXSID201027520",
+    "BDBM50327107",
+    "PD046009",
+    "Q5629209",
+    "(R)-methyl 2-(naphthalen-2-yl)-2-((R)-piperidin-2-yl)acetate",
+    "methyl (2R)-2-naphthalen-2-yl-2-[(2R)-piperidin-2-yl]acetate"
   ],
   "identifiers": {
     "pubchem_cid": "9817261",
     "inchi_key": "DNRNSIJBSCBESJ-IAGOWNOFSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "DNRNSIJBSCBESJ-IAGOWNOFSA-N",
+    "pubchemCID": "9817261"
   },
   "categories": [],
   "legal": {
@@ -35,5 +55,36 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/9817261"
+  ],
+  "molecular_formula": "C18H21NO2",
+  "molecular_weight": "283.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "methyl (2R)-2-naphthalen-2-yl-2-[(2R)-piperidin-2-yl]acetate",
+  "synonyms_pubchem": [
+    "Methylnaphthidate",
+    "hdmp-28",
+    "DL-Threo-methylnaphthidate",
+    "T52Y9T2U0W",
+    "UNII-T52Y9T2U0W",
+    "231299-82-4",
+    "Methyl 2-(naphthalen-2-yl)-2-(piperidin-2-yl)acetate",
+    "2-Piperidineacetic acid, alpha-2-naphthalenyl-, methyl ester",
+    "2-Piperidineacetic acid, alpha-2-naphthalenyl-, methyl ester, (alphaR,2R)-rel-",
+    "2-PIPERIDINEACETIC ACID, .ALPHA.-2-NAPHTHALENYL-, METHYL ESTER",
+    "2-PIPERIDINEACETIC ACID, .ALPHA.-2-NAPHTHALENYL-, METHYL ESTER, (.ALPHA.R,2R)-REL-",
+    "RefChem:158268",
+    "CHEMBL1183494",
+    "SCHEMBL30036151",
+    "CHEBI:172381",
+    "DTXSID201027520",
+    "BDBM50327107",
+    "PD046009",
+    "Q5629209",
+    "(R)-methyl 2-(naphthalen-2-yl)-2-((R)-piperidin-2-yl)acetate",
+    "methyl (2R)-2-naphthalen-2-yl-2-[(2R)-piperidin-2-yl]acetate"
+  ]
 }

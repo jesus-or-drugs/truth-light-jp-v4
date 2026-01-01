@@ -1,12 +1,39 @@
 {
   "id": "jwh-251",
   "common_name": "JWH-251",
-  "systematic name": "2-(2-mechiruphenyl)-1-(1-pe nchiru-1H-indo-ru-3-iru) etan-1-on",
-  "aliases": [],
+  "systematic name": "2-(2-methylphenyl)-1-(1-pentylindol-3-yl)ethanone",
+  "aliases": [
+    "JWH-251",
+    "55H9NDH32M",
+    "2-(2-Methylphenyl)-1-(1-pentyl-1H-indol-3-yl)ethanone",
+    "DTXSID80235555",
+    "RefChem:150690",
+    "DTXCID10158046",
+    "1-Pentyl-3-(2-methylphenylacetyl)indole",
+    "JWH 251",
+    "UNII-55H9NDH32M",
+    "2-(2-methylphenyl)-1-(1-pentylindol-3-yl)ethanone",
+    "CHEMBL364820",
+    "1-(1-pentyl-1H-indol-3-yl)-2-o-tolylethanone",
+    "1-(1-pentyl-1H-indol-3-yl)-2-(o-tolyl)ethan-1-one",
+    "SCHEMBL2473611",
+    "SCHEMBL29387464",
+    "SCHEMBL29410255",
+    "YBIPNGRKUAVSBG-UHFFFAOYSA-N",
+    "BDBM50170339",
+    "AKOS040752217",
+    "CCG-208751",
+    "NS00017655",
+    "1-(1-Pentyl-1H-indol-3-yl)-2-o-tolyl-ethanone",
+    "Q6109220",
+    "Ethanone, 2-(2-methylphenyl)-1-(1-pentyl-1H-indol-3-yl)-"
+  ],
   "identifiers": {
     "pubchem_cid": "11616723",
     "inchi_key": "YBIPNGRKUAVSBG-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "YBIPNGRKUAVSBG-UHFFFAOYSA-N",
+    "pubchemCID": "11616723"
   },
   "categories": [],
   "legal": {
@@ -33,5 +60,41 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/11616723"
+  ],
+  "molecular_formula": "C22H25NO",
+  "molecular_weight": "319.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(2-methylphenyl)-1-(1-pentylindol-3-yl)ethanone",
+  "synonyms_pubchem": [
+    "JWH-251",
+    "864445-39-6",
+    "55H9NDH32M",
+    "2-(2-Methylphenyl)-1-(1-pentyl-1H-indol-3-yl)ethanone",
+    "DTXSID80235555",
+    "RefChem:150690",
+    "DTXCID10158046",
+    "1-Pentyl-3-(2-methylphenylacetyl)indole",
+    "JWH 251",
+    "UNII-55H9NDH32M",
+    "2-(2-methylphenyl)-1-(1-pentylindol-3-yl)ethanone",
+    "CHEMBL364820",
+    "1-(1-pentyl-1H-indol-3-yl)-2-o-tolylethanone",
+    "1-(1-pentyl-1H-indol-3-yl)-2-(o-tolyl)ethan-1-one",
+    "SCHEMBL2473611",
+    "SCHEMBL29387464",
+    "SCHEMBL29410255",
+    "YBIPNGRKUAVSBG-UHFFFAOYSA-N",
+    "BDBM50170339",
+    "AKOS040752217",
+    "CCG-208751",
+    "NS00017655",
+    "1-(1-Pentyl-1H-indol-3-yl)-2-o-tolyl-ethanone",
+    "Q6109220",
+    "Ethanone, 2-(2-methylphenyl)-1-(1-pentyl-1H-indol-3-yl)-",
+    "Ethanone, 2-(2-methylphenyl)-1-(1-pentyl-1H-indol-3-yl)-; 2-(2-Methylphenyl)-1-(1-pentyl-1H-indol-3-yl)ethanone; JWH 251; JWH-251; 2-(2-Methylphenyl)-1-(1-pentylindol-3-yl)ethanone"
+  ]
 }

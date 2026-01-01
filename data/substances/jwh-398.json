@@ -1,12 +1,40 @@
 {
   "id": "jwh-398",
   "common_name": "JWH-398",
-  "systematic name": "(4-kuroronafutaren-1-iru) (1-penchiru-1H-indo-ru-3 -iru)metanon",
-  "aliases": [],
+  "systematic name": "(4-chloronaphthalen-1-yl)-(1-pentylindol-3-yl)methanone",
+  "aliases": [
+    "JWH-398",
+    "1-Pentyl-3-(4-chloro-1-naphthoyl)indole",
+    "RX0E95S90H",
+    "DEA No. 7398",
+    "J2.972.929H",
+    "DTXSID40156131",
+    "Methanone, (4-chloro-1-naphthalenyl)(1-pentyl-1H-indol-3-yl)-",
+    "RefChem:792609",
+    "DTXCID9078622",
+    "JWH 398",
+    "UNII-RX0E95S90H",
+    "(4-chloronaphthalen-1-yl)-(1-pentylindol-3-yl)methanone",
+    "CHEMBL2206859",
+    "JWH-398; (4-Chloronaphthalen-1-yl)(1-pentylindol-3-yl)methanone",
+    "SCHEMBL11983321",
+    "SCHEMBL29385719",
+    "CHEBI:188081",
+    "IUWBHGFOHXVVKV-UHFFFAOYSA-N",
+    "BDBM50401067",
+    "1-Pentyl-3-(4-chloro-1-naphthyl)indole",
+    "NS00017922",
+    "JWH-398 (1-pentyl-3-(4-chloro-1-naphthoyl)indole)",
+    "Q13390100",
+    "4-chloro-1-naphthalenyl-(1-pentyl-1h-indol-3-yl)methanone",
+    "JWH-398 ((4-Chloronaphthalen-1-yl)(1-pentylindol-3-yl)methanone)"
+  ],
   "identifiers": {
     "pubchem_cid": "57458928",
     "inchi_key": "IUWBHGFOHXVVKV-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "IUWBHGFOHXVVKV-UHFFFAOYSA-N",
+    "pubchemCID": "57458928"
   },
   "categories": [],
   "legal": {
@@ -33,5 +61,42 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/57458928"
+  ],
+  "molecular_formula": "C24H22ClNO",
+  "molecular_weight": "375.9",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "(4-chloronaphthalen-1-yl)-(1-pentylindol-3-yl)methanone",
+  "synonyms_pubchem": [
+    "JWH-398",
+    "1292765-18-4",
+    "1-Pentyl-3-(4-chloro-1-naphthoyl)indole",
+    "RX0E95S90H",
+    "DEA No. 7398",
+    "J2.972.929H",
+    "DTXSID40156131",
+    "Methanone, (4-chloro-1-naphthalenyl)(1-pentyl-1H-indol-3-yl)-",
+    "RefChem:792609",
+    "DTXCID9078622",
+    "JWH 398",
+    "UNII-RX0E95S90H",
+    "(4-chloronaphthalen-1-yl)-(1-pentylindol-3-yl)methanone",
+    "CHEMBL2206859",
+    "JWH-398; (4-Chloronaphthalen-1-yl)(1-pentylindol-3-yl)methanone",
+    "SCHEMBL11983321",
+    "SCHEMBL29385719",
+    "CHEBI:188081",
+    "IUWBHGFOHXVVKV-UHFFFAOYSA-N",
+    "BDBM50401067",
+    "1-Pentyl-3-(4-chloro-1-naphthyl)indole",
+    "NS00017922",
+    "JWH-398 (1-pentyl-3-(4-chloro-1-naphthoyl)indole)",
+    "Q13390100",
+    "4-chloro-1-naphthalenyl-(1-pentyl-1h-indol-3-yl)methanone",
+    "JWH-398 ((4-Chloronaphthalen-1-yl)(1-pentylindol-3-yl)methanone)",
+    "JWH-398 ((4-Chloronaphthalen-1-yl)(1-pentylindol-3-yl)methanone) 1.0 mg/ml in Acetonitrile"
+  ]
 }

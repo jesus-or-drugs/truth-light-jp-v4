@@ -1,12 +1,38 @@
 {
   "id": "am2232",
   "common_name": "AM2232",
-  "systematic name": "5-[3-(1-nafutoiru)-1H-i ndo-ru-1-iru]pentannitoriru及 びその salts",
-  "aliases": [],
+  "systematic name": "5-[3-(naphthalene-1-carbonyl)indol-1-yl]pentanenitrile",
+  "aliases": [
+    "AM-2232",
+    "AM2232",
+    "(1-(4-Cyanobutyl)-3-(naphthalen-1-oyl)indole)",
+    "5-[3-(naphthalene-1-carbonyl)indol-1-yl]pentanenitrile",
+    "5-(3-(1-naphthoyl)-1H-indol-1-yl)pentanenitrile",
+    "40KCH8YIKP",
+    "3-(1-naphthalenylcarbonyl)-1h-indole-1-pentanenitrile",
+    "UNII-40KCH8YIKP",
+    "orb1473060",
+    "SCHEMBL16344147",
+    "SCHEMBL29387064",
+    "DTXSID90187157",
+    "CHEBI:186469",
+    "VWVAIBKHFCUSMD-UHFFFAOYSA-N",
+    "MFCD25973591",
+    "AKOS025149520",
+    "AM 2232",
+    "AM-2232?",
+    "DB-242165",
+    "NS00017600",
+    "H54883",
+    "Q4652486",
+    "1H-INDOLE-1-PENTANENITRILE, 3-(1-NAPHTHALENYLCARBONYL)-"
+  ],
   "identifiers": {
     "pubchem_cid": "57458892",
     "inchi_key": "VWVAIBKHFCUSMD-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "VWVAIBKHFCUSMD-UHFFFAOYSA-N",
+    "pubchemCID": "57458892"
   },
   "categories": [],
   "legal": {
@@ -33,5 +59,40 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/57458892"
+  ],
+  "molecular_formula": "C24H20N2O",
+  "molecular_weight": "352.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "5-[3-(naphthalene-1-carbonyl)indol-1-yl]pentanenitrile",
+  "synonyms_pubchem": [
+    "335161-19-8",
+    "AM-2232",
+    "AM2232",
+    "(1-(4-Cyanobutyl)-3-(naphthalen-1-oyl)indole)",
+    "5-[3-(naphthalene-1-carbonyl)indol-1-yl]pentanenitrile",
+    "5-(3-(1-naphthoyl)-1H-indol-1-yl)pentanenitrile",
+    "40KCH8YIKP",
+    "3-(1-naphthalenylcarbonyl)-1h-indole-1-pentanenitrile",
+    "UNII-40KCH8YIKP",
+    "orb1473060",
+    "SCHEMBL16344147",
+    "SCHEMBL29387064",
+    "DTXSID90187157",
+    "CHEBI:186469",
+    "VWVAIBKHFCUSMD-UHFFFAOYSA-N",
+    "MFCD25973591",
+    "AKOS025149520",
+    "AM 2232",
+    "AM-2232?",
+    "DB-242165",
+    "NS00017600",
+    "H54883",
+    "Q4652486",
+    "1H-INDOLE-1-PENTANENITRILE, 3-(1-NAPHTHALENYLCARBONYL)-",
+    "1H-Indole-1-pentanenitrile, 3-(1-naphthalenylcarbonyl)-; 3-(1-Naphthalenylcarbonyl)-1H-indole-1-pentanenitrile; AM 2232; AM-2232; 5-[3-(Naphthalin-1-carbonyl)-1H-indol-1-yl]pentanenitril"
+  ]
 }

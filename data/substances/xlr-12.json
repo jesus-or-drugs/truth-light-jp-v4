@@ -1,12 +1,28 @@
 {
   "id": "xlr-12",
   "common_name": "XLR-12",
-  "systematic name": "(2,2,3,3-tetoramechirushikuropuro pan-1-iru)[1-(4,4,4-torifu ruorobuchiru)-1H-indo-ru-3 -iru]metanon",
-  "aliases": [],
+  "systematic name": "(2,2,3,3-tetramethylcyclopropyl)-[1-(4,4,4-trifluorobutyl)indol-3-yl]methanone",
+  "aliases": [
+    "(2,2,3,3-tetramethylcyclopropyl)-[1-(4,4,4-trifluorobutyl)indol-3-yl]methanone",
+    "Xlr-12",
+    "EG79K9XQF5",
+    "UNII-EG79K9XQF5",
+    "CHEMBL569082",
+    "XLR12",
+    "C20H24F3NO",
+    "SCHEMBL2077007",
+    "PEXYKZYTXIEEOB-UHFFFAOYSA-N",
+    "DTXSID201024738",
+    "BDBM50303527",
+    "NS00017662",
+    "(2,2,3,3-Tetramethylcyclopropyl)(1-(4,4,4-trifluorobutyl)-1Hindol-3-yl)methanone"
+  ],
   "identifiers": {
     "pubchem_cid": "11559386",
     "inchi_key": "PEXYKZYTXIEEOB-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "PEXYKZYTXIEEOB-UHFFFAOYSA-N",
+    "pubchemCID": "11559386"
   },
   "categories": [],
   "legal": {
@@ -33,5 +49,33 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/11559386"
+  ],
+  "molecular_formula": "C20H24F3NO",
+  "molecular_weight": "351.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "(2,2,3,3-tetramethylcyclopropyl)-[1-(4,4,4-trifluorobutyl)indol-3-yl]methanone",
+  "synonyms_pubchem": [
+    "895155-78-9",
+    "(2,2,3,3-tetramethylcyclopropyl)-[1-(4,4,4-trifluorobutyl)indol-3-yl]methanone",
+    "Xlr-12",
+    "EG79K9XQF5",
+    "UNII-EG79K9XQF5",
+    "(2,2,3,3-tetramethylcyclopropyl)[1-(4,4,4-trifluorobutyl)-1H-indol-3-yl]-methanone",
+    "CHEMBL569082",
+    "(2,2,3,3-Tetramethylcyclopropyl)(1-(4,4,4-trifluorobutyl)-1H-indol-3-yl)methanone",
+    "Methanone, (2,2,3,3-tetramethylcyclopropyl)(1-(4,4,4-trifluorobutyl)-1H-indol-3-yl)-",
+    "(2,2,3,3-tetramethylcyclopropyl)[1-(4,4,4-trifluorobutyl)-1h-indol-3-yl]methanone",
+    "XLR12",
+    "C20H24F3NO",
+    "SCHEMBL2077007",
+    "PEXYKZYTXIEEOB-UHFFFAOYSA-N",
+    "DTXSID201024738",
+    "BDBM50303527",
+    "NS00017662",
+    "(2,2,3,3-Tetramethylcyclopropyl)(1-(4,4,4-trifluorobutyl)-1Hindol-3-yl)methanone"
+  ]
 }

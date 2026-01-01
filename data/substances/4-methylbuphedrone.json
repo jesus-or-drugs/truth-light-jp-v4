@@ -1,12 +1,33 @@
 {
   "id": "4-methylbuphedrone",
   "common_name": "4-Methylbuphedrone",
-  "systematic name": "2-(mechiruamineo)-1-(4-mechirufe niru)butan-1-on",
-  "aliases": [],
+  "systematic name": "2-(methylamino)-1-(4-methylphenyl)butan-1-one",
+  "aliases": [
+    "4-Methylbuphedrone",
+    "A297J1UL90",
+    "1-Butanone, 2-(methylamino)-1-(4-methylphenyl)-",
+    "DTXSID001014193",
+    "RefChem:1061886",
+    "DTXCID70908600",
+    "2-(Methylamino)-1-(4-methylphenyl)-1-butanone",
+    "BZ-6378",
+    "2-(methylamino)-1-(4-methylphenyl)butan-1-one",
+    "4Y78FRB99G",
+    "UNII-A297J1UL90",
+    "4-MeMABP",
+    "UNII-4Y78FRB99G",
+    "ZOGGCQVVLHCLHY-UHFFFAOYSA-N",
+    "4-Methyl-alpha-methylamino-butyrophenone",
+    "PD048695",
+    "NS00017338",
+    "Q20707070"
+  ],
   "identifiers": {
     "pubchem_cid": "71750237",
     "inchi_key": "ZOGGCQVVLHCLHY-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "ZOGGCQVVLHCLHY-UHFFFAOYSA-N",
+    "pubchemCID": "71750237"
   },
   "categories": [],
   "legal": {
@@ -33,5 +54,34 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/71750237"
+  ],
+  "molecular_formula": "C12H17NO",
+  "molecular_weight": "191.27",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(methylamino)-1-(4-methylphenyl)butan-1-one",
+  "synonyms_pubchem": [
+    "4-Methylbuphedrone",
+    "1337016-51-9",
+    "A297J1UL90",
+    "1-Butanone, 2-(methylamino)-1-(4-methylphenyl)-",
+    "DTXSID001014193",
+    "RefChem:1061886",
+    "DTXCID70908600",
+    "2-(Methylamino)-1-(4-methylphenyl)-1-butanone",
+    "BZ-6378",
+    "2-(methylamino)-1-(4-methylphenyl)butan-1-one",
+    "4Y78FRB99G",
+    "UNII-A297J1UL90",
+    "4-MeMABP",
+    "UNII-4Y78FRB99G",
+    "ZOGGCQVVLHCLHY-UHFFFAOYSA-N",
+    "4-Methyl-alpha-methylamino-butyrophenone",
+    "PD048695",
+    "NS00017338",
+    "Q20707070"
+  ]
 }

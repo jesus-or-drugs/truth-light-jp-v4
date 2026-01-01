@@ -1,12 +1,29 @@
 {
   "id": "5-dbfpv",
   "common_name": "5-DBFPV",
-  "systematic name": "1-(2,3-jihidorobenzofuran-5- iru)-2-(pirorijin-1-iru)pe ntan-1-on",
-  "aliases": [],
+  "systematic name": "1-(2,3-dihydro-1-benzofuran-5-yl)-2-pyrrolidin-1-ylpentan-1-one",
+  "aliases": [
+    "3-Desoxy-mdpv",
+    "5-Dbfpv",
+    "5-Dihydrobenzofuranpyrovalerone",
+    "260XIB9AAR",
+    "1-Pentanone, 1-(1,3-dihydro-5-isobenzofuranyl)-2-(1-pyrrolidinyl)-",
+    "RefChem:1072830",
+    "UNII-260XIB9AAR",
+    "CHEBI:172382",
+    "DTXSID301017203",
+    "1-(2,3-dihydro-1-benzofuran-5-yl)-2-(pyrrolidin-1-yl)pentan-1-one",
+    "3-Desoxy-3,4-methylendioxypyrovalerone",
+    "PD045084",
+    "1-(2,3-dihydro-1-benzouran-5-yl)-2-pyrrolidin-1-ylpentan-1-one",
+    "1-(2,3-DIHYDROBENZOFURAN-5-YL)-2-(PYRROLIDIN-1-YL)PENTAN-1-ONE"
+  ],
   "identifiers": {
     "pubchem_cid": "129844558",
     "inchi_key": "CIGWUZUBQBQZAO-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "CIGWUZUBQBQZAO-UHFFFAOYSA-N",
+    "pubchemCID": "129844558"
   },
   "categories": [],
   "legal": {
@@ -33,5 +50,30 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/129844558"
+  ],
+  "molecular_formula": "C17H23NO2",
+  "molecular_weight": "273.37",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(2,3-dihydro-1-benzofuran-5-yl)-2-pyrrolidin-1-ylpentan-1-one",
+  "synonyms_pubchem": [
+    "3-Desoxy-mdpv",
+    "5-Dbfpv",
+    "5-Dihydrobenzofuranpyrovalerone",
+    "260XIB9AAR",
+    "2117405-32-8",
+    "1-Pentanone, 1-(1,3-dihydro-5-isobenzofuranyl)-2-(1-pyrrolidinyl)-",
+    "RefChem:1072830",
+    "UNII-260XIB9AAR",
+    "CHEBI:172382",
+    "DTXSID301017203",
+    "1-(2,3-dihydro-1-benzofuran-5-yl)-2-(pyrrolidin-1-yl)pentan-1-one",
+    "3-Desoxy-3,4-methylendioxypyrovalerone",
+    "PD045084",
+    "1-(2,3-dihydro-1-benzouran-5-yl)-2-pyrrolidin-1-ylpentan-1-one",
+    "1-(2,3-DIHYDROBENZOFURAN-5-YL)-2-(PYRROLIDIN-1-YL)PENTAN-1-ONE"
+  ]
 }

@@ -1,12 +1,23 @@
 {
   "id": "ab-fubinaca_2-_fluorobenzyl_isomer",
   "common_name": "AB-FUBINACA 2- fluorobenzyl isomer",
-  "systematic name": "N-(1-amineo-3-mechiru-1-oki sobutan-2-iru)-1-(2-furuo robenzylu)-1H-indazo-ru-3 -karubokisamido",
-  "aliases": [],
+  "systematic name": "N-[(2S)-1-amino-3-methyl-1-oxobutan-2-yl]-1-[(2-fluorophenyl)methyl]indazole-3-carboxamide",
+  "aliases": [
+    "AB-FUBINACA 2-fluorobenzyl isomer",
+    "D5UV8X4SEM",
+    "DTXSID101017069",
+    "RefChem:108457",
+    "DTXCID501475267",
+    "UNII-D5UV8X4SEM",
+    "SCHEMBL30797733",
+    "NS00097844"
+  ],
   "identifiers": {
     "pubchem_cid": "121232597",
     "inchi_key": "AJGUHANHCUPXSK-KRWDZBQOSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "AJGUHANHCUPXSK-KRWDZBQOSA-N",
+    "pubchemCID": "121232597"
   },
   "categories": [],
   "legal": {
@@ -33,5 +44,30 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/121232597"
+  ],
+  "molecular_formula": "C20H21FN4O2",
+  "molecular_weight": "368.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-[(2S)-1-amino-3-methyl-1-oxobutan-2-yl]-1-[(2-fluorophenyl)methyl]indazole-3-carboxamide",
+  "synonyms_pubchem": [
+    "AB-FUBINACA 2-fluorobenzyl isomer",
+    "1185282-16-9",
+    "D5UV8X4SEM",
+    "DTXSID101017069",
+    "N-((2S)-1-Amino-3-methyl-1-oxobutan-2-yl)-1-((2-fluorophenyl)methyl)-1H-indazole-3-carboxamide",
+    "N-((2S)-1-Amino-3-methyl-1-oxo-2-butanyl)-1-(2-fluorobenzyl)-1H-i ndazole-3-carboxamide",
+    "1H-Indazole-3-carboxamide, N-((1S)-1-(aminocarbonyl)-2-methylpropyl)-1-((2-fluorophenyl)methyl)-",
+    "N-((1S)-1-(Aminocarbonyl)-2-methylpropyl)-1-((2-fluorophenyl)methyl)-1H-indazole-3-carboxamide",
+    "N-[(1S)-1-(aminocarbonyl)-2-methylpropyl]-1-[(2-fluorophenyl)methyl]-1H-indazole-3-carboxamide",
+    "RefChem:108457",
+    "DTXCID501475267",
+    "UNII-D5UV8X4SEM",
+    "SCHEMBL30797733",
+    "NS00097844",
+    "N-[(2S)-1-amino-3-methyl-1-oxobutan-2-yl]-1-[(2-fluorophenyl)methyl]indazole-3-carboxamide"
+  ]
 }

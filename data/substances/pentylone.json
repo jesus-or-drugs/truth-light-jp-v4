@@ -1,12 +1,37 @@
 {
   "id": "pentylone",
   "common_name": "Pentylone",
-  "systematic name": "2-(mechiruamineo)-1-(3, 4-mechiren jiokishiphenyl)pentan-1-on及 びその salts",
-  "aliases": [],
+  "systematic name": "1-(1,3-benzodioxol-5-yl)-2-(methylamino)pentan-1-one",
+  "aliases": [
+    "Pentylone",
+    "bk-Methyl-K",
+    "bk-MBDP",
+    "IGN39WGH0Q",
+    "DEA No. 7542",
+    "J3.293.464A",
+    "DTXSID401014183",
+    "RefChem:171527",
+    "DTXCID60908593",
+    "UNII-IGN39WGH0Q",
+    "Methylbenzodioxolylpentanamine",
+    "1-(1,3-benzodioxol-5-yl)-2-(methylamino)pentan-1-one",
+    "beta-Keto-methylbenzodioxolylpentanamine",
+    "NRG-3",
+    "Pentylone (hydrochloride)",
+    "MFCD28015752",
+    "SCHEMBL17644174",
+    "DFMLULIEUUXXSA-UHFFFAOYSA-N",
+    "NS00015478",
+    "Q7165334",
+    "(+/-)-1-(1,3-benzodioxol-5-yl)-2-(methylamino)pentan-1-one",
+    "1-PENTANONE, 1-(1,3-BENZODIOXOL-5-YL)-2-(METHYLAMINO)-"
+  ],
   "identifiers": {
     "pubchem_cid": "60208608",
     "inchi_key": "DFMLULIEUUXXSA-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "DFMLULIEUUXXSA-UHFFFAOYSA-N",
+    "pubchemCID": "60208608"
   },
   "categories": [],
   "legal": {
@@ -33,5 +58,38 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/60208608"
+  ],
+  "molecular_formula": "C13H17NO3",
+  "molecular_weight": "235.28",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(1,3-benzodioxol-5-yl)-2-(methylamino)pentan-1-one",
+  "synonyms_pubchem": [
+    "Pentylone",
+    "bk-Methyl-K",
+    "bk-MBDP",
+    "698963-77-8",
+    "IGN39WGH0Q",
+    "DEA No. 7542",
+    "J3.293.464A",
+    "DTXSID401014183",
+    "RefChem:171527",
+    "DTXCID60908593",
+    "UNII-IGN39WGH0Q",
+    "Methylbenzodioxolylpentanamine",
+    "1-(1,3-benzodioxol-5-yl)-2-(methylamino)pentan-1-one",
+    "beta-Keto-methylbenzodioxolylpentanamine",
+    "NRG-3",
+    "Pentylone (hydrochloride)",
+    "MFCD28015752",
+    "SCHEMBL17644174",
+    "DFMLULIEUUXXSA-UHFFFAOYSA-N",
+    "NS00015478",
+    "Q7165334",
+    "(+/-)-1-(1,3-benzodioxol-5-yl)-2-(methylamino)pentan-1-one",
+    "1-PENTANONE, 1-(1,3-BENZODIOXOL-5-YL)-2-(METHYLAMINO)-"
+  ]
 }

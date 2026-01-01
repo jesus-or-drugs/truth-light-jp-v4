@@ -1,14 +1,22 @@
 {
   "id": "methoxisopropamine",
   "common_name": "Methoxisopropamine",
-  "systematic name": "2-(isopropylamineo)-2-(3-meto kishiphenyl)shikurohekisanon及びそ の salts",
+  "systematic name": "2-(3-methoxyphenyl)-2-(propan-2-ylamino)cyclohexan-1-one",
   "aliases": [
-    "MXiPr"
+    "Methoxisopropamine",
+    "KHM3GXB3S9",
+    "2-(ISOPROPYLAMINO)-2-(3-METHOXYPHENYL)CYCLOHEXANONE",
+    "2-(3-METHOXYPHENYL)-2-((PROPAN-2-YL)AMINO)CYCLOHEXAN-1-ONE",
+    "RefChem:157046",
+    "Methoxisopropamine (hydrochloride)",
+    "DTXSID101336877"
   ],
   "identifiers": {
     "pubchem_cid": "163192824",
     "inchi_key": "FTQIVDGNGXPEKP-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "FTQIVDGNGXPEKP-UHFFFAOYSA-N",
+    "pubchemCID": "163192824"
   },
   "categories": [],
   "legal": {
@@ -35,5 +43,22 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/163192824"
+  ],
+  "molecular_formula": "C16H23NO2",
+  "molecular_weight": "261.36",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(3-methoxyphenyl)-2-(propan-2-ylamino)cyclohexan-1-one",
+  "synonyms_pubchem": [
+    "Methoxisopropamine",
+    "KHM3GXB3S9",
+    "2-(ISOPROPYLAMINO)-2-(3-METHOXYPHENYL)CYCLOHEXANONE",
+    "2-(3-METHOXYPHENYL)-2-((PROPAN-2-YL)AMINO)CYCLOHEXAN-1-ONE",
+    "RefChem:157046",
+    "Methoxisopropamine (hydrochloride)",
+    "DTXSID101336877"
+  ]
 }

@@ -1,12 +1,27 @@
 {
   "id": "5-fluoro-abica",
   "common_name": "5-Fluoro-ABICA",
-  "systematic name": "N-(1-amineo-3-mechiru-1-oki sobutan-2-iru)-1-(5-furuo ropenchiru)-1H-indo-ru-3-ka rubokisamido",
-  "aliases": [],
+  "systematic name": "N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)indole-3-carboxamide",
+  "aliases": [
+    "W6Z0932HYU",
+    "5-Fluoro-ab-pica, (+/-)-",
+    "UNII-W6Z0932HYU",
+    "N-(1-Carbamoyl-2-methyl-propyl)-1-(5-fluoropentyl)indole-3-carboxamide",
+    "5-Fluoro-ABICA",
+    "(+/-)-5-fluoro-ab-pica",
+    "SCHEMBL28620452",
+    "BXC33826",
+    "5F-AB-PICA, (+/-)-",
+    "PD046553",
+    "NS00018436",
+    "Q27292416"
+  ],
   "identifiers": {
     "pubchem_cid": "119058049",
     "inchi_key": "GQYZBLMAONPUNX-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "GQYZBLMAONPUNX-UHFFFAOYSA-N",
+    "pubchemCID": "119058049"
   },
   "categories": [],
   "legal": {
@@ -33,5 +48,29 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/119058049"
+  ],
+  "molecular_formula": "C19H26FN3O2",
+  "molecular_weight": "347.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)indole-3-carboxamide",
+  "synonyms_pubchem": [
+    "W6Z0932HYU",
+    "5-Fluoro-ab-pica, (+/-)-",
+    "UNII-W6Z0932HYU",
+    "N-(1-Carbamoyl-2-methyl-propyl)-1-(5-fluoropentyl)indole-3-carboxamide",
+    "1H-Indole-3-carboxamide, N-(1-(aminocarbonyl)-2-methylpropyl)-1-(5-fluoropentyl)-",
+    "1863065-86-4",
+    "5-Fluoro-ABICA",
+    "(+/-)-5-fluoro-ab-pica",
+    "SCHEMBL28620452",
+    "BXC33826",
+    "5F-AB-PICA, (+/-)-",
+    "PD046553",
+    "NS00018436",
+    "Q27292416"
+  ]
 }

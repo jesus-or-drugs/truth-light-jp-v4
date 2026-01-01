@@ -1,15 +1,28 @@
 {
   "id": "adamantyl-thpinaca",
   "common_name": "Adamantyl-THPINACA",
-  "systematic name": "N-(1-adamantyl)-1-(oxan-4-ylmethyl)indazole-3-carboxamide",
+  "systematic name": "N-(2-adamantyl)-1-(oxan-4-ylmethyl)indazole-3-carboxamide",
   "aliases": [
-    "ATHPINACA",
-    "AD-THPINACA"
+    "ADAMANTYL-THPINACA",
+    "2-Adamantyl-thpinaca",
+    "UNII-BMM64CHV7O",
+    "7I4LAF1R3Y",
+    "SGT-194",
+    "ATHPINACA isomer 2",
+    "ATHPINACA 2",
+    "UNII-7I4LAF1R3Y",
+    "SCHEMBL29989025",
+    "DTXSID001345491",
+    "AGC74248",
+    "NS00096968",
+    "Q25099411"
   ],
   "identifiers": {
     "pubchem_cid": "123132009",
     "inchi_key": "XFZLBNDGZVRJNJ-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "XFZLBNDGZVRJNJ-UHFFFAOYSA-N",
+    "pubchemCID": "123132009"
   },
   "categories": [],
   "legal": {
@@ -36,5 +49,32 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/123132009"
+  ],
+  "molecular_formula": "C24H31N3O2",
+  "molecular_weight": "393.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-(2-adamantyl)-1-(oxan-4-ylmethyl)indazole-3-carboxamide",
+  "synonyms_pubchem": [
+    "ADAMANTYL-THPINACA",
+    "2365471-86-7",
+    "2-Adamantyl-thpinaca",
+    "UNII-BMM64CHV7O",
+    "7I4LAF1R3Y",
+    "SGT-194",
+    "N-(adamantan-2-yl)-1-((tetrahydro-2H-pyran-4-yl)methyl)-1H-indazole-3-carboxamide",
+    "1-((Tetrahydro-2H-pyran-4-yl)methyl)-N-tricyclo(3.3.1.13,7)dec-2-yl-1H-indazole-3-carboxamide",
+    "1H-Indazole-3-carboxamide, 1-((tetrahydro-2H-pyran-4-yl)methyl)-N-tricyclo(3.3.1.13,7)dec-2-yl-",
+    "ATHPINACA isomer 2",
+    "ATHPINACA 2",
+    "UNII-7I4LAF1R3Y",
+    "SCHEMBL29989025",
+    "DTXSID001345491",
+    "AGC74248",
+    "NS00096968",
+    "Q25099411"
+  ]
 }

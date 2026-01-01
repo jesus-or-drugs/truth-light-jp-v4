@@ -1,12 +1,23 @@
 {
   "id": "5f-mdmb-p7aica",
   "common_name": "5F-MDMB-P7AICA",
-  "systematic name": "mechiru=2-[1-(5-furuoropenchi ru)-1H-piroro[2,3-b]pirijin -3-karubokisamido]-3,3-jimechi rubutanoa-to",
-  "aliases": [],
+  "systematic name": "methyl (2S)-2-[[1-(5-fluoropentyl)pyrrolo[2,3-b]pyridine-3-carbonyl]amino]-3,3-dimethylbutanoate",
+  "aliases": [
+    "5-fluoro MDMB-7-PAICA",
+    "5F-Mdmb-p7aica",
+    "B2U5NV8ZMN",
+    "7'N-5F-ADB",
+    "GTPL13587",
+    "DTXSID801342227",
+    "compound 12 [PMID: 33253529]",
+    "PD094781"
+  ],
   "identifiers": {
     "pubchem_cid": "165361518",
     "inchi_key": "LIRBKFHBIDESHO-MRXNPFEDSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "LIRBKFHBIDESHO-MRXNPFEDSA-N",
+    "pubchemCID": "165361518"
   },
   "categories": [],
   "legal": {
@@ -33,5 +44,28 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/165361518"
+  ],
+  "molecular_formula": "C20H28FN3O3",
+  "molecular_weight": "377.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "methyl (2S)-2-[[1-(5-fluoropentyl)pyrrolo[2,3-b]pyridine-3-carbonyl]amino]-3,3-dimethylbutanoate",
+  "synonyms_pubchem": [
+    "5-fluoro MDMB-7-PAICA",
+    "5F-Mdmb-p7aica",
+    "2377403-81-9",
+    "methyl (2S)-2-[[1-(5-fluoropentyl)pyrrolo[2,3-b]pyridine-3-carbonyl]amino]-3,3-dimethylbutanoate",
+    "B2U5NV8ZMN",
+    "7'N-5F-ADB",
+    "GTPL13587",
+    "DTXSID801342227",
+    "compound 12 [PMID: 33253529]",
+    "PD094781",
+    "L-Valine, N-((1-(5-fluoropentyl)-1H-pyrrolo(2,3-b)pyridin-3-yl)carbonyl)-3-methyl-, methyl ester",
+    "methyl (2S)-2-[[1-(5-fluoropentyl)pyrrolo[2,3-b]pyridine-3-carbonyl]amino]-3,3-dimethyl-butanoate",
+    "N-[[1-(5-Fluoropentyl)-1H-pyrrolo[2,3-b]pyridin-3-yl]carbonyl]-3-methyl-L-valine methyl ester"
+  ]
 }

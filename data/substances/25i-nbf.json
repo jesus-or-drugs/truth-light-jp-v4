@@ -1,12 +1,33 @@
 {
   "id": "25i-nbf",
   "common_name": "25I-NBF",
-  "systematic name": "N-(2-furuorobenzylu)-2-(4 -yo-do-2,5-jimethoxyphenyl) etanamine",
-  "aliases": [],
+  "systematic name": "N-[(2-fluorophenyl)methyl]-2-(4-iodo-2,5-dimethoxyphenyl)ethanamine",
+  "aliases": [
+    "25I-NBF",
+    "Cimbi-21",
+    "MR8FRH5W3C",
+    "2C-I-NBF",
+    "NBF-2C-I",
+    "N-[(2-Fluorophenyl)methyl]-4-iodo-2,5-dimethoxybenzeneethanamine",
+    "BENZENEETHANAMINE, N-((2-FLUOROPHENYL)METHYL)-4-IODO-2,5-DIMETHOXY-",
+    "N-((2-FLUOROPHENYL)METHYL)-4-IODO-2,5-DIMETHOXYBENZENEETHANAMINE",
+    "RefChem:89924",
+    "UNII-MR8FRH5W3C",
+    "N-[(2-Fluorophenyl)methyl]-2-(4-iodo-2,5-dimethoxyphenyl)ethan-1-amine",
+    "N-[(2-fluorophenyl)methyl]-2-(4-iodo-2,5-dimethoxyphenyl)ethanamine",
+    "CHEMBL5222240",
+    "SCHEMBL20970912",
+    "SCHEMBL29633058",
+    "DTXSID00726753",
+    "PD048338",
+    "NS00017631"
+  ],
   "identifiers": {
     "pubchem_cid": "57469209",
     "inchi_key": "LPBKNBHMWRBPHT-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "LPBKNBHMWRBPHT-UHFFFAOYSA-N",
+    "pubchemCID": "57469209"
   },
   "categories": [],
   "legal": {
@@ -33,5 +54,34 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/57469209"
+  ],
+  "molecular_formula": "C17H19FINO2",
+  "molecular_weight": "415.24",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-[(2-fluorophenyl)methyl]-2-(4-iodo-2,5-dimethoxyphenyl)ethanamine",
+  "synonyms_pubchem": [
+    "25I-NBF",
+    "919797-21-0",
+    "Cimbi-21",
+    "MR8FRH5W3C",
+    "2C-I-NBF",
+    "NBF-2C-I",
+    "N-[(2-Fluorophenyl)methyl]-4-iodo-2,5-dimethoxybenzeneethanamine",
+    "BENZENEETHANAMINE, N-((2-FLUOROPHENYL)METHYL)-4-IODO-2,5-DIMETHOXY-",
+    "N-((2-FLUOROPHENYL)METHYL)-4-IODO-2,5-DIMETHOXYBENZENEETHANAMINE",
+    "RefChem:89924",
+    "UNII-MR8FRH5W3C",
+    "N-[(2-Fluorophenyl)methyl]-2-(4-iodo-2,5-dimethoxyphenyl)ethan-1-amine",
+    "N-[(2-fluorophenyl)methyl]-2-(4-iodo-2,5-dimethoxyphenyl)ethanamine",
+    "CHEMBL5222240",
+    "SCHEMBL20970912",
+    "SCHEMBL29633058",
+    "DTXSID00726753",
+    "PD048338",
+    "NS00017631"
+  ]
 }

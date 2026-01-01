@@ -1,14 +1,32 @@
 {
   "id": "2-fea",
   "common_name": "2-FEA",
-  "systematic name": "N-echiru-1-(2-furuorofeni ru)puropan-2-amine",
+  "systematic name": "N-ethyl-1-(2-fluorophenyl)propan-2-amine",
   "aliases": [
-    "2-fluoroethamphetamine"
+    "Ortho-fluoroethamphetamine",
+    "o-Fluoroethamphetamine",
+    "2-Fluoroethamphetamine",
+    "2-Fea",
+    "2-Fluoro-ethyl amphetamine",
+    "L39X6766K3",
+    "1-(2'-Fluorophenyl)-2-ethylaminopropane",
+    "N-ethyl-1-(2-fluorophenyl)propan-2-amine",
+    "N-Ethyl-2-fluoro-alpha-methylbenzeneethanamine",
+    "Benzeneethanamine, N-ethyl-2-fluoro-alpha-methyl-",
+    "N-ETHYL-2-FLUORO-.ALPHA.-METHYLBENZENEETHANAMINE",
+    "BENZENEETHANAMINE, N-ETHYL-2-FLUORO-.ALPHA.-METHYL-",
+    "RefChem:197775",
+    "UNII-L39X6766K3",
+    "SCHEMBL10561344",
+    "DTXSID201342748",
+    "PD085531"
   ],
   "identifiers": {
     "pubchem_cid": "20027466",
     "inchi_key": "NIWYLNFSJJLYHU-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "NIWYLNFSJJLYHU-UHFFFAOYSA-N",
+    "pubchemCID": "20027466"
   },
   "categories": [],
   "legal": {
@@ -35,5 +53,33 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/20027466"
+  ],
+  "molecular_formula": "C11H16FN",
+  "molecular_weight": "181.25",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-ethyl-1-(2-fluorophenyl)propan-2-amine",
+  "synonyms_pubchem": [
+    "Ortho-fluoroethamphetamine",
+    "o-Fluoroethamphetamine",
+    "2-Fluoroethamphetamine",
+    "2-Fea",
+    "2-Fluoro-ethyl amphetamine",
+    "L39X6766K3",
+    "1-(2'-Fluorophenyl)-2-ethylaminopropane",
+    "N-ethyl-1-(2-fluorophenyl)propan-2-amine",
+    "N-Ethyl-2-fluoro-alpha-methylbenzeneethanamine",
+    "3823-29-8",
+    "Benzeneethanamine, N-ethyl-2-fluoro-alpha-methyl-",
+    "N-ETHYL-2-FLUORO-.ALPHA.-METHYLBENZENEETHANAMINE",
+    "BENZENEETHANAMINE, N-ETHYL-2-FLUORO-.ALPHA.-METHYL-",
+    "RefChem:197775",
+    "UNII-L39X6766K3",
+    "SCHEMBL10561344",
+    "DTXSID201342748",
+    "PD085531"
+  ]
 }

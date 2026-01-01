@@ -1,12 +1,35 @@
 {
   "id": "jwh-307",
   "common_name": "JWH-307",
-  "systematic name": "[5-(2-furuorophenyl)-1-pe nchiru-1H-piro-ru-3-iru](na futaren-1-iru)metanon 類",
-  "aliases": [],
+  "systematic name": "[5-(2-fluorophenyl)-1-pentylpyrrol-3-yl]-naphthalen-1-ylmethanone",
+  "aliases": [
+    "JWH-307",
+    "06QTR14ONW",
+    "JWH 307",
+    "(1-Pentyl-5-(2-fluorophenyl)-1H-pyrrol-3-yl)(naphthalen-1-yl)methanone",
+    "(5-(2-Fluorophenyl)-1-pentyl-1H-pyrrol-3-yl)-1-naphthalenylmethanone",
+    "RefChem:1087908",
+    "(5-(2-fluorophenyl)-1-pentyl-1H-pyrrol-3-yl)(naphthalen-1-yl)methanone",
+    "UNII-06QTR14ONW",
+    "CHEMBL216857",
+    "[5-(2-Fluorophenyl)-1-pentyl-1H-pyrrol-3-yl](naphthalen-1-yl)methanone",
+    "[5-(2-fluorophenyl)-1-pentylpyrrol-3-yl]-naphthalen-1-ylmethanone",
+    "SCHEMBL17464417",
+    "SCHEMBL29387845",
+    "DTXSID60581542",
+    "PLB45826",
+    "BDBM50192607",
+    "MFCD23135510",
+    "NS00007393",
+    "Q4041746",
+    "[5-(2-Fluorophenyl)-1-pentyl-1H-pyrrol-3-yl]-1-naphthalenyl-methanone"
+  ],
   "identifiers": {
     "pubchem_cid": "16049783",
     "inchi_key": "WYNZPDDTQGVCLZ-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "WYNZPDDTQGVCLZ-UHFFFAOYSA-N",
+    "pubchemCID": "16049783"
   },
   "categories": [],
   "legal": {
@@ -33,5 +56,37 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/16049783"
+  ],
+  "molecular_formula": "C26H24FNO",
+  "molecular_weight": "385.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "[5-(2-fluorophenyl)-1-pentylpyrrol-3-yl]-naphthalen-1-ylmethanone",
+  "synonyms_pubchem": [
+    "914458-26-7",
+    "JWH-307",
+    "06QTR14ONW",
+    "JWH 307",
+    "(1-Pentyl-5-(2-fluorophenyl)-1H-pyrrol-3-yl)(naphthalen-1-yl)methanone",
+    "(5-(2-Fluorophenyl)-1-pentyl-1H-pyrrol-3-yl)-1-naphthalenylmethanone",
+    "RefChem:1087908",
+    "(5-(2-fluorophenyl)-1-pentyl-1H-pyrrol-3-yl)(naphthalen-1-yl)methanone",
+    "UNII-06QTR14ONW",
+    "CHEMBL216857",
+    "[5-(2-Fluorophenyl)-1-pentyl-1H-pyrrol-3-yl](naphthalen-1-yl)methanone",
+    "[5-(2-fluorophenyl)-1-pentylpyrrol-3-yl]-naphthalen-1-ylmethanone",
+    "SCHEMBL17464417",
+    "SCHEMBL29387845",
+    "DTXSID60581542",
+    "PLB45826",
+    "BDBM50192607",
+    "MFCD23135510",
+    "NS00007393",
+    "Q4041746",
+    "[5-(2-Fluorophenyl)-1-pentyl-1H-pyrrol-3-yl]-1-naphthalenyl-methanone",
+    "Methanone, [5-(2-fluorophenyl)-1-pentyl-1H-pyrrol-3-yl]-1-naphthalenyl-; JWH 307; JWH-307; [5-(2-Fluorophenyl)-1-pentyl-1H-pyrrol-3-yl]-1-naphthalenylmethanone"
+  ]
 }

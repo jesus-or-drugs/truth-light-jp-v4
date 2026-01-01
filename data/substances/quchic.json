@@ -1,14 +1,37 @@
 {
   "id": "quchic",
   "common_name": "QUCHIC",
-  "systematic name": "kinorin-8-iru=1-(shikurohekishi rumechiru)-1H-indo-ru-3-ka rubokishira-to",
+  "systematic name": "quinolin-8-yl 1-(cyclohexylmethyl)indole-3-carboxylate",
   "aliases": [
-    "BB-22"
+    "1-(Cyclohexylmethyl)-1H-indole-3-carboxylic acid 8-quinolinyl ester",
+    "RefChem:907435",
+    "BB-22",
+    "QUCHIC",
+    "Quinolin-8-yl 1-(cyclohexylmethyl)-1H-indole-3-carboxylate",
+    "BB-22 compound",
+    "UNII-EUD4ZLB25R",
+    "EUD4ZLB25R",
+    "quinolin-8-yl 1-(cyclohexylmethyl)indole-3-carboxylate",
+    "1H-Indole-3-carboxylic acid, 1-(cyclohexylmethyl)-, 8-quinolinyl ester",
+    "J3.293.456K",
+    "orb2703612",
+    "SCHEMBL29427667",
+    "DTXSID40856801",
+    "1-(CYCLOHEXYLMETHYL)-1H-INDOLE-3-CARBOXYLIC ACID QUINOLINE-8-YL ESTER",
+    "AKOS022172962",
+    "DA-35182",
+    "DB-199600",
+    "CS-0010573",
+    "NS00017592",
+    "8-quinolyl 1-(cyclohexylmethyl)indole-3-carboxylate",
+    "Q15708307"
   ],
   "identifiers": {
     "pubchem_cid": "71711120",
     "inchi_key": "RHYGTJXOHOGQGI-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "RHYGTJXOHOGQGI-UHFFFAOYSA-N",
+    "pubchemCID": "71711120"
   },
   "categories": [],
   "legal": {
@@ -35,5 +58,39 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/71711120"
+  ],
+  "molecular_formula": "C25H24N2O2",
+  "molecular_weight": "384.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "quinolin-8-yl 1-(cyclohexylmethyl)indole-3-carboxylate",
+  "synonyms_pubchem": [
+    "1-(Cyclohexylmethyl)-1H-indole-3-carboxylic acid 8-quinolinyl ester",
+    "RefChem:907435",
+    "BB-22",
+    "1400742-42-8",
+    "QUCHIC",
+    "Quinolin-8-yl 1-(cyclohexylmethyl)-1H-indole-3-carboxylate",
+    "BB-22 compound",
+    "UNII-EUD4ZLB25R",
+    "EUD4ZLB25R",
+    "quinolin-8-yl 1-(cyclohexylmethyl)indole-3-carboxylate",
+    "1H-Indole-3-carboxylic acid, 1-(cyclohexylmethyl)-, 8-quinolinyl ester",
+    "J3.293.456K",
+    "orb2703612",
+    "SCHEMBL29427667",
+    "DTXSID40856801",
+    "1-(CYCLOHEXYLMETHYL)-1H-INDOLE-3-CARBOXYLIC ACID QUINOLINE-8-YL ESTER",
+    "AKOS022172962",
+    "DA-35182",
+    "DB-199600",
+    "CS-0010573",
+    "NS00017592",
+    "8-quinolyl 1-(cyclohexylmethyl)indole-3-carboxylate",
+    "Q15708307",
+    "1H-Indole-3-carboxylic acid, 1-(cyclohexylmethyl)-, 8-quinolinyl ester; BB-22; BB 22; QUCHIC; Quinolin-8-yl[1-(cyclohexylmethyl)-1H-indol-3-carboxylate]"
+  ]
 }

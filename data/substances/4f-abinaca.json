@@ -1,12 +1,34 @@
 {
   "id": "4f-abinaca",
   "common_name": "4F-ABINACA",
-  "systematic name": "N-(1-Adamantyl)-1-(4-fuluoropentyl)indazole-3-carboxyamide",
-  "aliases": [],
+  "systematic name": "N-(1-adamantyl)-1-(4-fluorobutyl)indazole-3-carboxamide",
+  "aliases": [
+    "AKB-48-F",
+    "4F-ABINACA",
+    "PWE2A57W2L",
+    "UNII-PWE2A57W2L",
+    "APINACA N-(4-FLUOROBUTYL)",
+    "RefChem:198792",
+    "N-(Adamantan-1-yl)-1-(4-fluorobutyl)-1H-indazole-3-carboxamide",
+    "1-(4-fluorobutyl)-N-tricyclo[3.3.1.13,7]dec-1-yl-1H-indazole-3-carboxamide",
+    "N-(1-adamantyl)-1-(4-fluorobutyl)indazole-3-carboxamide",
+    "4-Fluoro AKB 48",
+    "1H-Indazole-3-carboxamide, 1-(4-fluorobutyl)-N-tricyclo(3.3.1.13,7)dec-1-yl-",
+    "4-fluoro ABUTINACA",
+    "SCHEMBL24222016",
+    "SCHEMBL31052991",
+    "DTXSID701343284",
+    "VHC58039",
+    "AKOS040746511",
+    "PD131028",
+    "Q27286790"
+  ],
   "identifiers": {
     "pubchem_cid": "118796478",
     "inchi_key": "CBDPDVXPZYOIRM-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "CBDPDVXPZYOIRM-UHFFFAOYSA-N",
+    "pubchemCID": "118796478"
   },
   "categories": [],
   "legal": {
@@ -33,5 +55,35 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/118796478"
+  ],
+  "molecular_formula": "C22H28FN3O",
+  "molecular_weight": "369.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-(1-adamantyl)-1-(4-fluorobutyl)indazole-3-carboxamide",
+  "synonyms_pubchem": [
+    "AKB-48-F",
+    "4F-ABINACA",
+    "PWE2A57W2L",
+    "UNII-PWE2A57W2L",
+    "APINACA N-(4-FLUOROBUTYL)",
+    "RefChem:198792",
+    "1445580-39-1",
+    "N-(Adamantan-1-yl)-1-(4-fluorobutyl)-1H-indazole-3-carboxamide",
+    "1-(4-fluorobutyl)-N-tricyclo[3.3.1.13,7]dec-1-yl-1H-indazole-3-carboxamide",
+    "N-(1-adamantyl)-1-(4-fluorobutyl)indazole-3-carboxamide",
+    "4-Fluoro AKB 48",
+    "1H-Indazole-3-carboxamide, 1-(4-fluorobutyl)-N-tricyclo(3.3.1.13,7)dec-1-yl-",
+    "4-fluoro ABUTINACA",
+    "SCHEMBL24222016",
+    "SCHEMBL31052991",
+    "DTXSID701343284",
+    "VHC58039",
+    "AKOS040746511",
+    "PD131028",
+    "Q27286790"
+  ]
 }

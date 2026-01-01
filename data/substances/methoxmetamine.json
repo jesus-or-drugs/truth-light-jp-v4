@@ -1,14 +1,30 @@
 {
   "id": "methoxmetamine",
   "common_name": "Methoxmetamine",
-  "systematic name": "2-(3-methoxyphenyl)-2-(mechi ruamineo)shikurohekisanon 類",
+  "systematic name": "2-(3-methoxyphenyl)-2-(methylamino)cyclohexan-1-one",
   "aliases": [
-    "MMXE"
+    "Methoxmetamine",
+    "3-Meo-2'-oxo-pcm",
+    "U2B6L9JR4L",
+    "2-(3-methoxyphenyl)-2-(methylamino)cyclohexanone",
+    "Cyclohexanone, 2-(3-methoxyphenyl)-2-(methylamino)-",
+    "RefChem:157047",
+    "MMXE",
+    "UNII-U2B6L9JR4L",
+    "MXM",
+    "2-(3-methoxyphenyl)-2-(methylamino)cyclohexan-1-one",
+    "SCHEMBL23595578",
+    "SCHEMBL30534231",
+    "CHEBI:191127",
+    "DTXSID101045797",
+    "NS00017986"
   ],
   "identifiers": {
     "pubchem_cid": "117067863",
     "inchi_key": "ZGQWDAOLJNAADS-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "ZGQWDAOLJNAADS-UHFFFAOYSA-N",
+    "pubchemCID": "117067863"
   },
   "categories": [],
   "legal": {
@@ -35,5 +51,31 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/117067863"
+  ],
+  "molecular_formula": "C14H19NO2",
+  "molecular_weight": "233.31",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(3-methoxyphenyl)-2-(methylamino)cyclohexan-1-one",
+  "synonyms_pubchem": [
+    "Methoxmetamine",
+    "3-Meo-2'-oxo-pcm",
+    "U2B6L9JR4L",
+    "2-(3-methoxyphenyl)-2-(methylamino)cyclohexanone",
+    "Cyclohexanone, 2-(3-methoxyphenyl)-2-(methylamino)-",
+    "1782148-51-9",
+    "RefChem:157047",
+    "MMXE",
+    "UNII-U2B6L9JR4L",
+    "MXM",
+    "2-(3-methoxyphenyl)-2-(methylamino)cyclohexan-1-one",
+    "SCHEMBL23595578",
+    "SCHEMBL30534231",
+    "CHEBI:191127",
+    "DTXSID101045797",
+    "NS00017986"
+  ]
 }

@@ -1,12 +1,37 @@
 {
   "id": "6-apdb",
   "common_name": "6-APDB",
-  "systematic name": "1-(2,3-jihidorobenzofuran-6- iru)puropan-2-amine 類",
-  "aliases": [],
+  "systematic name": "1-(2,3-dihydro-1-benzofuran-6-yl)propan-2-amine",
+  "aliases": [
+    "6-(2-Aminopropyl)-2,3-dihydrobenzofuran",
+    "6-Nprop-dbf",
+    "4-Desoxy-MDA",
+    "6-APDB",
+    "EMA-3",
+    "O72F3CP4O8",
+    "J3.334.443K",
+    "DTXSID60934559",
+    "RefChem:103991",
+    "DTXCID901363206",
+    "1-(2,3-dihydro-1-benzofuran-6-yl)propan-2-amine",
+    "6-Benzofuranethanamine,2,3-dihydro-a-methyl-",
+    "UNII-O72F3CP4O8",
+    "CHEMBL124055",
+    "SCHEMBL2562965",
+    "AKOS025294580",
+    "AC-8814",
+    "6-(2-aminopropyl)2,3-dihydrobenzofuran",
+    "PD047535",
+    "NS00017538",
+    "Q4641530",
+    "6-BENZOFURANETHANAMINE, 2,3-DIHYDRO-.ALPHA.-METHYL-, (+/-)-"
+  ],
   "identifiers": {
     "pubchem_cid": "192599",
     "inchi_key": "VRNGXHJGMCJRSQ-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "VRNGXHJGMCJRSQ-UHFFFAOYSA-N",
+    "pubchemCID": "192599"
   },
   "categories": [],
   "legal": {
@@ -33,5 +58,38 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/192599"
+  ],
+  "molecular_formula": "C11H15NO",
+  "molecular_weight": "177.24",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(2,3-dihydro-1-benzofuran-6-yl)propan-2-amine",
+  "synonyms_pubchem": [
+    "152623-93-3",
+    "6-(2-Aminopropyl)-2,3-dihydrobenzofuran",
+    "6-Nprop-dbf",
+    "4-Desoxy-MDA",
+    "6-APDB",
+    "EMA-3",
+    "O72F3CP4O8",
+    "J3.334.443K",
+    "DTXSID60934559",
+    "RefChem:103991",
+    "DTXCID901363206",
+    "1-(2,3-dihydro-1-benzofuran-6-yl)propan-2-amine",
+    "6-Benzofuranethanamine,2,3-dihydro-a-methyl-",
+    "UNII-O72F3CP4O8",
+    "CHEMBL124055",
+    "SCHEMBL2562965",
+    "AKOS025294580",
+    "AC-8814",
+    "6-(2-aminopropyl)2,3-dihydrobenzofuran",
+    "PD047535",
+    "NS00017538",
+    "Q4641530",
+    "6-BENZOFURANETHANAMINE, 2,3-DIHYDRO-.ALPHA.-METHYL-, (+/-)-"
+  ]
 }

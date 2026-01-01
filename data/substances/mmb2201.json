@@ -1,14 +1,37 @@
 {
   "id": "mmb2201",
   "common_name": "MMB2201",
-  "systematic name": "mechiru=2-[1-(5-furuoropenchi ru)-1H-indo-ru-3-karuboki samido]-3-mechirubutanoa-to及びそ の salts",
+  "systematic name": "methyl (2S)-2-[[1-(5-fluoropentyl)indole-3-carbonyl]amino]-3-methylbutanoate",
   "aliases": [
-    "5-Fluoro-AMB indole analog"
+    "5-Fluoro-amb-pica",
+    "5F-Amb-pica",
+    "5F-Mmb-pica",
+    "MMB-2201",
+    "744M0WHE80",
+    "I-AMB",
+    "UNII-744M0WHE80",
+    "(S)-Methyl 2-(1-(5-fluoropentyl)-1H-indole-3-carboxamido)-3-methylbutanoate",
+    "L-Valine, N-((1-(5-fluoropentyl)-1H-indol-3-yl)carbonyl)-, methyl ester",
+    "Methyl (2S)-2-((1-(5-fluoropentyl)indole-3-carbonyl)amino)-3-methyl-butanoate",
+    "DTXSID001016913",
+    "RefChem:198906",
+    "DTXCID001475098",
+    "MMB2201",
+    "methyl (2S)-2-[[1-(5-fluoropentyl)indole-3-carbonyl]amino]-3-methylbutanoate",
+    "N-[[1-(5-fluoropentyl)-1H-indol-3-yl]carbonyl]-L-valine,methylester",
+    "CHEMBL5575663",
+    "SCHEMBL29988833",
+    "DTXSID501342492",
+    "Q20707011",
+    "Methyl N-{[1-(5-fluoropentyl)-1H-indol-3-yl]carbonyl}-L-valinate",
+    "methyl (2s)-2-{[1-(5-fluoropentyl)-1h-indole-3-carbonyl]amino}-3-methylbutanoate"
   ],
   "identifiers": {
     "pubchem_cid": "119058037",
     "inchi_key": "JFXASAFVUQVGEW-SFHVURJKSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "JFXASAFVUQVGEW-SFHVURJKSA-N",
+    "pubchemCID": "119058037"
   },
   "categories": [],
   "legal": {
@@ -35,5 +58,38 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/119058037"
+  ],
+  "molecular_formula": "C20H27FN2O3",
+  "molecular_weight": "362.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "methyl (2S)-2-[[1-(5-fluoropentyl)indole-3-carbonyl]amino]-3-methylbutanoate",
+  "synonyms_pubchem": [
+    "5-Fluoro-amb-pica",
+    "5F-Amb-pica",
+    "5F-Mmb-pica",
+    "1971007-87-0",
+    "MMB-2201",
+    "744M0WHE80",
+    "I-AMB",
+    "UNII-744M0WHE80",
+    "(S)-Methyl 2-(1-(5-fluoropentyl)-1H-indole-3-carboxamido)-3-methylbutanoate",
+    "L-Valine, N-((1-(5-fluoropentyl)-1H-indol-3-yl)carbonyl)-, methyl ester",
+    "Methyl (2S)-2-((1-(5-fluoropentyl)indole-3-carbonyl)amino)-3-methyl-butanoate",
+    "DTXSID001016913",
+    "RefChem:198906",
+    "DTXCID001475098",
+    "MMB2201",
+    "methyl (2S)-2-[[1-(5-fluoropentyl)indole-3-carbonyl]amino]-3-methylbutanoate",
+    "N-[[1-(5-fluoropentyl)-1H-indol-3-yl]carbonyl]-L-valine,methylester",
+    "CHEMBL5575663",
+    "SCHEMBL29988833",
+    "DTXSID501342492",
+    "Q20707011",
+    "Methyl N-{[1-(5-fluoropentyl)-1H-indol-3-yl]carbonyl}-L-valinate",
+    "methyl (2s)-2-{[1-(5-fluoropentyl)-1h-indole-3-carbonyl]amino}-3-methylbutanoate"
+  ]
 }

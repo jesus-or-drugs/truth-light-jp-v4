@@ -1,12 +1,26 @@
 {
   "id": "5cl-ab-pinaca",
   "common_name": "5Cl-AB-PINACA",
-  "systematic name": "N-(1-amineo-3-mechiru-1-oki sobutan-2-iru)-1-(5-kuroro penchiru)-1H-indazo-ru-3- karubokisamido",
-  "aliases": [],
+  "systematic name": "N-[(2S)-1-amino-3-methyl-1-oxobutan-2-yl]-1-(5-chloropentyl)indazole-3-carboxamide",
+  "aliases": [
+    "5-Chloro-AB-PINACA",
+    "5Cl-AB-PINACA",
+    "UNII-15Q075Q5LO",
+    "15Q075Q5LO",
+    "RefChem:198886",
+    "5-chloro AB-PINACA",
+    "C18H25ClN4O2",
+    "SCHEMBL30032574",
+    "NS00114132",
+    "Q27251728",
+    "N-[(1S)-1-carbamoyl-2-methyl-propyl]-1-(5-chloropentyl)indazole-3-carboxamide"
+  ],
   "identifiers": {
     "pubchem_cid": "91936938",
     "inchi_key": "VUPMALPMUYUYES-HNNXBMFYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "VUPMALPMUYUYES-HNNXBMFYSA-N",
+    "pubchemCID": "91936938"
   },
   "categories": [],
   "legal": {
@@ -33,5 +47,31 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/91936938"
+  ],
+  "molecular_formula": "C18H25ClN4O2",
+  "molecular_weight": "364.9",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-[(2S)-1-amino-3-methyl-1-oxobutan-2-yl]-1-(5-chloropentyl)indazole-3-carboxamide",
+  "synonyms_pubchem": [
+    "5-Chloro-AB-PINACA",
+    "1801552-02-2",
+    "5Cl-AB-PINACA",
+    "UNII-15Q075Q5LO",
+    "15Q075Q5LO",
+    "1H-Indazole-3-carboxamide, N-((1S)-1-(aminocarbonyl)-2-methylpropyl)-1-(5-chloropentyl)-",
+    "N-((1S)-1-(Aminocarbonyl)-2-methylpropyl)-1-(5-chloropentyl)-1H-indazole-3-carboxamide",
+    "N-[(1S)-1-(aminocarbonyl)-2-methylpropyl]-1-(5-chloropentyl)-1H-indazole-3-carboxamide",
+    "RefChem:198886",
+    "5-chloro AB-PINACA",
+    "N-[(2S)-1-amino-3-methyl-1-oxobutan-2-yl]-1-(5-chloropentyl)indazole-3-carboxamide",
+    "C18H25ClN4O2",
+    "SCHEMBL30032574",
+    "NS00114132",
+    "Q27251728",
+    "N-[(1S)-1-carbamoyl-2-methyl-propyl]-1-(5-chloropentyl)indazole-3-carboxamide"
+  ]
 }

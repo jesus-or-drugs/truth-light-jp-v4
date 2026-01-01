@@ -1,14 +1,34 @@
 {
   "id": "mdmb-fubinaca",
   "common_name": "MDMB-FUBINACA",
-  "systematic name": "mechiru=2-[1-(4-furuorobenji ru)-1H-indazo-ru-3-karubo kisamido]-3,3-jimechirubutanoa-to",
+  "systematic name": "methyl (2S)-2-[[1-[(4-fluorophenyl)methyl]indazole-3-carbonyl]amino]-3,3-dimethylbutanoate",
   "aliases": [
-    "FUB-ADB"
+    "Mdmb-fubinaca",
+    "Fub-mdmb",
+    "Mdmb-bz-F",
+    "Mdmb(N)-bz-F",
+    "Mdmb-fub",
+    "544DR70TN4",
+    "UNII-544DR70TN4",
+    "DTXSID501010003",
+    "RefChem:156164",
+    "DTXCID601436426",
+    "DEA No. 7020",
+    "methyl N-{1-[(4-fluorophenyl)methyl]-1H-indazole-3-carbonyl}-3-methyl-L-valinate",
+    "KCA",
+    "SCHEMBL29809366",
+    "GTPL10178",
+    "NSC791532",
+    "NSC-791532",
+    "NS00017364",
+    "Q20706945"
   ],
   "identifiers": {
     "pubchem_cid": "119025665",
     "inchi_key": "RFCDVEHNYDVCMU-LJQANCHMSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "RFCDVEHNYDVCMU-LJQANCHMSA-N",
+    "pubchemCID": "119025665"
   },
   "categories": [],
   "legal": {
@@ -35,5 +55,43 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/119025665"
+  ],
+  "molecular_formula": "C22H24FN3O3",
+  "molecular_weight": "397.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "methyl (2S)-2-[[1-[(4-fluorophenyl)methyl]indazole-3-carbonyl]amino]-3,3-dimethylbutanoate",
+  "synonyms_pubchem": [
+    "Mdmb-fubinaca",
+    "Fub-mdmb",
+    "Mdmb-bz-F",
+    "Mdmb(N)-bz-F",
+    "1971007-93-8",
+    "Mdmb-fub",
+    "544DR70TN4",
+    "UNII-544DR70TN4",
+    "methyl (2S)-2-[[1-[(4-fluorophenyl)methyl]indazole-3-carbonyl]amino]-3,3-dimethylbutanoate",
+    "Methyl (S)-2-(1-(4-fluorobenzyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate",
+    "L-Valine, N-((1-((4-fluorophenyl)methyl)-1H-indazol-3-yl)carbonyl)-3-methyl-, methyl ester",
+    "Methyl 2-(1-(4-fluorobenzyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate, (S)-",
+    "DTXSID501010003",
+    "methyl (2S)-2-((1-((4-fluorophenyl)methyl)indazole-3-carbonyl)amino)-3,3-dimethylbutanoate",
+    "RefChem:156164",
+    "DTXCID601436426",
+    "DEA No. 7020",
+    "methyl N-{1-[(4-fluorophenyl)methyl]-1H-indazole-3-carbonyl}-3-methyl-L-valinate",
+    "1715016-77-5",
+    "KCA",
+    "SCHEMBL29809366",
+    "GTPL10178",
+    "NSC791532",
+    "NSC-791532",
+    "NS00017364",
+    "Q20706945",
+    "N-[[1-[(4-fluorophenyl)methyl]-1H-indazol-3-yl]carbonyl]-3-methyl-L-valine,methylester",
+    "methyl (2s)-2-({1-[(4-fluorophenyl)methyl]-1h-indazole-3-carbonyl}amino)-3,3-dimethylbutanoate"
+  ]
 }

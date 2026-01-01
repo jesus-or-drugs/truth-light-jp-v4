@@ -1,14 +1,32 @@
 {
   "id": "4-fea",
   "common_name": "4-FEA",
-  "systematic name": "N-echiru-1-(4-furuorofeni ru)puropan-2-amine",
+  "systematic name": "N-ethyl-1-(4-fluorophenyl)propan-2-amine",
   "aliases": [
-    "4-fluoroethamphetamine"
+    "Para-fluoroethamphetamine",
+    "4-Fea",
+    "4-Fluoro-N-ethylamphetamine",
+    "4-Fea [NFLIS-DRUG]",
+    "KZX944Y285",
+    "UNII-KZX944Y285",
+    "Ethyl(1-(4-fluorophenyl)propan-2-yl)amine",
+    "N-Ethyl-4-fluoro-alpha-methylbenzeneethanamine",
+    "Phenethylamine, N-ethyl-p-fluoro-alpha-methyl-",
+    "4-FEA (NFLIS-DRUG)",
+    "N-ETHYL-4-FLUORO-.ALPHA.-METHYLBENZENEETHANAMINE",
+    "PHENETHYLAMINE, N-ETHYL-P-FLUORO-.ALPHA.-METHYL-",
+    "RefChem:198670",
+    "SCHEMBL4680337",
+    "DTXSID101341947",
+    "PD085541",
+    "N-Ethyl-4-fluoro-I+/-lpha-methylbenzeneethanamine"
   ],
   "identifiers": {
     "pubchem_cid": "18352720",
     "inchi_key": "PUJNOWQUPWZVER-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "PUJNOWQUPWZVER-UHFFFAOYSA-N",
+    "pubchemCID": "18352720"
   },
   "categories": [],
   "legal": {
@@ -35,5 +53,33 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/18352720"
+  ],
+  "molecular_formula": "C11H16FN",
+  "molecular_weight": "181.25",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-ethyl-1-(4-fluorophenyl)propan-2-amine",
+  "synonyms_pubchem": [
+    "Para-fluoroethamphetamine",
+    "4-Fea",
+    "4-Fluoro-N-ethylamphetamine",
+    "4-Fea [NFLIS-DRUG]",
+    "KZX944Y285",
+    "UNII-KZX944Y285",
+    "Ethyl(1-(4-fluorophenyl)propan-2-yl)amine",
+    "3823-30-1",
+    "N-Ethyl-4-fluoro-alpha-methylbenzeneethanamine",
+    "Phenethylamine, N-ethyl-p-fluoro-alpha-methyl-",
+    "4-FEA (NFLIS-DRUG)",
+    "N-ETHYL-4-FLUORO-.ALPHA.-METHYLBENZENEETHANAMINE",
+    "PHENETHYLAMINE, N-ETHYL-P-FLUORO-.ALPHA.-METHYL-",
+    "RefChem:198670",
+    "SCHEMBL4680337",
+    "DTXSID101341947",
+    "PD085541",
+    "N-Ethyl-4-fluoro-I+/-lpha-methylbenzeneethanamine"
+  ]
 }

@@ -1,12 +1,28 @@
 {
   "id": "4-ethylmethcathinone",
   "common_name": "4-Ethylmethcathinone",
-  "systematic name": "1-(4-echiruphenyl)-2-(mechiru amineo)puropan-1-on",
-  "aliases": [],
+  "systematic name": "1-(4-ethylphenyl)-2-(methylamino)propan-1-one",
+  "aliases": [
+    "4-Ethylmethcathinone",
+    "4-EMC",
+    "1-(4-ethylphenyl)-2-(methylamino)propan-1-one",
+    "UNII-3I378P59DJ",
+    "3I378P59DJ",
+    "1-Propanone, 1-(4-ethylphenyl)-2-(methylamino)-",
+    "1-(4-Ethylphenyl)-2-(methylamino)-1-propanone",
+    "RefChem:98903",
+    "FUYPDKFWOHBUFT-UHFFFAOYSA-N",
+    "SCHEMBL29691811",
+    "DTXSID401030383",
+    "PD048443",
+    "NS00015360"
+  ],
   "identifiers": {
     "pubchem_cid": "71316576",
     "inchi_key": "FUYPDKFWOHBUFT-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "FUYPDKFWOHBUFT-UHFFFAOYSA-N",
+    "pubchemCID": "71316576"
   },
   "categories": [],
   "legal": {
@@ -33,5 +49,29 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/71316576"
+  ],
+  "molecular_formula": "C12H17NO",
+  "molecular_weight": "191.27",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(4-ethylphenyl)-2-(methylamino)propan-1-one",
+  "synonyms_pubchem": [
+    "4-Ethylmethcathinone",
+    "4-EMC",
+    "1-(4-ethylphenyl)-2-(methylamino)propan-1-one",
+    "UNII-3I378P59DJ",
+    "3I378P59DJ",
+    "1-Propanone, 1-(4-ethylphenyl)-2-(methylamino)-",
+    "1-(4-Ethylphenyl)-2-(methylamino)-1-propanone",
+    "RefChem:98903",
+    "FUYPDKFWOHBUFT-UHFFFAOYSA-N",
+    "1225622-14-9",
+    "SCHEMBL29691811",
+    "DTXSID401030383",
+    "PD048443",
+    "NS00015360"
+  ]
 }

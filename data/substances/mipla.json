@@ -1,15 +1,29 @@
 {
   "id": "mipla",
   "common_name": "MiPLA",
-  "systematic name": "N-mechiru-N-(puropan-2-iru) -7-mechiru-4,6,6a,7,8,9- hekisahidoroindoro[4,3-fg]kinori n-9-karubokisamido",
+  "systematic name": "(6aR,9R)-N,7-dimethyl-N-propan-2-yl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",
   "aliases": [
-    "MIPLA",
-    "N-Methyl-N-isopropyl lysergamide"
+    "Mipla",
+    "AC6WQQ5Y4B",
+    "Lysergic acid methylisopropylamide",
+    "N-Isopropyl-N-methyl-D-lysergamide",
+    "Lysergamide, N-isopropyl-N-methyl-",
+    "Ergoline-8-carboxamide, 9,10-didehydro-N,6-dimethyl-N-(1-methylethyl)-, (8beta)-",
+    "RefChem:154748",
+    "UNII-AC6WQQ5Y4B",
+    "MiPLA (solution)",
+    "MiPLA Maleate",
+    "SCHEMBL20970957",
+    "DTXSID001336793",
+    "100768-08-9 (freebase)",
+    "Lysergic acid methylisopropylamide maleate"
   ],
   "identifiers": {
     "pubchem_cid": "102060927",
     "inchi_key": "ROICYBLUWUMJFF-RDTXWAMCSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "ROICYBLUWUMJFF-RDTXWAMCSA-N",
+    "pubchemCID": "102060927"
   },
   "categories": [],
   "legal": {
@@ -36,5 +50,33 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/102060927"
+  ],
+  "molecular_formula": "C20H25N3O",
+  "molecular_weight": "323.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "(6aR,9R)-N,7-dimethyl-N-propan-2-yl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",
+  "synonyms_pubchem": [
+    "Mipla",
+    "AC6WQQ5Y4B",
+    "Lysergic acid methylisopropylamide",
+    "100768-08-9",
+    "N-Isopropyl-N-methyl-D-lysergamide",
+    "Lysergamide, N-isopropyl-N-methyl-",
+    "Ergoline-8-carboxamide, 9,10-didehydro-N,6-dimethyl-N-(1-methylethyl)-, (8beta)-",
+    "ERGOLINE-8-CARBOXAMIDE, 9,10-DIDEHYDRO-N,6-DIMETHYL-N-(1-METHYLETHYL)-, (8.BETA.)-",
+    "RefChem:154748",
+    "UNII-AC6WQQ5Y4B",
+    "(6aR,9R)-N,7-dimethyl-N-propan-2-yl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",
+    "MiPLA (solution)",
+    "MiPLA Maleate",
+    "SCHEMBL20970957",
+    "DTXSID001336793",
+    "100768-08-9 (freebase)",
+    "Lysergic acid methylisopropylamide maleate",
+    "(8ss)-9,10-didehydro-N,6-dimethyl-N-(1-methylethyl)-ergoline-8-carboxamide (2:1) maleate"
+  ]
 }

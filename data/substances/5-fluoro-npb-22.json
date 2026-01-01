@@ -1,12 +1,37 @@
 {
   "id": "5-fluoro-npb-22",
   "common_name": "5-Fluoro-NPB-22",
-  "systematic name": "kinorin-8-iru=1-(5-furuoro penchiru)-1H-indazo-ru-3- karubokishira-to",
-  "aliases": [],
+  "systematic name": "quinolin-8-yl 1-(5-fluoropentyl)indazole-3-carboxylate",
+  "aliases": [
+    "5-Fluoro NPB-22",
+    "5-Fluoro-NPB-22",
+    "K7KA18TLS0",
+    "5F-NPB-22",
+    "UNII-K7KA18TLS0",
+    "1-(5-Fluoropentyl)-8-quinolinyl ester-1H-indazole-3-carboxylic acid",
+    "DTXSID501016920",
+    "1H-Indazole-3-carboxylic acid, 1-(5-fluoropentyl)-, 8-quinolinyl ester",
+    "RefChem:198909",
+    "DTXCID601475103",
+    "5-FluoroNPB-22",
+    "QUINOLIN-8-YL 1-(5-FLUOROPENTYL)INDAZOLE-3-CARBOXYLATE",
+    "SCHEMBL30641105",
+    "Quinolin-8-yl 1-(5-fluoropentyl)-1H-indazole-3-carboxylate",
+    "VHC57979",
+    "1-(5-Fluoropentyl)-1H-indazole-3-carboxylic acid 8-quinolinyl ester",
+    "MFCD30718313",
+    "PD018524",
+    "NS00017388",
+    "8-quinolyl 1-(5-fluoropentyl)indazole-3-carboxylate",
+    "Q27282053",
+    "quinolin-8-yl-1-(5-fluoropentyl)-1h-indazole-3-carboxylate"
+  ],
   "identifiers": {
     "pubchem_cid": "118796524",
     "inchi_key": "DZNDVBLSHUYZLI-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "DZNDVBLSHUYZLI-UHFFFAOYSA-N",
+    "pubchemCID": "118796524"
   },
   "categories": [],
   "legal": {
@@ -33,5 +58,38 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/118796524"
+  ],
+  "molecular_formula": "C22H20FN3O2",
+  "molecular_weight": "377.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "quinolin-8-yl 1-(5-fluoropentyl)indazole-3-carboxylate",
+  "synonyms_pubchem": [
+    "5-Fluoro NPB-22",
+    "5-Fluoro-NPB-22",
+    "1445579-79-2",
+    "K7KA18TLS0",
+    "5F-NPB-22",
+    "UNII-K7KA18TLS0",
+    "1-(5-Fluoropentyl)-8-quinolinyl ester-1H-indazole-3-carboxylic acid",
+    "DTXSID501016920",
+    "1H-Indazole-3-carboxylic acid, 1-(5-fluoropentyl)-, 8-quinolinyl ester",
+    "RefChem:198909",
+    "DTXCID601475103",
+    "5-FluoroNPB-22",
+    "QUINOLIN-8-YL 1-(5-FLUOROPENTYL)INDAZOLE-3-CARBOXYLATE",
+    "SCHEMBL30641105",
+    "Quinolin-8-yl 1-(5-fluoropentyl)-1H-indazole-3-carboxylate",
+    "VHC57979",
+    "1-(5-Fluoropentyl)-1H-indazole-3-carboxylic acid 8-quinolinyl ester",
+    "MFCD30718313",
+    "PD018524",
+    "NS00017388",
+    "8-quinolyl 1-(5-fluoropentyl)indazole-3-carboxylate",
+    "Q27282053",
+    "quinolin-8-yl-1-(5-fluoropentyl)-1h-indazole-3-carboxylate"
+  ]
 }

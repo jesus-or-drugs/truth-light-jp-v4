@@ -1,12 +1,38 @@
 {
   "id": "mipt",
   "common_name": "MIPT",
-  "systematic name": "N-isopropyl-N-mechirutoriputami n",
-  "aliases": [],
+  "systematic name": "N-[2-(1H-indol-3-yl)ethyl]-N-methylpropan-2-amine",
+  "aliases": [
+    "n-methyl-n-isopropyltryptamine",
+    "N-Methyl-N-(1-methylethyl)-1H-indole-3-ethanamine",
+    "JO3SCR302A",
+    "UNII-JO3SCR302A",
+    "N-[2-(1H-Indol-3-yl)ethyl]-N-methylpropan-2-amine",
+    "1H-Indole-3-ethanamine, N-methyl-N-(1-methylethyl)-",
+    "N-(2-(1H-Indol-3-yl)ethyl)-N-methylpropan-2-amine",
+    "RefChem:163757",
+    "MIPT",
+    "[2-(1H-indol-3-yl)ethyl](methyl)(propan-2-yl)amine",
+    "MiPT (fumarate)",
+    "N,N-Methylisopropyltryptamine",
+    "CHEMBL353728",
+    "SCHEMBL20970876",
+    "SCHEMBL29403614",
+    "KTQJVAJLJZIKKD-UHFFFAOYSA-N",
+    "DTXSID901024777",
+    "WDA09652",
+    "AKOS015967218",
+    "N-Methyl-N-Isopropyltryptamine fumarate",
+    "N-METHYL-N-ISOPROPYLTRYPTAMINE(MIPT)",
+    "NS00018000",
+    "Q3491377"
+  ],
   "identifiers": {
     "pubchem_cid": "29935323",
     "inchi_key": "KTQJVAJLJZIKKD-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "KTQJVAJLJZIKKD-UHFFFAOYSA-N",
+    "pubchemCID": "29935323"
   },
   "categories": [],
   "legal": {
@@ -33,5 +59,39 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/29935323"
+  ],
+  "molecular_formula": "C14H20N2",
+  "molecular_weight": "216.32",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-[2-(1H-indol-3-yl)ethyl]-N-methylpropan-2-amine",
+  "synonyms_pubchem": [
+    "n-methyl-n-isopropyltryptamine",
+    "N-Methyl-N-(1-methylethyl)-1H-indole-3-ethanamine",
+    "JO3SCR302A",
+    "UNII-JO3SCR302A",
+    "N-[2-(1H-Indol-3-yl)ethyl]-N-methylpropan-2-amine",
+    "1H-Indole-3-ethanamine, N-methyl-N-(1-methylethyl)-",
+    "N-(2-(1H-Indol-3-yl)ethyl)-N-methylpropan-2-amine",
+    "RefChem:163757",
+    "MIPT",
+    "96096-52-5",
+    "[2-(1H-indol-3-yl)ethyl](methyl)(propan-2-yl)amine",
+    "MiPT (fumarate)",
+    "N,N-Methylisopropyltryptamine",
+    "CHEMBL353728",
+    "SCHEMBL20970876",
+    "SCHEMBL29403614",
+    "KTQJVAJLJZIKKD-UHFFFAOYSA-N",
+    "DTXSID901024777",
+    "WDA09652",
+    "AKOS015967218",
+    "N-Methyl-N-Isopropyltryptamine fumarate",
+    "N-METHYL-N-ISOPROPYLTRYPTAMINE(MIPT)",
+    "NS00018000",
+    "Q3491377"
+  ]
 }

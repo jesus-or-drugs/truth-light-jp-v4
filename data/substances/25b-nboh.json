@@ -1,15 +1,38 @@
 {
   "id": "25b-nboh",
   "common_name": "25B-NBOH",
-  "systematic name": "2-[(4-buromo-2,5-jimethoxy fenechiruamineo)mechiru]feno-ru及 びその salts",
+  "systematic name": "2-[[2-(4-bromo-2,5-dimethoxyphenyl)ethylamino]methyl]phenol",
   "aliases": [
+    "UNII-KHR1SJ9L0Y",
+    "25B-NBOH",
+    "KHR1SJ9L0Y",
     "2C-B-NBOH",
-    "NBOH-2C-B"
+    "NBOH-2C-B",
+    "25B-NBOH [NFLIS-DRUG]",
+    "DTXSID401017175",
+    "2-({[2-(4-bromo-2,5-dimethoxyphenyl)ethyl]amino}methyl)phenol",
+    "25B-NBOH (NFLIS-DRUG)",
+    "2-((4-BROMO-2,5-DIMETHOXYPHENETHYLAMINO)METHYL)PHENOL",
+    "2-[[[2-(4-Bromo-2,5-dimethoxyphenyl)ethyl]amino]methyl]phenol",
+    "4-BROMO-2,5-DIMETHOXY-(N-(2-HYDROXYBENZYL))PHENETHYLAMINE",
+    "Phenol, 2-[[[2-(4-bromo-2,5-dimethoxyphenyl)ethyl]amino]methyl]-",
+    "2-(((2-(4-BROMO-2,5-DIMETHOXYPHENYL)ETHYL)AMINO)METHYL)PHENOL",
+    "PHENOL, 2-(((2-(4-BROMO-2,5-DIMETHOXYPHENYL)ETHYL)AMINO)METHYL)-",
+    "RefChem:89918",
+    "DTXCID801475361",
+    "2-[[2-(4-bromo-2,5-dimethoxyphenyl)ethylamino]methyl]phenol",
+    "SCHEMBL25245620",
+    "SCHEMBL29633105",
+    "2-(((4-bromo-2,5-dimethoxyphenethyl)amino)methyl)phenol",
+    "PD044688",
+    "DB-376447"
   ],
   "identifiers": {
     "pubchem_cid": "125181394",
     "inchi_key": "RSUNJYKZRKIBNB-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "RSUNJYKZRKIBNB-UHFFFAOYSA-N",
+    "pubchemCID": "125181394"
   },
   "categories": [],
   "legal": {
@@ -36,5 +59,39 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/125181394"
+  ],
+  "molecular_formula": "C17H20BrNO3",
+  "molecular_weight": "366.2",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-[[2-(4-bromo-2,5-dimethoxyphenyl)ethylamino]methyl]phenol",
+  "synonyms_pubchem": [
+    "UNII-KHR1SJ9L0Y",
+    "25B-NBOH",
+    "KHR1SJ9L0Y",
+    "2C-B-NBOH",
+    "NBOH-2C-B",
+    "25B-NBOH [NFLIS-DRUG]",
+    "DTXSID401017175",
+    "2-({[2-(4-bromo-2,5-dimethoxyphenyl)ethyl]amino}methyl)phenol",
+    "25B-NBOH (NFLIS-DRUG)",
+    "2-((4-BROMO-2,5-DIMETHOXYPHENETHYLAMINO)METHYL)PHENOL",
+    "2-[[[2-(4-Bromo-2,5-dimethoxyphenyl)ethyl]amino]methyl]phenol",
+    "4-BROMO-2,5-DIMETHOXY-(N-(2-HYDROXYBENZYL))PHENETHYLAMINE",
+    "Phenol, 2-[[[2-(4-bromo-2,5-dimethoxyphenyl)ethyl]amino]methyl]-",
+    "2-(((2-(4-BROMO-2,5-DIMETHOXYPHENYL)ETHYL)AMINO)METHYL)PHENOL",
+    "PHENOL, 2-(((2-(4-BROMO-2,5-DIMETHOXYPHENYL)ETHYL)AMINO)METHYL)-",
+    "RefChem:89918",
+    "DTXCID801475361",
+    "1335331-46-8",
+    "2-[[2-(4-bromo-2,5-dimethoxyphenyl)ethylamino]methyl]phenol",
+    "SCHEMBL25245620",
+    "SCHEMBL29633105",
+    "2-(((4-bromo-2,5-dimethoxyphenethyl)amino)methyl)phenol",
+    "PD044688",
+    "DB-376447"
+  ]
 }

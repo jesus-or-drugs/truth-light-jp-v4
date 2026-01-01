@@ -1,12 +1,35 @@
 {
   "id": "th-pvp",
   "common_name": "TH-PVP",
-  "systematic name": "2-(pirorijin-1-iru)-1-(5, 6,7,8-tetrahydronafutaren-2- iru)pentan-1-on",
-  "aliases": [],
+  "systematic name": "2-pyrrolidin-1-yl-1-(5,6,7,8-tetrahydronaphthalen-2-yl)pentan-1-one",
+  "aliases": [
+    "TH-PVP",
+    "S5MU9GV87C",
+    "Cyclohexane-alpha-pvp",
+    "2-(pyrrolidin-1-yl)-1-(5,6,7,8-tetrahydronaphthalen-2-yl)pentan-1-one",
+    "Cyclohexane-alpha-pyrrolidinovalerophenone",
+    "CYCLOHEXANE-.ALPHA.-PVP",
+    "1-Pentanone, 2-(1-pyrrolidinyl)-1-(5,6,7,8-tetrahydro-2-naphthalenyl)-",
+    "3',4'-Tetramethylene-alpha-pyrrolidinopentiophenone",
+    "CYCLOHEXANE-.ALPHA.-PYRROLIDINOVALEROPHENONE",
+    "3',4'-TETRAMETHYLENE-.ALPHA.-PYRROLIDINOPENTIOPHENONE",
+    "RefChem:188993",
+    "UNII-S5MU9GV87C",
+    "3',4'-Tetramethylene-?-pyrrolidinopentiophenone",
+    "SCHEMBL28674935",
+    "DTXSID201337111",
+    "ESD91507",
+    "PD044673",
+    "NS00098470",
+    "TH-PVP (3',4'-tetramethylene-alpha-Pyrrolidinovalerophenone)",
+    "2-(1-Pyrrolidinyl)-1-(5,6,7,8-tetrahydro-2-naphthalenyl)-1-pentanone"
+  ],
   "identifiers": {
     "pubchem_cid": "132989549",
     "inchi_key": "MMIKQWIZKBYLKZ-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "MMIKQWIZKBYLKZ-UHFFFAOYSA-N",
+    "pubchemCID": "132989549"
   },
   "categories": [],
   "legal": {
@@ -33,5 +56,36 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/132989549"
+  ],
+  "molecular_formula": "C19H27NO",
+  "molecular_weight": "285.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-pyrrolidin-1-yl-1-(5,6,7,8-tetrahydronaphthalen-2-yl)pentan-1-one",
+  "synonyms_pubchem": [
+    "TH-PVP",
+    "S5MU9GV87C",
+    "Cyclohexane-alpha-pvp",
+    "2304915-07-7",
+    "2-(pyrrolidin-1-yl)-1-(5,6,7,8-tetrahydronaphthalen-2-yl)pentan-1-one",
+    "Cyclohexane-alpha-pyrrolidinovalerophenone",
+    "CYCLOHEXANE-.ALPHA.-PVP",
+    "1-Pentanone, 2-(1-pyrrolidinyl)-1-(5,6,7,8-tetrahydro-2-naphthalenyl)-",
+    "3',4'-Tetramethylene-alpha-pyrrolidinopentiophenone",
+    "CYCLOHEXANE-.ALPHA.-PYRROLIDINOVALEROPHENONE",
+    "3',4'-TETRAMETHYLENE-.ALPHA.-PYRROLIDINOPENTIOPHENONE",
+    "RefChem:188993",
+    "UNII-S5MU9GV87C",
+    "3',4'-Tetramethylene-?-pyrrolidinopentiophenone",
+    "SCHEMBL28674935",
+    "DTXSID201337111",
+    "ESD91507",
+    "PD044673",
+    "NS00098470",
+    "TH-PVP (3',4'-tetramethylene-alpha-Pyrrolidinovalerophenone)",
+    "2-(1-Pyrrolidinyl)-1-(5,6,7,8-tetrahydro-2-naphthalenyl)-1-pentanone"
+  ]
 }

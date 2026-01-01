@@ -1,12 +1,18 @@
 {
   "id": "4-fluoroethylphenidate",
   "common_name": "4-Fluoroethylphenidate",
-  "systematic name": "echiru=2-(4-furuorophenyl)- 2-(piperijin-2-iru)asete-to",
-  "aliases": [],
+  "systematic name": "ethyl 2-(4-fluorophenyl)-2-piperidin-2-ylacetate",
+  "aliases": [
+    "4-Fluoroethylphenidate",
+    "DTXSID301336966",
+    "PD131049"
+  ],
   "identifiers": {
     "pubchem_cid": "123133727",
     "inchi_key": "RKXQYWFDJDYSEN-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "RKXQYWFDJDYSEN-UHFFFAOYSA-N",
+    "pubchemCID": "123133727"
   },
   "categories": [],
   "legal": {
@@ -33,5 +39,19 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/123133727"
+  ],
+  "molecular_formula": "C15H20FNO2",
+  "molecular_weight": "265.32",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "ethyl 2-(4-fluorophenyl)-2-piperidin-2-ylacetate",
+  "synonyms_pubchem": [
+    "4-Fluoroethylphenidate",
+    "DTXSID301336966",
+    "PD131049",
+    "2160555-59-7"
+  ]
 }

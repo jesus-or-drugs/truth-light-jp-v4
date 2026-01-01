@@ -1,12 +1,31 @@
 {
   "id": "2-eapb",
   "common_name": "2-EAPB",
-  "systematic name": "1-(benzofuran-2-iru)-N-e chirupuropan-2-amine 類",
-  "aliases": [],
+  "systematic name": "1-(1-benzofuran-2-yl)-N-ethylpropan-2-amine",
+  "aliases": [
+    "2-EAPB",
+    "2-(2-(Ethylamino)propyl)benzofuran",
+    "857PLD0E6R",
+    "UNII-857PLD0E6R",
+    "J3.314.551I",
+    "2-Benzofuranethanamine, N-ethyl-alpha-methyl-",
+    "2-Benzofuranethylamine, N-ethyl-alpha-methyl-",
+    "2-BENZOFURANETHANAMINE, N-ETHYL-.ALPHA.-METHYL-",
+    "2-BENZOFURANETHYLAMINE, N-ETHYL-.ALPHA.-METHYL-",
+    "RefChem:197550",
+    "SCHEMBL30457823",
+    "SCHEMBL30458044",
+    "2-(2-ethylaminopropyl)benzofuran",
+    "DTXSID701342729",
+    "1-(1-Benzofuran-2-yl)-N-ethylpropan-2-amine",
+    "Q27269603"
+  ],
   "identifiers": {
     "pubchem_cid": "102144589",
     "inchi_key": "SGGKRTSTBXBERJ-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "SGGKRTSTBXBERJ-UHFFFAOYSA-N",
+    "pubchemCID": "102144589"
   },
   "categories": [],
   "legal": {
@@ -33,5 +52,32 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/102144589"
+  ],
+  "molecular_formula": "C13H17NO",
+  "molecular_weight": "203.28",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(1-benzofuran-2-yl)-N-ethylpropan-2-amine",
+  "synonyms_pubchem": [
+    "2-EAPB",
+    "2-(2-(Ethylamino)propyl)benzofuran",
+    "857PLD0E6R",
+    "UNII-857PLD0E6R",
+    "J3.314.551I",
+    "30455-81-3",
+    "2-Benzofuranethanamine, N-ethyl-alpha-methyl-",
+    "2-Benzofuranethylamine, N-ethyl-alpha-methyl-",
+    "2-BENZOFURANETHANAMINE, N-ETHYL-.ALPHA.-METHYL-",
+    "2-BENZOFURANETHYLAMINE, N-ETHYL-.ALPHA.-METHYL-",
+    "RefChem:197550",
+    "SCHEMBL30457823",
+    "SCHEMBL30458044",
+    "2-(2-ethylaminopropyl)benzofuran",
+    "DTXSID701342729",
+    "1-(1-Benzofuran-2-yl)-N-ethylpropan-2-amine",
+    "Q27269603"
+  ]
 }

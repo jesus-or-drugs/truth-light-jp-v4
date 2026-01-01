@@ -1,12 +1,35 @@
 {
   "id": "a-834735",
   "common_name": "A-834735",
-  "systematic name": "{1-[(tetrahydropiran-4-iru)me chiru]-1H-indo-ru-3-iru} (2,2,3,3-tetoramechirushikuropuro pan-1-iru)metanon",
-  "aliases": [],
+  "systematic name": "[1-(oxan-4-ylmethyl)indol-3-yl]-(2,2,3,3-tetramethylcyclopropyl)methanone",
+  "aliases": [
+    "A-834735",
+    "XE27L67C93",
+    "A834,735",
+    "RefChem:1049228",
+    "[1-(oxan-4-ylmethyl)indol-3-yl]-(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "A 834735",
+    "UNII-XE27L67C93",
+    "A-834,735",
+    "CHEMBL271158",
+    "SCHEMBL2078267",
+    "SCHEMBL29361727",
+    "BDBM21284",
+    "DTXSID60468349",
+    "GLXC-02127",
+    "MFCD22421638",
+    "AKOS015999244",
+    "NS00017616",
+    "Q4646879",
+    "{1-[(Oxan-4-yl)methyl]-1H-indol-3-yl}(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "1-(oxan-4-ylmethyl)-3-[(2,2,3,3-tetramethylcyclopropyl)carbonyl]-1H-indole"
+  ],
   "identifiers": {
     "pubchem_cid": "11544639",
     "inchi_key": "NQTMRZNYLIGQCF-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "NQTMRZNYLIGQCF-UHFFFAOYSA-N",
+    "pubchemCID": "11544639"
   },
   "categories": [],
   "legal": {
@@ -33,5 +56,44 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/11544639"
+  ],
+  "molecular_formula": "C22H29NO2",
+  "molecular_weight": "339.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "[1-(oxan-4-ylmethyl)indol-3-yl]-(2,2,3,3-tetramethylcyclopropyl)methanone",
+  "synonyms_pubchem": [
+    "895155-57-4",
+    "(1-((Tetrahydro-2H-pyran-4-yl)methyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "A-834735",
+    "XE27L67C93",
+    "(1-((Tetrahydro-2H-pyran-4-yl)methyl)-1H-indol-3-yl)-(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "(1-(Tetrahydropyran-4-ylmethyl)-1H-indol-3-yl)-(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "Methanone, (1-((tetrahydro-2H-pyran-4-yl)methyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)-",
+    "A834,735",
+    "[1-(tetrahydropyran-4-ylmethyl)-1h-indol-3-yl]-(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "[1-[(Tetrahydro-2H-pyran-4-yl)methyl]-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)methanone",
+    "RefChem:1049228",
+    "[1-(oxan-4-ylmethyl)indol-3-yl]-(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "A 834735",
+    "[1-[(tetrahydro-2H-pyran-4-yl)methyl]-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)-methanone",
+    "UNII-XE27L67C93",
+    "A-834,735",
+    "CHEMBL271158",
+    "SCHEMBL2078267",
+    "SCHEMBL29361727",
+    "BDBM21284",
+    "DTXSID60468349",
+    "GLXC-02127",
+    "MFCD22421638",
+    "AKOS015999244",
+    "NS00017616",
+    "Q4646879",
+    "[1-(tetrahydropyran-4-ylmethyl)indol-3-yl]-(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "{1-[(Oxan-4-yl)methyl]-1H-indol-3-yl}(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "1-(oxan-4-ylmethyl)-3-[(2,2,3,3-tetramethylcyclopropyl)carbonyl]-1H-indole"
+  ]
 }

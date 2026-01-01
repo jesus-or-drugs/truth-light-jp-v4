@@ -1,12 +1,31 @@
 {
   "id": "bk-mddma",
   "common_name": "bk-MDDMA",
-  "systematic name": "2-(jimechiruamineo)-1-(3, 4-mechire njiokishiphenyl)puropan-1-on",
-  "aliases": [],
+  "systematic name": "1-(1,3-benzodioxol-5-yl)-2-(dimethylamino)propan-1-one",
+  "aliases": [
+    "Dimethylone",
+    "bk-MDDMA",
+    "4G26NSP297",
+    "UNII-4G26NSP297",
+    "Propiophenone, 2-dimethylamino-3',4'-methylenedioxy-",
+    "1-(1,3-benzodioxol-5-yl)-2-(dimethylamino)propan-1-one",
+    "1-Propanone, 1-(1,3-benzodioxol-5-yl)-2-(dimethylamino)-",
+    "DTXSID801016917",
+    "RefChem:134366",
+    "DTXCID201475101",
+    "OSNIIMCBVLBNGS-UHFFFAOYSA-N",
+    "M11",
+    "SCHEMBL25745395",
+    "NS00017915",
+    "Q27259543",
+    "2-dimethylamino-1-(3,4-methylenedioxyphenyl)propan-1-one"
+  ],
   "identifiers": {
     "pubchem_cid": "9794472",
     "inchi_key": "OSNIIMCBVLBNGS-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "OSNIIMCBVLBNGS-UHFFFAOYSA-N",
+    "pubchemCID": "9794472"
   },
   "categories": [],
   "legal": {
@@ -33,5 +52,32 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/9794472"
+  ],
+  "molecular_formula": "C12H15NO3",
+  "molecular_weight": "221.25",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(1,3-benzodioxol-5-yl)-2-(dimethylamino)propan-1-one",
+  "synonyms_pubchem": [
+    "Dimethylone",
+    "bk-MDDMA",
+    "4G26NSP297",
+    "UNII-4G26NSP297",
+    "765231-58-1",
+    "Propiophenone, 2-dimethylamino-3',4'-methylenedioxy-",
+    "1-(1,3-benzodioxol-5-yl)-2-(dimethylamino)propan-1-one",
+    "1-Propanone, 1-(1,3-benzodioxol-5-yl)-2-(dimethylamino)-",
+    "DTXSID801016917",
+    "RefChem:134366",
+    "DTXCID201475101",
+    "OSNIIMCBVLBNGS-UHFFFAOYSA-N",
+    "M11",
+    "SCHEMBL25745395",
+    "NS00017915",
+    "Q27259543",
+    "2-dimethylamino-1-(3,4-methylenedioxyphenyl)propan-1-one"
+  ]
 }

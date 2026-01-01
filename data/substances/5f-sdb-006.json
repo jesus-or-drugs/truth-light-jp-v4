@@ -1,12 +1,30 @@
 {
   "id": "5f-sdb-006",
   "common_name": "5F-SDB-006",
-  "systematic name": "N-benzylu-1-(5-furuoropen chiru)-1H-indo-ru-3-karubo kisamido",
-  "aliases": [],
+  "systematic name": "N-benzyl-1-(5-fluoropentyl)indole-3-carboxamide",
+  "aliases": [
+    "5F-SDB-006",
+    "N-benzyl-1-(5-fluoropentyl)-1H-indole-3-carboxamide",
+    "N-BENZYL-1-(5-FLUOROPENTYL)INDOLE-3-CARBOXAMIDE",
+    "4UP4SXX8BW",
+    "5-Fluoro SDB-006",
+    "UNII-4UP4SXX8BW",
+    "1-(5-fluoropentyl)-N-(phenylmethyl)-1H-indole-3-carboxamide",
+    "1H-Indole-3-carboxamide, 1-(5-fluoropentyl)-N-(phenylmethyl)-",
+    "C21H23FN2O",
+    "SCHEMBL29988803",
+    "DTXSID601032523",
+    "MFCD31380151",
+    "PD018635",
+    "NS00017669",
+    "Q20707158"
+  ],
   "identifiers": {
     "pubchem_cid": "91936847",
     "inchi_key": "VFLXAWVAWXHMFB-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "VFLXAWVAWXHMFB-UHFFFAOYSA-N",
+    "pubchemCID": "91936847"
   },
   "categories": [],
   "legal": {
@@ -33,5 +51,31 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/91936847"
+  ],
+  "molecular_formula": "C21H23FN2O",
+  "molecular_weight": "338.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-benzyl-1-(5-fluoropentyl)indole-3-carboxamide",
+  "synonyms_pubchem": [
+    "1776086-02-2",
+    "5F-SDB-006",
+    "N-benzyl-1-(5-fluoropentyl)-1H-indole-3-carboxamide",
+    "N-BENZYL-1-(5-FLUOROPENTYL)INDOLE-3-CARBOXAMIDE",
+    "4UP4SXX8BW",
+    "5-Fluoro SDB-006",
+    "UNII-4UP4SXX8BW",
+    "1-(5-fluoropentyl)-N-(phenylmethyl)-1H-indole-3-carboxamide",
+    "1H-Indole-3-carboxamide, 1-(5-fluoropentyl)-N-(phenylmethyl)-",
+    "C21H23FN2O",
+    "SCHEMBL29988803",
+    "DTXSID601032523",
+    "MFCD31380151",
+    "PD018635",
+    "NS00017669",
+    "Q20707158"
+  ]
 }

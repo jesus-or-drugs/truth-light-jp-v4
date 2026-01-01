@@ -1,15 +1,35 @@
 {
   "id": "ephenidine",
   "common_name": "Ephenidine",
-  "systematic name": "N-echiru-1,2-jiphenylechiru amine",
+  "systematic name": "N-ethyl-1,2-diphenylethanamine",
   "aliases": [
-    "EPE",
-    "NEDPA"
+    "Ephenidine",
+    "NEDPA",
+    "Benzeneethanamine, N-ethyl-alpha-phenyl-",
+    "NG69VG2948",
+    "DTXSID601032416",
+    "n-ethyl-1,2-diphenylethanamine",
+    "RefChem:927149",
+    "DTXCID801517422",
+    "N-Ethyl-alpha-phenylbenzeneethanamine",
+    "(1,2-DIPHENYLETHYL)(ETHYL)AMINE",
+    "n-ethyl-1,2-diphenylethylamine",
+    "UNII-NG69VG2948",
+    "SCHEMBL5819528",
+    "EPHENIDINE [NFLIS-DRUG]",
+    "AKOS000206896",
+    "Phenethylamine, N-ethyl-alpha-phenyl-",
+    "N-ETHYL-1,2-DIPHENYLETHAN-1-AMINE",
+    "NS00018067",
+    "BENZENEETHANAMINE, N-ETHYL-.ALPHA.-PHENYL-",
+    "Q20708135"
   ],
   "identifiers": {
     "pubchem_cid": "110821",
     "inchi_key": "IGFZMQXEKIZPDR-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "IGFZMQXEKIZPDR-UHFFFAOYSA-N",
+    "pubchemCID": "110821"
   },
   "categories": [],
   "legal": {
@@ -36,5 +56,36 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/110821"
+  ],
+  "molecular_formula": "C16H19N",
+  "molecular_weight": "225.33",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-ethyl-1,2-diphenylethanamine",
+  "synonyms_pubchem": [
+    "Ephenidine",
+    "NEDPA",
+    "60951-19-1",
+    "Benzeneethanamine, N-ethyl-alpha-phenyl-",
+    "NG69VG2948",
+    "DTXSID601032416",
+    "n-ethyl-1,2-diphenylethanamine",
+    "RefChem:927149",
+    "DTXCID801517422",
+    "N-Ethyl-alpha-phenylbenzeneethanamine",
+    "(1,2-DIPHENYLETHYL)(ETHYL)AMINE",
+    "n-ethyl-1,2-diphenylethylamine",
+    "UNII-NG69VG2948",
+    "SCHEMBL5819528",
+    "EPHENIDINE [NFLIS-DRUG]",
+    "AKOS000206896",
+    "Phenethylamine, N-ethyl-alpha-phenyl-",
+    "N-ETHYL-1,2-DIPHENYLETHAN-1-AMINE",
+    "NS00018067",
+    "BENZENEETHANAMINE, N-ETHYL-.ALPHA.-PHENYL-",
+    "Q20708135"
+  ]
 }

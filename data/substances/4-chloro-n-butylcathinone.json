@@ -1,12 +1,31 @@
 {
   "id": "4-chloro-n-butylcathinone",
   "common_name": "4-Chloro-N-butylcathinone",
-  "systematic name": "2-(buchiruamineo)-1-(4-kuroro phenyl)puropan-1-on",
-  "aliases": [],
+  "systematic name": "2-(butylamino)-1-(4-chlorophenyl)propan-1-one",
+  "aliases": [
+    "4-Chlorobutylcathinone",
+    "4-Chloro-n-butylcathinone",
+    "4-CBC",
+    "4-Cbc [NFLIS-DRUG]",
+    "Para-butyl-N-chlorocathinone",
+    "V0383BY4YK",
+    "UNII-V0383BY4YK",
+    "2-(Butylamino)-1-(4-chlorophenyl)-1-propanone",
+    "2-(Butylamino)-1-(4-chlorophenyl)propan-1-one",
+    "1-Propanone, 2-(butylamino)-1-(4-chlorophenyl)-",
+    "4-CBC (NFLIS-DRUG)",
+    "RefChem:198646",
+    "SCHEMBL29577710",
+    "DTXSID401343235",
+    "PD044272",
+    "N-butyl-2-amino-1-(4-chlorophenyl)propan-1-one"
+  ],
   "identifiers": {
     "pubchem_cid": "82100385",
     "inchi_key": "FMDPVFRFGCOFKM-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "FMDPVFRFGCOFKM-UHFFFAOYSA-N",
+    "pubchemCID": "82100385"
   },
   "categories": [],
   "legal": {
@@ -33,5 +52,32 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/82100385"
+  ],
+  "molecular_formula": "C13H18ClNO",
+  "molecular_weight": "239.74",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(butylamino)-1-(4-chlorophenyl)propan-1-one",
+  "synonyms_pubchem": [
+    "4-Chlorobutylcathinone",
+    "4-Chloro-n-butylcathinone",
+    "4-CBC",
+    "4-Cbc [NFLIS-DRUG]",
+    "Para-butyl-N-chlorocathinone",
+    "V0383BY4YK",
+    "UNII-V0383BY4YK",
+    "2-(Butylamino)-1-(4-chlorophenyl)-1-propanone",
+    "2-(Butylamino)-1-(4-chlorophenyl)propan-1-one",
+    "1225621-71-5",
+    "1-Propanone, 2-(butylamino)-1-(4-chlorophenyl)-",
+    "4-CBC (NFLIS-DRUG)",
+    "RefChem:198646",
+    "SCHEMBL29577710",
+    "DTXSID401343235",
+    "PD044272",
+    "N-butyl-2-amino-1-(4-chlorophenyl)propan-1-one"
+  ]
 }

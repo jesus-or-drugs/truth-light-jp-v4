@@ -1,12 +1,40 @@
 {
   "id": "5-meo-dpt",
   "common_name": "5-MeO-DPT",
-  "systematic name": "5-methoxy-N,N-jipuropirutoripu tamine",
-  "aliases": [],
+  "systematic name": "N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-propylpropan-1-amine",
+  "aliases": [
+    "5-METHOXY-N,N-DIPROPYL-1H-INDOLE-3-ETHANAMINE",
+    "RefChem:1073068",
+    "5-METHOXY-N,N-DIPROPYLTRYPTAMINE",
+    "5-MeO-DPT",
+    "5-Methoxy-N',N'-dipropyltryptamine",
+    "5-Methoxy DPT",
+    "N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-propylpropan-1-amine",
+    "AYW60P516B",
+    "CHEMBL169328",
+    "1H-Indole-3-ethanamine,5-methoxy-N,N-dipropyl-",
+    "[2-(5-methoxy-1H-indol-3-yl)ethyl]dipropylamine",
+    "5-methoxy-N,N-di-n-propyltryptamine",
+    "UNII-AYW60P516B",
+    "5-Methoxy-DPT",
+    "SCHEMBL8890578",
+    "SCHEMBL29403661",
+    "DTXSID70219723",
+    "BDBM50020703",
+    "PDSP1_000014",
+    "PDSP2_000014",
+    "PD017558",
+    "NS00018001",
+    "1H-Indole-3-ethanamine, 5-methoxy-N,N-dipropyl-",
+    "Q4639624",
+    "[2-(5-Methoxy-1H-indol-3-yl)-ethyl]-dipropyl-amine(O-Me-DiPS)"
+  ],
   "identifiers": {
     "pubchem_cid": "14011047",
     "inchi_key": "PNHPVNBKLQWBKH-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "PNHPVNBKLQWBKH-UHFFFAOYSA-N",
+    "pubchemCID": "14011047"
   },
   "categories": [],
   "legal": {
@@ -33,5 +61,41 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/14011047"
+  ],
+  "molecular_formula": "C17H26N2O",
+  "molecular_weight": "274.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-propylpropan-1-amine",
+  "synonyms_pubchem": [
+    "69496-75-9",
+    "5-METHOXY-N,N-DIPROPYL-1H-INDOLE-3-ETHANAMINE",
+    "RefChem:1073068",
+    "5-METHOXY-N,N-DIPROPYLTRYPTAMINE",
+    "5-MeO-DPT",
+    "5-Methoxy-N',N'-dipropyltryptamine",
+    "5-Methoxy DPT",
+    "N-[2-(5-methoxy-1H-indol-3-yl)ethyl]-N-propylpropan-1-amine",
+    "AYW60P516B",
+    "CHEMBL169328",
+    "1H-Indole-3-ethanamine,5-methoxy-N,N-dipropyl-",
+    "[2-(5-methoxy-1H-indol-3-yl)ethyl]dipropylamine",
+    "5-methoxy-N,N-di-n-propyltryptamine",
+    "UNII-AYW60P516B",
+    "5-Methoxy-DPT",
+    "SCHEMBL8890578",
+    "SCHEMBL29403661",
+    "DTXSID70219723",
+    "BDBM50020703",
+    "PDSP1_000014",
+    "PDSP2_000014",
+    "PD017558",
+    "NS00018001",
+    "1H-Indole-3-ethanamine, 5-methoxy-N,N-dipropyl-",
+    "Q4639624",
+    "[2-(5-Methoxy-1H-indol-3-yl)-ethyl]-dipropyl-amine(O-Me-DiPS)"
+  ]
 }

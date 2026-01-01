@@ -1,12 +1,39 @@
 {
   "id": "4-aco-det",
   "common_name": "4-AcO-DET",
-  "systematic name": "4-acetoxy-N,N-jiechirutoripu tamine",
-  "aliases": [],
+  "systematic name": "[3-[2-(diethylamino)ethyl]-1H-indol-4-yl] acetate",
+  "aliases": [
+    "[3-[2-(diethylamino)ethyl]-1H-indol-4-yl] acetate",
+    "(3-(2-(diethylamino)ethyl)-1H-indol-4-yl) acetate",
+    "RefChem:905927",
+    "3-(2-(Diethylamino)ethyl)-1H-indol-4-yl acetate",
+    "4-AcO-DET",
+    "Ethacetin",
+    "Ethylacybin",
+    "4-Acetoxy-DET",
+    "4-ACETOXY-N,N-DIETHYLTRYPTAMINE",
+    "UNII-43U8799479",
+    "3-[2-(Diethylamino)ethyl]-1H-indol-4-yl acetate",
+    "1H-Indol-4-ol, 3-[2-(diethylamino)ethyl]-, 4-acetate",
+    "43U8799479",
+    "3-(2-(Diethylamino)ethyl)-1H-indol-4-yl Acetate;",
+    "1H-INDOL-4-OL, 3-(2-(DIETHYLAMINO)ETHYL)-, 4-ACETATE",
+    "SCHEMBL4212211",
+    "SCHEMBL29400822",
+    "DTXSID60647359",
+    "MFCD04972027",
+    "AKOS016007382",
+    "EN-0015",
+    "PD045099",
+    "NS00017917",
+    "Q3491314"
+  ],
   "identifiers": {
     "pubchem_cid": "24801867",
     "inchi_key": "WYEVVQJLTXBMPM-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "WYEVVQJLTXBMPM-UHFFFAOYSA-N",
+    "pubchemCID": "24801867"
   },
   "categories": [],
   "legal": {
@@ -33,5 +60,40 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/24801867"
+  ],
+  "molecular_formula": "C16H22N2O2",
+  "molecular_weight": "274.36",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "[3-[2-(diethylamino)ethyl]-1H-indol-4-yl] acetate",
+  "synonyms_pubchem": [
+    "[3-[2-(diethylamino)ethyl]-1H-indol-4-yl] acetate",
+    "(3-(2-(diethylamino)ethyl)-1H-indol-4-yl) acetate",
+    "RefChem:905927",
+    "1135424-15-5",
+    "3-(2-(Diethylamino)ethyl)-1H-indol-4-yl acetate",
+    "4-AcO-DET",
+    "Ethacetin",
+    "Ethylacybin",
+    "4-Acetoxy-DET",
+    "4-ACETOXY-N,N-DIETHYLTRYPTAMINE",
+    "UNII-43U8799479",
+    "3-[2-(Diethylamino)ethyl]-1H-indol-4-yl acetate",
+    "1H-Indol-4-ol, 3-[2-(diethylamino)ethyl]-, 4-acetate",
+    "43U8799479",
+    "3-(2-(Diethylamino)ethyl)-1H-indol-4-yl Acetate;",
+    "1H-INDOL-4-OL, 3-(2-(DIETHYLAMINO)ETHYL)-, 4-ACETATE",
+    "SCHEMBL4212211",
+    "SCHEMBL29400822",
+    "DTXSID60647359",
+    "MFCD04972027",
+    "AKOS016007382",
+    "EN-0015",
+    "PD045099",
+    "NS00017917",
+    "Q3491314"
+  ]
 }

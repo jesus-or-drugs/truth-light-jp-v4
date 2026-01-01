@@ -4,12 +4,29 @@
   "systematic name": "1-adamantyl 1-pentylindazole-3-carboxylate",
   "aliases": [
     "APINAC",
-    "AKB57"
+    "Acbl(N)-018",
+    "AKB57",
+    "LV8ML24A9K",
+    "AKB-57",
+    "Adamantan-1-yl-1-pentyl-1H-indazol-3-carboxylate",
+    "Tricyclo(3.3.1.13,7)dec-1-yl 1-pentyl-1H-indazole-3-carboxylate",
+    "1H-Indazole-3-carboxylic acid, 1-pentyl-, tricyclo(3.3.1.13,7)dec-1-yl ester",
+    "RefChem:199614",
+    "UNII-LV8ML24A9K",
+    "(3s,5s,7s)-adamantan-1-yl1-pentyl-1H-indazole-3-carboxylate",
+    "adamantan-1-yl 1-pentyl-1h-indazole-3-carboxylate",
+    "SCHEMBL21140773",
+    "SCHEMBL30641120",
+    "DTXSID801342415",
+    "1-adamantyl 1-pentylindazole-3-carboxylate",
+    "NS00096675"
   ],
   "identifiers": {
     "pubchem_cid": "129532609",
     "inchi_key": "KCCVWUAAHDXNNQ-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "KCCVWUAAHDXNNQ-UHFFFAOYSA-N",
+    "pubchemCID": "129532609"
   },
   "categories": [],
   "legal": {
@@ -36,5 +53,33 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/129532609"
+  ],
+  "molecular_formula": "C23H30N2O2",
+  "molecular_weight": "366.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-adamantyl 1-pentylindazole-3-carboxylate",
+  "synonyms_pubchem": [
+    "APINAC",
+    "Acbl(N)-018",
+    "AKB57",
+    "LV8ML24A9K",
+    "2219331-93-6",
+    "AKB-57",
+    "Adamantan-1-yl-1-pentyl-1H-indazol-3-carboxylate",
+    "Tricyclo(3.3.1.13,7)dec-1-yl 1-pentyl-1H-indazole-3-carboxylate",
+    "1H-Indazole-3-carboxylic acid, 1-pentyl-, tricyclo(3.3.1.13,7)dec-1-yl ester",
+    "RefChem:199614",
+    "UNII-LV8ML24A9K",
+    "(3s,5s,7s)-adamantan-1-yl1-pentyl-1H-indazole-3-carboxylate",
+    "adamantan-1-yl 1-pentyl-1h-indazole-3-carboxylate",
+    "SCHEMBL21140773",
+    "SCHEMBL30641120",
+    "DTXSID801342415",
+    "1-adamantyl 1-pentylindazole-3-carboxylate",
+    "NS00096675"
+  ]
 }

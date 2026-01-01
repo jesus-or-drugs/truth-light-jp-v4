@@ -1,12 +1,21 @@
 {
   "id": "1cp-al-lad",
   "common_name": "1cP-AL-LAD",
-  "systematic name": "7-ariru-4-(shikuropuropirukaru boniru)-N,N-jiechiru-4,6,6 a,7,8,9-hekisahidoroindoro[4, 3-fg]kinorin-9-karubokisamido及 びその salts",
-  "aliases": [],
+  "systematic name": "(6aR,9R)-4-(cyclopropanecarbonyl)-N,N-diethyl-7-prop-2-enyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide",
+  "aliases": [
+    "1cP-AL-LAD",
+    "HH7F72QLZ3",
+    "1-CYCLOPROPIONYL-6-ALLYL-6-NOR-LSD",
+    "1-CYCLOPROPANECARBOXYL-N-ALLYLNORLYSERGIC ACID N,N-DIETHYLAMIDE",
+    "RefChem:79614",
+    "DTXSID301342446"
+  ],
   "identifiers": {
     "pubchem_cid": "162368406",
     "inchi_key": "VSABTUDYQCMWKE-AUSIDOKSSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "VSABTUDYQCMWKE-AUSIDOKSSA-N",
+    "pubchemCID": "162368406"
   },
   "categories": [],
   "legal": {
@@ -33,5 +42,21 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/162368406"
+  ],
+  "molecular_formula": "C26H31N3O2",
+  "molecular_weight": "417.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "(6aR,9R)-4-(cyclopropanecarbonyl)-N,N-diethyl-7-prop-2-enyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide",
+  "synonyms_pubchem": [
+    "1cP-AL-LAD",
+    "HH7F72QLZ3",
+    "1-CYCLOPROPIONYL-6-ALLYL-6-NOR-LSD",
+    "1-CYCLOPROPANECARBOXYL-N-ALLYLNORLYSERGIC ACID N,N-DIETHYLAMIDE",
+    "RefChem:79614",
+    "DTXSID301342446"
+  ]
 }

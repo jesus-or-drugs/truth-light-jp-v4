@@ -1,12 +1,34 @@
 {
   "id": "am679",
   "common_name": "AM679",
-  "systematic name": "(2-yo-dophenyl)(1-penchiru-1 H-indo-ru-3-iru)metanon及び その salts",
-  "aliases": [],
+  "systematic name": "(2-iodophenyl)-(1-pentylindol-3-yl)methanone",
+  "aliases": [
+    "1-Pentyl-3-(2-iodobenzoyl)indole",
+    "(2-Iodophenyl)(1-pentyl-1H-indol-3-yl)methanone",
+    "61TFT4BO1C",
+    "AM-679 (cannabinoid)",
+    "METHANONE, (2-IODOPHENYL)(1-PENTYL-1H-INDOL-3-YL)-",
+    "RefChem:199536",
+    "AM679",
+    "GAJBHYUAJOTAEW-UHFFFAOYSA-N",
+    "UNII-61TFT4BO1C",
+    "(2-iodophenyl)-(1-pentylindol-3-yl)methanone",
+    "C20H20INO",
+    "SCHEMBL16969126",
+    "DTXSID901009999",
+    "GLXC-03602",
+    "DB-257560",
+    "NS00010235",
+    "AM-679, AM679, AM 679",
+    "(2-Iodophenyl)(1-pentyl-1H-indol-3-yl)-methanone",
+    "Q4652500"
+  ],
   "identifiers": {
     "pubchem_cid": "57458891",
     "inchi_key": "GAJBHYUAJOTAEW-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "GAJBHYUAJOTAEW-UHFFFAOYSA-N",
+    "pubchemCID": "57458891"
   },
   "categories": [],
   "legal": {
@@ -33,5 +55,35 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/57458891"
+  ],
+  "molecular_formula": "C20H20INO",
+  "molecular_weight": "417.3",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "(2-iodophenyl)-(1-pentylindol-3-yl)methanone",
+  "synonyms_pubchem": [
+    "335160-91-3",
+    "1-Pentyl-3-(2-iodobenzoyl)indole",
+    "(2-Iodophenyl)(1-pentyl-1H-indol-3-yl)methanone",
+    "61TFT4BO1C",
+    "AM-679 (cannabinoid)",
+    "METHANONE, (2-IODOPHENYL)(1-PENTYL-1H-INDOL-3-YL)-",
+    "RefChem:199536",
+    "AM679",
+    "GAJBHYUAJOTAEW-UHFFFAOYSA-N",
+    "UNII-61TFT4BO1C",
+    "(2-iodophenyl)-(1-pentylindol-3-yl)methanone",
+    "C20H20INO",
+    "SCHEMBL16969126",
+    "DTXSID901009999",
+    "GLXC-03602",
+    "DB-257560",
+    "NS00010235",
+    "AM-679, AM679, AM 679",
+    "(2-Iodophenyl)(1-pentyl-1H-indol-3-yl)-methanone",
+    "Q4652500"
+  ]
 }

@@ -1,12 +1,35 @@
 {
   "id": "6-apb",
   "common_name": "6-APB",
-  "systematic name": "1-(benzofuran-6-iru)puropan -2-amine",
-  "aliases": [],
+  "systematic name": "1-(1-benzofuran-6-yl)propan-2-amine",
+  "aliases": [
+    "6-(2-Aminopropyl)benzofuran",
+    "6-APB",
+    "Benzofury",
+    "285VE60914",
+    "J3.334.441D",
+    "DTXSID401010105",
+    "6-APB compound",
+    "RefChem:103992",
+    "DTXCID30837200",
+    "1-(1-benzofuran-6-yl)propan-2-amine",
+    "UNII-285VE60914",
+    "1-(benzofuran-6-yl)propan-2-amine",
+    "SCHEMBL5987271",
+    "SCHEMBL29366170",
+    "FQDAMYLMQQKPRX-UHFFFAOYSA-N",
+    "LLA83485",
+    "PD049051",
+    "NS00017328",
+    "6-BENZOFURANETHANAMINE, .ALPHA.-METHYL-",
+    "Q2664395"
+  ],
   "identifiers": {
     "pubchem_cid": "9794343",
     "inchi_key": "FQDAMYLMQQKPRX-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "FQDAMYLMQQKPRX-UHFFFAOYSA-N",
+    "pubchemCID": "9794343"
   },
   "categories": [],
   "legal": {
@@ -33,5 +56,36 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/9794343"
+  ],
+  "molecular_formula": "C11H13NO",
+  "molecular_weight": "175.23",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(1-benzofuran-6-yl)propan-2-amine",
+  "synonyms_pubchem": [
+    "6-(2-Aminopropyl)benzofuran",
+    "286834-85-3",
+    "6-APB",
+    "Benzofury",
+    "285VE60914",
+    "J3.334.441D",
+    "DTXSID401010105",
+    "6-APB compound",
+    "RefChem:103992",
+    "DTXCID30837200",
+    "1-(1-benzofuran-6-yl)propan-2-amine",
+    "UNII-285VE60914",
+    "1-(benzofuran-6-yl)propan-2-amine",
+    "SCHEMBL5987271",
+    "SCHEMBL29366170",
+    "FQDAMYLMQQKPRX-UHFFFAOYSA-N",
+    "LLA83485",
+    "PD049051",
+    "NS00017328",
+    "6-BENZOFURANETHANAMINE, .ALPHA.-METHYL-",
+    "Q2664395"
+  ]
 }

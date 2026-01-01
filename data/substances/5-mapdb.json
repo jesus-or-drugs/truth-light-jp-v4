@@ -1,12 +1,28 @@
 {
   "id": "5-mapdb",
   "common_name": "5-MAPDB",
-  "systematic name": "1-(2,3-jihidorobenzofuran-5- iru)-N-mechirupuropan-2-ami n",
-  "aliases": [],
+  "systematic name": "1-(2,3-dihydro-1-benzofuran-5-yl)-N-methylpropan-2-amine",
+  "aliases": [
+    "5-Mapdb",
+    "1-(2,3-Dihydrobenzofuran-5-yl)-N-methylpropan-2-amine",
+    "FS5Z21939Z",
+    "UNII-FS5Z21939Z",
+    "5-Benzofuranethanamine, 2,3-dihydro-N,alpha-dimethyl-",
+    "5-BENZOFURANETHANAMINE, 2,3-DIHYDRO-N,.ALPHA.-DIMETHYL-",
+    "RefChem:196893",
+    "SCHEMBL29645981",
+    "SCHEMBL31108457",
+    "DTXSID601045392",
+    "PD047945",
+    "NS00017355",
+    "Q15405287"
+  ],
   "identifiers": {
     "pubchem_cid": "112500533",
     "inchi_key": "PLQTZOCLUHHCOI-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "PLQTZOCLUHHCOI-UHFFFAOYSA-N",
+    "pubchemCID": "112500533"
   },
   "categories": [],
   "legal": {
@@ -33,5 +49,29 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/112500533"
+  ],
+  "molecular_formula": "C12H17NO",
+  "molecular_weight": "191.27",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(2,3-dihydro-1-benzofuran-5-yl)-N-methylpropan-2-amine",
+  "synonyms_pubchem": [
+    "5-Mapdb",
+    "1-(2,3-Dihydrobenzofuran-5-yl)-N-methylpropan-2-amine",
+    "FS5Z21939Z",
+    "UNII-FS5Z21939Z",
+    "5-Benzofuranethanamine, 2,3-dihydro-N,alpha-dimethyl-",
+    "5-BENZOFURANETHANAMINE, 2,3-DIHYDRO-N,.ALPHA.-DIMETHYL-",
+    "RefChem:196893",
+    "1354631-78-9",
+    "SCHEMBL29645981",
+    "SCHEMBL31108457",
+    "DTXSID601045392",
+    "PD047945",
+    "NS00017355",
+    "Q15405287"
+  ]
 }

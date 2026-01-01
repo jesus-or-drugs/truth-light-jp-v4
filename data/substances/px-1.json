@@ -1,14 +1,27 @@
 {
   "id": "px-1",
   "common_name": "PX-1",
-  "systematic name": "N-(1-amineo-1-okiso-3-fe nirupuropan-2-iru)-1-(5-fu ruoropenchiru)-1H-indo-ru- 3-karubokisamido",
+  "systematic name": "N-[(2S)-1-amino-1-oxo-3-phenylpropan-2-yl]-1-(5-fluoropentyl)indole-3-carboxamide",
   "aliases": [
-    "5F-APP-PICA"
+    "5F-App-pica",
+    "PX-1",
+    "5-Fluoro app-pica",
+    "BJ7SBQ2H5I",
+    "SRF-30",
+    "UNII-BJ7SBQ2H5I",
+    "N-((1S)-2-Amino-1-benzyl-2-oxo-ethyl)-1-(5-fluoropentyl)indole-3-carboxamide",
+    "N-[(1S)-2-amino-1-benzyl-2-oxo-ethyl]-1-(5-fluoropentyl)indole-3-carboxamide",
+    "SCHEMBL30031959",
+    "C23H26FN3O2",
+    "DTXSID101016916",
+    "NS00017560"
   ],
   "identifiers": {
     "pubchem_cid": "125181260",
     "inchi_key": "DDVANTXQCRMRFF-FQEVSTJZSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "DDVANTXQCRMRFF-FQEVSTJZSA-N",
+    "pubchemCID": "125181260"
   },
   "categories": [],
   "legal": {
@@ -35,5 +48,31 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/125181260"
+  ],
+  "molecular_formula": "C23H26FN3O2",
+  "molecular_weight": "395.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-[(2S)-1-amino-1-oxo-3-phenylpropan-2-yl]-1-(5-fluoropentyl)indole-3-carboxamide",
+  "synonyms_pubchem": [
+    "5F-App-pica",
+    "PX-1",
+    "2221100-71-4",
+    "5-Fluoro app-pica",
+    "BJ7SBQ2H5I",
+    "(s)-N-(1-amino-1-oxo-3-phenylpropan-2-yl)-1-(5-fluoropentyl)-1h-indole-3-carboxamide",
+    "SRF-30",
+    "UNII-BJ7SBQ2H5I",
+    "N-((1S)-2-Amino-1-benzyl-2-oxo-ethyl)-1-(5-fluoropentyl)indole-3-carboxamide",
+    "1H-Indole-3-carboxamide, N-((1S)-2-amino-2-oxo-1-(phenylmethyl)ethyl)-1-(5-fluoropentyl)-",
+    "N-[(1S)-2-amino-1-benzyl-2-oxo-ethyl]-1-(5-fluoropentyl)indole-3-carboxamide",
+    "SCHEMBL30031959",
+    "C23H26FN3O2",
+    "DTXSID101016916",
+    "NS00017560",
+    "N-[(1S)-2-Amino-2-oxo-1-(phenylmethyl)ethyl]-1-(5-fluoropentyl)-1H-indole-3-carboxamide"
+  ]
 }

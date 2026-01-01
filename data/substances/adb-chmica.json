@@ -1,16 +1,29 @@
 {
   "id": "adb-chmica",
   "common_name": "ADB-CHMICA",
-  "systematic name": "N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)indole-3-carboxamide",
+  "systematic name": "N-[(2S)-1-amino-3,3-dimethyl-1-oxobutan-2-yl]-1-(cyclohexylmethyl)indazole-3-carboxamide",
   "aliases": [
-    "ADB-CHMINACA",
-    "ADB-CHMICA",
-    "MAB-CHMICA"
+    "Adb-chminaca",
+    "Adb-chmica",
+    "MAB-CHMINACA",
+    "SL4C60689M",
+    "RefChem:109658",
+    "L-ADB-CHMINACA",
+    "ADB-CHMINACA, (S)",
+    "UNII-SL4C60689M",
+    "SCHEMBL4053063",
+    "SCHEMBL29993194",
+    "DTXSID801009984",
+    "NS00117954",
+    "C22698",
+    "Q27289262"
   ],
   "identifiers": {
     "pubchem_cid": "68894304",
     "inchi_key": "ZWCCSIUBHCZKOY-GOSISDBHSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "ZWCCSIUBHCZKOY-GOSISDBHSA-N",
+    "pubchemCID": "68894304"
   },
   "categories": [],
   "legal": {
@@ -37,5 +50,38 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/68894304"
+  ],
+  "molecular_formula": "C21H30N4O2",
+  "molecular_weight": "370.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-[(2S)-1-amino-3,3-dimethyl-1-oxobutan-2-yl]-1-(cyclohexylmethyl)indazole-3-carboxamide",
+  "synonyms_pubchem": [
+    "Adb-chminaca",
+    "Adb-chmica",
+    "1185887-13-1",
+    "MAB-CHMINACA",
+    "SL4C60689M",
+    "1H-Indazole-3-carboxamide, N-((1S)-1-(aminocarbonyl)-2,2-dimethylpropyl)-1-(cyclohexylmethyl)-",
+    "N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indole-3-carboxamide",
+    "RefChem:109658",
+    "N-(1'-(aminocarbonyl)-2',2'-dimethylpropyl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide",
+    "N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide",
+    "L-ADB-CHMINACA",
+    "N-[(2S)-1-amino-3,3-dimethyl-1-oxobutan-2-yl]-1-(cyclohexylmethyl)indazole-3-carboxamide",
+    "ADB-CHMINACA, (S)",
+    "UNII-SL4C60689M",
+    "SCHEMBL4053063",
+    "SCHEMBL29993194",
+    "DTXSID801009984",
+    "NS00117954",
+    "C22698",
+    "Q27289262",
+    "L-ADB-CHMINACA; 1H-Indazole-3-carboxamide, N-[(1S)-1-(aminocarbonyl)-2,2-dimethylpropyl]-1-(cyclohexylmethyl)-; N-[(1S)-1-(Aminocarbonyl)-2,2-dimethylpropyl]-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide",
+    "N-[(2S)-1-Amino-3,3-dimethyl-1-oxobutan-2-yl]-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide",
+    "N-[(2S)-1-Amino-3,3-dimethyl-1-oxobutan-2-yl]-1-cyclohexylmethyl-1H-indazole-3-carboxamide"
+  ]
 }

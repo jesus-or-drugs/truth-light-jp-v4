@@ -1,14 +1,29 @@
 {
   "id": "5f-cumyl-pegaclone",
   "common_name": "5F-CUMYL-PEGACLONE",
-  "systematic name": "5-(5-furuoropenchiru)-2-(2 -phenylpuropan-2-iru)-2,5 -jihidoro-1H-pirido[4,3-b]in do-ru-1-on",
+  "systematic name": "5-(5-fluoropentyl)-2-(2-phenylpropan-2-yl)pyrido[4,3-b]indol-1-one",
   "aliases": [
-    "5FーSGT-151"
+    "UNII-7S7IFQ9PPG",
+    "5-Fluoro cumyl-pegaclone",
+    "7S7IFQ9PPG",
+    "5F-CUMYL-PEGACLONE",
+    "SGT-269",
+    "5F-SGT-151",
+    "RefChem:198900",
+    "5-Fluoro SGT-151",
+    "5-(5-fluoropentyl)-2-(2-phenylpropan-2-yl)pyrido[4,3-b]indol-1-one",
+    "C25H27FN2O",
+    "DTXSID301336497",
+    "PD117494",
+    "5-(5-fluoropentyl)-2-(1-methyl-1-phenyl-ethyl)pyrido[4,3-b]indol-1-one",
+    "5-(5-fluoropentyl)-2-(1-methyl-1-phenylethyl)-1h-pyrido[4,3-b]indol-1-one"
   ],
   "identifiers": {
     "pubchem_cid": "134818048",
     "inchi_key": "SMRRORRDOWXERZ-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "SMRRORRDOWXERZ-UHFFFAOYSA-N",
+    "pubchemCID": "134818048"
   },
   "categories": [],
   "legal": {
@@ -35,5 +50,32 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/134818048"
+  ],
+  "molecular_formula": "C25H27FN2O",
+  "molecular_weight": "390.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "5-(5-fluoropentyl)-2-(2-phenylpropan-2-yl)pyrido[4,3-b]indol-1-one",
+  "synonyms_pubchem": [
+    "UNII-7S7IFQ9PPG",
+    "5-Fluoro cumyl-pegaclone",
+    "7S7IFQ9PPG",
+    "5F-CUMYL-PEGACLONE",
+    "SGT-269",
+    "5F-SGT-151",
+    "RefChem:198900",
+    "2377403-49-9",
+    "5-Fluoro SGT-151",
+    "5-(5-fluoropentyl)-2-(2-phenylpropan-2-yl)pyrido[4,3-b]indol-1-one",
+    "5-(5-fluoropentyl)-2,5-dihydro-2-(1-methyl-1-phenylethyl)-1H-pyrido[4,3-b]indol-1-one",
+    "5-(5-Fluoropentyl)-2-(2-phenylpropan-2-yl)-2,5-dihydro-1H-pyrido(4,3-b)indol-1-one",
+    "C25H27FN2O",
+    "DTXSID301336497",
+    "PD117494",
+    "5-(5-fluoropentyl)-2-(1-methyl-1-phenyl-ethyl)pyrido[4,3-b]indol-1-one",
+    "5-(5-fluoropentyl)-2-(1-methyl-1-phenylethyl)-1h-pyrido[4,3-b]indol-1-one"
+  ]
 }

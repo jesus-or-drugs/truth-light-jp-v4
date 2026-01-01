@@ -1,15 +1,35 @@
 {
   "id": "deschloroketamine",
   "common_name": "Deschloroketamine",
-  "systematic name": "2-(mechiruamineo)-2-phenylshikuro hekisanon",
+  "systematic name": "2-(methylamino)-2-phenylcyclohexan-1-one",
   "aliases": [
+    "Deschloroketamine",
+    "B0J1D1S3EI",
+    "DTXSID701342024",
+    "RefChem:1083175",
+    "DTXCID90863484",
+    "2'-Oxo-pcm",
+    "S-deschloroketamine",
+    "2-(methylamino)-2-phenylcyclohexan-1-one",
+    "2-(Methylamino)-2-phenylcyclohexanone",
+    "UNII-B0J1D1S3EI",
+    "Cyclohexanone, 2-(methylamino)-2-phenyl-",
     "DXE",
-    "DCK"
+    "S-DCK",
+    "SCHEMBL8154269",
+    "CHEMBL2068808",
+    "GTPL11720",
+    "NS00018082",
+    "EN300-157715",
+    "(2S)-2-(methylamino)-2-phenylcyclohexan-1-one",
+    "Q21098985"
   ],
   "identifiers": {
     "pubchem_cid": "437168",
     "inchi_key": "ZAGBSZSITDFFAF-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "ZAGBSZSITDFFAF-UHFFFAOYSA-N",
+    "pubchemCID": "437168"
   },
   "categories": [],
   "legal": {
@@ -36,5 +56,36 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/437168"
+  ],
+  "molecular_formula": "C13H17NO",
+  "molecular_weight": "203.28",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(methylamino)-2-phenylcyclohexan-1-one",
+  "synonyms_pubchem": [
+    "Deschloroketamine",
+    "B0J1D1S3EI",
+    "7063-30-1",
+    "DTXSID701342024",
+    "RefChem:1083175",
+    "DTXCID90863484",
+    "2'-Oxo-pcm",
+    "S-deschloroketamine",
+    "2-(methylamino)-2-phenylcyclohexan-1-one",
+    "2-(Methylamino)-2-phenylcyclohexanone",
+    "UNII-B0J1D1S3EI",
+    "Cyclohexanone, 2-(methylamino)-2-phenyl-",
+    "DXE",
+    "S-DCK",
+    "SCHEMBL8154269",
+    "CHEMBL2068808",
+    "GTPL11720",
+    "NS00018082",
+    "EN300-157715",
+    "(2S)-2-(methylamino)-2-phenylcyclohexan-1-one",
+    "Q21098985"
+  ]
 }

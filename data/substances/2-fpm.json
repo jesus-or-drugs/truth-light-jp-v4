@@ -1,14 +1,24 @@
 {
   "id": "2-fpm",
   "common_name": "2-FPM",
-  "systematic name": "2-(2-furuorophenyl)-3-mechi rumoruforin",
+  "systematic name": "2-(2-fluorophenyl)-3-methylmorpholine",
   "aliases": [
-    "2-Fluorophenmetrazine"
+    "2-Fpm",
+    "2-Fluorophenmetrazine",
+    "2-(2-fluorophenyl)-3-methylmorpholine",
+    "L8CB6G8U8C",
+    "Morpholine, 2-(2-fluorophenyl)-3-methyl-",
+    "RefChem:197777",
+    "UNII-L8CB6G8U8C",
+    "SCHEMBL2599479",
+    "DTXSID701342755"
   ],
   "identifiers": {
     "pubchem_cid": "67471199",
     "inchi_key": "QTYLEXQVLJYJHT-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "QTYLEXQVLJYJHT-UHFFFAOYSA-N",
+    "pubchemCID": "67471199"
   },
   "categories": [],
   "legal": {
@@ -35,5 +45,25 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/67471199"
+  ],
+  "molecular_formula": "C11H14FNO",
+  "molecular_weight": "195.23",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(2-fluorophenyl)-3-methylmorpholine",
+  "synonyms_pubchem": [
+    "2-Fpm",
+    "2-Fluorophenmetrazine",
+    "2-(2-fluorophenyl)-3-methylmorpholine",
+    "L8CB6G8U8C",
+    "Morpholine, 2-(2-fluorophenyl)-3-methyl-",
+    "1533654-24-8",
+    "RefChem:197777",
+    "UNII-L8CB6G8U8C",
+    "SCHEMBL2599479",
+    "DTXSID701342755"
+  ]
 }

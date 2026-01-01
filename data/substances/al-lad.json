@@ -1,12 +1,34 @@
 {
   "id": "al-lad",
   "common_name": "AL-LAD",
-  "systematic name": "7-ariru-N,N-jiechiru-4,6,6 a,7,8,9-hekisahidoroindoro[4,3 -fg]kinorin-9-karubokisamido及び その salts",
-  "aliases": [],
+  "systematic name": "(6aR,9R)-N,N-diethyl-7-prop-2-enyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",
+  "aliases": [
+    "AL-LAD",
+    "6-allyl-6-nor-LSD",
+    "020O2SR91L",
+    "DTXSID30215822",
+    "RefChem:1084202",
+    "DTXCID60138313",
+    "Ergoline-8-carboxamide, 9,10-didehydro-N,N-diethyl-6-(2-propen-1-yl)-, (8beta)-",
+    "N-Allylnorlysergic Acid N,N-Diethylamide",
+    "UNII-020O2SR91L",
+    "6-Allyl-6-nor-lysergic acid diethylamide",
+    "AL-LAD (solution)",
+    "N-ALLYLNORLSD",
+    "N-Allylnorylsergic Acid N,N-Diethylamide",
+    "CHEMBL281787",
+    "orb2814239",
+    "SCHEMBL20970937",
+    "HY-W743888",
+    "Q4652233",
+    "ERGOLINE-8-CARBOXAMIDE, 9,10-DIDEHYDRO-N,N-DIETHYL-6-(2-PROPENYL)-, (8.BETA.)-"
+  ],
   "identifiers": {
     "pubchem_cid": "15227511",
     "inchi_key": "JCQLEPDZFXGHHQ-OXQOHEQNSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "JCQLEPDZFXGHHQ-OXQOHEQNSA-N",
+    "pubchemCID": "15227511"
   },
   "categories": [],
   "legal": {
@@ -33,5 +55,37 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/15227511"
+  ],
+  "molecular_formula": "C22H27N3O",
+  "molecular_weight": "349.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "(6aR,9R)-N,N-diethyl-7-prop-2-enyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",
+  "synonyms_pubchem": [
+    "AL-LAD",
+    "65527-61-9",
+    "6-allyl-6-nor-LSD",
+    "020O2SR91L",
+    "DTXSID30215822",
+    "RefChem:1084202",
+    "DTXCID60138313",
+    "Ergoline-8-carboxamide, 9,10-didehydro-N,N-diethyl-6-(2-propen-1-yl)-, (8beta)-",
+    "N-Allylnorlysergic Acid N,N-Diethylamide",
+    "UNII-020O2SR91L",
+    "6-Allyl-6-nor-lysergic acid diethylamide",
+    "AL-LAD (solution)",
+    "(6aR,9R)-7-allyl-N,N-diethyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide",
+    "N-ALLYLNORLSD",
+    "N-Allylnorylsergic Acid N,N-Diethylamide",
+    "CHEMBL281787",
+    "orb2814239",
+    "SCHEMBL20970937",
+    "HY-W743888",
+    "Q4652233",
+    "ERGOLINE-8-CARBOXAMIDE, 9,10-DIDEHYDRO-N,N-DIETHYL-6-(2-PROPENYL)-, (8.BETA.)-",
+    "(6aR,9R)-N,N-diethyl-7-prop-2-enyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide"
+  ]
 }

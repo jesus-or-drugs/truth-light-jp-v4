@@ -1,12 +1,26 @@
 {
   "id": "5f-adb-pinaca",
   "common_name": "5F-ADB-PINACA",
-  "systematic name": "N-[1-amino-3,3-dimethyl-1-oxobutan-2-yl]-1-(5-fluoropentyl)indazole-3-carboxamide",
-  "aliases": [],
+  "systematic name": "N-[(2S)-1-amino-3,3-dimethyl-1-oxobutan-2-yl]-1-(5-fluoropentyl)indazole-3-carboxamide",
+  "aliases": [
+    "5-Fluoro-adb-pinaca, (S)-",
+    "8CZ9946YZ8",
+    "5F-Adb-pinaca",
+    "5-F-ADB-PINACA",
+    "RefChem:913607",
+    "UNII-8CZ9946YZ8",
+    "5F-ADB-PINACA, (S)-",
+    "5-Fluoro-ADB-PINACA",
+    "(S)-5-fluoro-ADB-PINACA",
+    "DTXSID101335855",
+    "Q27270201"
+  ],
   "identifiers": {
     "pubchem_cid": "119026135",
     "inchi_key": "SOYDDJYBRCNNIT-MRXNPFEDSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "SOYDDJYBRCNNIT-MRXNPFEDSA-N",
+    "pubchemCID": "119026135"
   },
   "categories": [],
   "legal": {
@@ -33,5 +47,32 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/119026135"
+  ],
+  "molecular_formula": "C19H27FN4O2",
+  "molecular_weight": "362.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-[(2S)-1-amino-3,3-dimethyl-1-oxobutan-2-yl]-1-(5-fluoropentyl)indazole-3-carboxamide",
+  "synonyms_pubchem": [
+    "5-Fluoro-adb-pinaca, (S)-",
+    "8CZ9946YZ8",
+    "1801338-21-5",
+    "5F-Adb-pinaca",
+    "1H-Indazole-3-carboxamide, N-((1S)-1-(aminocarbonyl)-2,2-dimethylpropyl)-1-(5-fluoropentyl)-",
+    "N-(1-Amino-3,3-dimethyl-1-oxo-2-butanyl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide",
+    "5-F-ADB-PINACA",
+    "RefChem:913607",
+    "5-fluoro-N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide",
+    "UNII-8CZ9946YZ8",
+    "5F-ADB-PINACA, (S)-",
+    "5-Fluoro-ADB-PINACA",
+    "(S)-5-fluoro-ADB-PINACA",
+    "DTXSID101335855",
+    "Q27270201",
+    "N-[(1S)-1-(Aminocarbonyl)-2,2-dimethylpropyl]-1-(5-fluoropentyl)-1H-indazole-3-carboxamide",
+    "N-[(2s)-1-amino-3,3-dimethyl-1-oxobutan-2-yl]-1-(5-fluoropentyl)-1h-indazole-3-carboxamide"
+  ]
 }

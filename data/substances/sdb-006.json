@@ -1,12 +1,37 @@
 {
   "id": "sdb-006",
   "common_name": "SDB-006",
-  "systematic name": "N-benzylu-1-penchiru-1H-i ndo-ru-3-karubokisamido",
-  "aliases": [],
+  "systematic name": "N-benzyl-1-pentylindole-3-carboxamide",
+  "aliases": [
+    "SDB-006",
+    "MM02A5A302",
+    "DTXSID501009997",
+    "1-Pentyl-N-(phenylmethyl)-1H-indole-3-carboxamide",
+    "RefChem:1056259",
+    "DTXCID401436420",
+    "N-benzyl-1-pentyl-1H-indole-3-carboxamide",
+    "1H-Indole-3-carboxamide, 1-pentyl-N-(phenylmethyl)-",
+    "N-benzyl-1-pentylindole-3-carboxamide",
+    "UNII-MM02A5A302",
+    "orb2283772",
+    "SCHEMBL29019201",
+    "OLACYTSBFXCDOH-UHFFFAOYSA-N",
+    "MFCD03856256",
+    "STK734901",
+    "AKOS001729980",
+    "(1-pentylindol-3-yl)-N-benzylcarboxamide",
+    "DB-216199",
+    "ST4094610",
+    "NS00017630",
+    "1H-Indole-3-carboxylic acid, 1-pentyl-, benzylamide",
+    "Q15410205"
+  ],
   "identifiers": {
     "pubchem_cid": "2227769",
     "inchi_key": "OLACYTSBFXCDOH-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "OLACYTSBFXCDOH-UHFFFAOYSA-N",
+    "pubchemCID": "2227769"
   },
   "categories": [],
   "legal": {
@@ -33,5 +58,39 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/2227769"
+  ],
+  "molecular_formula": "C21H24N2O",
+  "molecular_weight": "320.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-benzyl-1-pentylindole-3-carboxamide",
+  "synonyms_pubchem": [
+    "695213-59-3",
+    "SDB-006",
+    "MM02A5A302",
+    "DTXSID501009997",
+    "1-Pentyl-N-(phenylmethyl)-1H-indole-3-carboxamide",
+    "RefChem:1056259",
+    "DTXCID401436420",
+    "N-benzyl-1-pentyl-1H-indole-3-carboxamide",
+    "1H-Indole-3-carboxamide, 1-pentyl-N-(phenylmethyl)-",
+    "N-benzyl-1-pentylindole-3-carboxamide",
+    "UNII-MM02A5A302",
+    "orb2283772",
+    "SCHEMBL29019201",
+    "OLACYTSBFXCDOH-UHFFFAOYSA-N",
+    "MFCD03856256",
+    "STK734901",
+    "AKOS001729980",
+    "(1-pentylindol-3-yl)-N-benzylcarboxamide",
+    "DB-216199",
+    "ST4094610",
+    "NS00017630",
+    "1H-Indole-3-carboxylic acid, 1-pentyl-, benzylamide",
+    "Q15410205",
+    "1H-Indole-3-carboxamide, 1-pentyl-N-(phenylmethyl)-; SDB-006; N-Benzyl-1-pentyl-1H-indol-3-carboxamide"
+  ]
 }

@@ -1,12 +1,22 @@
 {
   "id": "cumyl-cbminaca",
   "common_name": "CUMYL-CBMINACA",
-  "systematic name": "1-(shikurobuchirumechiru)-N-(2- phenylpuropan-2-iru)-1H-i ndazo-ru-3-karubokisamido及びそ の salts",
-  "aliases": [],
+  "systematic name": "1-(cyclobutylmethyl)-N-(2-phenylpropan-2-yl)indazole-3-carboxamide",
+  "aliases": [
+    "Cumyl-CBMINACA",
+    "3DAF3CP9N5",
+    "SGT277",
+    "SGT-277",
+    "DTXSID101336534",
+    "RefChem:128790",
+    "DTXCID701766731"
+  ],
   "identifiers": {
     "pubchem_cid": "155884799",
     "inchi_key": "CFMZQSDQCNKGII-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "CFMZQSDQCNKGII-UHFFFAOYSA-N",
+    "pubchemCID": "155884799"
   },
   "categories": [],
   "legal": {
@@ -33,5 +43,22 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/155884799"
+  ],
+  "molecular_formula": "C22H25N3O",
+  "molecular_weight": "347.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(cyclobutylmethyl)-N-(2-phenylpropan-2-yl)indazole-3-carboxamide",
+  "synonyms_pubchem": [
+    "Cumyl-CBMINACA",
+    "3DAF3CP9N5",
+    "SGT277",
+    "SGT-277",
+    "DTXSID101336534",
+    "RefChem:128790",
+    "DTXCID701766731"
+  ]
 }

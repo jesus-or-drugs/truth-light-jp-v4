@@ -1,14 +1,24 @@
 {
   "id": "hexahydrocannabinol",
   "common_name": "Hexahydrocannabinol",
-  "systematic name": "6a,7,8,9,10,10a-hekisahidoro- 6,6,9-torimechiru-3-penchiru-6H -jibenzo[b,d]piran-1-o-ru及び その salts",
+  "systematic name": "(6aR,10aR)-6,6,9-trimethyl-3-pentyl-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol",
   "aliases": [
-    "HHC"
+    "D4K2ZLP4DT",
+    "Hexahydrocannabinol",
+    "RefChem:146051",
+    "6H-Dibenzo(b,d)pyran-1-ol, 6a,7,8,9,10,10a-hexahydro-6,6,9-trimethyl-3-pentyl-",
+    "6H-Dibenzo[b,d]pyran-1-ol, 6a,7,8,9,10,10a-hexahydro-6,6,9-trimethyl-3-pentyl-",
+    "XKRHRBJLCLXSGE-UHFFFAOYSA-N",
+    "UNII-D4K2ZLP4DT",
+    "SCHEMBL3056413",
+    "SCHEMBL31545911"
   ],
   "identifiers": {
     "pubchem_cid": "16050328",
     "inchi_key": "XKRHRBJLCLXSGE-VNCLPFQGSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "XKRHRBJLCLXSGE-VNCLPFQGSA-N",
+    "pubchemCID": "16050328"
   },
   "categories": [],
   "legal": {
@@ -35,5 +45,28 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/16050328"
+  ],
+  "molecular_formula": "C21H32O2",
+  "molecular_weight": "316.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "(6aR,10aR)-6,6,9-trimethyl-3-pentyl-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol",
+  "synonyms_pubchem": [
+    "D4K2ZLP4DT",
+    "Hexahydrocannabinol",
+    "946512-74-9",
+    "6H-Dibenzo(b,d)pyran-1-ol, 6a,7,8,9,10,10a-hexahydro-6,6,9-trimethyl-3-pentyl-, (6aR,10aR)-",
+    "6H-Dibenzo(b,d)pyran-1-ol, 6a,7,8,9,10,10a-hexahydro-6,6,9-trimethyl-3-pentyl-, (6aR,9R,10aR)-",
+    "RefChem:146051",
+    "6H-Dibenzo(b,d)pyran-1-ol, 6a,7,8,9,10,10a-hexahydro-6,6,9-trimethyl-3-pentyl-(VAN)",
+    "6H-Dibenzo(b,d)pyran-1-ol, 6a,7,8,9,10,10a-hexahydro-6,6,9-trimethyl-3-pentyl-",
+    "6H-Dibenzo[b,d]pyran-1-ol, 6a,7,8,9,10,10a-hexahydro-6,6,9-trimethyl-3-pentyl-",
+    "XKRHRBJLCLXSGE-UHFFFAOYSA-N",
+    "UNII-D4K2ZLP4DT",
+    "SCHEMBL3056413",
+    "SCHEMBL31545911"
+  ]
 }

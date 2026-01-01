@@ -1,12 +1,32 @@
 {
   "id": "fdu-nne1",
   "common_name": "FDU-NNE1",
-  "systematic name": "1-(4-furuorobenzylu)-N-(na futaren-1-iru)-1H-indo-ru -3-karubokisamido",
-  "aliases": [],
+  "systematic name": "1-[(4-fluorophenyl)methyl]-N-naphthalen-1-ylindole-3-carboxamide",
+  "aliases": [
+    "FDU-NNEI",
+    "FDU-NNE1",
+    "M5H92FEG4W",
+    "FDU-MN-24",
+    "(1-(4-Fluorobenzyl)-N-(naphthalen-1-yl)-1H-indole-3-carboxamide",
+    "1H-Indole-3-carboxamide, 1-((4-fluorophenyl)methyl)-N-2-naphthalenyl-",
+    "RefChem:140053",
+    "1-(4-fluorobenzyl)-N-(naphthalen-1-yl)-1h-indole-3-carboxamide",
+    "UNII-M5H92FEG4W",
+    "1-[(4-Fluorophenyl)methyl]-N-1-naphthalenyl-1H-indole-3-carboxamide",
+    "C26H19FN2O",
+    "SCHEMBL30641123",
+    "DTXSID501032706",
+    "NS00018009",
+    "1-[(4-fluorophenyl)methyl]-N-(1-naphthyl)indole-3-carboxamide",
+    "1-[(4-fluorophenyl)methyl]-N-naphthalen-1-ylindole-3-carboxamide",
+    "1H-Indole-3-carboxamide, 1-[(4-fluorophenyl)methyl]-N-1-naphthalenyl-"
+  ],
   "identifiers": {
     "pubchem_cid": "122213806",
     "inchi_key": "XYSIFMHZXZATQO-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "XYSIFMHZXZATQO-UHFFFAOYSA-N",
+    "pubchemCID": "122213806"
   },
   "categories": [],
   "legal": {
@@ -33,5 +53,34 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/122213806"
+  ],
+  "molecular_formula": "C26H19FN2O",
+  "molecular_weight": "394.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-[(4-fluorophenyl)methyl]-N-naphthalen-1-ylindole-3-carboxamide",
+  "synonyms_pubchem": [
+    "FDU-NNEI",
+    "FDU-NNE1",
+    "M5H92FEG4W",
+    "FDU-MN-24",
+    "2365471-76-5",
+    "(1-(4-Fluorobenzyl)-N-(naphthalen-1-yl)-1H-indole-3-carboxamide",
+    "1H-Indole-3-carboxamide, 1-((4-fluorophenyl)methyl)-N-2-naphthalenyl-",
+    "RefChem:140053",
+    "1-(4-fluorobenzyl)-N-(naphthalen-1-yl)-1h-indole-3-carboxamide",
+    "UNII-M5H92FEG4W",
+    "1-[(4-Fluorophenyl)methyl]-N-1-naphthalenyl-1H-indole-3-carboxamide",
+    "1850391-63-7",
+    "C26H19FN2O",
+    "SCHEMBL30641123",
+    "DTXSID501032706",
+    "NS00018009",
+    "1-[(4-fluorophenyl)methyl]-N-(1-naphthyl)indole-3-carboxamide",
+    "1-[(4-fluorophenyl)methyl]-N-naphthalen-1-ylindole-3-carboxamide",
+    "1H-Indole-3-carboxamide, 1-[(4-fluorophenyl)methyl]-N-1-naphthalenyl-"
+  ]
 }

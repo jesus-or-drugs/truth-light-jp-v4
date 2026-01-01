@@ -1,14 +1,28 @@
 {
   "id": "thj-018",
   "common_name": "THJ-018",
-  "systematic name": "nafutaren-1-iru(1-penchiru-1 H-indazo-ru-3-iru)metanon及 びその salts",
+  "systematic name": "naphthalen-1-yl-(1-pentylindazol-3-yl)methanone",
   "aliases": [
-    "JWH-018 indazole analog"
+    "THJ-018",
+    "B39WNG6743",
+    "1-naphthalenyl(1-pentyl-1h-indazol-3-yl)-methanone",
+    "DTXSID901010031",
+    "Methanone, 1-naphthalenyl(1-pentyl-1H-indazol-3-yl)-",
+    "1-naphthalenyl(1-pentyl-1h-indazol-3-yl)methanone",
+    "RefChem:907726",
+    "DTXCID501436447",
+    "naphthalen-1-yl-(1-pentylindazol-3-yl)methanone",
+    "THJ 018",
+    "UNII-B39WNG6743",
+    "SCHEMBL30353009",
+    "NS00017565"
   ],
   "identifiers": {
     "pubchem_cid": "124518671",
     "inchi_key": "VAKGBPSFDNTMDJ-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "VAKGBPSFDNTMDJ-UHFFFAOYSA-N",
+    "pubchemCID": "124518671"
   },
   "categories": [],
   "legal": {
@@ -35,5 +49,30 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/124518671"
+  ],
+  "molecular_formula": "C23H22N2O",
+  "molecular_weight": "342.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "naphthalen-1-yl-(1-pentylindazol-3-yl)methanone",
+  "synonyms_pubchem": [
+    "1364933-55-0",
+    "THJ-018",
+    "B39WNG6743",
+    "1-naphthalenyl(1-pentyl-1h-indazol-3-yl)-methanone",
+    "DTXSID901010031",
+    "Methanone, 1-naphthalenyl(1-pentyl-1H-indazol-3-yl)-",
+    "1-naphthalenyl(1-pentyl-1h-indazol-3-yl)methanone",
+    "RefChem:907726",
+    "DTXCID501436447",
+    "naphthalen-1-yl-(1-pentylindazol-3-yl)methanone",
+    "THJ 018",
+    "UNII-B39WNG6743",
+    "SCHEMBL30353009",
+    "NS00017565",
+    "THJ-018; 1-Naphthalenyl(1-pentyl-1H-indazol-3-yl)methanone; 1-Naphthyl-(1-pentylindazol-3-yl)methanone"
+  ]
 }

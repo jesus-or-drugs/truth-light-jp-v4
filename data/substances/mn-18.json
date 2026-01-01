@@ -1,14 +1,28 @@
 {
   "id": "mn-18",
   "common_name": "MN-18",
-  "systematic name": "N-(nafutaren-1-iru)-1-pen chiru-1H-indazo-ru-3-karubo kisamido",
+  "systematic name": "N-naphthalen-1-yl-1-pentylindazole-3-carboxamide",
   "aliases": [
-    "MN-18"
+    "MN-18",
+    "N-1-Naphthalenyl-1-pentyl-1H-indazole-3-carboxamide",
+    "GP2N1PG5X2",
+    "DTXSID301010033",
+    "MN-18 compound",
+    "RefChem:162450",
+    "DTXCID901436449",
+    "N-Naphthalen-1-yl-1-pentylindazole-3-carboxamide",
+    "UNII-GP2N1PG5X2",
+    "SCHEMBL29019192",
+    "LS-14990",
+    "NS00017586",
+    "Q21098823"
   ],
   "identifiers": {
     "pubchem_cid": "119058030",
     "inchi_key": "UJKHLVOEXULDRU-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "UJKHLVOEXULDRU-UHFFFAOYSA-N",
+    "pubchemCID": "119058030"
   },
   "categories": [],
   "legal": {
@@ -35,5 +49,29 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/119058030"
+  ],
+  "molecular_formula": "C23H23N3O",
+  "molecular_weight": "357.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-naphthalen-1-yl-1-pentylindazole-3-carboxamide",
+  "synonyms_pubchem": [
+    "MN-18",
+    "1391484-80-2",
+    "N-1-Naphthalenyl-1-pentyl-1H-indazole-3-carboxamide",
+    "GP2N1PG5X2",
+    "DTXSID301010033",
+    "MN-18 compound",
+    "RefChem:162450",
+    "DTXCID901436449",
+    "N-Naphthalen-1-yl-1-pentylindazole-3-carboxamide",
+    "UNII-GP2N1PG5X2",
+    "SCHEMBL29019192",
+    "LS-14990",
+    "NS00017586",
+    "Q21098823"
+  ]
 }

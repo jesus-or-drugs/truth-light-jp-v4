@@ -2,11 +2,39 @@
   "id": "am1248",
   "common_name": "AM1248",
   "systematic name": "1-adamantyl-[1-[(1-methylpiperidin-2-yl)methyl]indol-3-yl]methanone",
-  "aliases": [],
+  "aliases": [
+    "AM-1248",
+    "AM 1248",
+    "AM1248",
+    "UNII-5EX9HEF4HK",
+    "5EX9HEF4HK",
+    "1-((N-Methylpiperidin-2-yl)methyl)-3-(adamant-1-oyl)indole",
+    "(1-((1-METHYLPIPERIDIN-2-YL)METHYL)-1H-INDOL-3-YL)(ADAMANTAN-1-YL)METHANONE",
+    "1-((N-METHYL-2-PIPERIDINYL)METHYL)-3-(1-ADAMANTANECARBONYL)-1H-INDOLE",
+    "1-[(N-Methylpiperidin-2-yl)Methyl]-3-(adaMant-1-oyl)indole",
+    "1-[(N-Methyl-2-piperidinyl)methyl]-3-(1-adamantanecarbonyl)-1H-indole",
+    "RefChem:111786",
+    "Adamantan-1-yl(1-((1-methylpiperidin-2-yl)methyl)-1H-indol-3-yl)methanone",
+    "CHEMBL4467282",
+    "MFCD20921981",
+    "1-adamantyl-[1-[(1-methylpiperidin-2-yl)methyl]indol-3-yl]methanone",
+    "SCHEMBL2914461",
+    "SCHEMBL29387837",
+    "DTXSID101017326",
+    "BDBM50518025",
+    "AKOS015999098",
+    "FA155609",
+    "NS00017675",
+    "Q4652485",
+    "1-(N-Methyl-2-piperidinyl)methyl-3-(1-adamantanecarbonyl)-1H-indole",
+    "AM -1248, 1-[(N-Methylpiperidin-2-yl)Methyl]-3-(adaMant-1-oyl)indole"
+  ],
   "identifiers": {
     "pubchem_cid": "10293794",
     "inchi_key": "JRECAXBHMULNJQ-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "JRECAXBHMULNJQ-UHFFFAOYSA-N",
+    "pubchemCID": "10293794"
   },
   "categories": [],
   "legal": {
@@ -33,5 +61,43 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/10293794"
+  ],
+  "molecular_formula": "C26H34N2O",
+  "molecular_weight": "390.6",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-adamantyl-[1-[(1-methylpiperidin-2-yl)methyl]indol-3-yl]methanone",
+  "synonyms_pubchem": [
+    "335160-66-2",
+    "AM-1248",
+    "AM 1248",
+    "AM1248",
+    "UNII-5EX9HEF4HK",
+    "5EX9HEF4HK",
+    "1-((N-Methylpiperidin-2-yl)methyl)-3-(adamant-1-oyl)indole",
+    "(1-((1-METHYLPIPERIDIN-2-YL)METHYL)-1H-INDOL-3-YL)(ADAMANTAN-1-YL)METHANONE",
+    "1-((N-METHYL-2-PIPERIDINYL)METHYL)-3-(1-ADAMANTANECARBONYL)-1H-INDOLE",
+    "(1-((1-METHYL-2-PIPERIDINYL)METHYL)-1H-INDOL-3-YL)TRICYCLO(3.3.1.13,7)DEC-1-YLMETHANONE",
+    "METHANONE, (1-((1-METHYL-2-PIPERIDINYL)METHYL)-1H-INDOL-3-YL)TRICYCLO(3.3.1.13,7)DEC-1-YL-",
+    "1-[(N-Methylpiperidin-2-yl)Methyl]-3-(adaMant-1-oyl)indole",
+    "1-[(N-Methyl-2-piperidinyl)methyl]-3-(1-adamantanecarbonyl)-1H-indole",
+    "RefChem:111786",
+    "Adamantan-1-yl(1-((1-methylpiperidin-2-yl)methyl)-1H-indol-3-yl)methanone",
+    "CHEMBL4467282",
+    "MFCD20921981",
+    "1-adamantyl-[1-[(1-methylpiperidin-2-yl)methyl]indol-3-yl]methanone",
+    "SCHEMBL2914461",
+    "SCHEMBL29387837",
+    "DTXSID101017326",
+    "BDBM50518025",
+    "AKOS015999098",
+    "FA155609",
+    "NS00017675",
+    "Q4652485",
+    "1-(N-Methyl-2-piperidinyl)methyl-3-(1-adamantanecarbonyl)-1H-indole",
+    "AM -1248, 1-[(N-Methylpiperidin-2-yl)Methyl]-3-(adaMant-1-oyl)indole"
+  ]
 }

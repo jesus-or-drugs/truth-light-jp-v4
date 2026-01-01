@@ -2,11 +2,29 @@
   "id": "4-aco-dalt",
   "common_name": "4-AcO-DALT",
   "systematic name": "[3-[2-[bis(prop-2-enyl)amino]ethyl]-1H-indol-4-yl] acetate",
-  "aliases": [],
+  "aliases": [
+    "4-Aco-dalt",
+    "2Z8WS8Z4T1",
+    "4-Acetyloxy-N,N-diallyltryptamine",
+    "UNII-2Z8WS8Z4T1",
+    "1H-Indol-4-ol, 3-(2-(di-2-propen-1-ylamino)ethyl)-, 4-acetate",
+    "1H-Indol-4-ol, 3-[2-(di-2-propen-1-ylamino)ethyl]-, 4-acetate",
+    "RefChem:198605",
+    "Dalcetin",
+    "3-(2-(Di(prop-2-en-1-yl)amino)ethyl)-1H-indol-4-yl acetate",
+    "SCHEMBL20970916",
+    "SCHEMBL29633131",
+    "DTXSID601045423",
+    "PD197667",
+    "Q15405281",
+    "3-[2-(Di-2-propen-1-ylamino)ethyl]-1H-indol-4-ol 4-acetate"
+  ],
   "identifiers": {
     "pubchem_cid": "119025857",
     "inchi_key": "WRHFDIBXZYYCHO-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "WRHFDIBXZYYCHO-UHFFFAOYSA-N",
+    "pubchemCID": "119025857"
   },
   "categories": [],
   "legal": {
@@ -33,5 +51,31 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/119025857"
+  ],
+  "molecular_formula": "C18H22N2O2",
+  "molecular_weight": "298.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "[3-[2-[bis(prop-2-enyl)amino]ethyl]-1H-indol-4-yl] acetate",
+  "synonyms_pubchem": [
+    "4-Aco-dalt",
+    "2Z8WS8Z4T1",
+    "4-Acetyloxy-N,N-diallyltryptamine",
+    "UNII-2Z8WS8Z4T1",
+    "1H-Indol-4-ol, 3-(2-(di-2-propen-1-ylamino)ethyl)-, 4-acetate",
+    "1H-Indol-4-ol, 3-[2-(di-2-propen-1-ylamino)ethyl]-, 4-acetate",
+    "RefChem:198605",
+    "Dalcetin",
+    "1445751-71-2",
+    "3-(2-(Di(prop-2-en-1-yl)amino)ethyl)-1H-indol-4-yl acetate",
+    "SCHEMBL20970916",
+    "SCHEMBL29633131",
+    "DTXSID601045423",
+    "PD197667",
+    "Q15405281",
+    "3-[2-(Di-2-propen-1-ylamino)ethyl]-1H-indol-4-ol 4-acetate"
+  ]
 }

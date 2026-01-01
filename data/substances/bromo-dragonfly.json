@@ -1,12 +1,37 @@
 {
   "id": "bromo-dragonfly",
   "common_name": "Bromo-DragonFLY",
-  "systematic name": "1-(8-buromobenzo[1,2-b:4,5 -b’]jifuran-4-iru)puropan-2 -amine",
-  "aliases": [],
+  "systematic name": "(2R)-1-(4-bromofuro[2,3-f][1]benzofuran-8-yl)propan-2-amine",
+  "aliases": [
+    "Bromo-DragonFLY",
+    "Bromodragonfly",
+    "UNII-GC9M7R36OI",
+    "GC9M7R36OI",
+    "DOB-DRAGONFLY",
+    "3C-BROMO-DRAGONFLY",
+    "1-(4-Bromofuro(2,3-f)(1)benzofuran-8-yl)propan-2-amine",
+    "DTXSID80893912",
+    "(R)-(-)-BROMO-DRAGONFLY",
+    "BROMO-DRAGONFLY, (-)-(R)-",
+    "1-(8-Bromobenzo(1,2-b;4,5-b)difuran-4-yl)-2-aminopropane",
+    "8-BROMO-.ALPHA.-METHYLBENZO(1,2-B:4,5-B')DIFURAN-4-ETHANAMINE, (R)-",
+    "BENZO(1,2-B:4,5-B')DIFURAN-4-ETHANAMINE, 8-BROMO-.ALPHA.-METHYL-, (.ALPHA.R)-",
+    "RefChem:121529",
+    "DTXCID401323976",
+    "8-BROMO-ALPHA-METHYLBENZO(1,2-B:4,5-B')DIFURAN-4-ETHANAMINE, (R)-",
+    "BENZO(1,2-B:4,5-B')DIFURAN-4-ETHANAMINE, 8-BROMO-ALPHA-METHYL-, (ALPHAR)-",
+    "(2R)-1-(4-bromofuro[2,3-f][1]benzofuran-8-yl)propan-2-amine",
+    "CHEMBL1177916",
+    "SCHEMBL29403534",
+    "NS00009892",
+    "Q27895591"
+  ],
   "identifiers": {
     "pubchem_cid": "10544447",
     "inchi_key": "GIKPTWKWYXCBEC-SSDOTTSWSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "GIKPTWKWYXCBEC-SSDOTTSWSA-N",
+    "pubchemCID": "10544447"
   },
   "categories": [],
   "legal": {
@@ -33,5 +58,41 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/10544447"
+  ],
+  "molecular_formula": "C13H12BrNO2",
+  "molecular_weight": "294.14",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "(2R)-1-(4-bromofuro[2,3-f][1]benzofuran-8-yl)propan-2-amine",
+  "synonyms_pubchem": [
+    "Bromo-DragonFLY",
+    "Bromodragonfly",
+    "UNII-GC9M7R36OI",
+    "GC9M7R36OI",
+    "DOB-DRAGONFLY",
+    "3C-BROMO-DRAGONFLY",
+    "1-(4-Bromofuro(2,3-f)(1)benzofuran-8-yl)propan-2-amine",
+    "DTXSID80893912",
+    "(R)-(-)-BROMO-DRAGONFLY",
+    "BROMO-DRAGONFLY, (-)-(R)-",
+    "1-(8-Bromobenzo(1,2-b;4,5-b)difuran-4-yl)-2-aminopropane",
+    "8-BROMO-.ALPHA.-METHYLBENZO(1,2-B:4,5-B')DIFURAN-4-ETHANAMINE, (R)-",
+    "BENZO(1,2-B:4,5-B')DIFURAN-4-ETHANAMINE, 8-BROMO-.ALPHA.-METHYL-, (.ALPHA.R)-",
+    "BENZO(1,2-B:4,5-B')DIFURAN-4-ETHANAMINE, 8-BROMO-.ALPHA.-METHYL-, HYDROCHLORIDE, (.ALPHA.R)-",
+    "RefChem:121529",
+    "DTXCID401323976",
+    "8-BROMO-ALPHA-METHYLBENZO(1,2-B:4,5-B')DIFURAN-4-ETHANAMINE, (R)-",
+    "BENZO(1,2-B:4,5-B')DIFURAN-4-ETHANAMINE, 8-BROMO-ALPHA-METHYL-, (ALPHAR)-",
+    "BENZO(1,2-B:4,5-B')DIFURAN-4-ETHANAMINE, 8-BROMO-ALPHA-METHYL-, HYDROCHLORIDE, (ALPHAR)-",
+    "219986-94-4",
+    "502759-67-3",
+    "(2R)-1-(4-bromofuro[2,3-f][1]benzofuran-8-yl)propan-2-amine",
+    "CHEMBL1177916",
+    "SCHEMBL29403534",
+    "NS00009892",
+    "Q27895591"
+  ]
 }

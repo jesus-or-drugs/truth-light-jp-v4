@@ -1,12 +1,32 @@
 {
   "id": "5-eapb",
   "common_name": "5-EAPB",
-  "systematic name": "1-(benzofuran-5-iru)-N-e chirupuropan-2-amine 類",
-  "aliases": [],
+  "systematic name": "1-(1-benzofuran-5-yl)-N-ethylpropan-2-amine",
+  "aliases": [
+    "1-(Benzofuran-5-yl)-N-ethylpropan-2-amine",
+    "5-Eapb",
+    "889D8VM2SL",
+    "5-Benzofuranethanamine, N-ethyl-alpha-methyl-",
+    "RefChem:1091767",
+    "N-Ethyl-alpha-methyl-5-benzofuranethanamine",
+    "1-(1-benzofuran-5-yl)-N-ethylpropan-2-amine",
+    "UNII-889D8VM2SL",
+    "SCHEMBL27197709",
+    "SCHEMBL30457902",
+    "5-(2-ethylaminopropyl) benzofuran",
+    "DTXSID701010104",
+    "5-(2-ETHYLAMINOPROPYL)BENZOFURANE",
+    "PD047170",
+    "NS00017373",
+    "6-EAPB (N-ethyl (6-(2-aminopropyl)benzofuran))",
+    "5-BENZOFURANETHANAMINE, N-ETHYL-.ALPHA.-METHYL-"
+  ],
   "identifiers": {
     "pubchem_cid": "102336590",
     "inchi_key": "ZBZDDOARNPAMSP-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "ZBZDDOARNPAMSP-UHFFFAOYSA-N",
+    "pubchemCID": "102336590"
   },
   "categories": [],
   "legal": {
@@ -33,5 +53,33 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/102336590"
+  ],
+  "molecular_formula": "C13H17NO",
+  "molecular_weight": "203.28",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(1-benzofuran-5-yl)-N-ethylpropan-2-amine",
+  "synonyms_pubchem": [
+    "1-(Benzofuran-5-yl)-N-ethylpropan-2-amine",
+    "5-Eapb",
+    "889D8VM2SL",
+    "1445566-01-7",
+    "5-Benzofuranethanamine, N-ethyl-alpha-methyl-",
+    "RefChem:1091767",
+    "N-Ethyl-alpha-methyl-5-benzofuranethanamine",
+    "1-(1-benzofuran-5-yl)-N-ethylpropan-2-amine",
+    "UNII-889D8VM2SL",
+    "SCHEMBL27197709",
+    "SCHEMBL30457902",
+    "5-(2-ethylaminopropyl) benzofuran",
+    "DTXSID701010104",
+    "5-(2-ETHYLAMINOPROPYL)BENZOFURANE",
+    "PD047170",
+    "NS00017373",
+    "6-EAPB (N-ethyl (6-(2-aminopropyl)benzofuran))",
+    "5-BENZOFURANETHANAMINE, N-ETHYL-.ALPHA.-METHYL-"
+  ]
 }

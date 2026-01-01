@@ -1,14 +1,27 @@
 {
   "id": "mephedrene",
   "common_name": "Mephedrene",
-  "systematic name": "N-mechiru-1-(5-mechiruchiofen -2-iru)puropan-2-amine及び その salts",
+  "systematic name": "N-methyl-1-(5-methylthiophen-2-yl)propan-2-amine",
   "aliases": [
-    "5-MMPA"
+    "Mephedrene",
+    "5-Methylmethiopropamine",
+    "5-Mmpa",
+    "ZP92FK3KK5",
+    "N-methyl-1-(5-methylthiophen-2-yl)propan-2-amine",
+    "2-Thiopheneethanamine, N,alpha,5-trimethyl-",
+    "2-THIOPHENEETHANAMINE, N,.ALPHA.,5-TRIMETHYL-",
+    "RefChem:103207",
+    "UNII-ZP92FK3KK5",
+    "DTXSID001336529",
+    "AKOS013811896",
+    "PD130699"
   ],
   "identifiers": {
     "pubchem_cid": "64487873",
     "inchi_key": "HZICDJQMPRFRKC-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "HZICDJQMPRFRKC-UHFFFAOYSA-N",
+    "pubchemCID": "64487873"
   },
   "categories": [],
   "legal": {
@@ -35,5 +48,28 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/64487873"
+  ],
+  "molecular_formula": "C9H15NS",
+  "molecular_weight": "169.29",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-methyl-1-(5-methylthiophen-2-yl)propan-2-amine",
+  "synonyms_pubchem": [
+    "Mephedrene",
+    "5-Methylmethiopropamine",
+    "5-Mmpa",
+    "ZP92FK3KK5",
+    "N-methyl-1-(5-methylthiophen-2-yl)propan-2-amine",
+    "1340105-79-4",
+    "2-Thiopheneethanamine, N,alpha,5-trimethyl-",
+    "2-THIOPHENEETHANAMINE, N,.ALPHA.,5-TRIMETHYL-",
+    "RefChem:103207",
+    "UNII-ZP92FK3KK5",
+    "DTXSID001336529",
+    "AKOS013811896",
+    "PD130699"
+  ]
 }

@@ -1,7 +1,7 @@
 <!-- pages/substances/[id].vue -->
 
 <template>
-  <div class="container mx-auto px-4 md:px-6 py-8">
+  <div v-if="substance" class="container mx-auto px-4 md:px-6 py-8">
 
     <div class="grid gap-6 md:grid-cols-2">
 
@@ -56,11 +56,25 @@ import { useRoute } from 'vue-router'
 import type SubstanceHeroVue from '~/components/content/SubstanceHero.vue';
 
 const route = useRoute()
-const id = route.params.id
+const id = computed(() => String(route.params.id))
 
-// JSON を動的に読む
-const substance = await import(`~/data/substances/${id}.json`)
-  .then(m => m.default)
+const substance = ref<any>(null)
+
+watch(
+  id,
+  async (newId) => {
+    substance.value = (await import(`~data/substances/${newId}.json`))
+  },
+  {immediate: true}
+)
+
+definePageMeta({
+  key: (route) => String(route.params.id),
+})
+
+// // JSON を動的に読む
+// const substance = await import(`~/data/substances/${id}.json`)
+//   .then(m => m.default)
 
 
 async function smilesToCid(smiles : string) {
@@ -95,5 +109,7 @@ const props = withDefaults(
     dosageLinks: () => [],
   }
 )
+
+
 
 </script>

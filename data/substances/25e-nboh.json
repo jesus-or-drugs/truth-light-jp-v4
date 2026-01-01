@@ -1,12 +1,33 @@
 {
   "id": "25e-nboh",
   "common_name": "25E-NBOH",
-  "systematic name": "2-[(4-echiru-2,5-jimethoxy fenechiruamineo)mechiru]feno-ru及 びその salts",
-  "aliases": [],
+  "systematic name": "2-[[2-(4-ethyl-2,5-dimethoxyphenyl)ethylamino]methyl]phenol",
+  "aliases": [
+    "UNII-EB0KU6R3BE",
+    "25E-Nboh",
+    "EB0KU6R3BE",
+    "25E-Nboh [NFLIS-DRUG]",
+    "4-Ethyl-2,5-dimethoxy-(N-(2-hydroxybenzyl))phenethylamine",
+    "2-(((2-(4-Ethyl-2,5-dimethoxyphenyl)ethyl)amino)methyl)phenol",
+    "DTXSID001017254",
+    "Phenol, 2-(((2-(4-ethyl-2,5-dimethoxyphenyl)ethyl)amino)methyl)-",
+    "2-({[2-(4-Ethyl-2,5-dimethoxyphenyl)ethyl]amino}methyl)phenol",
+    "25E-NBOH (NFLIS-DRUG)",
+    "RefChem:89922",
+    "DTXCID501475443",
+    "NOCAS_1017254",
+    "2-[[2-(4-ethyl-2,5-dimethoxyphenyl)ethylamino]methyl]phenol",
+    "SCHEMBL25394698",
+    "SCHEMBL30200756",
+    "PD080454",
+    "2-(((4-ethyl-2,5-dimethoxyphenethyl)-amino)methyl)phenol"
+  ],
   "identifiers": {
     "pubchem_cid": "135391539",
     "inchi_key": "SYBINTRPEZWFLZ-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "SYBINTRPEZWFLZ-UHFFFAOYSA-N",
+    "pubchemCID": "135391539"
   },
   "categories": [],
   "legal": {
@@ -33,5 +54,34 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/135391539"
+  ],
+  "molecular_formula": "C19H25NO3",
+  "molecular_weight": "315.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-[[2-(4-ethyl-2,5-dimethoxyphenyl)ethylamino]methyl]phenol",
+  "synonyms_pubchem": [
+    "UNII-EB0KU6R3BE",
+    "25E-Nboh",
+    "EB0KU6R3BE",
+    "25E-Nboh [NFLIS-DRUG]",
+    "1391489-79-4",
+    "4-Ethyl-2,5-dimethoxy-(N-(2-hydroxybenzyl))phenethylamine",
+    "2-(((2-(4-Ethyl-2,5-dimethoxyphenyl)ethyl)amino)methyl)phenol",
+    "DTXSID001017254",
+    "Phenol, 2-(((2-(4-ethyl-2,5-dimethoxyphenyl)ethyl)amino)methyl)-",
+    "2-({[2-(4-Ethyl-2,5-dimethoxyphenyl)ethyl]amino}methyl)phenol",
+    "25E-NBOH (NFLIS-DRUG)",
+    "RefChem:89922",
+    "DTXCID501475443",
+    "NOCAS_1017254",
+    "2-[[2-(4-ethyl-2,5-dimethoxyphenyl)ethylamino]methyl]phenol",
+    "SCHEMBL25394698",
+    "SCHEMBL30200756",
+    "PD080454",
+    "2-(((4-ethyl-2,5-dimethoxyphenethyl)-amino)methyl)phenol"
+  ]
 }

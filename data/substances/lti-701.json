@@ -1,12 +1,32 @@
 {
   "id": "lti-701",
   "common_name": "LTI-701",
-  "systematic name": "1-(5-furuoropenchiru)-N-fe niru-1H-indo-ru-3-karuboki samido",
-  "aliases": [],
+  "systematic name": "1-(5-fluoropentyl)-N-phenylindole-3-carboxamide",
+  "aliases": [
+    "N-Phenyl-1-(5-fluoropentyl)-1H-indole-3-carboxamide",
+    "3X4PHX3PGF",
+    "1-(5-fluoropentyl)-N-phenylindole-3-carboxamide",
+    "1-(5-fluoropentyl)-N-phenyl-1H-indole-3-carboxamide",
+    "5F-SDB-005",
+    "1H-Indole-3-carboxamide, 1-(5-fluoropentyl)-N-phenyl-",
+    "UNII-3X4PHX3PGF",
+    "5-FLUORO PHENYL-PICA",
+    "LTI-701",
+    "DTXSID601342233",
+    "BWC08601",
+    "MFCD30718338",
+    "PD088495",
+    "NS00114241",
+    "1-(5-fluoropentyl)-N-phenyl-indole-3-carboxamide",
+    "Q27258165",
+    "N-Phenyl-1-(5-fluoropentyl)-1H-indole-3-carboxamide (SDB-005-5F)"
+  ],
   "identifiers": {
     "pubchem_cid": "91936840",
     "inchi_key": "FZYJALPWLNXEIP-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "FZYJALPWLNXEIP-UHFFFAOYSA-N",
+    "pubchemCID": "91936840"
   },
   "categories": [],
   "legal": {
@@ -33,5 +53,33 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/91936840"
+  ],
+  "molecular_formula": "C20H21FN2O",
+  "molecular_weight": "324.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(5-fluoropentyl)-N-phenylindole-3-carboxamide",
+  "synonyms_pubchem": [
+    "1776086-01-1",
+    "N-Phenyl-1-(5-fluoropentyl)-1H-indole-3-carboxamide",
+    "3X4PHX3PGF",
+    "1-(5-fluoropentyl)-N-phenylindole-3-carboxamide",
+    "1-(5-fluoropentyl)-N-phenyl-1H-indole-3-carboxamide",
+    "5F-SDB-005",
+    "1H-Indole-3-carboxamide, 1-(5-fluoropentyl)-N-phenyl-",
+    "UNII-3X4PHX3PGF",
+    "5-FLUORO PHENYL-PICA",
+    "LTI-701",
+    "DTXSID601342233",
+    "BWC08601",
+    "MFCD30718338",
+    "PD088495",
+    "NS00114241",
+    "1-(5-fluoropentyl)-N-phenyl-indole-3-carboxamide",
+    "Q27258165",
+    "N-Phenyl-1-(5-fluoropentyl)-1H-indole-3-carboxamide (SDB-005-5F)"
+  ]
 }

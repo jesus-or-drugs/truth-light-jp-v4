@@ -1,12 +1,39 @@
 {
   "id": "25d-nbome",
   "common_name": "25D-NBOMe",
-  "systematic name": "N-(2-methoxybenzylu)-2-(2, 5-jimethoxy-4-mechiruphenyl)e tanamine",
-  "aliases": [],
+  "systematic name": "2-(2,5-dimethoxy-4-methylphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine",
+  "aliases": [
+    "25D-Nbome",
+    "Cimbi-138",
+    "7RET11HE13",
+    "RefChem:89921",
+    "2c-D-Nbome",
+    "2-(2,5-Dimethoxy-4-methylphenyl)-N-(2-methoxybenzyl)ethanamine",
+    "UNII-7RET11HE13",
+    "2,5-Dimethoxy-N-((2-methoxyphenyl)methyl)-4-methylbenzeneethanamine",
+    "2-(2,5-dimethoxy-4-methylphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine",
+    "Benzeneethanamine, 2,5-dimethoxy-N-((2-methoxyphenyl)methyl)-4-methyl-",
+    "2,5-Dimethoxy-N-[(2-methoxyphenyl)methyl]-4-methylbenzeneethanamine",
+    "NBOMe-2C-D",
+    "SCHEMBL17287289",
+    "SCHEMBL29633059",
+    "SCHEMBL29633107",
+    "BDBM674338",
+    "DTXSID601014189",
+    "EEC63202",
+    "AKOS027447085",
+    "PD047556",
+    "NS00017234",
+    "US20240166618, Compound 25D-NBOMe",
+    "Q15409370",
+    "2-(2,5-dimethoxy-4-methylphenyl)-N-(2-methoxybenzyl)ethan-1-amine"
+  ],
   "identifiers": {
     "pubchem_cid": "118536027",
     "inchi_key": "UTVHBNXCFSATDB-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "UTVHBNXCFSATDB-UHFFFAOYSA-N",
+    "pubchemCID": "118536027"
   },
   "categories": [],
   "legal": {
@@ -33,5 +60,41 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/118536027"
+  ],
+  "molecular_formula": "C19H25NO3",
+  "molecular_weight": "315.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(2,5-dimethoxy-4-methylphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine",
+  "synonyms_pubchem": [
+    "25D-Nbome",
+    "Cimbi-138",
+    "7RET11HE13",
+    "RefChem:89921",
+    "2c-D-Nbome",
+    "1354632-02-2",
+    "2-(2,5-Dimethoxy-4-methylphenyl)-N-(2-methoxybenzyl)ethanamine",
+    "UNII-7RET11HE13",
+    "2,5-Dimethoxy-N-((2-methoxyphenyl)methyl)-4-methylbenzeneethanamine",
+    "2-(2,5-dimethoxy-4-methylphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine",
+    "Benzeneethanamine, 2,5-dimethoxy-N-((2-methoxyphenyl)methyl)-4-methyl-",
+    "2,5-Dimethoxy-N-[(2-methoxyphenyl)methyl]-4-methylbenzeneethanamine",
+    "NBOMe-2C-D",
+    "SCHEMBL17287289",
+    "SCHEMBL29633059",
+    "SCHEMBL29633107",
+    "BDBM674338",
+    "DTXSID601014189",
+    "EEC63202",
+    "AKOS027447085",
+    "PD047556",
+    "NS00017234",
+    "US20240166618, Compound 25D-NBOMe",
+    "Q15409370",
+    "2-(2,5-dimethoxy-4-methylphenyl)-N-(2-methoxybenzyl)ethan-1-amine",
+    "2,5-Dimethoxy-N-[(2-methoxyphenyl)methyl]-4-methylbenzeneethanamine - controlled substance"
+  ]
 }

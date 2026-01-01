@@ -1,14 +1,44 @@
 {
   "id": "mphp",
   "common_name": "MPHP",
-  "systematic name": "",
+  "systematic name": "1-(4-methylphenyl)-2-pyrrolidin-1-ylhexan-1-one",
   "aliases": [
-    "4-MePHP"
+    "2-(Pyrrolidin-1-yl)-1-(p-tolyl)hexan-1-one",
+    "1-(4-methylphenyl)-2-pyrrolidin-1-ylhexan-1-one",
+    "Y8D4922F5K",
+    "4-ME-.ALPHA.-PHP",
+    "1-(4-METHYLPHENYL)-2-(PYRROLIDIN-1-YL)HEXAN-1-ONE",
+    "Hexanophenone, 4'-methyl-2-(1-pyrrolidinyl)-",
+    "DTXSID401028805",
+    "1-Hexanone, 1-(4-methylphenyl)-2-(1-pyrrolidinyl)-",
+    "4'-methyl-alpha-pyrrolidinohexanophenone",
+    "4'-METHYL-ALPHA-PYRROLIDINOHEXIOPHENONE",
+    "4'-METHYL-.ALPHA.-PYRROLIDINOHEXIOPHENONE",
+    "MPHP cpd",
+    "RefChem:462179",
+    "4-ME-ALPHA-PHP",
+    "DTXCID201514420",
+    "2-(pyrrolidin-1-yl)-1-p-tolylhexan-1-one",
+    "MPHP",
+    "4'-Methyl-.alpha.-pyrrolidinohexanophenone",
+    "UNII-Y8D4922F5K",
+    "PV-4",
+    "SCHEMBL5190976",
+    "DEA NO. 7446",
+    "YOSQVMGMENUCDX-UHFFFAOYSA-N",
+    "PD049076",
+    "NS00017321",
+    "MPHP (4'-Methyl-alpha-pyrrolidinohexiophenone)",
+    "R,S-4'-methyl-.alpha.-pyrrolidinohexanophenone",
+    "A875093",
+    "Q4637039"
   ],
   "identifiers": {
     "pubchem_cid": "6423085",
     "inchi_key": "YOSQVMGMENUCDX-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "YOSQVMGMENUCDX-UHFFFAOYSA-N",
+    "pubchemCID": "6423085"
   },
   "categories": [],
   "legal": {
@@ -35,5 +65,46 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/6423085"
+  ],
+  "molecular_formula": "C17H25NO",
+  "molecular_weight": "259.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(4-methylphenyl)-2-pyrrolidin-1-ylhexan-1-one",
+  "synonyms_pubchem": [
+    "2-(Pyrrolidin-1-yl)-1-(p-tolyl)hexan-1-one",
+    "34138-58-4",
+    "1-(4-methylphenyl)-2-pyrrolidin-1-ylhexan-1-one",
+    "Y8D4922F5K",
+    "4-ME-.ALPHA.-PHP",
+    "1-(4-METHYLPHENYL)-2-(PYRROLIDIN-1-YL)HEXAN-1-ONE",
+    "Hexanophenone, 4'-methyl-2-(1-pyrrolidinyl)-",
+    "DTXSID401028805",
+    "1-Hexanone, 1-(4-methylphenyl)-2-(1-pyrrolidinyl)-",
+    "4'-methyl-alpha-pyrrolidinohexanophenone",
+    "4'-METHYL-ALPHA-PYRROLIDINOHEXIOPHENONE",
+    "4'-METHYL-.ALPHA.-PYRROLIDINOHEXIOPHENONE",
+    "MPHP cpd",
+    "RefChem:462179",
+    "4-ME-ALPHA-PHP",
+    "DTXCID201514420",
+    "4'-Methyl-alpha-pyrrolidinohexiophenone (Other names: MPHP; 4'-methyl-alpha-pyrrolidinohexanophenone; 1-(4-methylphenyl)-2-(pyrrolidin-1-yl)hexan-1-one)",
+    "2-(pyrrolidin-1-yl)-1-p-tolylhexan-1-one",
+    "MPHP",
+    "4'-Methyl-.alpha.-pyrrolidinohexanophenone",
+    "UNII-Y8D4922F5K",
+    "PV-4",
+    "SCHEMBL5190976",
+    "DEA NO. 7446",
+    "YOSQVMGMENUCDX-UHFFFAOYSA-N",
+    "PD049076",
+    "NS00017321",
+    "MPHP (4'-Methyl-alpha-pyrrolidinohexiophenone)",
+    "R,S-4'-methyl-.alpha.-pyrrolidinohexanophenone",
+    "A875093",
+    "Q4637039"
+  ]
 }

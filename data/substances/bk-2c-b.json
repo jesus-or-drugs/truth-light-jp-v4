@@ -1,12 +1,38 @@
 {
   "id": "bk-2c-b",
   "common_name": "bk-2C-B",
-  "systematic name": "2-amineo-1-(4-buromo-2,5-ji methoxyphenyl)etanon",
-  "aliases": [],
+  "systematic name": "2-amino-1-(4-bromo-2,5-dimethoxyphenyl)ethanone",
+  "aliases": [
+    "Bk-2C-B compound",
+    "2-AMINO-1-(4-BROMO-2,5-DIMETHOXYPHENYL)ETHAN-1-ONE",
+    "RefChem:909495",
+    "2-amino-1-(4-bromo-2,5-dimethoxyphenyl)ethanone",
+    "Beta-keto 2C-B",
+    "Ethanone, 2-amino-1-(4-bromo-2,5-dimethoxyphenyl)-",
+    "Bk-2C-B",
+    "UNII-W6KJ195I24",
+    "W6KJ195I24",
+    "2-Amino-1-(4-bromo-2,5-dimethoxyphenyl)-ethanone",
+    "bk-2C-B (hydrochloride)",
+    "BK 2CB",
+    "BETA K-2C-B",
+    ".BETA.-KETO 2C-B",
+    "SCHEMBL20970859",
+    "SCHEMBL29633084",
+    "DTXSID201045990",
+    "HHB63109",
+    "AKOS022962093",
+    "FA182963",
+    "DB-216943",
+    "NS00017375",
+    "Q15408422"
+  ],
   "identifiers": {
     "pubchem_cid": "11288812",
     "inchi_key": "HFYJGAIOBIDRPX-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "HFYJGAIOBIDRPX-UHFFFAOYSA-N",
+    "pubchemCID": "11288812"
   },
   "categories": [],
   "legal": {
@@ -33,5 +59,39 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/11288812"
+  ],
+  "molecular_formula": "C10H12BrNO3",
+  "molecular_weight": "274.11",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-amino-1-(4-bromo-2,5-dimethoxyphenyl)ethanone",
+  "synonyms_pubchem": [
+    "Bk-2C-B compound",
+    "2-AMINO-1-(4-BROMO-2,5-DIMETHOXYPHENYL)ETHAN-1-ONE",
+    "RefChem:909495",
+    "807631-09-0",
+    "2-amino-1-(4-bromo-2,5-dimethoxyphenyl)ethanone",
+    "Beta-keto 2C-B",
+    "Ethanone, 2-amino-1-(4-bromo-2,5-dimethoxyphenyl)-",
+    "Bk-2C-B",
+    "UNII-W6KJ195I24",
+    "W6KJ195I24",
+    "2-Amino-1-(4-bromo-2,5-dimethoxyphenyl)-ethanone",
+    "bk-2C-B (hydrochloride)",
+    "BK 2CB",
+    "BETA K-2C-B",
+    ".BETA.-KETO 2C-B",
+    "SCHEMBL20970859",
+    "SCHEMBL29633084",
+    "DTXSID201045990",
+    "HHB63109",
+    "AKOS022962093",
+    "FA182963",
+    "DB-216943",
+    "NS00017375",
+    "Q15408422"
+  ]
 }

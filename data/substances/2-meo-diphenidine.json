@@ -1,14 +1,32 @@
 {
   "id": "2-meo-diphenidine",
   "common_name": "2-MeO-diphenidine",
-  "systematic name": "1-[1-(2-methoxyphenyl)-2- phenylechiru]piperijin 類",
+  "systematic name": "1-[1-(2-methoxyphenyl)-2-phenylethyl]piperidine",
   "aliases": [
-    "Methoxphenidine"
+    "Methoxphenidine",
+    "Methoxydiphenidine",
+    "2-Meo-diphenidine",
+    "H2W7A6GZGX",
+    "Piperidine, 1-(1-(2-methoxyphenyl)-2-phenylethyl)-",
+    "DTXSID601045730",
+    "1-(1-(2-Methoxyphenyl)-2-phenylethyl)piperidine",
+    "1-[1-(2-methoxyphenyl)-2-phenylethyl]piperidine",
+    "RefChem:157048",
+    "DTXCID101527658",
+    "UNII-H2W7A6GZGX",
+    "Piperidine, 1-(1-(2-methoxyphenyl)-2-phenylethyl)-, (+/-)-",
+    "MXP",
+    "Methoxphenidine (hydrochloride)",
+    "SCHEMBL9365969",
+    "NS00017550",
+    "Q15708281"
   ],
   "identifiers": {
     "pubchem_cid": "67833251",
     "inchi_key": "QXXCUXIRBHSITD-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "QXXCUXIRBHSITD-UHFFFAOYSA-N",
+    "pubchemCID": "67833251"
   },
   "categories": [],
   "legal": {
@@ -35,5 +53,33 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/67833251"
+  ],
+  "molecular_formula": "C20H25NO",
+  "molecular_weight": "295.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-[1-(2-methoxyphenyl)-2-phenylethyl]piperidine",
+  "synonyms_pubchem": [
+    "Methoxphenidine",
+    "Methoxydiphenidine",
+    "2-Meo-diphenidine",
+    "H2W7A6GZGX",
+    "127529-46-8",
+    "Piperidine, 1-(1-(2-methoxyphenyl)-2-phenylethyl)-",
+    "DTXSID601045730",
+    "1-(1-(2-Methoxyphenyl)-2-phenylethyl)piperidine",
+    "1-[1-(2-methoxyphenyl)-2-phenylethyl]piperidine",
+    "RefChem:157048",
+    "DTXCID101527658",
+    "UNII-H2W7A6GZGX",
+    "Piperidine, 1-(1-(2-methoxyphenyl)-2-phenylethyl)-, (+/-)-",
+    "MXP",
+    "Methoxphenidine (hydrochloride)",
+    "SCHEMBL9365969",
+    "NS00017550",
+    "Q15708281"
+  ]
 }

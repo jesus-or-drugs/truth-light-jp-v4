@@ -1,12 +1,21 @@
 {
   "id": "adb-4en-pinaca",
   "common_name": "ADB-4en-PINACA",
-  "systematic name": "N-(1-amineo-3,3-jimechiru-1 -okisobutan-2-iru)-1-(pen ta-4-en-1-iru)-1H-inda zo-ru-3-karubokisamido",
-  "aliases": [],
+  "systematic name": "N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pent-4-enylindazole-3-carboxamide",
+  "aliases": [
+    "DTXSID601038864",
+    "RefChem:1090775",
+    "DTXCID301522866",
+    "ADB-4EN-pinaca",
+    "SCHEMBL24222017",
+    "SCHEMBL30609556"
+  ],
   "identifiers": {
     "pubchem_cid": "162705324",
     "inchi_key": "NXDLAZXBALPFSN-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "NXDLAZXBALPFSN-UHFFFAOYSA-N",
+    "pubchemCID": "162705324"
   },
   "categories": [],
   "legal": {
@@ -33,5 +42,23 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/162705324"
+  ],
+  "molecular_formula": "C19H26N4O2",
+  "molecular_weight": "342.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pent-4-enylindazole-3-carboxamide",
+  "synonyms_pubchem": [
+    "DTXSID601038864",
+    "N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(pent-4-en-1-yl)-1H-indazole-3-carboxamide",
+    "RefChem:1090775",
+    "DTXCID301522866",
+    "ADB-4EN-pinaca",
+    "2666932-44-9",
+    "SCHEMBL24222017",
+    "SCHEMBL30609556"
+  ]
 }

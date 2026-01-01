@@ -1,16 +1,26 @@
 {
   "id": "dmxe",
   "common_name": "DMXE",
-  "systematic name": "2-(echiruamineo)-2-(3-mechiru phenyl)shikurohekisanon 類",
+  "systematic name": "2-(ethylamino)-2-(3-methylphenyl)cyclohexan-1-one",
   "aliases": [
     "Deoxymethoxetamine",
-    "3’-methyl-2-oxo-PCE",
-    "3D-MXE"
+    "3D-Mxe",
+    "3-Me-2'-oxo-pce",
+    "G32GTT7MGW",
+    "2-(Ethylamino)-2-(3-methylphenyl)cyclohexan-1-one",
+    "Cyclohexanone, 2-(ethylamino)-2-(3-methylphenyl)-",
+    "RefChem:131968",
+    "DMXE",
+    "UNII-G32GTT7MGW",
+    "Deoxymethoxetamine (hydrochloride)",
+    "DTXSID701336932"
   ],
   "identifiers": {
     "pubchem_cid": "157010705",
     "inchi_key": "WIMLPRYZJQNQLE-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "WIMLPRYZJQNQLE-UHFFFAOYSA-N",
+    "pubchemCID": "157010705"
   },
   "categories": [],
   "legal": {
@@ -37,5 +47,27 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/157010705"
+  ],
+  "molecular_formula": "C15H21NO",
+  "molecular_weight": "231.33",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(ethylamino)-2-(3-methylphenyl)cyclohexan-1-one",
+  "synonyms_pubchem": [
+    "Deoxymethoxetamine",
+    "3D-Mxe",
+    "3-Me-2'-oxo-pce",
+    "G32GTT7MGW",
+    "2-(Ethylamino)-2-(3-methylphenyl)cyclohexan-1-one",
+    "Cyclohexanone, 2-(ethylamino)-2-(3-methylphenyl)-",
+    "2666932-45-0",
+    "RefChem:131968",
+    "DMXE",
+    "UNII-G32GTT7MGW",
+    "Deoxymethoxetamine (hydrochloride)",
+    "DTXSID701336932"
+  ]
 }

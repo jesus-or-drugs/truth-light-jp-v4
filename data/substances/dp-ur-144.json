@@ -1,12 +1,40 @@
 {
   "id": "dp-ur-144",
   "common_name": "DP-UR-144",
-  "systematic name": "(1H-indo-ru-3-iru)(2,2, 3,3-tetoramechirushikuropuropan-1 -iru)metanon",
-  "aliases": [],
+  "systematic name": "1H-indol-3-yl-(2,2,3,3-tetramethylcyclopropyl)methanone",
+  "aliases": [
+    "1H-indol-3-yl(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "RefChem:68315",
+    "(1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "MFCD13689217",
+    "Despentyl-UR-144",
+    "DP-UR-144",
+    "1H-indol-3-yl-(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "674PB4BFT4",
+    "Methanone, 1H-indol-3-yl(2,2,3,3-tetramethylcyclopropyl)-",
+    "SCHEMBL2079145",
+    "WYZQBEQQQKCTHM-UHFFFAOYSA-N",
+    "3-(2,2,3,3-tetramethylcyclopropanecarbonyl)-1H-indole",
+    "UNII-674PB4BFT4",
+    "DTXSID10647203",
+    "CHEBI:170056",
+    "AKOS015151113",
+    "HY-W036121",
+    "DS-16655",
+    "FI170916",
+    "PD018452",
+    "SY264616",
+    "DB-088388",
+    "CS-0089100",
+    "NS00018398",
+    "(3-Indolyl)(2,2,3,3-tetramethylcyclopropyl)methanone"
+  ],
   "identifiers": {
     "pubchem_cid": "24756409",
     "inchi_key": "WYZQBEQQQKCTHM-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "WYZQBEQQQKCTHM-UHFFFAOYSA-N",
+    "pubchemCID": "24756409"
   },
   "categories": [],
   "legal": {
@@ -33,5 +61,41 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/24756409"
+  ],
+  "molecular_formula": "C16H19NO",
+  "molecular_weight": "241.33",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1H-indol-3-yl-(2,2,3,3-tetramethylcyclopropyl)methanone",
+  "synonyms_pubchem": [
+    "1H-indol-3-yl(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "RefChem:68315",
+    "(1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "895152-66-6",
+    "MFCD13689217",
+    "Despentyl-UR-144",
+    "DP-UR-144",
+    "1H-indol-3-yl-(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "674PB4BFT4",
+    "Methanone, 1H-indol-3-yl(2,2,3,3-tetramethylcyclopropyl)-",
+    "SCHEMBL2079145",
+    "WYZQBEQQQKCTHM-UHFFFAOYSA-N",
+    "3-(2,2,3,3-tetramethylcyclopropanecarbonyl)-1H-indole",
+    "UNII-674PB4BFT4",
+    "DTXSID10647203",
+    "CHEBI:170056",
+    "AKOS015151113",
+    "HY-W036121",
+    "DS-16655",
+    "FI170916",
+    "PD018452",
+    "SY264616",
+    "DB-088388",
+    "CS-0089100",
+    "NS00018398",
+    "(3-Indolyl)(2,2,3,3-tetramethylcyclopropyl)methanone"
+  ]
 }

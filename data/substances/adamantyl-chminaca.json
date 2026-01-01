@@ -1,14 +1,27 @@
 {
   "id": "adamantyl-chminaca",
   "common_name": "Adamantyl-CHMINACA",
-  "systematic name": "N-(1-Adamantyl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide",
+  "systematic name": "N-(1-adamantyl)-1-(cyclohexylmethyl)indazole-3-carboxamide",
   "aliases": [
-    "A-CHMINACA"
+    "Achminaca",
+    "N-(adamantan-1-yl)-1-(cyclohexylmethyl)-1h-indazole-3-carboxamide",
+    "ZWS947EX7P",
+    "1-(Cyclohexylmethyl)-N-tricyclo(3.3.1.13,7)dec-1-yl-1H-indazole-3-carboxamide",
+    "1H-Indazole-3-carboxamide, 1-(cyclohexylmethyl)-N-tricyclo(3.3.1.13,7)dec-1-yl-",
+    "1-(cyclohexylmethyl)-N-tricyclo[3.3.1.13,7]dec-1-yl-1H-indazole-3-carboxamide",
+    "RefChem:199359",
+    "UNII-ZWS947EX7P",
+    "N-(1-adamantyl)-1-(cyclohexylmethyl)indazole-3-carboxamide",
+    "Adamantyl-CHMINACA",
+    "DTXSID401342356",
+    "AGC74233"
   ],
   "identifiers": {
     "pubchem_cid": "137700313",
     "inchi_key": "ACFKPINHOINOFB-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "ACFKPINHOINOFB-UHFFFAOYSA-N",
+    "pubchemCID": "137700313"
   },
   "categories": [],
   "legal": {
@@ -35,5 +48,28 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/137700313"
+  ],
+  "molecular_formula": "C25H33N3O",
+  "molecular_weight": "391.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-(1-adamantyl)-1-(cyclohexylmethyl)indazole-3-carboxamide",
+  "synonyms_pubchem": [
+    "Achminaca",
+    "1400742-33-7",
+    "N-(adamantan-1-yl)-1-(cyclohexylmethyl)-1h-indazole-3-carboxamide",
+    "ZWS947EX7P",
+    "1-(Cyclohexylmethyl)-N-tricyclo(3.3.1.13,7)dec-1-yl-1H-indazole-3-carboxamide",
+    "1H-Indazole-3-carboxamide, 1-(cyclohexylmethyl)-N-tricyclo(3.3.1.13,7)dec-1-yl-",
+    "1-(cyclohexylmethyl)-N-tricyclo[3.3.1.13,7]dec-1-yl-1H-indazole-3-carboxamide",
+    "RefChem:199359",
+    "UNII-ZWS947EX7P",
+    "N-(1-adamantyl)-1-(cyclohexylmethyl)indazole-3-carboxamide",
+    "Adamantyl-CHMINACA",
+    "DTXSID401342356",
+    "AGC74233"
+  ]
 }

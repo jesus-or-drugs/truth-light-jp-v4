@@ -1,12 +1,31 @@
 {
   "id": "4-methylmethylphenidate",
   "common_name": "4-Methylmethylphenidate",
-  "systematic name": "2-(4-mechiruphenyl)-2-(piperi jin-2-iru) acetatemechiruesuteru及 びその salts",
-  "aliases": [],
+  "systematic name": "methyl (2R)-2-(4-methylphenyl)-2-[(2S)-piperidin-2-yl]acetate",
+  "aliases": [
+    "Threo-4-methylmethylphenidate",
+    "4-Mmph",
+    "4-Me-tmp",
+    "4-Methylmethylphenidate",
+    "1Y11XUO4EY",
+    "DTXSID601029380",
+    "2-Piperidineacetic acid, alpha-(4-methylphenyl)-, methyl ester, (alphaR,2S)-rel-",
+    "RefChem:1100096",
+    "DTXCID401514640",
+    "UNII-1Y11XUO4EY",
+    "4MeTMP",
+    "CHEMBL1178948",
+    "SCHEMBL25997842",
+    "BDBM85934",
+    "PDSP1_000877",
+    "PDSP2_000863"
+  ],
   "identifiers": {
     "pubchem_cid": "23815457",
     "inchi_key": "WJZNCJIOIACDBR-UONOGXRCSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "WJZNCJIOIACDBR-UONOGXRCSA-N",
+    "pubchemCID": "23815457"
   },
   "categories": [],
   "legal": {
@@ -33,5 +52,33 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/23815457"
+  ],
+  "molecular_formula": "C15H21NO2",
+  "molecular_weight": "247.33",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "methyl (2R)-2-(4-methylphenyl)-2-[(2S)-piperidin-2-yl]acetate",
+  "synonyms_pubchem": [
+    "Threo-4-methylmethylphenidate",
+    "4-Mmph",
+    "4-Me-tmp",
+    "4-Methylmethylphenidate",
+    "1Y11XUO4EY",
+    "467468-40-2",
+    "DTXSID601029380",
+    "2-Piperidineacetic acid, alpha-(4-methylphenyl)-, methyl ester, (alphaR,2S)-rel-",
+    "RefChem:1100096",
+    "DTXCID401514640",
+    "UNII-1Y11XUO4EY",
+    "4MeTMP",
+    "CHEMBL1178948",
+    "SCHEMBL25997842",
+    "BDBM85934",
+    "PDSP1_000877",
+    "PDSP2_000863",
+    "2-PIPERIDINEACETIC ACID, .ALPHA.-(4-METHYLPHENYL)-, METHYL ESTER, (.ALPHA.R,2S)-REL-"
+  ]
 }

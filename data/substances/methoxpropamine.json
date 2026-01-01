@@ -1,15 +1,25 @@
 {
   "id": "methoxpropamine",
   "common_name": "Methoxpropamine",
-  "systematic name": "2-(3-methoxyphenyl)-2-(puro piruamineo)shikurohekisanon",
+  "systematic name": "2-(3-methoxyphenyl)-2-(propylamino)cyclohexan-1-one",
   "aliases": [
-    "MXPr",
-    "3-MeO-2’-oxo-PCPr"
+    "Methoxpropamine",
+    "2-Oxo-3'-methoxy-pcpr",
+    "LTF83AU3X8",
+    "Cyclohexanone, 2-(3-methoxyphenyl)-2-(propylamino)-",
+    "RefChem:157049",
+    "MXPR",
+    "UNII-LTF83AU3X8",
+    "Methoxpropamine (hydrochloride)",
+    "2-(3-methoxyphenyl)-2-(propylamino)cyclohexan-1-one",
+    "DTXSID501336500"
   ],
   "identifiers": {
     "pubchem_cid": "155817932",
     "inchi_key": "AAVOSBAXDRASAH-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "AAVOSBAXDRASAH-UHFFFAOYSA-N",
+    "pubchemCID": "155817932"
   },
   "categories": [],
   "legal": {
@@ -36,5 +46,26 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/155817932"
+  ],
+  "molecular_formula": "C16H23NO2",
+  "molecular_weight": "261.36",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(3-methoxyphenyl)-2-(propylamino)cyclohexan-1-one",
+  "synonyms_pubchem": [
+    "Methoxpropamine",
+    "2-Oxo-3'-methoxy-pcpr",
+    "LTF83AU3X8",
+    "2504100-71-2",
+    "Cyclohexanone, 2-(3-methoxyphenyl)-2-(propylamino)-",
+    "RefChem:157049",
+    "MXPR",
+    "UNII-LTF83AU3X8",
+    "Methoxpropamine (hydrochloride)",
+    "2-(3-methoxyphenyl)-2-(propylamino)cyclohexan-1-one",
+    "DTXSID501336500"
+  ]
 }

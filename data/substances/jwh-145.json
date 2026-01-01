@@ -1,12 +1,31 @@
 {
   "id": "jwh-145",
   "common_name": "JWH-145",
-  "systematic name": "nafutaren-1-iru(1-penchiru-5 -phenyl-1H-piro-ru-3-i ru)metanon",
-  "aliases": [],
+  "systematic name": "naphthalen-1-yl-(1-pentyl-5-phenylpyrrol-3-yl)methanone",
+  "aliases": [
+    "JWH-145",
+    "naphthalen-1-yl(1-pentyl-5-phenyl-1H-pyrrol-3-yl)methanone",
+    "JRT5F2Y0NA",
+    "JWH 145",
+    "UNII-JRT5F2Y0NA",
+    "CHEMBL385940",
+    "naphthalen-1-yl-(1-pentyl-5-phenylpyrrol-3-yl)methanone",
+    "Methanone, 1-naphthalenyl(1-pentyl-5-phenyl-1H-pyrrol-3-yl)-",
+    "JLXYYSHMURZHKI-UHFFFAOYSA-N",
+    "SCHEMBL29989743",
+    "DTXSID401016339",
+    "PLB45819",
+    "BDBM50192603",
+    "NS00017325",
+    "1-naphthyl-(1-pentyl-5-phenyl-pyrrol-3-yl)methanone",
+    "1-naphthalenyl(1-pentyl-5-phenyl-1H-pyrrol-3-yl)-methanone"
+  ],
   "identifiers": {
     "pubchem_cid": "44418304",
     "inchi_key": "JLXYYSHMURZHKI-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "JLXYYSHMURZHKI-UHFFFAOYSA-N",
+    "pubchemCID": "44418304"
   },
   "categories": [],
   "legal": {
@@ -33,5 +52,32 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/44418304"
+  ],
+  "molecular_formula": "C26H25NO",
+  "molecular_weight": "367.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "naphthalen-1-yl-(1-pentyl-5-phenylpyrrol-3-yl)methanone",
+  "synonyms_pubchem": [
+    "914458-19-8",
+    "JWH-145",
+    "naphthalen-1-yl(1-pentyl-5-phenyl-1H-pyrrol-3-yl)methanone",
+    "JRT5F2Y0NA",
+    "JWH 145",
+    "UNII-JRT5F2Y0NA",
+    "CHEMBL385940",
+    "naphthalen-1-yl-(1-pentyl-5-phenylpyrrol-3-yl)methanone",
+    "Methanone, 1-naphthalenyl(1-pentyl-5-phenyl-1H-pyrrol-3-yl)-",
+    "JLXYYSHMURZHKI-UHFFFAOYSA-N",
+    "SCHEMBL29989743",
+    "DTXSID401016339",
+    "PLB45819",
+    "BDBM50192603",
+    "NS00017325",
+    "1-naphthyl-(1-pentyl-5-phenyl-pyrrol-3-yl)methanone",
+    "1-naphthalenyl(1-pentyl-5-phenyl-1H-pyrrol-3-yl)-methanone"
+  ]
 }

@@ -1,12 +1,26 @@
 {
   "id": "cumyl-ch-megaclone",
   "common_name": "CUMYL-CH-MEGACLONE",
-  "systematic name": "5-(cyclohexylmechiru)-2-(2 -phenylpuropan-2-iru)-2,5 -jihidoro-1H-pirido[4,3-b]in do-ru-1-on",
-  "aliases": [],
+  "systematic name": "5-(cyclohexylmethyl)-2-(2-phenylpropan-2-yl)pyrido[4,3-b]indol-1-one",
+  "aliases": [
+    "CUMYL-CH-MEGACLONE",
+    "CUMYL-CHMGACLONE",
+    "9QA3AM2G3T",
+    "SGT270",
+    "SGT-270",
+    "RefChem:200274",
+    "Cumyl-cyclohexyl-pegaclone",
+    "C27H30N2O",
+    "DTXSID001336498",
+    "5-(cyclohexylmethyl)-2-(1-methyl-1-phenyl-ethyl)pyrido[4,3-b]indol-1-one",
+    "5-(cyclohexylmethyl)-2-(2-phenylpropan-2-yl)pyrido[4,3-b]indol-1-one"
+  ],
   "identifiers": {
     "pubchem_cid": "155884822",
     "inchi_key": "CGHCGYCTOLWAPL-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "CGHCGYCTOLWAPL-UHFFFAOYSA-N",
+    "pubchemCID": "155884822"
   },
   "categories": [],
   "legal": {
@@ -33,5 +47,27 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/155884822"
+  ],
+  "molecular_formula": "C27H30N2O",
+  "molecular_weight": "398.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "5-(cyclohexylmethyl)-2-(2-phenylpropan-2-yl)pyrido[4,3-b]indol-1-one",
+  "synonyms_pubchem": [
+    "CUMYL-CH-MEGACLONE",
+    "CUMYL-CHMGACLONE",
+    "9QA3AM2G3T",
+    "SGT270",
+    "SGT-270",
+    "RefChem:200274",
+    "2813950-07-9",
+    "Cumyl-cyclohexyl-pegaclone",
+    "C27H30N2O",
+    "DTXSID001336498",
+    "5-(cyclohexylmethyl)-2-(1-methyl-1-phenyl-ethyl)pyrido[4,3-b]indol-1-one",
+    "5-(cyclohexylmethyl)-2-(2-phenylpropan-2-yl)pyrido[4,3-b]indol-1-one"
+  ]
 }

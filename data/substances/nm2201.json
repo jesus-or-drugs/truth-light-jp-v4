@@ -1,12 +1,39 @@
 {
   "id": "nm2201",
   "common_name": "NM2201",
-  "systematic name": "nafutaren-1-iru=1-(5-furuo ropenchiru)-1H-indo-ru-3-ka rubokishira-to",
-  "aliases": [],
+  "systematic name": "naphthalen-1-yl 1-(5-fluoropentyl)indole-3-carboxylate",
+  "aliases": [
+    "NM-2201",
+    "NM2201",
+    "CCQ6IR3CU2",
+    "naphthalen-1-yl 1-(5-fluoropentyl)-1h-indole-3-carboxylate",
+    "CBL-2201",
+    "5-Fluoro-sdb-005 indole",
+    "CBL2201",
+    "DTXSID201009986",
+    "NM 2201",
+    "1-Naphthalenyl 1-(5-fluoropentyl)-1H-indole-3-carboxylate",
+    "RefChem:854409",
+    "DTXCID101436407",
+    "NAPHTHALEN-1-YL 1-(5-FLUOROPENTYL)INDOLE-3-CARBOXYLATE",
+    "NM-2201 (1.0 mg/mL in Methanol)",
+    "NM-2201; CBL-2201; Naphthalen-1-yl 1-(5-fluoropentyl)-1H-indol-3-carboxylate",
+    "UNII-CCQ6IR3CU2",
+    "SCHEMBL29989165",
+    "NM-2201 (1 mg/mL in Methanol)",
+    "NS00017400",
+    "1-naphthyl 1-(5-fluoropentyl)indole-3-carboxylate",
+    "Q20707163",
+    "S900007150",
+    "naphthalen-1-yl1-(5-fluoropentyl)-1H-indole-3-carboxylate",
+    "CBL-2201; Naphthalen-1-yl 1-(5-Fluoropentyl)-1H-indole-3-carboxylate"
+  ],
   "identifiers": {
     "pubchem_cid": "91864534",
     "inchi_key": "PRGFSQYZCKCBQO-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "PRGFSQYZCKCBQO-UHFFFAOYSA-N",
+    "pubchemCID": "91864534"
   },
   "categories": [],
   "legal": {
@@ -33,5 +60,40 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/91864534"
+  ],
+  "molecular_formula": "C24H22FNO2",
+  "molecular_weight": "375.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "naphthalen-1-yl 1-(5-fluoropentyl)indole-3-carboxylate",
+  "synonyms_pubchem": [
+    "NM-2201",
+    "NM2201",
+    "CCQ6IR3CU2",
+    "naphthalen-1-yl 1-(5-fluoropentyl)-1h-indole-3-carboxylate",
+    "CBL-2201",
+    "5-Fluoro-sdb-005 indole",
+    "CBL2201",
+    "DTXSID201009986",
+    "NM 2201",
+    "1-Naphthalenyl 1-(5-fluoropentyl)-1H-indole-3-carboxylate",
+    "RefChem:854409",
+    "DTXCID101436407",
+    "2042201-16-9",
+    "NAPHTHALEN-1-YL 1-(5-FLUOROPENTYL)INDOLE-3-CARBOXYLATE",
+    "NM-2201 (1.0 mg/mL in Methanol)",
+    "NM-2201; CBL-2201; Naphthalen-1-yl 1-(5-fluoropentyl)-1H-indol-3-carboxylate",
+    "UNII-CCQ6IR3CU2",
+    "SCHEMBL29989165",
+    "NM-2201 (1 mg/mL in Methanol)",
+    "NS00017400",
+    "1-naphthyl 1-(5-fluoropentyl)indole-3-carboxylate",
+    "Q20707163",
+    "S900007150",
+    "naphthalen-1-yl1-(5-fluoropentyl)-1H-indole-3-carboxylate",
+    "CBL-2201; Naphthalen-1-yl 1-(5-Fluoropentyl)-1H-indole-3-carboxylate"
+  ]
 }

@@ -1,12 +1,34 @@
 {
   "id": "isobutyrylfentanyl",
   "common_name": "Isobutyrylfentanyl",
-  "systematic name": "N-(1-fenechirupiperijin-4-i ru)-N-phenylisobutylamido及び その salts",
-  "aliases": [],
+  "systematic name": "2-methyl-N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]propanamide",
+  "aliases": [
+    "Isobutyrfentanyl",
+    "Isobutyr-fentanyl",
+    "Isobutyryl fentanyl",
+    "LF0F3A39RV",
+    "ISOBUTYRYLFENTANYL",
+    "2-Methyl-N-phenyl-N-(1-(2-phenylethyl)-4-piperidinyl)propanamide",
+    "DTXSID201036759",
+    "Propanamide, 2-methyl-N-phenyl-N-(1-(2-phenylethyl)-4-piperidinyl)-",
+    "ISOBUTYRYL FENTANYL [NFLIS-DRUG]",
+    "2-METHYL-N-PHENYL-N-(1-(2-PHENYLETHYL)PIPERIDIN-4-YL)PROPANAMIDE",
+    "ISOBUTYRYL FENTANYL (NFLIS-DRUG)",
+    "2-Methyl-N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]propanamide",
+    "RefChem:791681",
+    "DTXCID701520850",
+    "UNII-LF0F3A39RV",
+    "SCHEMBL18623775",
+    "WRPFPNIHTOSMKU-UHFFFAOYSA-N",
+    "NS00017207",
+    "N-(1-PHENETHYLPIPERIDIN-4-YL)-N-PHENYLISOBUTYRAMIDE"
+  ],
   "identifiers": {
     "pubchem_cid": "14402357",
     "inchi_key": "WRPFPNIHTOSMKU-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "WRPFPNIHTOSMKU-UHFFFAOYSA-N",
+    "pubchemCID": "14402357"
   },
   "categories": [],
   "legal": {
@@ -33,5 +55,35 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/14402357"
+  ],
+  "molecular_formula": "C23H30N2O",
+  "molecular_weight": "350.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-methyl-N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]propanamide",
+  "synonyms_pubchem": [
+    "Isobutyrfentanyl",
+    "Isobutyr-fentanyl",
+    "Isobutyryl fentanyl",
+    "LF0F3A39RV",
+    "ISOBUTYRYLFENTANYL",
+    "119618-70-1",
+    "2-Methyl-N-phenyl-N-(1-(2-phenylethyl)-4-piperidinyl)propanamide",
+    "DTXSID201036759",
+    "Propanamide, 2-methyl-N-phenyl-N-(1-(2-phenylethyl)-4-piperidinyl)-",
+    "ISOBUTYRYL FENTANYL [NFLIS-DRUG]",
+    "2-METHYL-N-PHENYL-N-(1-(2-PHENYLETHYL)PIPERIDIN-4-YL)PROPANAMIDE",
+    "ISOBUTYRYL FENTANYL (NFLIS-DRUG)",
+    "2-Methyl-N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]propanamide",
+    "RefChem:791681",
+    "DTXCID701520850",
+    "UNII-LF0F3A39RV",
+    "SCHEMBL18623775",
+    "WRPFPNIHTOSMKU-UHFFFAOYSA-N",
+    "NS00017207",
+    "N-(1-PHENETHYLPIPERIDIN-4-YL)-N-PHENYLISOBUTYRAMIDE"
+  ]
 }

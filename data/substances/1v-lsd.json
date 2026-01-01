@@ -1,12 +1,23 @@
 {
   "id": "1v-lsd",
   "common_name": "1V-LSD",
-  "systematic name": "N,N-jiechiru-7-mechiru-4-pe ntanoiru-4,6,6a,7,8,9-heki sahidoroindoro[4,3-fg]kinorin- 9-karubokisamido",
-  "aliases": [],
+  "systematic name": "(6aR,9R)-N,N-diethyl-7-methyl-4-pentanoyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide",
+  "aliases": [
+    "1V-LSD",
+    "VALERIE",
+    "1-VALEROYL-LSD",
+    "V9TJ3HT283",
+    "RefChem:79978",
+    "SCHEMBL25219199",
+    "DTXSID801342453",
+    "PD163775"
+  ],
   "identifiers": {
     "pubchem_cid": "162368540",
     "inchi_key": "GIIBVGJWUZNECE-XMSQKQJNSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "GIIBVGJWUZNECE-XMSQKQJNSA-N",
+    "pubchemCID": "162368540"
   },
   "categories": [],
   "legal": {
@@ -33,5 +44,24 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/162368540"
+  ],
+  "molecular_formula": "C25H33N3O2",
+  "molecular_weight": "407.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "(6aR,9R)-N,N-diethyl-7-methyl-4-pentanoyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide",
+  "synonyms_pubchem": [
+    "1V-LSD",
+    "VALERIE",
+    "1-VALEROYL-LSD",
+    "V9TJ3HT283",
+    "(6AR,9R)-N,N-DIETHYL-7-METHYL-4-PENTANOYL-4,6,6A,7,8,9-HEXAHYDROINDOLO(4,3-FG)QUINOLINE-9-CARBOXAMIDE",
+    "RefChem:79978",
+    "SCHEMBL25219199",
+    "DTXSID801342453",
+    "PD163775"
+  ]
 }

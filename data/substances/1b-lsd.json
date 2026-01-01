@@ -1,12 +1,27 @@
 {
   "id": "1b-lsd",
   "common_name": "1B-LSD",
-  "systematic name": "4-butanoiru-N,N-jiechiru-7 -mechiru-4,6,6a,7,8,9-heki sahidoroindoro[4,3-fg]kinorin- 9-karubokisamido",
-  "aliases": [],
+  "systematic name": "(6aR,9R)-4-butanoyl-N,N-diethyl-7-methyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide",
+  "aliases": [
+    "1B-LSD",
+    "Y6JQX3L6LP",
+    "N1-Butyryl-lysergic acid diethylamide",
+    "DTXSID801016274",
+    "RefChem:79592",
+    "DTXCID501474421",
+    "NOCAS_1016274",
+    "UNII-Y6JQX3L6LP",
+    "1-Butanoyl-lysergic Acid Diethylamide (1B-LSD)",
+    "SCHEMBL24635596",
+    "SCHEMBL29556830",
+    "PD117422"
+  ],
   "identifiers": {
     "pubchem_cid": "145875086",
     "inchi_key": "SVRFNPSJPIDUBC-DYESRHJHSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "SVRFNPSJPIDUBC-DYESRHJHSA-N",
+    "pubchemCID": "145875086"
   },
   "categories": [],
   "legal": {
@@ -33,5 +48,32 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/145875086"
+  ],
+  "molecular_formula": "C24H31N3O2",
+  "molecular_weight": "393.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "(6aR,9R)-4-butanoyl-N,N-diethyl-7-methyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide",
+  "synonyms_pubchem": [
+    "1B-LSD",
+    "Y6JQX3L6LP",
+    "2349376-12-9",
+    "N1-Butyryl-lysergic acid diethylamide",
+    "DTXSID801016274",
+    "Ergoline-8-carboxamide, 9,10-didehydro-N,N-diethyl-6-methyl-1-(1-oxobutyl)-, (8beta)-",
+    "ERGOLINE-8-CARBOXAMIDE, 9,10-DIDEHYDRO-N,N-DIETHYL-6-METHYL-1-(1-OXOBUTYL)-, (8.BETA.)-",
+    "RefChem:79592",
+    "DTXCID501474421",
+    "NOCAS_1016274",
+    "UNII-Y6JQX3L6LP",
+    "(6aR,9R)-4-butanoyl-N,N-diethyl-7-methyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide",
+    "1-Butanoyl-lysergic Acid Diethylamide (1B-LSD)",
+    "(6aR,9R)-4-Butyryl-N,N-diethyl-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide",
+    "SCHEMBL24635596",
+    "SCHEMBL29556830",
+    "PD117422"
+  ]
 }

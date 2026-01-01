@@ -1,12 +1,31 @@
 {
   "id": "25b-nbf",
   "common_name": "25B-NBF",
-  "systematic name": "2-(4-buromo-2,5-jimethoxyfe niru)-N-(2-furuorobenzylu)e tanamine",
-  "aliases": [],
+  "systematic name": "2-(4-bromo-2,5-dimethoxyphenyl)-N-[(2-fluorophenyl)methyl]ethanamine",
+  "aliases": [
+    "SSW3KY7SWW",
+    "25B-NBF",
+    "2c-b-Nbf",
+    "25b-Nbf [NFLIS-DRUG]",
+    "UNII-SSW3KY7SWW",
+    "(2-(4-Bromo-2,5-dimethoxyphenyl)ethyl)((2-fluorophenyl)methyl)amine",
+    "2-(4-Bromo-2,5-dimethoxyphenyl)-N-(2-fluorobenzyl)ethan-1-amine",
+    "Benzeneethanamine, 4-bromo-N-((2-fluorophenyl)methyl)-2,5-dimethoxy-",
+    "25B-NBF (NFLIS-DRUG)",
+    "RefChem:89917",
+    "2-(4-bromo-2,5-dimethoxyphenyl)-N-[(2-fluorophenyl)methyl]ethanamine",
+    "SCHEMBL20970956",
+    "SCHEMBL29633085",
+    "DTXSID801337157",
+    "PD046456",
+    "Q30635947"
+  ],
   "identifiers": {
     "pubchem_cid": "125181239",
     "inchi_key": "ATMBBMXJNIJRST-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "ATMBBMXJNIJRST-UHFFFAOYSA-N",
+    "pubchemCID": "125181239"
   },
   "categories": [],
   "legal": {
@@ -33,5 +52,33 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/125181239"
+  ],
+  "molecular_formula": "C17H19BrFNO2",
+  "molecular_weight": "368.2",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(4-bromo-2,5-dimethoxyphenyl)-N-[(2-fluorophenyl)methyl]ethanamine",
+  "synonyms_pubchem": [
+    "SSW3KY7SWW",
+    "25B-NBF",
+    "2c-b-Nbf",
+    "25b-Nbf [NFLIS-DRUG]",
+    "UNII-SSW3KY7SWW",
+    "1391487-99-2",
+    "(2-(4-Bromo-2,5-dimethoxyphenyl)ethyl)((2-fluorophenyl)methyl)amine",
+    "2-(4-Bromo-2,5-dimethoxyphenyl)-N-(2-fluorobenzyl)ethan-1-amine",
+    "Benzeneethanamine, 4-bromo-N-((2-fluorophenyl)methyl)-2,5-dimethoxy-",
+    "25B-NBF (NFLIS-DRUG)",
+    "RefChem:89917",
+    "1539266-17-5",
+    "2-(4-bromo-2,5-dimethoxyphenyl)-N-[(2-fluorophenyl)methyl]ethanamine",
+    "SCHEMBL20970956",
+    "SCHEMBL29633085",
+    "DTXSID801337157",
+    "PD046456",
+    "Q30635947"
+  ]
 }

@@ -1,12 +1,33 @@
 {
   "id": "25c-nboh",
   "common_name": "25C-NBOH",
-  "systematic name": "2-[(4-kuroro-2,5-jimethoxy fenechiruamineo)mechiru]feno-ru及 びその salts",
-  "aliases": [],
+  "systematic name": "2-[[2-(4-chloro-2,5-dimethoxyphenyl)ethylamino]methyl]phenol",
+  "aliases": [
+    "25C-NBOH",
+    "P8BP3X5EBR",
+    "25c-Nboh [NFLIS-DRUG]",
+    "2-(((4-chloro-2,5-dimethoxyphenethyl)amino)methyl)phenol",
+    "2-(((2-(4-Chloro-2,5-dimethoxyphenyl)ethyl)amino)methyl)phenol",
+    "4-Chloro-2,5-dimethoxy-(N-(2-hydroxybenzyl))phenethylamine",
+    "DTXSID601017252",
+    "25C-NBOH (NFLIS-DRUG)",
+    "2-({[2-(4-Chloro-2,5-dimethoxyphenyl)ethyl]amino}methyl)phenol",
+    "2-[[[2-(4-Chloro-2,5-dimethoxyphenyl)ethyl]amino]methyl]phenol",
+    "RefChem:89919",
+    "DTXCID101475441",
+    "UNII-P8BP3X5EBR",
+    "2-[[2-(4-chloro-2,5-dimethoxyphenyl)ethylamino]methyl]phenol",
+    "SCHEMBL25293126",
+    "SCHEMBL29633117",
+    "PD046898",
+    "DB-376448"
+  ],
   "identifiers": {
     "pubchem_cid": "125181419",
     "inchi_key": "VHWXICYYQMMZCW-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "VHWXICYYQMMZCW-UHFFFAOYSA-N",
+    "pubchemCID": "125181419"
   },
   "categories": [],
   "legal": {
@@ -33,5 +54,34 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/125181419"
+  ],
+  "molecular_formula": "C17H20ClNO3",
+  "molecular_weight": "321.8",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-[[2-(4-chloro-2,5-dimethoxyphenyl)ethylamino]methyl]phenol",
+  "synonyms_pubchem": [
+    "25C-NBOH",
+    "P8BP3X5EBR",
+    "1391488-16-6",
+    "25c-Nboh [NFLIS-DRUG]",
+    "2-(((4-chloro-2,5-dimethoxyphenethyl)amino)methyl)phenol",
+    "2-(((2-(4-Chloro-2,5-dimethoxyphenyl)ethyl)amino)methyl)phenol",
+    "4-Chloro-2,5-dimethoxy-(N-(2-hydroxybenzyl))phenethylamine",
+    "DTXSID601017252",
+    "25C-NBOH (NFLIS-DRUG)",
+    "2-({[2-(4-Chloro-2,5-dimethoxyphenyl)ethyl]amino}methyl)phenol",
+    "2-[[[2-(4-Chloro-2,5-dimethoxyphenyl)ethyl]amino]methyl]phenol",
+    "RefChem:89919",
+    "DTXCID101475441",
+    "UNII-P8BP3X5EBR",
+    "2-[[2-(4-chloro-2,5-dimethoxyphenyl)ethylamino]methyl]phenol",
+    "SCHEMBL25293126",
+    "SCHEMBL29633117",
+    "PD046898",
+    "DB-376448"
+  ]
 }

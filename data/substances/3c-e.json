@@ -1,12 +1,28 @@
 {
   "id": "3c-e",
   "common_name": "3C-E",
-  "systematic name": "1-(4-etokishi-3,5-jimethoxy phenyl)puropan-2-amine及びそ の salts",
-  "aliases": [],
+  "systematic name": "1-(4-ethoxy-3,5-dimethoxyphenyl)propan-2-amine",
+  "aliases": [
+    "RefChem:1070584",
+    "4-Ethoxy-3,5-dimethoxy-alpha-methylbenzeneethanamine",
+    "1-(4-ethoxy-3,5-dimethoxyphenyl)propan-2-amine",
+    "3C-E",
+    "3,5-dimethoxy-4-ethoxyamphetamine",
+    "CHEMBL128038",
+    "SCHEMBL5308245",
+    "DTXSID40658382",
+    "DB-362857",
+    "NS00067995",
+    "Q4636226",
+    "4-ETHOXY-3,5-DIMETHOXY-.ALPHA.-METHYLBENZENEETHANAMINE",
+    "BENZENEETHANAMINE, 4-ETHOXY-3,5-DIMETHOXY-.ALPHA.-METHYL-"
+  ],
   "identifiers": {
     "pubchem_cid": "44350137",
     "inchi_key": "AHLXCGRWNKUNTQ-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "AHLXCGRWNKUNTQ-UHFFFAOYSA-N",
+    "pubchemCID": "44350137"
   },
   "categories": [],
   "legal": {
@@ -33,5 +49,29 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/44350137"
+  ],
+  "molecular_formula": "C13H21NO3",
+  "molecular_weight": "239.31",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(4-ethoxy-3,5-dimethoxyphenyl)propan-2-amine",
+  "synonyms_pubchem": [
+    "146849-92-5",
+    "RefChem:1070584",
+    "4-Ethoxy-3,5-dimethoxy-alpha-methylbenzeneethanamine",
+    "1-(4-ethoxy-3,5-dimethoxyphenyl)propan-2-amine",
+    "3C-E",
+    "3,5-dimethoxy-4-ethoxyamphetamine",
+    "CHEMBL128038",
+    "SCHEMBL5308245",
+    "DTXSID40658382",
+    "DB-362857",
+    "NS00067995",
+    "Q4636226",
+    "4-ETHOXY-3,5-DIMETHOXY-.ALPHA.-METHYLBENZENEETHANAMINE",
+    "BENZENEETHANAMINE, 4-ETHOXY-3,5-DIMETHOXY-.ALPHA.-METHYL-"
+  ]
 }

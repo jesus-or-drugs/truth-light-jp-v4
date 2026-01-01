@@ -2,11 +2,37 @@
   "id": "4-aco-met",
   "common_name": "4-AcO-MET",
   "systematic name": "[3-[2-[ethyl(methyl)amino]ethyl]-1H-indol-4-yl] acetate",
-  "aliases": [],
+  "aliases": [
+    "4-Acetoxyethylmethyltryptamine",
+    "Metacetin",
+    "4-Acetoxy-MET",
+    "4-Aco-Met",
+    "4-Acetoxy-N-methyl-N-ethyltryptamine",
+    "PCJ17NV1P0",
+    "UNII-PCJ17NV1P0",
+    "3-(2-(Ethyl(methyl)amino)ethyl)-1H-indol-4-yl acetate",
+    "1H-Indol-4-ol, 3-(2-(ethylmethylamino)ethyl)-, 4-acetate",
+    "1H-Indol-4-ol, 3-[2-(ethylmethylamino)ethyl]-, 4-acetate",
+    "RefChem:97614",
+    "[3-[2-[ethyl(methyl)amino]ethyl]-1H-indol-4-yl] acetate",
+    "4-Acetoxy-N-ethyl-N-methyltryptamine",
+    "3-[2-(Ethylmethylamino)ethyl]-1H-Indol-4-ol 4-Acetate; 4-AcO-MET ;",
+    "4-Aco-Met hemifumarate",
+    "SCHEMBL20970924",
+    "SCHEMBL29633170",
+    "DTXSID301029955",
+    "VHC75140",
+    "EN-0013",
+    "PD044872",
+    "NS00018208",
+    "Q16154986"
+  ],
   "identifiers": {
     "pubchem_cid": "71308138",
     "inchi_key": "OMDKHOOGGJRLLX-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "OMDKHOOGGJRLLX-UHFFFAOYSA-N",
+    "pubchemCID": "71308138"
   },
   "categories": [],
   "legal": {
@@ -33,5 +59,39 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/71308138"
+  ],
+  "molecular_formula": "C15H20N2O2",
+  "molecular_weight": "260.33",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "[3-[2-[ethyl(methyl)amino]ethyl]-1H-indol-4-yl] acetate",
+  "synonyms_pubchem": [
+    "4-Acetoxyethylmethyltryptamine",
+    "Metacetin",
+    "4-Acetoxy-MET",
+    "4-Aco-Met",
+    "4-Acetoxy-N-methyl-N-ethyltryptamine",
+    "PCJ17NV1P0",
+    "UNII-PCJ17NV1P0",
+    "3-(2-(Ethyl(methyl)amino)ethyl)-1H-indol-4-yl acetate",
+    "1H-Indol-4-ol, 3-(2-(ethylmethylamino)ethyl)-, 4-acetate",
+    "1H-Indol-4-ol, 3-[2-(ethylmethylamino)ethyl]-, 4-acetate",
+    "RefChem:97614",
+    "1445751-40-5",
+    "[3-[2-[ethyl(methyl)amino]ethyl]-1H-indol-4-yl] acetate",
+    "4-Acetoxy-N-ethyl-N-methyltryptamine",
+    "3-[2-(Ethylmethylamino)ethyl]-1H-Indol-4-ol 4-Acetate; 4-AcO-MET ;",
+    "4-Aco-Met hemifumarate",
+    "SCHEMBL20970924",
+    "SCHEMBL29633170",
+    "DTXSID301029955",
+    "VHC75140",
+    "EN-0013",
+    "PD044872",
+    "NS00018208",
+    "Q16154986"
+  ]
 }

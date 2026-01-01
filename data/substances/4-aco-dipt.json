@@ -2,11 +2,39 @@
   "id": "4-aco-dipt",
   "common_name": "4-AcO-DIPT",
   "systematic name": "[3-[2-[di(propan-2-yl)amino]ethyl]-1H-indol-4-yl] acetate",
-  "aliases": [],
+  "aliases": [
+    "4-Acetoxy-DiPT",
+    "XV36ISE3YQ",
+    "N,N-Diisopropyl-4-acetoxytryptamine",
+    "DTXSID30239482",
+    "3-(2-(BIS(1-METHYLETHYL)AMINO)ETHYL)-1H-INDOL-4-YL ACETATE",
+    "RefChem:1066470",
+    "DTXCID50161973",
+    "4-ACETOXY-N,N-DIISOPROPYLTRYPTAMINE",
+    "4-AcO-DIPT",
+    "UNII-XV36ISE3YQ",
+    "[3-[2-[di(propan-2-yl)amino]ethyl]-1H-indol-4-yl] acetate",
+    "3-(2-(Diisopropylamino)ethyl)-1H-indol-4-yl acetate",
+    "3-{2-[bis(propan-2-yl)amino]ethyl}-1H-indol-4-yl acetate",
+    "4-acetoxy DIPT",
+    "IPRACETIN",
+    "SCHEMBL4210376",
+    "SCHEMBL29403199",
+    "CHEBI:191025",
+    "ZPAOVGZYDSXCPK-UHFFFAOYSA-N",
+    "AKOS022182911",
+    "EN-0014",
+    "PD047607",
+    "NS00017735",
+    "Q3491199",
+    "1H-INDOL-4-OL, 3-(2-(BIS(1-METHYLETHYL)AMINO)ETHYL)-, 4-ACETATE"
+  ],
   "identifiers": {
     "pubchem_cid": "24801868",
     "inchi_key": "ZPAOVGZYDSXCPK-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "ZPAOVGZYDSXCPK-UHFFFAOYSA-N",
+    "pubchemCID": "24801868"
   },
   "categories": [],
   "legal": {
@@ -33,5 +61,41 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/24801868"
+  ],
+  "molecular_formula": "C18H26N2O2",
+  "molecular_weight": "302.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "[3-[2-[di(propan-2-yl)amino]ethyl]-1H-indol-4-yl] acetate",
+  "synonyms_pubchem": [
+    "936015-60-0",
+    "4-Acetoxy-DiPT",
+    "XV36ISE3YQ",
+    "N,N-Diisopropyl-4-acetoxytryptamine",
+    "DTXSID30239482",
+    "3-(2-(BIS(1-METHYLETHYL)AMINO)ETHYL)-1H-INDOL-4-YL ACETATE",
+    "RefChem:1066470",
+    "DTXCID50161973",
+    "4-ACETOXY-N,N-DIISOPROPYLTRYPTAMINE",
+    "4-AcO-DIPT",
+    "UNII-XV36ISE3YQ",
+    "[3-[2-[di(propan-2-yl)amino]ethyl]-1H-indol-4-yl] acetate",
+    "3-(2-(Diisopropylamino)ethyl)-1H-indol-4-yl acetate",
+    "3-{2-[bis(propan-2-yl)amino]ethyl}-1H-indol-4-yl acetate",
+    "4-acetoxy DIPT",
+    "IPRACETIN",
+    "SCHEMBL4210376",
+    "SCHEMBL29403199",
+    "CHEBI:191025",
+    "ZPAOVGZYDSXCPK-UHFFFAOYSA-N",
+    "AKOS022182911",
+    "EN-0014",
+    "PD047607",
+    "NS00017735",
+    "Q3491199",
+    "1H-INDOL-4-OL, 3-(2-(BIS(1-METHYLETHYL)AMINO)ETHYL)-, 4-ACETATE"
+  ]
 }

@@ -1,12 +1,24 @@
 {
   "id": "adb-binaca",
   "common_name": "ADB-BINACA",
-  "systematic name": "N-(1-amineo-3,3-jimechiru-1 -okisobutan-2-iru)-1-ben jiru-1H-indazo-ru-3-karubo kisamido",
-  "aliases": [],
+  "systematic name": "N-[(2S)-1-amino-3,3-dimethyl-1-oxobutan-2-yl]-1-benzylindazole-3-carboxamide",
+  "aliases": [
+    "PUVP61SOSI",
+    "Adb-binaca",
+    "UNII-PUVP61SOSI",
+    "1-Benzyl-N-(1-carbamoyl-2,2-dimethyl-propyl)indazole-3-carboxamide",
+    "N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-benzyl-1h-indazole-3-carboxamide",
+    "RefChem:161428",
+    "(S)-ADB-BINACA-d5",
+    "SCHEMBL30445619",
+    "DTXSID801342360"
+  ],
   "identifiers": {
     "pubchem_cid": "129406620",
     "inchi_key": "IUFIUAWRCUVUCQ-GOSISDBHSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "IUFIUAWRCUVUCQ-GOSISDBHSA-N",
+    "pubchemCID": "129406620"
   },
   "categories": [],
   "legal": {
@@ -33,5 +45,26 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/129406620"
+  ],
+  "molecular_formula": "C21H24N4O2",
+  "molecular_weight": "364.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-[(2S)-1-amino-3,3-dimethyl-1-oxobutan-2-yl]-1-benzylindazole-3-carboxamide",
+  "synonyms_pubchem": [
+    "PUVP61SOSI",
+    "Adb-binaca",
+    "UNII-PUVP61SOSI",
+    "1-Benzyl-N-(1-carbamoyl-2,2-dimethyl-propyl)indazole-3-carboxamide",
+    "1185282-27-2",
+    "1H-Indazole-3-carboxamide, N-((1S)-1-(aminocarbonyl)-2,2-dimethylpropyl)-1-(phenylmethyl)-",
+    "N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-benzyl-1h-indazole-3-carboxamide",
+    "RefChem:161428",
+    "(S)-ADB-BINACA-d5",
+    "SCHEMBL30445619",
+    "DTXSID801342360"
+  ]
 }

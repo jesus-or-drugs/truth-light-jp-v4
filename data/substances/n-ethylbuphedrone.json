@@ -1,14 +1,32 @@
 {
   "id": "n-ethylbuphedrone",
   "common_name": "N-Ethylbuphedrone",
-  "systematic name": "2-(echiruamineo)-1-phenylbutan -1-on",
+  "systematic name": "2-(ethylamino)-1-phenylbutan-1-one",
   "aliases": [
-    "NEB"
+    "N-Ethylbuphedrone",
+    "2-(ethylamino)-1-phenylbutan-1-one",
+    "2-(Ethylamino)-1-phenyl-1-butanone",
+    "VUF6VC063Q",
+    "UNII-VUF6VC063Q",
+    "1-Butanone, 2-(ethylamino)-1-phenyl-",
+    "DTXSID30605441",
+    "RefChem:163338",
+    "DTXCID40865695",
+    "HEPVRDHGUWFXJS-UHFFFAOYSA-N",
+    "NEB",
+    "N-Ethylbuphedrone (hydrochloride)",
+    "N-Ethylbuphedrone Hydrochloride",
+    "EEC63128",
+    "a-Ethylaminobutyrophenone hydrochloride",
+    "NS00015486",
+    "Q6951363"
   ],
   "identifiers": {
     "pubchem_cid": "20326296",
     "inchi_key": "HEPVRDHGUWFXJS-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "HEPVRDHGUWFXJS-UHFFFAOYSA-N",
+    "pubchemCID": "20326296"
   },
   "categories": [],
   "legal": {
@@ -35,5 +53,34 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/20326296"
+  ],
+  "molecular_formula": "C12H17NO",
+  "molecular_weight": "191.27",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(ethylamino)-1-phenylbutan-1-one",
+  "synonyms_pubchem": [
+    "N-Ethylbuphedrone",
+    "2-(ethylamino)-1-phenylbutan-1-one",
+    "2-(Ethylamino)-1-phenyl-1-butanone",
+    "VUF6VC063Q",
+    "UNII-VUF6VC063Q",
+    "1-Butanone, 2-(ethylamino)-1-phenyl-",
+    "DTXSID30605441",
+    "RefChem:163338",
+    "DTXCID40865695",
+    "HEPVRDHGUWFXJS-UHFFFAOYSA-N",
+    "1354631-28-9",
+    "NEB",
+    "N-Ethylbuphedrone (hydrochloride)",
+    "N-Ethylbuphedrone Hydrochloride",
+    "EEC63128",
+    "a-Ethylaminobutyrophenone hydrochloride",
+    "NS00015486",
+    "Q6951363",
+    "2-(Ethylamino)-1-phenyl-1-butanone; 1-Butanone, 2-(ethylamino)-1-phenyl-; 2-(Ethylamino)-1-phenyl-1-butanone; NEB; N-Ethylbuphedrone; a-Ethylaminobutyrophenone"
+  ]
 }

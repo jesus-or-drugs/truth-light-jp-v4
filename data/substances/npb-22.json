@@ -1,12 +1,31 @@
 {
   "id": "npb-22",
   "common_name": "NPB-22",
-  "systematic name": "kinorin-8-iru=1-penchiru-1 H-indazo-ru-3-karubokishira- to",
-  "aliases": [],
+  "systematic name": "quinolin-8-yl 1-pentylindazole-3-carboxylate",
+  "aliases": [
+    "NPB-22",
+    "8-Quinolyl 1-pentylindazole-3-carboxylate",
+    "PL0HW7PA81",
+    "UNII-PL0HW7PA81",
+    "1-Pentyl-1H-indazole-3-carboxylic acid, 8-quinolinyl ester",
+    "1H-Indazole-3-carboxylic acid, 1-pentyl-, 8-quinolinyl ester",
+    "RefChem:202324",
+    "NPB22",
+    "quinolin-8-yl 1-pentylindazole-3-carboxylate",
+    "8-quinolinyl 1-pentyl-1h-indazole-3-carboxylate",
+    "SCHEMBL30641115",
+    "DTXSID601043089",
+    "VHC57961",
+    "MFCD30718233",
+    "NS00017666",
+    "Q27286602"
+  ],
   "identifiers": {
     "pubchem_cid": "118796435",
     "inchi_key": "UWICFJAXLKCHTQ-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "UWICFJAXLKCHTQ-UHFFFAOYSA-N",
+    "pubchemCID": "118796435"
   },
   "categories": [],
   "legal": {
@@ -33,5 +52,32 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/118796435"
+  ],
+  "molecular_formula": "C22H21N3O2",
+  "molecular_weight": "359.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "quinolin-8-yl 1-pentylindazole-3-carboxylate",
+  "synonyms_pubchem": [
+    "NPB-22",
+    "1445579-61-2",
+    "8-Quinolyl 1-pentylindazole-3-carboxylate",
+    "PL0HW7PA81",
+    "UNII-PL0HW7PA81",
+    "1-Pentyl-1H-indazole-3-carboxylic acid, 8-quinolinyl ester",
+    "1H-Indazole-3-carboxylic acid, 1-pentyl-, 8-quinolinyl ester",
+    "RefChem:202324",
+    "NPB22",
+    "quinolin-8-yl 1-pentylindazole-3-carboxylate",
+    "8-quinolinyl 1-pentyl-1h-indazole-3-carboxylate",
+    "SCHEMBL30641115",
+    "DTXSID601043089",
+    "VHC57961",
+    "MFCD30718233",
+    "NS00017666",
+    "Q27286602"
+  ]
 }

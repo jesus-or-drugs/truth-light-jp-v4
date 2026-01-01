@@ -1,12 +1,31 @@
 {
   "id": "fub-npb-22",
   "common_name": "FUB-NPB-22",
-  "systematic name": "kinorin-8-iru=1-(4-furuoro benzylu)-1H-indazo-ru-3- karubokishira-to",
-  "aliases": [],
+  "systematic name": "quinolin-8-yl 1-[(4-fluorophenyl)methyl]indazole-3-carboxylate",
+  "aliases": [
+    "FUB-NPB-22",
+    "5-Fluoro nin",
+    "2DC7C24RQX",
+    "quinolin-8-yl 1-(4-fluorobenzyl)-1h-indazole-3-carboxylate",
+    "8-Quinolyl 1-((4-fluorophenyl)methyl)indazole-3-carboxylate",
+    "1H-Indazole-3-carboxylic acid, 1-((4-fluorophenyl)methyl)-, 8-quinolinyl ester",
+    "8-quinolyl 1-[(4-fluorophenyl)methyl]indazole-3-carboxylate",
+    "RefChem:201014",
+    "UNII-2DC7C24RQX",
+    "quinolin-8-yl1-(4-fluorobenzyl)-1H-indazole-3-carboxylate",
+    "SCHEMBL30641107",
+    "C24H16FN3O2",
+    "DTXSID101342133",
+    "HY-W769938",
+    "NS00017367",
+    "quinolin-8-yl 1-[(4-fluorophenyl)methyl]indazole-3-carboxylate"
+  ],
   "identifiers": {
     "pubchem_cid": "125181354",
     "inchi_key": "NYHGKZZRRCVGAU-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "NYHGKZZRRCVGAU-UHFFFAOYSA-N",
+    "pubchemCID": "125181354"
   },
   "categories": [],
   "legal": {
@@ -33,5 +52,32 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/125181354"
+  ],
+  "molecular_formula": "C24H16FN3O2",
+  "molecular_weight": "397.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "quinolin-8-yl 1-[(4-fluorophenyl)methyl]indazole-3-carboxylate",
+  "synonyms_pubchem": [
+    "FUB-NPB-22",
+    "5-Fluoro nin",
+    "2244864-90-0",
+    "2DC7C24RQX",
+    "quinolin-8-yl 1-(4-fluorobenzyl)-1h-indazole-3-carboxylate",
+    "8-Quinolyl 1-((4-fluorophenyl)methyl)indazole-3-carboxylate",
+    "1H-Indazole-3-carboxylic acid, 1-((4-fluorophenyl)methyl)-, 8-quinolinyl ester",
+    "8-quinolyl 1-[(4-fluorophenyl)methyl]indazole-3-carboxylate",
+    "RefChem:201014",
+    "UNII-2DC7C24RQX",
+    "quinolin-8-yl1-(4-fluorobenzyl)-1H-indazole-3-carboxylate",
+    "SCHEMBL30641107",
+    "C24H16FN3O2",
+    "DTXSID101342133",
+    "HY-W769938",
+    "NS00017367",
+    "quinolin-8-yl 1-[(4-fluorophenyl)methyl]indazole-3-carboxylate"
+  ]
 }

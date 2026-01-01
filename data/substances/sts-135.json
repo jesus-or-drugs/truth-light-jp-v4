@@ -3,12 +3,40 @@
   "common_name": "STS-135",
   "systematic name": "N-(1-adamantyl)-1-(5-fluoropentyl)indole-3-carboxamide",
   "aliases": [
-    "APICA N-(5-fluoropentyl) 誘導体"
+    "STS-135",
+    "E6917946XH",
+    "1-(5-Fluoropentyl)-N-tricyclo[3.3.1.13,7]dec-1-yl-1H-indole-3-carboxamide",
+    "J3.369.667A",
+    "1-(5-Fluoropentyl)-N-tricyclo(3.3.1.13,7)dec-1-yl-1H-indole-3-carboxamide",
+    "RefChem:907405",
+    "N-(Adamantan-1-yl)-1-(5-fluoropentyl)-1H-indole-3-carboxamide",
+    "UNII-E6917946XH",
+    "STS 135",
+    "N-((3s,5s,7s)-adamantan-1-yl)-1-(5-fluoropentyl)-1H-indole-3-carboxamide",
+    "N-(1-adamantyl)-1-(5-fluoropentyl)indole-3-carboxamide",
+    "5F-APICA",
+    "1-(5-FLUOROPENTYL)-N-(ADAMANTAN-1-YL)-1H-INDOLE-3-CARBOXAMIDE",
+    "SCHEMBL17309664",
+    "DTXSID40725427",
+    "CHEBI:186830",
+    "MFCD22628888",
+    "AKOS025402631",
+    "N-(ADAMANTANE-1-YL)-1-(5-FLUOROPENTYL)-1H-INDOLE-3-CARBOXAMIDE",
+    "FF99918",
+    "PD133243",
+    "DS-017609",
+    "NS00017341",
+    "N-(1-adamantyl)-1-(5-luoropentyl)indole-3-carboxamide",
+    "N-(tricyclo[3.3.1.13.7]dec-1-yl)-1h-indole-3-carboxamide",
+    "1-(5-Fluoropentyl)-N-tricyclo[3.3.1.1(3,7)]dec-1-yl-1H-indole-3-carboxamide",
+    "1H-INDOLE-3-CARBOXAMIDE, 1-(5-FLUOROPENTYL)-N-TRICYCLE(3.3.1.1SUP(3,7))DEC-1-YL-"
   ],
   "identifiers": {
     "pubchem_cid": "57404059",
     "inchi_key": "COYHGVCHRRXECF-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "COYHGVCHRRXECF-UHFFFAOYSA-N",
+    "pubchemCID": "57404059"
   },
   "categories": [],
   "legal": {
@@ -35,5 +63,44 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/57404059"
+  ],
+  "molecular_formula": "C24H31FN2O",
+  "molecular_weight": "382.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-(1-adamantyl)-1-(5-fluoropentyl)indole-3-carboxamide",
+  "synonyms_pubchem": [
+    "1354631-26-7",
+    "STS-135",
+    "E6917946XH",
+    "1-(5-Fluoropentyl)-N-tricyclo[3.3.1.13,7]dec-1-yl-1H-indole-3-carboxamide",
+    "J3.369.667A",
+    "1-(5-Fluoropentyl)-N-tricyclo(3.3.1.13,7)dec-1-yl-1H-indole-3-carboxamide",
+    "RefChem:907405",
+    "N-(Adamantan-1-yl)-1-(5-fluoropentyl)-1H-indole-3-carboxamide",
+    "UNII-E6917946XH",
+    "STS 135",
+    "N-((3s,5s,7s)-adamantan-1-yl)-1-(5-fluoropentyl)-1H-indole-3-carboxamide",
+    "N-(1-adamantyl)-1-(5-fluoropentyl)indole-3-carboxamide",
+    "5F-APICA",
+    "1-(5-FLUOROPENTYL)-N-(ADAMANTAN-1-YL)-1H-INDOLE-3-CARBOXAMIDE",
+    "SCHEMBL17309664",
+    "DTXSID40725427",
+    "CHEBI:186830",
+    "MFCD22628888",
+    "AKOS025402631",
+    "N-(ADAMANTANE-1-YL)-1-(5-FLUOROPENTYL)-1H-INDOLE-3-CARBOXAMIDE",
+    "FF99918",
+    "PD133243",
+    "DS-017609",
+    "NS00017341",
+    "N-(1-adamantyl)-1-(5-luoropentyl)indole-3-carboxamide",
+    "N-(tricyclo[3.3.1.13.7]dec-1-yl)-1h-indole-3-carboxamide",
+    "1-(5-Fluoropentyl)-N-tricyclo[3.3.1.1(3,7)]dec-1-yl-1H-indole-3-carboxamide",
+    "1H-INDOLE-3-CARBOXAMIDE, 1-(5-FLUOROPENTYL)-N-TRICYCLE(3.3.1.1SUP(3,7))DEC-1-YL-",
+    "1H-Indole-3-carboxamide, 1-(5-fluoropentyl)-N-tricyclo[3.3.1.1(3),7]dec-1-yl-; 1-(5-Fluoropentyl)-N-tricyclo[3.3.1.1(3),7]dec-1-yl-1H-indole-3-carboxamide; STS 135; STS-135; 5F-2NE1; N-(Adamantan-1-yl)-1-(5-fluoropentyl)-1H-indol-3-carboxamide"
+  ]
 }

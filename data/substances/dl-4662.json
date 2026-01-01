@@ -1,12 +1,29 @@
 {
   "id": "dl-4662",
   "common_name": "DL-4662",
-  "systematic name": "1-(3,4-jimethoxyphenyl)-2- (echiruamineo)pentan-1-on及び その salts",
-  "aliases": [],
+  "systematic name": "1-(3,4-dimethoxyphenyl)-2-(ethylamino)pentan-1-one",
+  "aliases": [
+    "DL-4662",
+    "I3ZOW60ONL",
+    "1-(3,4-Dimethoxyphenyl)-2-(ethylamino)pentan-1-one",
+    "UNII-I3ZOW60ONL",
+    "J3.314.550K",
+    "3',4'-Dimethoxy-alpha-(ethylamino)valerophenone",
+    "DL 4662",
+    "1-Pentanone, 1-(3,4-dimethoxyphenyl)-2-(ethylamino)-",
+    "RefChem:200701",
+    "DL-4662 (hydrochloride)",
+    "DTXSID101342052",
+    "AKOS040751614",
+    "NS00018394",
+    "Q27280369"
+  ],
   "identifiers": {
     "pubchem_cid": "102144588",
     "inchi_key": "WZVCLFAACAERMB-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "WZVCLFAACAERMB-UHFFFAOYSA-N",
+    "pubchemCID": "102144588"
   },
   "categories": [],
   "legal": {
@@ -33,5 +50,30 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/102144588"
+  ],
+  "molecular_formula": "C15H23NO3",
+  "molecular_weight": "265.35",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(3,4-dimethoxyphenyl)-2-(ethylamino)pentan-1-one",
+  "synonyms_pubchem": [
+    "DL-4662",
+    "I3ZOW60ONL",
+    "1-(3,4-Dimethoxyphenyl)-2-(ethylamino)pentan-1-one",
+    "UNII-I3ZOW60ONL",
+    "J3.314.550K",
+    "1674389-55-9",
+    "3',4'-Dimethoxy-alpha-(ethylamino)valerophenone",
+    "DL 4662",
+    "1-Pentanone, 1-(3,4-dimethoxyphenyl)-2-(ethylamino)-",
+    "RefChem:200701",
+    "DL-4662 (hydrochloride)",
+    "DTXSID101342052",
+    "AKOS040751614",
+    "NS00018394",
+    "Q27280369"
+  ]
 }

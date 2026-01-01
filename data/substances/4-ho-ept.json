@@ -1,12 +1,27 @@
 {
   "id": "4-ho-ept",
   "common_name": "4-HO-EPT",
-  "systematic name": "N-echiru-4-hidorokishi-N-puro pirutoriputamine",
-  "aliases": [],
+  "systematic name": "3-[2-[ethyl(propyl)amino]ethyl]-1H-indol-4-ol",
+  "aliases": [
+    "4-HO-EPT",
+    "4-hydroxy-N-ethyl-N-propyltryptamine",
+    "Y3J8M5UX6G",
+    "1H-Indol-4-ol, 3-(2-(ethylpropylamino)ethyl)-",
+    "3-(2-(Ethyl(propyl)amino)ethyl)-1H-indol-4-ol",
+    "RefChem:99112",
+    "UNII-Y3J8M5UX6G",
+    "SCHEMBL22027186",
+    "SCHEMBL29403583",
+    "DTXSID801336292",
+    "EN-0011",
+    "PD150717"
+  ],
   "identifiers": {
     "pubchem_cid": "138454310",
     "inchi_key": "JQELEPKHBXEAHR-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "JQELEPKHBXEAHR-UHFFFAOYSA-N",
+    "pubchemCID": "138454310"
   },
   "categories": [],
   "legal": {
@@ -33,5 +48,28 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/138454310"
+  ],
+  "molecular_formula": "C15H22N2O",
+  "molecular_weight": "246.35",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "3-[2-[ethyl(propyl)amino]ethyl]-1H-indol-4-ol",
+  "synonyms_pubchem": [
+    "4-HO-EPT",
+    "4-hydroxy-N-ethyl-N-propyltryptamine",
+    "Y3J8M5UX6G",
+    "1H-Indol-4-ol, 3-(2-(ethylpropylamino)ethyl)-",
+    "3-(2-(Ethyl(propyl)amino)ethyl)-1H-indol-4-ol",
+    "2595431-59-5",
+    "RefChem:99112",
+    "UNII-Y3J8M5UX6G",
+    "SCHEMBL22027186",
+    "SCHEMBL29403583",
+    "DTXSID801336292",
+    "EN-0011",
+    "PD150717"
+  ]
 }

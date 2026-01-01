@@ -1,12 +1,26 @@
 {
   "id": "amb",
   "common_name": "AMB",
-  "systematic name": "mechiru=3-mechiru-2-(1-penchi ru-1H-indazo-ru-3-karuboki samido)butanoa-to",
-  "aliases": [],
+  "systematic name": "methyl 3-methyl-2-[(1-pentylindazole-3-carbonyl)amino]butanoate",
+  "aliases": [
+    "P5PZX56UCW",
+    "UNII-P5PZX56UCW",
+    "Methyl N-((1-pentyl-1H-indazol-3-yl)carbonyl)-DL-valinate",
+    "RefChem:199538",
+    "Amb, (+-)-",
+    "Amb, (+/-)-",
+    "Valine, N-((1-pentyl-1H-indazol-3-yl)carbonyl)-, methyl ester",
+    "Methyl 3-methyl-2-(((1-pentyl-1H-indazol-3-yl)carbonyl)amino)butanoate",
+    "QAD25013",
+    "NS00017556",
+    "Q27286247"
+  ],
   "identifiers": {
     "pubchem_cid": "119058053",
     "inchi_key": "KTTMFFHXDMTTOB-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "KTTMFFHXDMTTOB-UHFFFAOYSA-N",
+    "pubchemCID": "119058053"
   },
   "categories": [],
   "legal": {
@@ -33,5 +47,27 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/119058053"
+  ],
+  "molecular_formula": "C19H27N3O3",
+  "molecular_weight": "345.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "methyl 3-methyl-2-[(1-pentylindazole-3-carbonyl)amino]butanoate",
+  "synonyms_pubchem": [
+    "P5PZX56UCW",
+    "UNII-P5PZX56UCW",
+    "Methyl N-((1-pentyl-1H-indazol-3-yl)carbonyl)-DL-valinate",
+    "RefChem:199538",
+    "Amb, (+-)-",
+    "Amb, (+/-)-",
+    "Valine, N-((1-pentyl-1H-indazol-3-yl)carbonyl)-, methyl ester",
+    "Methyl 3-methyl-2-(((1-pentyl-1H-indazol-3-yl)carbonyl)amino)butanoate",
+    "1863066-06-1",
+    "QAD25013",
+    "NS00017556",
+    "Q27286247"
+  ]
 }

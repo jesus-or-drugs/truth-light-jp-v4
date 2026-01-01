@@ -1,12 +1,33 @@
 {
   "id": "25i-nboh",
   "common_name": "25I-NBOH",
-  "systematic name": "2-[(4-yo-do-2,5-jimethoxy fenechiruamineo)mechiru]feno-ru及 びその salts",
-  "aliases": [],
+  "systematic name": "2-[[2-(4-iodo-2,5-dimethoxyphenyl)ethylamino]methyl]phenol",
+  "aliases": [
+    "25I-NBOH",
+    "W9G4BGW8K4",
+    "DTXSID80433993",
+    "2-({[2-(4-iodo-2,5-dimethoxyphenyl)ethyl]amino}methyl)phenol",
+    "2-(((2-(4-Iodo-2,5-dimethoxyphenyl)ethyl)amino)methyl)phenol",
+    "RefChem:1060426",
+    "DTXCID30384820",
+    "NBOH-2CI",
+    "Cimbi-27",
+    "UNII-W9G4BGW8K4",
+    "2-[[2-(4-iodo-2,5-dimethoxyphenyl)ethylamino]methyl]phenol",
+    "2-((2-(4-Iodo-2,5-dimethoxyphenyl)ethylamino)methyl)phenol",
+    "Phenol, 2-[[[2-(4-iodo-2,5-dimethoxyphenyl)ethyl]amino]methyl]-",
+    "SCHEMBL20970942",
+    "SCHEMBL29462323",
+    "SCHEMBL29633160",
+    "NS00017583",
+    "Q4632139"
+  ],
   "identifiers": {
     "pubchem_cid": "10001761",
     "inchi_key": "FEUZHYRXGQTBRO-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "FEUZHYRXGQTBRO-UHFFFAOYSA-N",
+    "pubchemCID": "10001761"
   },
   "categories": [],
   "legal": {
@@ -33,5 +54,34 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/10001761"
+  ],
+  "molecular_formula": "C17H20INO3",
+  "molecular_weight": "413.25",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-[[2-(4-iodo-2,5-dimethoxyphenyl)ethylamino]methyl]phenol",
+  "synonyms_pubchem": [
+    "25I-NBOH",
+    "919797-20-9",
+    "W9G4BGW8K4",
+    "DTXSID80433993",
+    "2-({[2-(4-iodo-2,5-dimethoxyphenyl)ethyl]amino}methyl)phenol",
+    "2-(((2-(4-Iodo-2,5-dimethoxyphenyl)ethyl)amino)methyl)phenol",
+    "RefChem:1060426",
+    "DTXCID30384820",
+    "NBOH-2CI",
+    "Cimbi-27",
+    "UNII-W9G4BGW8K4",
+    "2-[[2-(4-iodo-2,5-dimethoxyphenyl)ethylamino]methyl]phenol",
+    "2-((2-(4-Iodo-2,5-dimethoxyphenyl)ethylamino)methyl)phenol",
+    "Phenol, 2-[[[2-(4-iodo-2,5-dimethoxyphenyl)ethyl]amino]methyl]-",
+    "SCHEMBL20970942",
+    "SCHEMBL29462323",
+    "SCHEMBL29633160",
+    "NS00017583",
+    "Q4632139"
+  ]
 }

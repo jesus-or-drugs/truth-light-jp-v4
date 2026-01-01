@@ -1,14 +1,39 @@
 {
   "id": "nne1",
   "common_name": "NNE1",
-  "systematic name": "N-(nafutaren-1-iru)-1-pen chiru-1H-indo-ru-3-karuboki samido",
+  "systematic name": "N-naphthalen-1-yl-1-pentylindole-3-carboxamide",
   "aliases": [
-    "MN-24"
+    "N-(Naphthalen-1-yl)-1-pentyl-1H-indole-3-carboxamide",
+    "DTXSID50716467",
+    "RefChem:1091443",
+    "DTXCID00667213",
+    "NNEI",
+    "NNE1",
+    "1-PENTYL-N-(NAPHTHALEN-1-YL)-1H-INDOLE-3-CARBOXAMIDE",
+    "MN-24",
+    "N-1-naphthalenyl-1-pentyl-1h-indole-3-carboxamide",
+    "AM-6527",
+    "7FVT9P642K",
+    "MFCD26406711",
+    "N-naphthalen-1-yl-1-pentylindole-3-carboxamide",
+    "UNII-7FVT9P642K",
+    "CHEMBL1828805",
+    "1H-Indole-3-carboxamide, N-1-naphthalenyl-1-pentyl-",
+    "SCHEMBL29362081",
+    "BDBM50353746",
+    "AKOS022172961",
+    "AS-30766",
+    "NS00017624",
+    "N-(1-naphthyl)-1-pentyl-indole-3-carboxamide",
+    "Q20707173",
+    "NNEI - N-1-naphthalenyl-1-pentyl-1H-indole-3-carboxamide 20 NCE"
   ],
   "identifiers": {
     "pubchem_cid": "54752945",
     "inchi_key": "GWCQNKRMTGVYIZ-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "GWCQNKRMTGVYIZ-UHFFFAOYSA-N",
+    "pubchemCID": "54752945"
   },
   "categories": [],
   "legal": {
@@ -35,5 +60,41 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/54752945"
+  ],
+  "molecular_formula": "C24H24N2O",
+  "molecular_weight": "356.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-naphthalen-1-yl-1-pentylindole-3-carboxamide",
+  "synonyms_pubchem": [
+    "N-(Naphthalen-1-yl)-1-pentyl-1H-indole-3-carboxamide",
+    "DTXSID50716467",
+    "RefChem:1091443",
+    "DTXCID00667213",
+    "1338925-11-3",
+    "NNEI",
+    "NNE1",
+    "1-PENTYL-N-(NAPHTHALEN-1-YL)-1H-INDOLE-3-CARBOXAMIDE",
+    "MN-24",
+    "N-1-naphthalenyl-1-pentyl-1h-indole-3-carboxamide",
+    "AM-6527",
+    "7FVT9P642K",
+    "MFCD26406711",
+    "N-naphthalen-1-yl-1-pentylindole-3-carboxamide",
+    "UNII-7FVT9P642K",
+    "CHEMBL1828805",
+    "1H-Indole-3-carboxamide, N-1-naphthalenyl-1-pentyl-",
+    "SCHEMBL29362081",
+    "BDBM50353746",
+    "AKOS022172961",
+    "AS-30766",
+    "NS00017624",
+    "N-(1-naphthyl)-1-pentyl-indole-3-carboxamide",
+    "Q20707173",
+    "NNEI - N-1-naphthalenyl-1-pentyl-1H-indole-3-carboxamide 20 NCE",
+    "1H-Indole-3-carboxamide, N-1-naphthalenyl-1-pentyl-; N-1-Naphthalenyl-1-pentyl-1H-indole-3-carboxamide"
+  ]
 }

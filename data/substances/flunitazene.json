@@ -1,14 +1,30 @@
 {
   "id": "flunitazene",
   "common_name": "Flunitazene",
-  "systematic name": "1-(2-jiechiruamineo)echiru-2- (4-furuorobenzylu)-5-nitorobe nzuimidazo-ru",
+  "systematic name": "N,N-diethyl-2-[2-[(4-fluorophenyl)methyl]-5-nitrobenzimidazol-1-yl]ethanamine",
   "aliases": [
-    "Fluonitazene"
+    "Flunitazene",
+    "LQS4YF6P6L",
+    "Benzimidazole, 1-(2-(diethylamino)ethyl)-2-(p-fluorobenzyl)-5-nitro-",
+    "1H-Benzimidazole-1-ethanamine, N,N-diethyl-2-((4-fluorophenyl)methyl)-5-nitro-",
+    "N,N-Diethyl-2-((4-fluorophenyl)methyl)-5-nitro-1H-benzimidazole-1-ethanamine",
+    "RefChem:200977",
+    "UNII-LQS4YF6P6L",
+    "Flunitazene (hydrochloride)",
+    "N,N-diethyl-2-(2-(4-fluorobenzyl)-5-nitro-1H-benzimidazol-1-yl)ethan-1-amine",
+    "fluonitazene",
+    "4-fluoro desethoxyetonitazene",
+    "CHEBI:234366",
+    "DTXSID401342106",
+    "N,N-diethyl-2-[2-(4-fluorobenzyl)-5-nitro-1H-benzimidazol-1-yl]ethanamine",
+    "N,N-diethyl-2-[2-[(4-fluorophenyl)methyl]-5-nitro-benzimidazol-1-yl]ethanamine"
   ],
   "identifiers": {
     "pubchem_cid": "156588967",
     "inchi_key": "ZTWHIDCAGRMKTC-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "ZTWHIDCAGRMKTC-UHFFFAOYSA-N",
+    "pubchemCID": "156588967"
   },
   "categories": [],
   "legal": {
@@ -35,5 +51,32 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/156588967"
+  ],
+  "molecular_formula": "C20H23FN4O2",
+  "molecular_weight": "370.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N,N-diethyl-2-[2-[(4-fluorophenyl)methyl]-5-nitrobenzimidazol-1-yl]ethanamine",
+  "synonyms_pubchem": [
+    "Flunitazene",
+    "LQS4YF6P6L",
+    "2249-36-7",
+    "Benzimidazole, 1-(2-(diethylamino)ethyl)-2-(p-fluorobenzyl)-5-nitro-",
+    "1H-Benzimidazole-1-ethanamine, N,N-diethyl-2-((4-fluorophenyl)methyl)-5-nitro-",
+    "N,N-Diethyl-2-((4-fluorophenyl)methyl)-5-nitro-1H-benzimidazole-1-ethanamine",
+    "RefChem:200977",
+    "UNII-LQS4YF6P6L",
+    "Flunitazene (hydrochloride)",
+    "N,N-diethyl-2-(2-(4-fluorobenzyl)-5-nitro-1H-benzimidazol-1-yl)ethan-1-amine",
+    "fluonitazene",
+    "4-fluoro desethoxyetonitazene",
+    "CHEBI:234366",
+    "DTXSID401342106",
+    "N,N-diethyl-2-[2-(4-fluorobenzyl)-5-nitro-1H-benzimidazol-1-yl]ethanamine",
+    "N,N-diethyl-2-[2-[(4-fluorophenyl)methyl]-5-nitro-benzimidazol-1-yl]ethanamine",
+    "N,N-diethyl-2-{2-[(4-fluorophenyl)methyl]-5-nitro-1H-benzimidazol-1-yl}ethan-1-amine"
+  ]
 }

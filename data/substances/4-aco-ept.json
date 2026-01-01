@@ -1,12 +1,26 @@
 {
   "id": "4-aco-ept",
   "common_name": "4-AcO-EPT",
-  "systematic name": "3-{2-[echiru(puropiru)amineo]echi ru}-1H-indo-ru-4-iru=a sete-to",
-  "aliases": [],
+  "systematic name": "[3-[2-[ethyl(propyl)amino]ethyl]-1H-indol-4-yl] acetate",
+  "aliases": [
+    "DTXSID001343207",
+    "3-(2-(Ethyl(propyl)amino)ethyl)-1H-indol-4-yl acetate",
+    "3-{2-[Ethyl(propyl)amino]ethyl}-1H-indol-4-yl acetate",
+    "RefChem:1066476",
+    "DTXCID901772136",
+    "4-acetoxy EPT",
+    "4-AcO-EPT",
+    "SCHEMBL20970947",
+    "SCHEMBL29633078",
+    "EN-0018",
+    "PD150751"
+  ],
   "identifiers": {
     "pubchem_cid": "138454311",
     "inchi_key": "VMFRFQVZMZGHOK-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "VMFRFQVZMZGHOK-UHFFFAOYSA-N",
+    "pubchemCID": "138454311"
   },
   "categories": [],
   "legal": {
@@ -33,5 +47,27 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/138454311"
+  ],
+  "molecular_formula": "C17H24N2O2",
+  "molecular_weight": "288.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "[3-[2-[ethyl(propyl)amino]ethyl]-1H-indol-4-yl] acetate",
+  "synonyms_pubchem": [
+    "DTXSID001343207",
+    "2750249-90-0",
+    "3-(2-(Ethyl(propyl)amino)ethyl)-1H-indol-4-yl acetate",
+    "3-{2-[Ethyl(propyl)amino]ethyl}-1H-indol-4-yl acetate",
+    "RefChem:1066476",
+    "DTXCID901772136",
+    "4-acetoxy EPT",
+    "4-AcO-EPT",
+    "SCHEMBL20970947",
+    "SCHEMBL29633078",
+    "EN-0018",
+    "PD150751"
+  ]
 }

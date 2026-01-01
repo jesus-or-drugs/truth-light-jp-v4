@@ -1,12 +1,36 @@
 {
   "id": "adbica",
   "common_name": "ADBICA",
-  "systematic name": "N-(1-amineo-3,3-jimechiru-1 -okisobutan-2-iru)-1-pen chiru-1H-indo-ru-3-karuboki samido",
-  "aliases": [],
+  "systematic name": "N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentylindole-3-carboxamide",
+  "aliases": [
+    "N-[1-(Aminocarbonyl)-2,2-dimethylpropyl]-1-pentyl-1H-indole-3-carboxamide",
+    "DTXSID801009996",
+    "N-(1-(Aminocarbonyl)-2,2-dimethylpropyl)-1-pentyl-1H-indole-3-carboxamide",
+    "RefChem:1090771",
+    "DTXCID101436419",
+    "ADBICA",
+    "ADB-PICA",
+    "N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentyl-1H-indole-3-carboxamide",
+    "UNII-Q71G788A6H",
+    "Q71G788A6H",
+    "N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentylindole-3-carboxamide",
+    "(+/-)-adbica",
+    "J3.293.457I",
+    "SCHEMBL17613435",
+    "ADBICA, (+/-)-",
+    "MFCD29039514",
+    "N-(1-TERT-BUTYL-2-AMINO-2-OXOETHYL)-1-PENTYL-1H-INDOLE-3-CARBOXAMIDE",
+    "NS00017409",
+    "Q15708301",
+    "N-(1-carbamoyl-2,2-dimethyl-propyl)-1-pentyl-indole-3-carboxamide",
+    "1H-INDOLE-3-CARBOXAMIDE, N-(1-(AMINOCARBONYL)-2,2-DIMETHYLPROPYL)-1-PENTYL-"
+  ],
   "identifiers": {
     "pubchem_cid": "72710773",
     "inchi_key": "IXUYMXAKKYWKRG-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "IXUYMXAKKYWKRG-UHFFFAOYSA-N",
+    "pubchemCID": "72710773"
   },
   "categories": [],
   "legal": {
@@ -33,5 +57,37 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/72710773"
+  ],
+  "molecular_formula": "C20H29N3O2",
+  "molecular_weight": "343.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentylindole-3-carboxamide",
+  "synonyms_pubchem": [
+    "1445583-48-1",
+    "N-[1-(Aminocarbonyl)-2,2-dimethylpropyl]-1-pentyl-1H-indole-3-carboxamide",
+    "DTXSID801009996",
+    "N-(1-(Aminocarbonyl)-2,2-dimethylpropyl)-1-pentyl-1H-indole-3-carboxamide",
+    "RefChem:1090771",
+    "DTXCID101436419",
+    "ADBICA",
+    "ADB-PICA",
+    "N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentyl-1H-indole-3-carboxamide",
+    "UNII-Q71G788A6H",
+    "Q71G788A6H",
+    "N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentylindole-3-carboxamide",
+    "(+/-)-adbica",
+    "J3.293.457I",
+    "SCHEMBL17613435",
+    "ADBICA, (+/-)-",
+    "MFCD29039514",
+    "N-(1-TERT-BUTYL-2-AMINO-2-OXOETHYL)-1-PENTYL-1H-INDOLE-3-CARBOXAMIDE",
+    "NS00017409",
+    "Q15708301",
+    "N-(1-carbamoyl-2,2-dimethyl-propyl)-1-pentyl-indole-3-carboxamide",
+    "1H-INDOLE-3-CARBOXAMIDE, N-(1-(AMINOCARBONYL)-2,2-DIMETHYLPROPYL)-1-PENTYL-"
+  ]
 }

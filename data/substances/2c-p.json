@@ -1,12 +1,38 @@
 {
   "id": "2c-p",
   "common_name": "2C-P",
-  "systematic name": "2-(2,5-jimethoxy-4-puropiru phenyl)etanamine",
-  "aliases": [],
+  "systematic name": "2-(2,5-dimethoxy-4-propylphenyl)ethanamine",
+  "aliases": [
+    "2,5-Dimethoxy-4-propylphenethylamine",
+    "RefChem:197426",
+    "2C-P",
+    "2-(2,5-Dimethoxy-4-propylphenyl)ethanamine",
+    "DPS1JI878J",
+    "Benzeneethanamine, 2,5-dimethoxy-4-propyl-",
+    "2CP",
+    "UNII-DPS1JI878J",
+    "2C P",
+    "2-(2,5-Dimethoxy-4-(n)-propylphenyl)ethanamine",
+    "CHEMBL339136",
+    "SCHEMBL2562751",
+    "DEA No. 7524",
+    "SCHEMBL29376427",
+    "DTXSID30174849",
+    "PZJOKFZGPTVNBF-UHFFFAOYSA-N",
+    "FD171569",
+    "PD046571",
+    "DB-226458",
+    "NS00017740",
+    "2,5-DIMETHOXY-4-PROPYLBENZENEETHANAMINE",
+    "2-(2,5-Dimethoxy-4-propyl-phenyl)-ethylamine",
+    "Q209262"
+  ],
   "identifiers": {
     "pubchem_cid": "44350080",
     "inchi_key": "PZJOKFZGPTVNBF-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "PZJOKFZGPTVNBF-UHFFFAOYSA-N",
+    "pubchemCID": "44350080"
   },
   "categories": [],
   "legal": {
@@ -33,5 +59,39 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/44350080"
+  ],
+  "molecular_formula": "C13H21NO2",
+  "molecular_weight": "223.31",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(2,5-dimethoxy-4-propylphenyl)ethanamine",
+  "synonyms_pubchem": [
+    "207740-22-5",
+    "2,5-Dimethoxy-4-propylphenethylamine",
+    "RefChem:197426",
+    "2C-P",
+    "2-(2,5-Dimethoxy-4-propylphenyl)ethanamine",
+    "DPS1JI878J",
+    "Benzeneethanamine, 2,5-dimethoxy-4-propyl-",
+    "2CP",
+    "UNII-DPS1JI878J",
+    "2C P",
+    "2-(2,5-Dimethoxy-4-(n)-propylphenyl)ethanamine",
+    "CHEMBL339136",
+    "SCHEMBL2562751",
+    "DEA No. 7524",
+    "SCHEMBL29376427",
+    "DTXSID30174849",
+    "PZJOKFZGPTVNBF-UHFFFAOYSA-N",
+    "FD171569",
+    "PD046571",
+    "DB-226458",
+    "NS00017740",
+    "2,5-DIMETHOXY-4-PROPYLBENZENEETHANAMINE",
+    "2-(2,5-Dimethoxy-4-propyl-phenyl)-ethylamine",
+    "Q209262"
+  ]
 }

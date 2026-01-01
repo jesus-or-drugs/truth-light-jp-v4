@@ -1,12 +1,31 @@
 {
   "id": "5-mapb",
   "common_name": "5-MAPB",
-  "systematic name": "1-(benzofuran-5-iru)-N-me chirupuropan-2-amine 類",
-  "aliases": [],
+  "systematic name": "1-(1-benzofuran-5-yl)-N-methylpropan-2-amine",
+  "aliases": [
+    "1-(benzofuran-5-yl)-N-Methylpropan-2-aMine",
+    "5-MAPB",
+    "XW34GUY2OY",
+    "UNII-XW34GUY2OY",
+    "1-(1-benzofuran-5-yl)-N-methylpropan-2-amine",
+    "5-(N-Methyl-2-aminopropyl)benzofuran",
+    "5-Benzofuranethanamine, N,alpha-dimethyl-",
+    "SCHEMBL22027380",
+    "SCHEMBL30401357",
+    "DTXSID801017189",
+    "AKOS028109813",
+    "PD047085",
+    "NS00017412",
+    "5-BENZOFURANETHANAMINE, N,.ALPHA.-DIMETHYL-",
+    "6-MAPB (N-methyl (6-(2-aminopropyl)benzofuran))",
+    "Q4639615"
+  ],
   "identifiers": {
     "pubchem_cid": "102336592",
     "inchi_key": "ZOVRTIPCNFERHY-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "ZOVRTIPCNFERHY-UHFFFAOYSA-N",
+    "pubchemCID": "102336592"
   },
   "categories": [],
   "legal": {
@@ -33,5 +52,32 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/102336592"
+  ],
+  "molecular_formula": "C12H15NO",
+  "molecular_weight": "189.25",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(1-benzofuran-5-yl)-N-methylpropan-2-amine",
+  "synonyms_pubchem": [
+    "1-(benzofuran-5-yl)-N-Methylpropan-2-aMine",
+    "1354631-77-8",
+    "5-MAPB",
+    "XW34GUY2OY",
+    "UNII-XW34GUY2OY",
+    "1-(1-benzofuran-5-yl)-N-methylpropan-2-amine",
+    "5-(N-Methyl-2-aminopropyl)benzofuran",
+    "5-Benzofuranethanamine, N,alpha-dimethyl-",
+    "SCHEMBL22027380",
+    "SCHEMBL30401357",
+    "DTXSID801017189",
+    "AKOS028109813",
+    "PD047085",
+    "NS00017412",
+    "5-BENZOFURANETHANAMINE, N,.ALPHA.-DIMETHYL-",
+    "6-MAPB (N-methyl (6-(2-aminopropyl)benzofuran))",
+    "Q4639615"
+  ]
 }

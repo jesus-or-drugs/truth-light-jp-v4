@@ -1,12 +1,24 @@
 {
   "id": "thj",
   "common_name": "THJ",
-  "systematic name": "1-penchiru-N-(kinorin-8-i ru)-1H-indazo-ru-3-karubo kisamido",
-  "aliases": [],
+  "systematic name": "1-pentyl-N-quinolin-8-ylindazole-3-carboxamide",
+  "aliases": [
+    "1-pentyl-N-(quinolin-8-yl)-1H-indazole-3-carboxamide",
+    "5G995N2CU3",
+    "THJ",
+    "1H-Indazole-3-carboxamide, 1-pentyl-N-8-quinolinyl-",
+    "UNII-5G995N2CU3",
+    "SCHEMBL29019180",
+    "DTXSID601342683",
+    "NS00017673",
+    "1-pentyl-N-(8-quinolyl)indazole-3-carboxamide"
+  ],
   "identifiers": {
     "pubchem_cid": "124519290",
     "inchi_key": "YAYIQXMTUCPLHG-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "YAYIQXMTUCPLHG-UHFFFAOYSA-N",
+    "pubchemCID": "124519290"
   },
   "categories": [],
   "legal": {
@@ -33,5 +45,25 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/124519290"
+  ],
+  "molecular_formula": "C22H22N4O",
+  "molecular_weight": "358.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-pentyl-N-quinolin-8-ylindazole-3-carboxamide",
+  "synonyms_pubchem": [
+    "1-pentyl-N-(quinolin-8-yl)-1H-indazole-3-carboxamide",
+    "2180931-94-4",
+    "5G995N2CU3",
+    "THJ",
+    "1H-Indazole-3-carboxamide, 1-pentyl-N-8-quinolinyl-",
+    "UNII-5G995N2CU3",
+    "SCHEMBL29019180",
+    "DTXSID601342683",
+    "NS00017673",
+    "1-pentyl-N-(8-quinolyl)indazole-3-carboxamide"
+  ]
 }

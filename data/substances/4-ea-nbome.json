@@ -1,12 +1,31 @@
 {
   "id": "4-ea-nbome",
   "common_name": "4-EA-NBOMe",
-  "systematic name": "1-(4-echiruphenyl)-N-(2-me tokishibenzylu)puropan-2-amine及 びその salts",
-  "aliases": [],
+  "systematic name": "1-(4-ethylphenyl)-N-[(2-methoxyphenyl)methyl]propan-2-amine",
+  "aliases": [
+    "RefChem:196953",
+    "1-(4-ethylphenyl-)-N-((2-methoxyphenyl)methyl) propane-2-amine",
+    "N-(ortho-methoxybenzyl)-4-ethylamphetamine",
+    "4-Ethylamphetamine-nbome",
+    "4-EA-NBOMe",
+    "4-Ea nbome",
+    "5EI642XE6U",
+    "SCHEMBL25395313",
+    "SCHEMBL31498049",
+    "DTXSID301337102",
+    "N-(2-methoxybenzyl)-4-ethylamphetamine",
+    "PD044783",
+    "NS00018219",
+    "1-(4-Ethylphenyl)-N-(2-methoxybenzyl)-2-propanamine",
+    "Q27261923",
+    "1-(4-Ethylphenyl)-N-((2-methoxyphenyl)methyl)propan-2-amine"
+  ],
   "identifiers": {
     "pubchem_cid": "132280994",
     "inchi_key": "WWWBFWRUWWKJIJ-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "WWWBFWRUWWKJIJ-UHFFFAOYSA-N",
+    "pubchemCID": "132280994"
   },
   "categories": [],
   "legal": {
@@ -33,5 +52,32 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/132280994"
+  ],
+  "molecular_formula": "C19H25NO",
+  "molecular_weight": "283.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(4-ethylphenyl)-N-[(2-methoxyphenyl)methyl]propan-2-amine",
+  "synonyms_pubchem": [
+    "RefChem:196953",
+    "1-(4-ethylphenyl-)-N-((2-methoxyphenyl)methyl) propane-2-amine",
+    "N-(ortho-methoxybenzyl)-4-ethylamphetamine",
+    "4-Ethylamphetamine-nbome",
+    "4-EA-NBOMe",
+    "4-Ea nbome",
+    "5EI642XE6U",
+    "SCHEMBL25395313",
+    "SCHEMBL31498049",
+    "DTXSID301337102",
+    "N-(2-methoxybenzyl)-4-ethylamphetamine",
+    "PD044783",
+    "NS00018219",
+    "1-(4-Ethylphenyl)-N-(2-methoxybenzyl)-2-propanamine",
+    "Q27261923",
+    "1-(4-Ethylphenyl)-N-((2-methoxyphenyl)methyl)propan-2-amine",
+    "2055108-04-6"
+  ]
 }

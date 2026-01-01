@@ -1,14 +1,45 @@
 {
   "id": "qupic",
   "common_name": "QUPIC",
-  "systematic name": "kinorin-8-iru=1-penchiru(1H -indo-ru)-3-karubokishira-to",
+  "systematic name": "quinolin-8-yl 1-pentylindole-3-carboxylate",
   "aliases": [
-    "PB-22"
+    "1-Pentyl-1H-indole-3-carboxylic acid 8-quinolinyl ester",
+    "QUPIC compound",
+    "RefChem:858748",
+    "Quinolin-8-yl 1-pentyl-1H-indole-3-carboxylate",
+    "PB-22",
+    "QUPIC",
+    "DEA No. 7222",
+    "UNII-QM6J8F29FE",
+    "QM6J8F29FE",
+    "PB 22",
+    "PB-22 solution",
+    "1H-Indole-3-carboxylic acid, 1-pentyl-, 8-quinolinyl ester",
+    "J3.283.188E",
+    "QUINOLIN-8-YL 1-PENTYLINDOLE-3-CARBOXYLATE",
+    "PB-22 [QUPIC]",
+    "PB-22 (CANNABINOID)",
+    "SCHEMBL16201696",
+    "SCHEMBL29355456",
+    "PB-22 (CRM)",
+    "DTXSID70856177",
+    "PB-22, 1mg/ml in Acetonitrile",
+    "PB-22, 0.1mg/ml in Acetonitrile",
+    "MFCD24386264",
+    "AKOS022172960",
+    "CS-1405",
+    "NCGC00390698-01",
+    "CP175130",
+    "HY-13712",
+    "DB-256029",
+    "NS00017914"
   ],
   "identifiers": {
     "pubchem_cid": "71604304",
     "inchi_key": "ZAVGICCEAOUWFM-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "ZAVGICCEAOUWFM-UHFFFAOYSA-N",
+    "pubchemCID": "71604304"
   },
   "categories": [],
   "legal": {
@@ -35,5 +66,48 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/71604304"
+  ],
+  "molecular_formula": "C23H22N2O2",
+  "molecular_weight": "358.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "quinolin-8-yl 1-pentylindole-3-carboxylate",
+  "synonyms_pubchem": [
+    "1-Pentyl-1H-indole-3-carboxylic acid 8-quinolinyl ester",
+    "QUPIC compound",
+    "RefChem:858748",
+    "1400742-17-7",
+    "Quinolin-8-yl 1-pentyl-1H-indole-3-carboxylate",
+    "PB-22",
+    "QUPIC",
+    "DEA No. 7222",
+    "UNII-QM6J8F29FE",
+    "QM6J8F29FE",
+    "PB 22",
+    "PB-22 solution",
+    "1H-Indole-3-carboxylic acid, 1-pentyl-, 8-quinolinyl ester",
+    "J3.283.188E",
+    "QUINOLIN-8-YL 1-PENTYLINDOLE-3-CARBOXYLATE",
+    "PB-22 [QUPIC]",
+    "PB-22 (CANNABINOID)",
+    "SCHEMBL16201696",
+    "SCHEMBL29355456",
+    "PB-22 (CRM)",
+    "DTXSID70856177",
+    "PB-22, 1mg/ml in Acetonitrile",
+    "PB-22, 0.1mg/ml in Acetonitrile",
+    "MFCD24386264",
+    "AKOS022172960",
+    "CS-1405",
+    "NCGC00390698-01",
+    "CP175130",
+    "HY-13712",
+    "DB-256029",
+    "NS00017914",
+    "1-Pentyl-1H-Indole-3-carboxylicAcid8-QuinolinylEster",
+    "Q15708309"
+  ]
 }

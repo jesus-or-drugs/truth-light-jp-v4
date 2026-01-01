@@ -1,14 +1,28 @@
 {
   "id": "3-cpm",
   "common_name": "3-CPM",
-  "systematic name": "2-(3-kurorophenyl)-3-mechiru moruforin",
+  "systematic name": "2-(3-chlorophenyl)-3-methylmorpholine",
   "aliases": [
-    "3-Chlorophenmetrazine"
+    "2-(3-chlorophenyl)-3-methylmorpholine",
+    "3-Chlorophenmetrazine",
+    "3-Cpm",
+    "B6P88Q2VW5",
+    "PAL-594",
+    "Morpholine, 2-(3-chlorophenyl)-3-methyl-",
+    "RefChem:93525",
+    "UNII-B6P88Q2VW5",
+    "SCHEMBL2599554",
+    "DTXSID701337061",
+    "PD150693",
+    "CS-0283434",
+    "EN300-303778"
   ],
   "identifiers": {
     "pubchem_cid": "43350791",
     "inchi_key": "BOFUZZAQNVYZFF-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "BOFUZZAQNVYZFF-UHFFFAOYSA-N",
+    "pubchemCID": "43350791"
   },
   "categories": [],
   "legal": {
@@ -35,5 +49,29 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/43350791"
+  ],
+  "molecular_formula": "C11H14ClNO",
+  "molecular_weight": "211.69",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(3-chlorophenyl)-3-methylmorpholine",
+  "synonyms_pubchem": [
+    "2-(3-chlorophenyl)-3-methylmorpholine",
+    "3-Chlorophenmetrazine",
+    "1097796-78-5",
+    "3-Cpm",
+    "B6P88Q2VW5",
+    "PAL-594",
+    "Morpholine, 2-(3-chlorophenyl)-3-methyl-",
+    "RefChem:93525",
+    "UNII-B6P88Q2VW5",
+    "SCHEMBL2599554",
+    "DTXSID701337061",
+    "PD150693",
+    "CS-0283434",
+    "EN300-303778"
+  ]
 }

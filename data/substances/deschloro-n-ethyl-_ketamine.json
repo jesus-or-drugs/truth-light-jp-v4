@@ -1,16 +1,29 @@
 {
   "id": "deschloro-n-ethyl-_ketamine",
   "common_name": "Deschloro-N-ethyl- ketamine",
-  "systematic name": "2-(echiruamineo)-2-phenylshiku rohekisanon",
+  "systematic name": "2-(ethylamino)-2-phenylcyclohexan-1-one",
   "aliases": [
-    "Eticyclidone",
+    "Deschloro-N-ethyl-ketamine",
+    "2TRF16U3MR",
+    "UNII-2TRF16U3MR",
+    "ETICYCLIDONE",
     "O-PCE",
-    "2-Oxo-PCE"
+    "2'-OXO-PCE",
+    "N-ETHYLDESCHLOROKETAMINE",
+    "RefChem:197223",
+    "2-(ethylamino)-2-phenylcyclohexan-1-one",
+    "2-(Ethylamino)-2-phenylcyclohexanone",
+    "Cyclohexanone, 2-(ethylamino)-2-phenyl-",
+    "SCHEMBL23595823",
+    "DTXSID601024409",
+    "PD047150"
   ],
   "identifiers": {
     "pubchem_cid": "132989542",
     "inchi_key": "IDLSBAANXISGEI-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "IDLSBAANXISGEI-UHFFFAOYSA-N",
+    "pubchemCID": "132989542"
   },
   "categories": [],
   "legal": {
@@ -37,5 +50,30 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/132989542"
+  ],
+  "molecular_formula": "C14H19NO",
+  "molecular_weight": "217.31",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(ethylamino)-2-phenylcyclohexan-1-one",
+  "synonyms_pubchem": [
+    "Deschloro-N-ethyl-ketamine",
+    "2TRF16U3MR",
+    "UNII-2TRF16U3MR",
+    "ETICYCLIDONE",
+    "O-PCE",
+    "2'-OXO-PCE",
+    "N-ETHYLDESCHLOROKETAMINE",
+    "RefChem:197223",
+    "2-(ethylamino)-2-phenylcyclohexan-1-one",
+    "2-(Ethylamino)-2-phenylcyclohexanone",
+    "6740-82-5",
+    "Cyclohexanone, 2-(ethylamino)-2-phenyl-",
+    "SCHEMBL23595823",
+    "DTXSID601024409",
+    "PD047150"
+  ]
 }

@@ -1,14 +1,32 @@
 {
   "id": "5-fluoro-mn-18",
   "common_name": "5-Fluoro-MN-18",
-  "systematic name": "1-(5-furuoropenchiru)-N-(na futaren-1-iru)-1H-indazo- ru-3-karubokisamido",
+  "systematic name": "1-(5-fluoropentyl)-N-naphthalen-1-ylindazole-3-carboxamide",
   "aliases": [
-    "5-Fluoro-NNE1 indazole analog"
+    "5-Fluoro-MN-18",
+    "J3.314.548I",
+    "N-(1-Naphthyl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide",
+    "UNII-522ZC95042",
+    "522ZC95042",
+    "1H-Indazole-3-carboxamide, 1-(5-fluoropentyl)-N-1-naphthalenyl-",
+    "5F-MN-18",
+    "RefChem:198908",
+    "5-fluoro MN-18",
+    "1-(5-fluoropentyl)-N-naphthalen-1-ylindazole-3-carboxamide",
+    "SCHEMBL30641114",
+    "DTXSID901043090",
+    "1-(5-fluoropentyl)-N-(naphthalen-1-yl)-1h-indazole-3-carboxamide",
+    "PD018994",
+    "NS00017653",
+    "Q27260949",
+    "1-(5-fluoropentyl)-N-1-naphthalenyl-1H-indazole-3-carboxamide"
   ],
   "identifiers": {
     "pubchem_cid": "91936859",
     "inchi_key": "XBSWUIWDRFCAGZ-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "XBSWUIWDRFCAGZ-UHFFFAOYSA-N",
+    "pubchemCID": "91936859"
   },
   "categories": [],
   "legal": {
@@ -35,5 +53,33 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/91936859"
+  ],
+  "molecular_formula": "C23H22FN3O",
+  "molecular_weight": "375.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(5-fluoropentyl)-N-naphthalen-1-ylindazole-3-carboxamide",
+  "synonyms_pubchem": [
+    "5-Fluoro-MN-18",
+    "1445581-91-8",
+    "J3.314.548I",
+    "N-(1-Naphthyl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide",
+    "UNII-522ZC95042",
+    "522ZC95042",
+    "1H-Indazole-3-carboxamide, 1-(5-fluoropentyl)-N-1-naphthalenyl-",
+    "5F-MN-18",
+    "RefChem:198908",
+    "5-fluoro MN-18",
+    "1-(5-fluoropentyl)-N-naphthalen-1-ylindazole-3-carboxamide",
+    "SCHEMBL30641114",
+    "DTXSID901043090",
+    "1-(5-fluoropentyl)-N-(naphthalen-1-yl)-1h-indazole-3-carboxamide",
+    "PD018994",
+    "NS00017653",
+    "Q27260949",
+    "1-(5-fluoropentyl)-N-1-naphthalenyl-1H-indazole-3-carboxamide"
+  ]
 }

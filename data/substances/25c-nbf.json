@@ -1,12 +1,29 @@
 {
   "id": "25c-nbf",
   "common_name": "25C-NBF",
-  "systematic name": "2-(4-kuroro-2,5-jimethoxyfe niru)-N-(2-furuorobenzylu)e tanamine",
-  "aliases": [],
+  "systematic name": "2-(4-chloro-2,5-dimethoxyphenyl)-N-[(2-fluorophenyl)methyl]ethanamine",
+  "aliases": [
+    "2c-c-Nbf",
+    "25C-NBF",
+    "NBF-2C-c",
+    "CDK8YL4X34",
+    "2-(4-Kloro-2,5-dimetoxifenyl)-N-(2-fluorobensyl)etanamin",
+    "2-(4-Chloro-2,5-dimethoxyphenyl)-N-(2-fluorobenzyl)ethan-1-amine",
+    "4-Chloro-N-((2-fluorophenyl)methyl)-2,5-dimethoxybenzeneethanamine",
+    "Benzeneethanamine, 4-chloro-N-((2-fluorophenyl)methyl)-2,5-dimethoxy-",
+    "RefChem:197992",
+    "UNII-CDK8YL4X34",
+    "SCHEMBL20970899",
+    "SCHEMBL29633031",
+    "DTXSID101017176",
+    "2-(4-chloro-2,5-dimethoxyphenyl)-N-[(2-fluorophenyl)methyl]ethan-1-amine"
+  ],
   "identifiers": {
     "pubchem_cid": "125181230",
     "inchi_key": "AHIUIEOLKNDLSC-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "AHIUIEOLKNDLSC-UHFFFAOYSA-N",
+    "pubchemCID": "125181230"
   },
   "categories": [],
   "legal": {
@@ -33,5 +50,30 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/125181230"
+  ],
+  "molecular_formula": "C17H19ClFNO2",
+  "molecular_weight": "323.8",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(4-chloro-2,5-dimethoxyphenyl)-N-[(2-fluorophenyl)methyl]ethanamine",
+  "synonyms_pubchem": [
+    "2c-c-Nbf",
+    "25C-NBF",
+    "NBF-2C-c",
+    "CDK8YL4X34",
+    "2-(4-Kloro-2,5-dimetoxifenyl)-N-(2-fluorobensyl)etanamin",
+    "2-(4-Chloro-2,5-dimethoxyphenyl)-N-(2-fluorobenzyl)ethan-1-amine",
+    "4-Chloro-N-((2-fluorophenyl)methyl)-2,5-dimethoxybenzeneethanamine",
+    "Benzeneethanamine, 4-chloro-N-((2-fluorophenyl)methyl)-2,5-dimethoxy-",
+    "1373879-23-2",
+    "RefChem:197992",
+    "UNII-CDK8YL4X34",
+    "SCHEMBL20970899",
+    "SCHEMBL29633031",
+    "DTXSID101017176",
+    "2-(4-chloro-2,5-dimethoxyphenyl)-N-[(2-fluorophenyl)methyl]ethan-1-amine"
+  ]
 }

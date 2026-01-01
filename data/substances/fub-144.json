@@ -1,12 +1,30 @@
 {
   "id": "fub-144",
   "common_name": "FUB-144",
-  "systematic name": "[1-(4-furuorobenzylu)-1H-i ndo-ru-3-iru](2,2,3,3-teto ramechirushikuropuropiru)metanon及びそ の salts",
-  "aliases": [],
+  "systematic name": "[1-[(4-fluorophenyl)methyl]indol-3-yl]-(2,2,3,3-tetramethylcyclopropyl)methanone",
+  "aliases": [
+    "FUB-144",
+    "IWY4W66OKW",
+    "(1-(4-fluorobenzyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "FUB-UR-144",
+    "DTXSID201016907",
+    "(1-(4-Fluorobenzyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl) methanone",
+    "RefChem:601392",
+    "DTXCID801475092",
+    "UNII-IWY4W66OKW",
+    "[1-[(4-fluorophenyl)methyl]indol-3-yl]-(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "SCHEMBL29988802",
+    "DEA NO. 7014",
+    "KMD86315",
+    "NS00017389",
+    "Q21098943"
+  ],
   "identifiers": {
     "pubchem_cid": "118796439",
     "inchi_key": "UXOFEILQVZFLRH-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "UXOFEILQVZFLRH-UHFFFAOYSA-N",
+    "pubchemCID": "118796439"
   },
   "categories": [],
   "legal": {
@@ -33,5 +51,35 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/118796439"
+  ],
+  "molecular_formula": "C23H24FNO",
+  "molecular_weight": "349.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "[1-[(4-fluorophenyl)methyl]indol-3-yl]-(2,2,3,3-tetramethylcyclopropyl)methanone",
+  "synonyms_pubchem": [
+    "FUB-144",
+    "2185863-15-2",
+    "IWY4W66OKW",
+    "(1-(4-fluorobenzyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "FUB-UR-144",
+    "DTXSID201016907",
+    "(1-(4-Fluorobenzyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl) methanone",
+    "Methanone, (1-((4-fluorophenyl)methyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)-",
+    "RefChem:601392",
+    "DTXCID801475092",
+    "954-987-6",
+    "UNII-IWY4W66OKW",
+    "[1-[(4-fluorophenyl)methyl]indol-3-yl]-(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "SCHEMBL29988802",
+    "DEA NO. 7014",
+    "KMD86315",
+    "NS00017389",
+    "Q21098943",
+    "{1-[(4-fluorophenyl)methyl]-1h-indol-3-yl}(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "Methanone, [1-[(4-fluorophenyl)methyl]-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)-; FUB-144; [1-(4-Fluorobenzyl)-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)methanone"
+  ]
 }

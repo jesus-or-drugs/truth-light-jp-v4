@@ -2,11 +2,33 @@
   "id": "fub-apinaca",
   "common_name": "FUB-APINACA",
   "systematic name": "N-(1-adamantyl)-1-[(4-fluorophenyl)methyl]indazole-3-carboxamide",
-  "aliases": [],
+  "aliases": [
+    "FUB-APINACA",
+    "OF9Q7PH4UD",
+    "FUB-AKB48",
+    "AKB48 N-(4-fluorobenzyl)",
+    "AFB-48",
+    "UNII-OF9Q7PH4UD",
+    "N-(adamantan-1-yl)-1-(4-fluorobenzyl)-1h-indazole-3-carboxamide",
+    "N-(Adamantan-1-yl)-1-((4-fluorophenyl)methyl)-1H-indazole-3-carboxamide",
+    "RefChem:141575",
+    "N-(1-adamantyl)-1-[(4-fluorophenyl)methyl]indazole-3-carboxamide",
+    "N-((3s,5s,7s)-adamantan-1-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide",
+    "SCHEMBL29809425",
+    "CHEBI:192570",
+    "DTXSID101336146",
+    "FMD93390",
+    "NS00017383",
+    "NS00101010",
+    "Q25099385",
+    "N-(1-adamantyl)-1-[(4-luorophenyl)methyl]indazole-3-carboxamide"
+  ],
   "identifiers": {
     "pubchem_cid": "118796517",
     "inchi_key": "MWBHSNBPUSKVDD-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "MWBHSNBPUSKVDD-UHFFFAOYSA-N",
+    "pubchemCID": "118796517"
   },
   "categories": [],
   "legal": {
@@ -33,5 +55,36 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/118796517"
+  ],
+  "molecular_formula": "C25H26FN3O",
+  "molecular_weight": "403.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-(1-adamantyl)-1-[(4-fluorophenyl)methyl]indazole-3-carboxamide",
+  "synonyms_pubchem": [
+    "FUB-APINACA",
+    "2180933-90-6",
+    "OF9Q7PH4UD",
+    "FUB-AKB48",
+    "AKB48 N-(4-fluorobenzyl)",
+    "AFB-48",
+    "UNII-OF9Q7PH4UD",
+    "N-(adamantan-1-yl)-1-(4-fluorobenzyl)-1h-indazole-3-carboxamide",
+    "N-(Adamantan-1-yl)-1-((4-fluorophenyl)methyl)-1H-indazole-3-carboxamide",
+    "RefChem:141575",
+    "N-(1-adamantyl)-1-[(4-fluorophenyl)methyl]indazole-3-carboxamide",
+    "N-((3s,5s,7s)-adamantan-1-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide",
+    "SCHEMBL29809425",
+    "CHEBI:192570",
+    "DTXSID101336146",
+    "FMD93390",
+    "NS00017383",
+    "NS00101010",
+    "Q25099385",
+    "N-(1-adamantyl)-1-[(4-luorophenyl)methyl]indazole-3-carboxamide",
+    "1-[(4-Fluorophenyl)methyl]-N-tricyclo[3.3.1.13,7]dec-1-yl-1H-indazole-3-carboxamide"
+  ]
 }

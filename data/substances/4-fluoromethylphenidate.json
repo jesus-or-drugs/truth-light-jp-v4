@@ -1,15 +1,32 @@
 {
   "id": "4-fluoromethylphenidate",
   "common_name": "4-Fluoromethylphenidate",
-  "systematic name": "2-(4-furuorophenyl)-2-(pi perijin-2-iru) acetatemechiruesute ru",
+  "systematic name": "methyl (2R)-2-(4-fluorophenyl)-2-[(2R)-piperidin-2-yl]acetate",
   "aliases": [
-    "4-FMPH",
-    "4F-MPH"
+    "4-Fluoromethylphenidate",
+    "4-Fmph",
+    "4F-Mph",
+    "TN2LV2C0X9",
+    "2-Piperidineacetic acid, alpha-(4-fluorophenyl)-, methyl ester, (alphaR,2R)-rel-",
+    "RefChem:99032",
+    "UNII-TN2LV2C0X9",
+    "CHEMBL1253289",
+    "methyl 2-(4-fluorophenyl)-2-(piperidin-2-yl)acetate",
+    "SCHEMBL30094741",
+    "DTXSID301032893",
+    "BDBM50327156",
+    "PD039355",
+    "Q21098984",
+    "Methyl (2R)-(4-fluorophenyl)[(2R)-piperidin-2-yl]acetate",
+    "(R)-methyl 2-(4-fluorophenyl)-2-((R)-piperidin-2-yl)acetate",
+    "2-PIPERIDINEACETIC ACID, .ALPHA.-(4-FLUOROPHENYL)-, METHYL ESTER"
   ],
   "identifiers": {
     "pubchem_cid": "52944002",
     "inchi_key": "XISBAJBPDVRSPG-CHWSQXEVSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "XISBAJBPDVRSPG-CHWSQXEVSA-N",
+    "pubchemCID": "52944002"
   },
   "categories": [],
   "legal": {
@@ -36,5 +53,34 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/52944002"
+  ],
+  "molecular_formula": "C14H18FNO2",
+  "molecular_weight": "251.30",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "methyl (2R)-2-(4-fluorophenyl)-2-[(2R)-piperidin-2-yl]acetate",
+  "synonyms_pubchem": [
+    "4-Fluoromethylphenidate",
+    "4-Fmph",
+    "4F-Mph",
+    "TN2LV2C0X9",
+    "1253910-15-4",
+    "2-Piperidineacetic acid, alpha-(4-fluorophenyl)-, methyl ester, (alphaR,2R)-rel-",
+    "RefChem:99032",
+    "UNII-TN2LV2C0X9",
+    "CHEMBL1253289",
+    "methyl 2-(4-fluorophenyl)-2-(piperidin-2-yl)acetate",
+    "SCHEMBL30094741",
+    "DTXSID301032893",
+    "BDBM50327156",
+    "PD039355",
+    "Q21098984",
+    "Methyl (2R)-(4-fluorophenyl)[(2R)-piperidin-2-yl]acetate",
+    "(R)-methyl 2-(4-fluorophenyl)-2-((R)-piperidin-2-yl)acetate",
+    "2-PIPERIDINEACETIC ACID, .ALPHA.-(4-FLUOROPHENYL)-, METHYL ESTER",
+    "2-PIPERIDINEACETIC ACID, .ALPHA.-(4-FLUOROPHENYL)-, METHYL ESTER, (.ALPHA.R,2R)-REL-"
+  ]
 }

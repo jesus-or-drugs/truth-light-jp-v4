@@ -1,12 +1,30 @@
 {
   "id": "cumyl-thpinaca",
   "common_name": "CUMYL-THPINACA",
-  "systematic name": "N-(2-phenylpuropan-2-iru) -1-[(tetrahydro-2H-piran-4 -iru)mechiru]-1H-indazo-ru- 3-karubokisamido",
-  "aliases": [],
+  "systematic name": "1-(oxan-4-ylmethyl)-N-(2-phenylpropan-2-yl)indazole-3-carboxamide",
+  "aliases": [
+    "CUMYL-THPINACA",
+    "6R5GTC3QVB",
+    "SGT-42",
+    "DTXSID401032565",
+    "RefChem:1090801",
+    "DTXCID501517580",
+    "Cumyl-THPINACARM",
+    "Cumyl-THPINACA RM",
+    "UNII-6R5GTC3QVB",
+    "1-(oxan-4-ylmethyl)-N-(2-phenylpropan-2-yl)indazole-3-carboxamide",
+    "SCHEMBL16173788",
+    "SCHEMBL30353001",
+    "AGC74250",
+    "NS00018059",
+    "N-(1-methyl-1-phenyl-ethyl)-1-(tetrahydropyran-4-ylmethyl)indazole-3-carboxamide"
+  ],
   "identifiers": {
     "pubchem_cid": "86273679",
     "inchi_key": "HINCNLQQLQFMRD-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "HINCNLQQLQFMRD-UHFFFAOYSA-N",
+    "pubchemCID": "86273679"
   },
   "categories": [],
   "legal": {
@@ -33,5 +51,36 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/86273679"
+  ],
+  "molecular_formula": "C23H27N3O2",
+  "molecular_weight": "377.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(oxan-4-ylmethyl)-N-(2-phenylpropan-2-yl)indazole-3-carboxamide",
+  "synonyms_pubchem": [
+    "CUMYL-THPINACA",
+    "1400742-50-8",
+    "6R5GTC3QVB",
+    "SGT-42",
+    "DTXSID401032565",
+    "N-(1-Methyl-1-phenylethyl)-1-((tetrahydro-2H-pyran-4-yl)methyl)-1H-indazole-3-carboxamide",
+    "N-(1-Methyl-1-phenylethyl)-1-[(tetrahydro-2H-pyran-4-yl)methyl]-1H-indazole-3-carboxamide",
+    "RefChem:1090801",
+    "DTXCID501517580",
+    "Cumyl-THPINACARM",
+    "Cumyl-THPINACA RM",
+    "UNII-6R5GTC3QVB",
+    "1-(oxan-4-ylmethyl)-N-(2-phenylpropan-2-yl)indazole-3-carboxamide",
+    "SCHEMBL16173788",
+    "SCHEMBL30353001",
+    "AGC74250",
+    "NS00018059",
+    "N-(1-methyl-1-phenyl-ethyl)-1-(tetrahydropyran-4-ylmethyl)indazole-3-carboxamide",
+    "N-(2-phenylpropan-2-yl)-1-[(tetrahydro-2h-pyran-4-yl)methyl]-1h-indazole-3-carboxamide",
+    "1H-INDAZOLE-3-CARBOXAMIDE, N-(1-METHYL-1-PHENYLETHYL)-1-((TETRAHYDRO-2H-PYRAN-4-YL)METHYL)-",
+    "N-(1-METHYL-1-PHENYLETHYL)-1-(TETRAHYDRO-2H-PYRAN-4-YL)METHYL-1H-INDAZOLE-3-CARBOXAMIDE"
+  ]
 }

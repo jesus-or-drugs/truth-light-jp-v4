@@ -1,12 +1,28 @@
 {
   "id": "cumyl-pica",
   "common_name": "CUMYL-PICA",
-  "systematic name": "1-penchiru-N-(2-phenylpuro pan-2-iru)-1H-indo-ru-3 -karubokisamido",
-  "aliases": [],
+  "systematic name": "1-pentyl-N-(2-phenylpropan-2-yl)indole-3-carboxamide",
+  "aliases": [
+    "Cumyl-PICA",
+    "H4APZ90T9U",
+    "1-pentyl-N-(2-phenylpropan-2-yl)indole-3-carboxamide",
+    "UNII-H4APZ90T9U",
+    "SGT-56",
+    "1-pentyl-N-(2-phenylpropan-2-yl)-1h-indole-3-carboxamide",
+    "SCHEMBL16173737",
+    "SCHEMBL29683703",
+    "DTXSID601017202",
+    "GLXC-23084",
+    "AGC74232",
+    "NS00017920",
+    "1H-INDOLE-3-CARBOXAMIDE, N-(1-METHYL-1-PHENYLETHYL)-1-PENTYL-"
+  ],
   "identifiers": {
     "pubchem_cid": "86273678",
     "inchi_key": "RCXFMWJQOYCIQU-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "RCXFMWJQOYCIQU-UHFFFAOYSA-N",
+    "pubchemCID": "86273678"
   },
   "categories": [],
   "legal": {
@@ -33,5 +49,29 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/86273678"
+  ],
+  "molecular_formula": "C23H28N2O",
+  "molecular_weight": "348.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-pentyl-N-(2-phenylpropan-2-yl)indole-3-carboxamide",
+  "synonyms_pubchem": [
+    "Cumyl-PICA",
+    "1400742-32-6",
+    "H4APZ90T9U",
+    "1-pentyl-N-(2-phenylpropan-2-yl)indole-3-carboxamide",
+    "UNII-H4APZ90T9U",
+    "SGT-56",
+    "1-pentyl-N-(2-phenylpropan-2-yl)-1h-indole-3-carboxamide",
+    "SCHEMBL16173737",
+    "SCHEMBL29683703",
+    "DTXSID601017202",
+    "GLXC-23084",
+    "AGC74232",
+    "NS00017920",
+    "1H-INDOLE-3-CARBOXAMIDE, N-(1-METHYL-1-PHENYLETHYL)-1-PENTYL-"
+  ]
 }

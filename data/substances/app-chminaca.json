@@ -3,12 +3,32 @@
   "common_name": "APP-CHMINACA",
   "systematic name": "N-[(2S)-1-amino-1-oxo-3-phenylpropan-2-yl]-1-(cyclohexylmethyl)indazole-3-carboxamide",
   "aliases": [
-    "PX-3"
+    "APP-CHMINACA",
+    "3877T06H05",
+    "DTXSID201009998",
+    "N-(2-Amino-1-benzyl-2-oxo-ethyl)-1-(cyclohexylmethyl)indazole-3-carboxamide",
+    "synthetic cannabinoid PX-3",
+    "RefChem:926526",
+    "DTXCID101436421",
+    "App-chminaca RM",
+    "PX-3-",
+    "App-chminaca-",
+    "APP-CHMINACA RME",
+    "SCHEMBL4050989",
+    "SCHEMBL30641081",
+    "C24H28N4O2",
+    "UNII-3877T06H05",
+    "AKOS040750548",
+    "Q27256761",
+    "APP-CHMINACA, APP-CHMINACA RME, PX-3-, PX-3, PX3",
+    "N-[(1S)-2-amino-1-benzyl-2-oxo-ethyl]-1-(cyclohexylmethyl)indazole-3-carboxamide"
   ],
   "identifiers": {
     "pubchem_cid": "44206137",
     "inchi_key": "DMHWDSGURMXMGE-FQEVSTJZSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "DMHWDSGURMXMGE-FQEVSTJZSA-N",
+    "pubchemCID": "44206137"
   },
   "categories": [],
   "legal": {
@@ -35,5 +55,39 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/44206137"
+  ],
+  "molecular_formula": "C24H28N4O2",
+  "molecular_weight": "404.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-[(2S)-1-amino-1-oxo-3-phenylpropan-2-yl]-1-(cyclohexylmethyl)indazole-3-carboxamide",
+  "synonyms_pubchem": [
+    "APP-CHMINACA",
+    "1185887-14-2",
+    "1H-Indazole-3-carboxamide, N-((1S)-2-amino-2-oxo-1-(phenylmethyl)ethyl)-1-(cyclohexylmethyl)-",
+    "N-[(1S)-2-amino-2-oxo-1-(phenylmethyl)ethyl]-1-(cyclohexylmethyl)-1H-Indazole-3-carboxamide",
+    "3877T06H05",
+    "DTXSID201009998",
+    "N-(2-Amino-1-benzyl-2-oxo-ethyl)-1-(cyclohexylmethyl)indazole-3-carboxamide",
+    "synthetic cannabinoid PX-3",
+    "N-((1S)-2-Amino-2-oxo-1-(phenylmethyl)ethyl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide",
+    "RefChem:926526",
+    "DTXCID101436421",
+    "App-chminaca RM",
+    "PX-3-",
+    "N-[(2S)-1-amino-1-oxo-3-phenylpropan-2-yl]-1-(cyclohexylmethyl)indazole-3-carboxamide",
+    "App-chminaca-",
+    "APP-CHMINACA RME",
+    "SCHEMBL4050989",
+    "SCHEMBL30641081",
+    "C24H28N4O2",
+    "UNII-3877T06H05",
+    "AKOS040750548",
+    "Q27256761",
+    "APP-CHMINACA, APP-CHMINACA RME, PX-3-, PX-3, PX3",
+    "N-[(1S)-2-amino-1-benzyl-2-oxo-ethyl]-1-(cyclohexylmethyl)indazole-3-carboxamide"
+  ]
 }

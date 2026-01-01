@@ -1,12 +1,40 @@
 {
   "id": "2c-n",
   "common_name": "2C-N",
-  "systematic name": "2-(2,5-jimethoxy-4-nitorofe niru)etanamine",
-  "aliases": [],
+  "systematic name": "2-(2,5-dimethoxy-4-nitrophenyl)ethanamine",
+  "aliases": [
+    "2,5-dimethoxy-4-nitrophenethylamine",
+    "UNII-BB2B23B11H",
+    "Ethanamine, 2-(2,5-dimethoxy-4-nitrophenyl)-",
+    "DTXSID80180798",
+    "RefChem:197424",
+    "DTXCID20103289",
+    "2-(2,5-dimethoxy-4-nitro-phenyl)ethanamine",
+    "2C-N",
+    "BB2B23B11H",
+    "Benzeneethanamine, 2,5-dimethoxy-4-nitro-",
+    "2-(2,5-DIMETHOXY-4-NITROPHENYL)ETHANAMINE",
+    "DEA No. 7521",
+    "J569.064A",
+    "2-(2,5-dimethoxy-4-nitrophenyl)ethylamine",
+    "2,5-di-meo-4-nitro-pea",
+    "2C-N (exempt preparation)",
+    "SCHEMBL1048335",
+    "SCHEMBL29528231",
+    "LKA78900",
+    "4-nitro-2,5-dimethoxyphenethylamine",
+    "2,5-Dimethoxy-4-nitro-phenethylamine",
+    "AKOS030254815",
+    "DB-346511",
+    "NS00017909",
+    "Q3373482"
+  ],
   "identifiers": {
     "pubchem_cid": "10036637",
     "inchi_key": "ZMUSDZGRRJGRAO-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "ZMUSDZGRRJGRAO-UHFFFAOYSA-N",
+    "pubchemCID": "10036637"
   },
   "categories": [],
   "legal": {
@@ -33,5 +61,41 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/10036637"
+  ],
+  "molecular_formula": "C10H14N2O4",
+  "molecular_weight": "226.23",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(2,5-dimethoxy-4-nitrophenyl)ethanamine",
+  "synonyms_pubchem": [
+    "2,5-dimethoxy-4-nitrophenethylamine",
+    "261789-00-8",
+    "UNII-BB2B23B11H",
+    "Ethanamine, 2-(2,5-dimethoxy-4-nitrophenyl)-",
+    "DTXSID80180798",
+    "RefChem:197424",
+    "DTXCID20103289",
+    "2-(2,5-dimethoxy-4-nitro-phenyl)ethanamine",
+    "2C-N",
+    "BB2B23B11H",
+    "Benzeneethanamine, 2,5-dimethoxy-4-nitro-",
+    "2-(2,5-DIMETHOXY-4-NITROPHENYL)ETHANAMINE",
+    "DEA No. 7521",
+    "J569.064A",
+    "2-(2,5-dimethoxy-4-nitrophenyl)ethylamine",
+    "2,5-di-meo-4-nitro-pea",
+    "2C-N (exempt preparation)",
+    "SCHEMBL1048335",
+    "SCHEMBL29528231",
+    "LKA78900",
+    "4-nitro-2,5-dimethoxyphenethylamine",
+    "2,5-Dimethoxy-4-nitro-phenethylamine",
+    "AKOS030254815",
+    "DB-346511",
+    "NS00017909",
+    "Q3373482"
+  ]
 }

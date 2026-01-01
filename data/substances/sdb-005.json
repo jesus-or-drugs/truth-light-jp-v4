@@ -1,12 +1,31 @@
 {
   "id": "sdb-005",
   "common_name": "SDB-005",
-  "systematic name": "nafutaren-1-iru=1-penchiru- 1H-indazo-ru-3-karubokishi ra-to",
-  "aliases": [],
+  "systematic name": "1-pentyl-N-phenylindole-3-carboxamide",
+  "aliases": [
+    "N-Phenyl-1-pentyl-1H-indole-3-carboxamide",
+    "Z6XWV5U765",
+    "UNII-Z6XWV5U765",
+    "1H-Indole-3-carboxamide, 1-pentyl-N-phenyl-",
+    "RefChem:182072",
+    "DTXCID201436448",
+    "DTXSID601010032",
+    "Sdb-005",
+    "1-PENTYL-N-PHENYLINDOLE-3-CARBOXAMIDE",
+    "1-pentyl-N-phenyl-1h-indole-3-carboxamide",
+    "SDB-006 N-phenyl",
+    "SDB-005 (phenyl)",
+    "SCHEMBL29988288",
+    "DTXSID801345176",
+    "NS00017557",
+    "Q27295087"
+  ],
   "identifiers": {
     "pubchem_cid": "91936885",
     "inchi_key": "SPUQBSMPSCYQLS-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "SPUQBSMPSCYQLS-UHFFFAOYSA-N",
+    "pubchemCID": "91936885"
   },
   "categories": [],
   "legal": {
@@ -33,5 +52,32 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/91936885"
+  ],
+  "molecular_formula": "C20H22N2O",
+  "molecular_weight": "306.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-pentyl-N-phenylindole-3-carboxamide",
+  "synonyms_pubchem": [
+    "1430634-87-9",
+    "N-Phenyl-1-pentyl-1H-indole-3-carboxamide",
+    "Z6XWV5U765",
+    "UNII-Z6XWV5U765",
+    "1H-Indole-3-carboxamide, 1-pentyl-N-phenyl-",
+    "RefChem:182072",
+    "DTXCID201436448",
+    "DTXSID601010032",
+    "Sdb-005",
+    "1-PENTYL-N-PHENYLINDOLE-3-CARBOXAMIDE",
+    "1-pentyl-N-phenyl-1h-indole-3-carboxamide",
+    "SDB-006 N-phenyl",
+    "SDB-005 (phenyl)",
+    "SCHEMBL29988288",
+    "DTXSID801345176",
+    "NS00017557",
+    "Q27295087"
+  ]
 }

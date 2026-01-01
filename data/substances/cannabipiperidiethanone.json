@@ -1,12 +1,32 @@
 {
   "id": "cannabipiperidiethanone",
   "common_name": "Cannabipiperidiethanone",
-  "systematic name": "2-(2-methoxyphenyl)-1-{1- [(1-mechirupiperijin-2-iru)mechi ru]-1H-indo-ru-3-iru}eta non",
-  "aliases": [],
+  "systematic name": "2-(2-methoxyphenyl)-1-[1-[(1-methylpiperidin-2-yl)methyl]indol-3-yl]ethanone",
+  "aliases": [
+    "Cannabipiperidiethanone",
+    "G66388U44D",
+    "RefChem:909159",
+    "2-(2-Methoxyphenyl)-1-(1-((1-methyl-2-piperidinyl)methyl)-1H-indol-3-yl)ethanone",
+    "2-(2-methoxyphenyl)-1-[1-[(1-methylpiperidin-2-yl)methyl]indol-3-yl]ethanone",
+    "2-(2-Methoxyphenyl)-1-(1-((1-methylpiperidin-2-yl)methyl)-1H-indol-3-yl)ethanone",
+    "orb2283754",
+    "SCHEMBL27034187",
+    "UNII-G66388U44D",
+    "DTXSID90705471",
+    "AJSBNWAHEDVQJT-UHFFFAOYSA-N",
+    "CHEBI:186174",
+    "VDC97043",
+    "MFCD28291867",
+    "NS00017738",
+    "Q5032581",
+    "2-(2-methoxyphenyl)-1-[1-[(1-methyl-2-piperidyl)methyl]indol-3-yl]ethanone"
+  ],
   "identifiers": {
     "pubchem_cid": "53494930",
     "inchi_key": "AJSBNWAHEDVQJT-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "AJSBNWAHEDVQJT-UHFFFAOYSA-N",
+    "pubchemCID": "53494930"
   },
   "categories": [],
   "legal": {
@@ -33,5 +53,37 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/53494930"
+  ],
+  "molecular_formula": "C24H28N2O2",
+  "molecular_weight": "376.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(2-methoxyphenyl)-1-[1-[(1-methylpiperidin-2-yl)methyl]indol-3-yl]ethanone",
+  "synonyms_pubchem": [
+    "Cannabipiperidiethanone",
+    "1345970-43-5",
+    "G66388U44D",
+    "Ethanone, 2-(2-methoxyphenyl)-1-(1-((1-methyl-2-piperidinyl)methyl)-1H-indol-3-yl)-",
+    "RefChem:909159",
+    "2-(2-Methoxyphenyl)-1-(1-((1-methyl-2-piperidinyl)methyl)-1H-indol-3-yl)ethanone",
+    "2-(2-methoxyphenyl)-1-[1-[(1-methylpiperidin-2-yl)methyl]indol-3-yl]ethanone",
+    "2-(2-methoxyphenyl)-1-[1-[(1-methyl-2-piperidinyl)methyl]-1H-indol-3-yl]-ethanone",
+    "2-(2-Methoxyphenyl)-1-{1-[(1-methylpiperidin-2-yl)methyl]-1H-indol-3-yl}ethan-1-one",
+    "2-(2-Methoxyphenyl)-1-(1-((1-methylpiperidin-2-yl)methyl)-1H-indol-3-yl)ethanone",
+    "2-(2-Methoxyphenyl)-1-(1-((1-methyl-2-piperidinyl)methyl)-1H-indol-3-yl)-ethanone",
+    "orb2283754",
+    "SCHEMBL27034187",
+    "UNII-G66388U44D",
+    "DTXSID90705471",
+    "AJSBNWAHEDVQJT-UHFFFAOYSA-N",
+    "CHEBI:186174",
+    "VDC97043",
+    "MFCD28291867",
+    "NS00017738",
+    "Q5032581",
+    "2-(2-methoxyphenyl)-1-[1-[(1-methyl-2-piperidyl)methyl]indol-3-yl]ethanone"
+  ]
 }

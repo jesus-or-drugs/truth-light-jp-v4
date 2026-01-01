@@ -1,12 +1,36 @@
 {
   "id": "5f-nne1",
   "common_name": "5F-NNE1",
-  "systematic name": "N-(nafutaren-1-iru)-1-(5- furuoropenchiru)-1H-indo-ru -3-karubokisamido",
-  "aliases": [],
+  "systematic name": "1-(5-fluoropentyl)-N-naphthalen-1-ylindole-3-carboxamide",
+  "aliases": [
+    "5-Fluoro-MN-24",
+    "5F-Nnei",
+    "3T22QDP4D9",
+    "5F-MN-24",
+    "CBM-2201",
+    "1-(5-Fluoropentyl)-N-(1-naphthyl)indole-3-carboxamide",
+    "1H-Indole-3-carboxamide, 1-(5-fluoropentyl)-N-1-naphthalenyl-",
+    "DTXSID901032710",
+    "1-(5-Fluoropentyl)-N-1-naphthalenyl-1H-indole-3-carboxamide",
+    "RefChem:1054510",
+    "DTXCID901517720",
+    "5-fluoro NNEI",
+    "5F-NNE1",
+    "UNII-3T22QDP4D9",
+    "1-(5-fluoropentyl)-N-naphthalen-1-ylindole-3-carboxamide",
+    "1-(5-fluoropentyl)-N-(naphthalen-1-yl)-1h-indole-3-carboxamide",
+    "5-fluoro MN-24",
+    "SCHEMBL29019173",
+    "PD019240",
+    "NS00017593",
+    "Q21098948"
+  ],
   "identifiers": {
     "pubchem_cid": "118796566",
     "inchi_key": "DJKVOBZLMBHFKX-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "DJKVOBZLMBHFKX-UHFFFAOYSA-N",
+    "pubchemCID": "118796566"
   },
   "categories": [],
   "legal": {
@@ -33,5 +57,37 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/118796566"
+  ],
+  "molecular_formula": "C24H23FN2O",
+  "molecular_weight": "374.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(5-fluoropentyl)-N-naphthalen-1-ylindole-3-carboxamide",
+  "synonyms_pubchem": [
+    "5-Fluoro-MN-24",
+    "1445580-60-8",
+    "5F-Nnei",
+    "3T22QDP4D9",
+    "5F-MN-24",
+    "CBM-2201",
+    "1-(5-Fluoropentyl)-N-(1-naphthyl)indole-3-carboxamide",
+    "1H-Indole-3-carboxamide, 1-(5-fluoropentyl)-N-1-naphthalenyl-",
+    "DTXSID901032710",
+    "1-(5-Fluoropentyl)-N-1-naphthalenyl-1H-indole-3-carboxamide",
+    "RefChem:1054510",
+    "DTXCID901517720",
+    "5-fluoro NNEI",
+    "5F-NNE1",
+    "UNII-3T22QDP4D9",
+    "1-(5-fluoropentyl)-N-naphthalen-1-ylindole-3-carboxamide",
+    "1-(5-fluoropentyl)-N-(naphthalen-1-yl)-1h-indole-3-carboxamide",
+    "5-fluoro MN-24",
+    "SCHEMBL29019173",
+    "PD019240",
+    "NS00017593",
+    "Q21098948"
+  ]
 }

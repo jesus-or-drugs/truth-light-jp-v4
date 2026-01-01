@@ -1,12 +1,31 @@
 {
   "id": "5f-edmb-pinaca",
   "common_name": "5F-EDMB-PINACA",
-  "systematic name": "echiru=2-[1-(5-furuoropenchi ru)-1H-indazo-ru-3-karubo kisamido]-3,3-jimechirubutanoa-to",
-  "aliases": [],
+  "systematic name": "ethyl (2S)-2-[[1-(5-fluoropentyl)indazole-3-carbonyl]amino]-3,3-dimethylbutanoate",
+  "aliases": [
+    "5F-EDMB-PINACA",
+    "LBS820X9AE",
+    "DEA NO. 7036",
+    "5F-EDMB-PINACA [NFLIS-DRUG]",
+    "5F-EDMB-PINACA (NFLIS-DRUG)",
+    "ETHYL 2-(1-(5-FLUOROPENTYL)-1H-INDAZOLE-3-CARBOXAMIDO)-3,3-DIMETHYLBUTANOATE",
+    "RefChem:199011",
+    "5-fluoro-EDMB-PINACA",
+    "ethyl(S)-2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate",
+    "5-fluoro EDMB-PINACA",
+    "SCHEMBL29809369",
+    "DTXSID50963459",
+    "PD064150",
+    "Q66107523",
+    "(S)-Ethyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate",
+    "Ethyl N-{[1-(5-fluoropentyl)-1H-indazol-3-yl]carbonyl}-3-methyl-L-valinate"
+  ],
   "identifiers": {
     "pubchem_cid": "137700114",
     "inchi_key": "VDEACSPMBSUVRD-GOSISDBHSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "VDEACSPMBSUVRD-GOSISDBHSA-N",
+    "pubchemCID": "137700114"
   },
   "categories": [],
   "legal": {
@@ -33,5 +52,33 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/137700114"
+  ],
+  "molecular_formula": "C21H30FN3O3",
+  "molecular_weight": "391.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "ethyl (2S)-2-[[1-(5-fluoropentyl)indazole-3-carbonyl]amino]-3,3-dimethylbutanoate",
+  "synonyms_pubchem": [
+    "5F-EDMB-PINACA",
+    "LBS820X9AE",
+    "DEA NO. 7036",
+    "5F-EDMB-PINACA [NFLIS-DRUG]",
+    "5F-EDMB-PINACA (NFLIS-DRUG)",
+    "ETHYL 2-(1-(5-FLUOROPENTYL)-1H-INDAZOLE-3-CARBOXAMIDO)-3,3-DIMETHYLBUTANOATE",
+    "RefChem:199011",
+    "2504100-69-8",
+    "5-fluoro-EDMB-PINACA",
+    "ethyl (2S)-2-[[1-(5-fluoropentyl)indazole-3-carbonyl]amino]-3,3-dimethylbutanoate",
+    "ethyl(S)-2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate",
+    "5-fluoro EDMB-PINACA",
+    "SCHEMBL29809369",
+    "DTXSID50963459",
+    "PD064150",
+    "Q66107523",
+    "(S)-Ethyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate",
+    "Ethyl N-{[1-(5-fluoropentyl)-1H-indazol-3-yl]carbonyl}-3-methyl-L-valinate"
+  ]
 }

@@ -1,12 +1,29 @@
 {
   "id": "5-fluoro-sdb-005",
   "common_name": "5-Fluoro-SDB-005",
-  "systematic name": "nafutaren-1-iru=1-(5-furuo ropenchiru)-1H-indazo-ru-3 -karubokishira-to",
-  "aliases": [],
+  "systematic name": "naphthalen-1-yl 1-(5-fluoropentyl)indazole-3-carboxylate",
+  "aliases": [
+    "5-Fluoro SDB-005",
+    "B2QAS4X2LT",
+    "1-Naphthalenyl 1-(5-fluoropentyl)-1H-indazole-3-carboxylate",
+    "1H-Indazole-3-carboxylic acid, 1-(5-fluoropentyl)-, 1-naphthalenyl ester",
+    "RefChem:102600",
+    "UNII-B2QAS4X2LT",
+    "naphthalen-1-yl1-(5-fluoropentyl)-1H-indazole-3-carboxylate",
+    "naphthalen-1-yl 1-(5-fluoropentyl)-1h-indazole-3-carboxylate",
+    "SCHEMBL30641129",
+    "DTXSID201342279",
+    "PD018588",
+    "NS00017377",
+    "1-naphthyl 1-(5-fluoropentyl)indazole-3-carboxylate",
+    "NAPHTHALEN-1-YL 1-(5-FLUOROPENTYL)INDAZOLE-3-CARBOXYLATE"
+  ],
   "identifiers": {
     "pubchem_cid": "124519691",
     "inchi_key": "FNMFGMMHNFDPNT-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "FNMFGMMHNFDPNT-UHFFFAOYSA-N",
+    "pubchemCID": "124519691"
   },
   "categories": [],
   "legal": {
@@ -33,5 +50,30 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/124519691"
+  ],
+  "molecular_formula": "C23H21FN2O2",
+  "molecular_weight": "376.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "naphthalen-1-yl 1-(5-fluoropentyl)indazole-3-carboxylate",
+  "synonyms_pubchem": [
+    "5-Fluoro SDB-005",
+    "B2QAS4X2LT",
+    "2185863-14-1",
+    "1-Naphthalenyl 1-(5-fluoropentyl)-1H-indazole-3-carboxylate",
+    "1H-Indazole-3-carboxylic acid, 1-(5-fluoropentyl)-, 1-naphthalenyl ester",
+    "RefChem:102600",
+    "UNII-B2QAS4X2LT",
+    "naphthalen-1-yl1-(5-fluoropentyl)-1H-indazole-3-carboxylate",
+    "naphthalen-1-yl 1-(5-fluoropentyl)-1h-indazole-3-carboxylate",
+    "SCHEMBL30641129",
+    "DTXSID201342279",
+    "PD018588",
+    "NS00017377",
+    "1-naphthyl 1-(5-fluoropentyl)indazole-3-carboxylate",
+    "NAPHTHALEN-1-YL 1-(5-FLUOROPENTYL)INDAZOLE-3-CARBOXYLATE"
+  ]
 }

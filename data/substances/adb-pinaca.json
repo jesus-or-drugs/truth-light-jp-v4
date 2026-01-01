@@ -1,12 +1,29 @@
 {
   "id": "adb-pinaca",
   "common_name": "ADB-PINACA",
-  "systematic name": "N-(1-amineo-3,3-jimechiru-1 -okisobutan-2-iru)-1-pen chiru-1H-indazo-ru-3-karubo kisamido",
-  "aliases": [],
+  "systematic name": "N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentylindazole-3-carboxamide",
+  "aliases": [
+    "N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide",
+    "RefChem:552954",
+    "ADB-PINACA",
+    "UNII-U1Q4F41C9U",
+    "U1Q4F41C9U",
+    "DEA No. 7035",
+    "1H-Indazole-3-carboxamide, N-[1-(aminocarbonyl)-2,2-dimethylpropyl]-1-pentyl-",
+    "N-[1-(aminocarbonyl)-2,2-dimethylpropyl]-1-pentyl-1h-indazole-3-carboxamide",
+    "1H-INDAZOLE-3-CARBOXAMIDE, N-(1-(AMINOCARBONYL)-2,2-DIMETHYLPROPYL)-1-PENTYL-",
+    "SCHEMBL16201697",
+    "DTXSID301010007",
+    "CA175142",
+    "NS00017902",
+    "Q18209025"
+  ],
   "identifiers": {
     "pubchem_cid": "86280478",
     "inchi_key": "FWTARAXQGJRQKN-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "FWTARAXQGJRQKN-UHFFFAOYSA-N",
+    "pubchemCID": "86280478"
   },
   "categories": [],
   "legal": {
@@ -33,5 +50,31 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/86280478"
+  ],
+  "molecular_formula": "C19H28N4O2",
+  "molecular_weight": "344.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentylindazole-3-carboxamide",
+  "synonyms_pubchem": [
+    "N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide",
+    "RefChem:552954",
+    "ADB-PINACA",
+    "1633766-73-0",
+    "UNII-U1Q4F41C9U",
+    "U1Q4F41C9U",
+    "DEA No. 7035",
+    "1H-Indazole-3-carboxamide, N-[1-(aminocarbonyl)-2,2-dimethylpropyl]-1-pentyl-",
+    "N-[1-(aminocarbonyl)-2,2-dimethylpropyl]-1-pentyl-1h-indazole-3-carboxamide",
+    "1H-INDAZOLE-3-CARBOXAMIDE, N-(1-(AMINOCARBONYL)-2,2-DIMETHYLPROPYL)-1-PENTYL-",
+    "SCHEMBL16201697",
+    "DTXSID301010007",
+    "CA175142",
+    "NS00017902",
+    "Q18209025",
+    "1H-Indazole-3-carboxamide, N-[1-(aminocarbonyl)-2,2-dimethylpropyl]-1-pentyl-; N-[1-(Aminocarbonyl)-2,2-dimethylpropyl]-1-pentyl-1H-indazole-3-carboxamide; ADB-PINACA"
+  ]
 }

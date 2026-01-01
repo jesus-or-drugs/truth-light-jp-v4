@@ -1,12 +1,37 @@
 {
   "id": "fdu-pb-22",
   "common_name": "FDU-PB-22",
-  "systematic name": "nafutaren-1-iru=1-(4-furuo robenzylu)-1H-indo-ru-3-ka rubokishira-to",
-  "aliases": [],
+  "systematic name": "naphthalen-1-yl 1-[(4-fluorophenyl)methyl]indole-3-carboxylate",
+  "aliases": [
+    "FDU-PB-22",
+    "85E88884ZQ",
+    "1-((4-Fluorophenyl)methyl)-1H-indole-3-carboxylic acid, 1-naphthalenyl ester",
+    "1H-Indole-3-carboxylic acid, 1-((4-fluorophenyl)methyl)-, 1-naphthalenyl ester",
+    "1-[(4-fluorophenyl)methyl]-1H-indole-3-carboxylic acid, 1-naphthalenyl ester",
+    "1h-indole-3-carboxylic acid, 1-[(4-fluorophenyl)methyl]-, 1-naphthalenyl ester",
+    "RefChem:907725",
+    "1-Naphthalenyl 1-((4-fluorophenyl)methyl)-1H-indole-3-carboxylate",
+    "FDU-PB22",
+    "UNII-85E88884ZQ",
+    "naphthalen-1-yl 1-[(4-fluorophenyl)methyl]indole-3-carboxylate",
+    "Naphthalen-1-yl 1-((4-fluorophenyl)methyl)-1H-indole-3-carboxylate",
+    "naphthalen-1-yl 1-[(4-fluorophenyl)methyl]-1H-indole-3-carboxylate",
+    "orb2802278",
+    "SCHEMBL29989208",
+    "CHEBI:183978",
+    "DTXSID901016910",
+    "CS-0063681",
+    "NS00017402",
+    "Q21098946",
+    "naphthalen-1-yl 1-(4-fluorobenzyl)-1h-indole-3-carboxylate",
+    "naphthalen-1-yl 1-[(4-luorophenyl)methyl]indole-3-carboxylate"
+  ],
   "identifiers": {
     "pubchem_cid": "119025888",
     "inchi_key": "RCEKSVIFQKKFLS-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "RCEKSVIFQKKFLS-UHFFFAOYSA-N",
+    "pubchemCID": "119025888"
   },
   "categories": [],
   "legal": {
@@ -33,5 +58,38 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/119025888"
+  ],
+  "molecular_formula": "C26H18FNO2",
+  "molecular_weight": "395.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "naphthalen-1-yl 1-[(4-fluorophenyl)methyl]indole-3-carboxylate",
+  "synonyms_pubchem": [
+    "FDU-PB-22",
+    "1883284-94-3",
+    "85E88884ZQ",
+    "1-((4-Fluorophenyl)methyl)-1H-indole-3-carboxylic acid, 1-naphthalenyl ester",
+    "1H-Indole-3-carboxylic acid, 1-((4-fluorophenyl)methyl)-, 1-naphthalenyl ester",
+    "1-[(4-fluorophenyl)methyl]-1H-indole-3-carboxylic acid, 1-naphthalenyl ester",
+    "1h-indole-3-carboxylic acid, 1-[(4-fluorophenyl)methyl]-, 1-naphthalenyl ester",
+    "RefChem:907725",
+    "1-Naphthalenyl 1-((4-fluorophenyl)methyl)-1H-indole-3-carboxylate",
+    "FDU-PB22",
+    "UNII-85E88884ZQ",
+    "naphthalen-1-yl 1-[(4-fluorophenyl)methyl]indole-3-carboxylate",
+    "Naphthalen-1-yl 1-((4-fluorophenyl)methyl)-1H-indole-3-carboxylate",
+    "naphthalen-1-yl 1-[(4-fluorophenyl)methyl]-1H-indole-3-carboxylate",
+    "orb2802278",
+    "SCHEMBL29989208",
+    "CHEBI:183978",
+    "DTXSID901016910",
+    "CS-0063681",
+    "NS00017402",
+    "Q21098946",
+    "naphthalen-1-yl 1-(4-fluorobenzyl)-1h-indole-3-carboxylate",
+    "naphthalen-1-yl 1-[(4-luorophenyl)methyl]indole-3-carboxylate"
+  ]
 }

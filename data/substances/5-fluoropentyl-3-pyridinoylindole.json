@@ -1,12 +1,16 @@
 {
   "id": "5-fluoropentyl-3-pyridinoylindole",
   "common_name": "5-Fluoropentyl-3-pyridinoylindole",
-  "systematic name": "[1-(5-furuoropenchiru)-1H-i ndo-ru-3-iru](pirijin-3-i ru)metanon",
-  "aliases": [],
+  "systematic name": "[2-(5-fluoropentyl)-1H-indol-3-yl]-pyridin-2-ylmethanone",
+  "aliases": [
+    "5-fluoropentyl-3-pyridinoylindole"
+  ],
   "identifiers": {
     "pubchem_cid": "129844439",
     "inchi_key": "MGZNWVDDFDINBW-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "MGZNWVDDFDINBW-UHFFFAOYSA-N",
+    "pubchemCID": "129844439"
   },
   "categories": [],
   "legal": {
@@ -33,5 +37,16 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/129844439"
+  ],
+  "molecular_formula": "C19H19FN2O",
+  "molecular_weight": "310.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "[2-(5-fluoropentyl)-1H-indol-3-yl]-pyridin-2-ylmethanone",
+  "synonyms_pubchem": [
+    "5-fluoropentyl-3-pyridinoylindole"
+  ]
 }

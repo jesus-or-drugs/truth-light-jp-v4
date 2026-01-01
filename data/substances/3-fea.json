@@ -1,14 +1,33 @@
 {
   "id": "3-fea",
   "common_name": "3-FEA",
-  "systematic name": "N-echiru-1-(3-furuorofeni ru)puropan-2-amine",
+  "systematic name": "N-ethyl-1-(3-fluorophenyl)propan-2-amine",
   "aliases": [
-    "3-fluoroethamphetamine"
+    "3-Fluoroethamphetamine",
+    "3-Fea",
+    "YBV3PB8WOZ",
+    "UNII-YBV3PB8WOZ",
+    "RefChem:198285",
+    "Meta-fluoroethamphetamine",
+    "3-Fluoro-N-ethylamphetamine",
+    "3-Fea [NFLIS-DRUG]",
+    "Ethyl(1-(3-fluorophenyl)propan-2-yl)amine",
+    "N-Ethyl-3-fluoro-alpha-methylbenzeneethanamine",
+    "m-fluoro N-ethylamphetamine",
+    "3-FEA (3-Fluoroethamphetamine)",
+    "DTXSID201029433",
+    "PD085461",
+    "N-ethyl-1-(3-fluorophenyl)propan-2-amine",
+    "NS00098445",
+    "Q4634137",
+    "N-ETHYL-3-FLUORO-.ALPHA.-METHYLBENZENEETHANAMINE"
   ],
   "identifiers": {
     "pubchem_cid": "57458869",
     "inchi_key": "CKPWHLGHHXSVJI-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "CKPWHLGHHXSVJI-UHFFFAOYSA-N",
+    "pubchemCID": "57458869"
   },
   "categories": [],
   "legal": {
@@ -35,5 +54,34 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/57458869"
+  ],
+  "molecular_formula": "C11H16FN",
+  "molecular_weight": "181.25",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-ethyl-1-(3-fluorophenyl)propan-2-amine",
+  "synonyms_pubchem": [
+    "3-Fluoroethamphetamine",
+    "3-Fea",
+    "YBV3PB8WOZ",
+    "UNII-YBV3PB8WOZ",
+    "RefChem:198285",
+    "Meta-fluoroethamphetamine",
+    "3-Fluoro-N-ethylamphetamine",
+    "3-Fea [NFLIS-DRUG]",
+    "Ethyl(1-(3-fluorophenyl)propan-2-yl)amine",
+    "725676-94-8",
+    "N-Ethyl-3-fluoro-alpha-methylbenzeneethanamine",
+    "m-fluoro N-ethylamphetamine",
+    "3-FEA (3-Fluoroethamphetamine)",
+    "DTXSID201029433",
+    "PD085461",
+    "N-ethyl-1-(3-fluorophenyl)propan-2-amine",
+    "NS00098445",
+    "Q4634137",
+    "N-ETHYL-3-FLUORO-.ALPHA.-METHYLBENZENEETHANAMINE"
+  ]
 }

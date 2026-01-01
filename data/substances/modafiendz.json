@@ -1,15 +1,33 @@
 {
   "id": "modafiendz",
   "common_name": "Modafiendz",
-  "systematic name": "2-{[bisu(4-furuorophenyl)mechi ru]surufiniru}-N-mechiruasetoa mido",
+  "systematic name": "2-[bis(4-fluorophenyl)methylsulfinyl]-N-methylacetamide",
   "aliases": [
-    "N-Methyl-4",
-    "4-difluoro- modafinil"
+    "Modafiendz",
+    "N-Methyl-4,4-difluoro modafinil",
+    "Dehydroxyfluorafinil",
+    "Methyldifluoromodafinil",
+    "Deshydroxyl-fladrafinil",
+    "223VWC34TA",
+    "2-((Bis(4-fluorophenyl)methyl)sulfinyl)-N-methylacetamide",
+    "Acetamide, 2-((bis(4-fluorophenyl)methyl)sulfinyl)-N-methyl-",
+    "RefChem:159285",
+    "2-[bis(4-fluorophenyl)methylsulfinyl]-N-methylacetamide",
+    "UNII-223VWC34TA",
+    "2-[[bis(4-fluorophenyl)methyl]sulfinyl]-N-methyl-acetamide",
+    "C16H15F2NO2S",
+    "N-methyl-4,4-difluoro-Modafinil",
+    "DTXSID501342547",
+    "NPC22254",
+    "HY-114946",
+    "2-[bis(4-fluorophenyl)methylsulfinyl]-N-methyl-acetamide"
   ],
   "identifiers": {
     "pubchem_cid": "132989661",
     "inchi_key": "MQZWTCIUDSDFCQ-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "MQZWTCIUDSDFCQ-UHFFFAOYSA-N",
+    "pubchemCID": "132989661"
   },
   "categories": [],
   "legal": {
@@ -36,5 +54,34 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/132989661"
+  ],
+  "molecular_formula": "C16H15F2NO2S",
+  "molecular_weight": "323.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-[bis(4-fluorophenyl)methylsulfinyl]-N-methylacetamide",
+  "synonyms_pubchem": [
+    "Modafiendz",
+    "N-Methyl-4,4-difluoro modafinil",
+    "1613222-54-0",
+    "Dehydroxyfluorafinil",
+    "Methyldifluoromodafinil",
+    "Deshydroxyl-fladrafinil",
+    "223VWC34TA",
+    "2-((Bis(4-fluorophenyl)methyl)sulfinyl)-N-methylacetamide",
+    "Acetamide, 2-((bis(4-fluorophenyl)methyl)sulfinyl)-N-methyl-",
+    "RefChem:159285",
+    "2-[bis(4-fluorophenyl)methylsulfinyl]-N-methylacetamide",
+    "UNII-223VWC34TA",
+    "2-[[bis(4-fluorophenyl)methyl]sulfinyl]-N-methyl-acetamide",
+    "C16H15F2NO2S",
+    "N-methyl-4,4-difluoro-Modafinil",
+    "DTXSID501342547",
+    "NPC22254",
+    "HY-114946",
+    "2-[bis(4-fluorophenyl)methylsulfinyl]-N-methyl-acetamide"
+  ]
 }

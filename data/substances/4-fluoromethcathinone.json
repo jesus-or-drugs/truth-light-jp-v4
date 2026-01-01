@@ -1,14 +1,37 @@
 {
   "id": "4-fluoromethcathinone",
   "common_name": "4-Fluoromethcathinone",
-  "systematic name": "1-(4-furuorophenyl)-2-(mechi ruamineo)puropan-1-on 類",
+  "systematic name": "1-(4-fluorophenyl)-2-(methylamino)propan-1-one",
   "aliases": [
-    "4-FMC"
+    "Flephedrone",
+    "4-Fluoromethcathinone",
+    "4-FMC",
+    "BA88IEZ2HF",
+    "DEA No. 1238",
+    "J2.929.933A",
+    "RefChem:99031",
+    "4'-Fluoromethcathinon",
+    "UNII-BA88IEZ2HF",
+    "1-(4-fluorophenyl)-2-(methylamino)propan-1-one",
+    "1-(4-Fluorophenyl)-2-(methylamino)propan-1-one)",
+    "4-FLEPHEDRONE",
+    "4'-FLUOROMETHCATHINONE",
+    "4-fluoromethcathinone (4-FMC)",
+    "SCHEMBL14655818",
+    "MWKQPIROPJSFRI-UHFFFAOYSA-N",
+    "4-FLUORO-N-METHYLCATHINONE",
+    "DTXSID401028417",
+    "AKOS015891214",
+    "PD046485",
+    "NS00008925",
+    "1-PROPANONE, 1-(4-FLUOROPHENYL)-2-(METHYLAMINO)-"
   ],
   "identifiers": {
     "pubchem_cid": "49853406",
     "inchi_key": "MWKQPIROPJSFRI-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "MWKQPIROPJSFRI-UHFFFAOYSA-N",
+    "pubchemCID": "49853406"
   },
   "categories": [],
   "legal": {
@@ -35,5 +58,38 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/49853406"
+  ],
+  "molecular_formula": "C10H12FNO",
+  "molecular_weight": "181.21",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(4-fluorophenyl)-2-(methylamino)propan-1-one",
+  "synonyms_pubchem": [
+    "Flephedrone",
+    "4-Fluoromethcathinone",
+    "4-FMC",
+    "BA88IEZ2HF",
+    "447-40-5",
+    "DEA No. 1238",
+    "J2.929.933A",
+    "RefChem:99031",
+    "4'-Fluoromethcathinon",
+    "UNII-BA88IEZ2HF",
+    "1-(4-fluorophenyl)-2-(methylamino)propan-1-one",
+    "1-(4-Fluorophenyl)-2-(methylamino)propan-1-one)",
+    "4-FLEPHEDRONE",
+    "4'-FLUOROMETHCATHINONE",
+    "4-fluoromethcathinone (4-FMC)",
+    "SCHEMBL14655818",
+    "MWKQPIROPJSFRI-UHFFFAOYSA-N",
+    "4-FLUORO-N-METHYLCATHINONE",
+    "DTXSID401028417",
+    "AKOS015891214",
+    "PD046485",
+    "NS00008925",
+    "1-PROPANONE, 1-(4-FLUOROPHENYL)-2-(METHYLAMINO)-"
+  ]
 }

@@ -1,12 +1,24 @@
 {
   "id": "5f-adbica",
   "common_name": "5F-ADBICA",
-  "systematic name": "N-[1-amino-3,3-dimethyl-1-oxobutan-2-yl]-1-(5-fluoropentyl)indole-3-carboxamide",
-  "aliases": [],
+  "systematic name": "N-[(2S)-1-amino-3,3-dimethyl-1-oxobutan-2-yl]-1-(5-fluoropentyl)indole-3-carboxamide",
+  "aliases": [
+    "5F-ADBICA",
+    "U9H280G9O7",
+    "UNII-U9H280G9O7",
+    "5-Fluoro-ADBICA, (S)-",
+    "5-FLUORO-ADBICA. (S)-",
+    "RefChem:103550",
+    "SCHEMBL29871057",
+    "DTXSID201032638",
+    "Q27290961"
+  ],
   "identifiers": {
     "pubchem_cid": "118796421",
     "inchi_key": "ITZSOCZDFSHNCL-QGZVFWFLSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "ITZSOCZDFSHNCL-QGZVFWFLSA-N",
+    "pubchemCID": "118796421"
   },
   "categories": [],
   "legal": {
@@ -33,5 +45,29 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/118796421"
+  ],
+  "molecular_formula": "C20H28FN3O2",
+  "molecular_weight": "361.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-[(2S)-1-amino-3,3-dimethyl-1-oxobutan-2-yl]-1-(5-fluoropentyl)indole-3-carboxamide",
+  "synonyms_pubchem": [
+    "5F-ADBICA",
+    "U9H280G9O7",
+    "UNII-U9H280G9O7",
+    "5-Fluoro-ADBICA, (S)-",
+    "5-FLUORO-ADBICA. (S)-",
+    "RefChem:103550",
+    "1801338-27-1",
+    "N-((1S)-1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(5-fluoropentan-1-yl)-1H-indole-3-carboxamide",
+    "N-[(2S)-1-amino-3,3-dimethyl-1-oxobutan-2-yl]-1-(5-fluoropentyl)indole-3-carboxamide",
+    "1H-Indole-3-carboxamide, N-((1S)-1-(aminocarbonyl)-2,2-dimethylpropyl)-1-(5-fluoropentyl)-",
+    "SCHEMBL29871057",
+    "DTXSID201032638",
+    "Q27290961",
+    "N-[(2s)-1-amino-3,3-dimethyl-1-oxobutan-2-yl]-1-(5-fluoropentyl)-1h-indole-3-carboxamide"
+  ]
 }

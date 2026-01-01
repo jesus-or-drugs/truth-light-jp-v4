@@ -1,12 +1,36 @@
 {
   "id": "jwh-030",
   "common_name": "JWH-030",
-  "systematic name": "nafutaren-1-iru(1-penchiru-1 H-piro-ru-3-iru)metanon及び その salts",
-  "aliases": [],
+  "systematic name": "naphthalen-1-yl-(1-pentylpyrrol-3-yl)methanone",
+  "aliases": [
+    "Naphthalen-1-yl(1-pentyl-1H-pyrrol-3-yl)methanone",
+    "Methanone, 1-naphthalenyl(1-pentyl-1H-pyrrol-3-yl)-",
+    "D3WWBII0GZ",
+    "1-naphthalenyl(1-pentyl-1h-pyrrol-3-yl)methanone",
+    "RefChem:1055999",
+    "JWH-030",
+    "Naphthalen-1-yl-(1-pentylpyrrol-3-yl)methanone",
+    "JWH 030",
+    "CHEMBL71810",
+    "UNII-D3WWBII0GZ",
+    "SCHEMBL14455691",
+    "SCHEMBL29385143",
+    "DTXSID10433522",
+    "VPBJQDBKZSHCPC-UHFFFAOYSA-N",
+    "BDBM50080102",
+    "AKOS015951323",
+    "FN155634",
+    "NS00017393",
+    "(Naphthalen-1-yl)(1-pentyl-1H-pyrrol-3-yl)methanone",
+    "Naphthalen-1-yl-(1-pentyl-1H-pyrrol-3-yl)-methanone",
+    "Q15409417"
+  ],
   "identifiers": {
     "pubchem_cid": "9971539",
     "inchi_key": "VPBJQDBKZSHCPC-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "VPBJQDBKZSHCPC-UHFFFAOYSA-N",
+    "pubchemCID": "9971539"
   },
   "categories": [],
   "legal": {
@@ -33,5 +57,38 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/9971539"
+  ],
+  "molecular_formula": "C20H21NO",
+  "molecular_weight": "291.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "naphthalen-1-yl-(1-pentylpyrrol-3-yl)methanone",
+  "synonyms_pubchem": [
+    "162934-73-8",
+    "Naphthalen-1-yl(1-pentyl-1H-pyrrol-3-yl)methanone",
+    "Methanone, 1-naphthalenyl(1-pentyl-1H-pyrrol-3-yl)-",
+    "D3WWBII0GZ",
+    "1-naphthalenyl(1-pentyl-1h-pyrrol-3-yl)methanone",
+    "RefChem:1055999",
+    "JWH-030",
+    "Naphthalen-1-yl-(1-pentylpyrrol-3-yl)methanone",
+    "JWH 030",
+    "CHEMBL71810",
+    "UNII-D3WWBII0GZ",
+    "SCHEMBL14455691",
+    "SCHEMBL29385143",
+    "DTXSID10433522",
+    "VPBJQDBKZSHCPC-UHFFFAOYSA-N",
+    "BDBM50080102",
+    "AKOS015951323",
+    "FN155634",
+    "NS00017393",
+    "(Naphthalen-1-yl)(1-pentyl-1H-pyrrol-3-yl)methanone",
+    "Naphthalen-1-yl-(1-pentyl-1H-pyrrol-3-yl)-methanone",
+    "Q15409417",
+    "Methanone, 1-naphthalenyl(1-pentyl-1H-pyrrol-3-yl)-; 1-Naphthalenyl(1-pentyl-1H-pyrrol-3-yl)methanone; JWH 030; JWH-030; 1-Naphthyl-(1-pentylpyrrol-3-yl)methanone; 1-Pentyl-3-(1-naphthoyl)pyrrole"
+  ]
 }

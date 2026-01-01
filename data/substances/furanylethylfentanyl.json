@@ -1,14 +1,27 @@
 {
   "id": "furanylethylfentanyl",
   "common_name": "Furanylethylfentanyl",
-  "systematic name": "N-{1-[2-(furan-2-iru)echi ru]piぺrijin-4-iru}-N-feni rupuropanamido",
+  "systematic name": "N-[1-[2-(furan-2-yl)ethyl]piperidin-4-yl]-N-phenylpropanamide",
   "aliases": [
-    "FUEF"
+    "Furanylethylfentanyl",
+    "UNII-GQ173D1SM9",
+    "Furanyl-ethyl-fentanyl",
+    "GQ173D1SM9",
+    "FURANYLETHYL FENTANYL",
+    "Propionanilide, N-(1-(2-(2-furyl)ethyl)-4-piperidyl)-",
+    "N-(1-(2-(2-Furyl)ethyl)-4-piperidyl)-N-phenyl-propanamide",
+    "Propanamide, N-(1-(2-(2-furanyl)ethyl)-4-piperidinyl)-N-phenyl-",
+    "RefChem:141770",
+    "N-[1-[2-(furan-2-yl)ethyl]piperidin-4-yl]-N-phenylpropanamide",
+    "SCHEMBL18623776",
+    "DTXSID901036774"
   ],
   "identifiers": {
     "pubchem_cid": "126682249",
     "inchi_key": "AFTQVAQNGJXATO-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "AFTQVAQNGJXATO-UHFFFAOYSA-N",
+    "pubchemCID": "126682249"
   },
   "categories": [],
   "legal": {
@@ -35,5 +48,28 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/126682249"
+  ],
+  "molecular_formula": "C20H26N2O2",
+  "molecular_weight": "326.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-[1-[2-(furan-2-yl)ethyl]piperidin-4-yl]-N-phenylpropanamide",
+  "synonyms_pubchem": [
+    "Furanylethylfentanyl",
+    "UNII-GQ173D1SM9",
+    "Furanyl-ethyl-fentanyl",
+    "GQ173D1SM9",
+    "802544-02-1",
+    "FURANYLETHYL FENTANYL",
+    "Propionanilide, N-(1-(2-(2-furyl)ethyl)-4-piperidyl)-",
+    "N-(1-(2-(2-Furyl)ethyl)-4-piperidyl)-N-phenyl-propanamide",
+    "Propanamide, N-(1-(2-(2-furanyl)ethyl)-4-piperidinyl)-N-phenyl-",
+    "RefChem:141770",
+    "N-[1-[2-(furan-2-yl)ethyl]piperidin-4-yl]-N-phenylpropanamide",
+    "SCHEMBL18623776",
+    "DTXSID901036774"
+  ]
 }

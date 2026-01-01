@@ -1,12 +1,25 @@
 {
   "id": "25i-nb34md",
   "common_name": "25I-NB34MD",
-  "systematic name": "2-(4-yo-do-2,5-jimethoxyfe niru)-N-(3,4-mechirenjiokishi benzylu)etanamine",
-  "aliases": [],
+  "systematic name": "N-(1,3-benzodioxol-5-ylmethyl)-2-(4-iodo-2,5-dimethoxyphenyl)ethanamine",
+  "aliases": [
+    "25I-Nb34md",
+    "NB34MD-2C-I",
+    "R7X848UW5A",
+    "1,3-Benzodioxole-5-methanamine, N-(2-(4-iodo-2,5-dimethoxyphenyl)ethyl)-",
+    "RefChem:89923",
+    "UNII-R7X848UW5A",
+    "SCHEMBL20970889",
+    "SCHEMBL29633114",
+    "DTXSID001032901",
+    "2-(4-iodo-2,5-dimethoxyphenyl)-N-[(3,4-methylenedioxyphenyl)methyl]ethanamine"
+  ],
   "identifiers": {
     "pubchem_cid": "129844505",
     "inchi_key": "FWEBGKDUEZRMRQ-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "FWEBGKDUEZRMRQ-UHFFFAOYSA-N",
+    "pubchemCID": "129844505"
   },
   "categories": [],
   "legal": {
@@ -33,5 +46,26 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/129844505"
+  ],
+  "molecular_formula": "C18H20INO4",
+  "molecular_weight": "441.3",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-(1,3-benzodioxol-5-ylmethyl)-2-(4-iodo-2,5-dimethoxyphenyl)ethanamine",
+  "synonyms_pubchem": [
+    "25I-Nb34md",
+    "NB34MD-2C-I",
+    "R7X848UW5A",
+    "1391497-81-6",
+    "1,3-Benzodioxole-5-methanamine, N-(2-(4-iodo-2,5-dimethoxyphenyl)ethyl)-",
+    "RefChem:89923",
+    "UNII-R7X848UW5A",
+    "SCHEMBL20970889",
+    "SCHEMBL29633114",
+    "DTXSID001032901",
+    "2-(4-iodo-2,5-dimethoxyphenyl)-N-[(3,4-methylenedioxyphenyl)methyl]ethanamine"
+  ]
 }

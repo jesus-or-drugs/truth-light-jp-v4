@@ -1,12 +1,23 @@
 {
   "id": "isopropylphenidate",
   "common_name": "Isopropylphenidate",
-  "systematic name": "2-phenyl-2-(piperijin-2-i ru) acetateisopropylesuteru",
-  "aliases": [],
+  "systematic name": "propan-2-yl 2-phenyl-2-piperidin-2-ylacetate",
+  "aliases": [
+    "ISOPROPYLPHENIDATE",
+    "DTXSID001032294",
+    "RefChem:232058",
+    "DTXCID701517300",
+    "Isopropylphenidate (hydrochloride)",
+    "SCHEMBL12543306",
+    "NS00018221",
+    "Q21098898"
+  ],
   "identifiers": {
     "pubchem_cid": "68314762",
     "inchi_key": "AZVPADMEIMLODT-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "AZVPADMEIMLODT-UHFFFAOYSA-N",
+    "pubchemCID": "68314762"
   },
   "categories": [],
   "legal": {
@@ -33,5 +44,24 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/68314762"
+  ],
+  "molecular_formula": "C16H23NO2",
+  "molecular_weight": "261.36",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "propan-2-yl 2-phenyl-2-piperidin-2-ylacetate",
+  "synonyms_pubchem": [
+    "ISOPROPYLPHENIDATE",
+    "DTXSID001032294",
+    "RefChem:232058",
+    "DTXCID701517300",
+    "Isopropylphenidate (hydrochloride)",
+    "93148-46-0",
+    "SCHEMBL12543306",
+    "NS00018221",
+    "Q21098898"
+  ]
 }

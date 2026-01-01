@@ -1,12 +1,42 @@
 {
   "id": "5-iai",
   "common_name": "5-IAI",
-  "systematic name": "5-yo-doindan-2-amine及びそ の salts",
-  "aliases": [],
+  "systematic name": "5-iodo-2,3-dihydro-1H-inden-2-amine",
+  "aliases": [
+    "5-Iodo-2-aminoindane",
+    "5-Iodo-2-aminoindan",
+    "5-IAI",
+    "1H-Inden-2-amine, 2,3-dihydro-5-iodo-",
+    "7X16E45Y1X",
+    "DTXSID60927643",
+    "RefChem:102954",
+    "DTXCID701356427",
+    "2-Amino-5-iodoindane",
+    "5-iodo-2,3-dihydro-1H-inden-2-amine",
+    "MFCD17168388",
+    "UNII-7X16E45Y1X",
+    "2-amino-5-iodoindan",
+    "5-iodoindan-2-amine",
+    "SCHEMBL20544788",
+    "BIHPYCDDPGNWQO-UHFFFAOYSA-N",
+    "AKOS015898913",
+    "(+/-)-5-IAI",
+    "FI153793",
+    "PD048388",
+    "SY041371",
+    "DB-062893",
+    "CS-0444551",
+    "NS00017615",
+    "5-iodo-2,3-dihydro-1H-inden-2-amine;5-iai",
+    "Q4639612",
+    "5-IODO-2,3-DIHYDRO-1H-INDEN-2-AMINE, (+/-)-"
+  ],
   "identifiers": {
     "pubchem_cid": "131506",
     "inchi_key": "BIHPYCDDPGNWQO-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "BIHPYCDDPGNWQO-UHFFFAOYSA-N",
+    "pubchemCID": "131506"
   },
   "categories": [],
   "legal": {
@@ -33,5 +63,43 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/131506"
+  ],
+  "molecular_formula": "C9H10IN",
+  "molecular_weight": "259.09",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "5-iodo-2,3-dihydro-1H-inden-2-amine",
+  "synonyms_pubchem": [
+    "132367-76-1",
+    "5-Iodo-2-aminoindane",
+    "5-Iodo-2-aminoindan",
+    "5-IAI",
+    "1H-Inden-2-amine, 2,3-dihydro-5-iodo-",
+    "7X16E45Y1X",
+    "DTXSID60927643",
+    "RefChem:102954",
+    "DTXCID701356427",
+    "2-Amino-5-iodoindane",
+    "5-iodo-2,3-dihydro-1H-inden-2-amine",
+    "MFCD17168388",
+    "UNII-7X16E45Y1X",
+    "2-amino-5-iodoindan",
+    "5-iodoindan-2-amine",
+    "SCHEMBL20544788",
+    "BIHPYCDDPGNWQO-UHFFFAOYSA-N",
+    "AKOS015898913",
+    "(+/-)-5-IAI",
+    "FI153793",
+    "PD048388",
+    "SY041371",
+    "DB-062893",
+    "CS-0444551",
+    "NS00017615",
+    "5-iodo-2,3-dihydro-1H-inden-2-amine;5-iai",
+    "Q4639612",
+    "5-IODO-2,3-DIHYDRO-1H-INDEN-2-AMINE, (+/-)-"
+  ]
 }

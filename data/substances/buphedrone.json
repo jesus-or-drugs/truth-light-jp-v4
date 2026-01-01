@@ -1,12 +1,36 @@
 {
   "id": "buphedrone",
   "common_name": "Buphedrone",
-  "systematic name": "2-(mechiruamineo)-1-phenylbutan- 1-on",
-  "aliases": [],
+  "systematic name": "2-(methylamino)-1-phenylbutan-1-one",
+  "aliases": [
+    "Buphedrone",
+    "MABP",
+    "alpha-Methylamino-butyrophenone",
+    "VD73947M0O",
+    "J2.929.921H",
+    "DTXSID701014170",
+    "RefChem:121920",
+    "DTXCID001436711",
+    "2-(Methylamino)-1-phenylbutan-1-one",
+    "UNII-VD73947M0O",
+    "CHEMBL3298875",
+    "2-(METHYLAMINO)-1-PHENYL-1-BUTANONE",
+    "alpha-methylaminobutyrophenone",
+    "SCHEMBL28190506",
+    "DDPMGIMJSRUULN-UHFFFAOYSA-N",
+    "BDBM50023180",
+    "AKOS015950992",
+    ".ALPHA.-METHYLAMINO-BUTYROPHENONE",
+    "1-Butanone, 2-(methylamino)-1-phenyl-",
+    "NS00015383",
+    "Q4998026"
+  ],
   "identifiers": {
     "pubchem_cid": "53249194",
     "inchi_key": "DDPMGIMJSRUULN-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "DDPMGIMJSRUULN-UHFFFAOYSA-N",
+    "pubchemCID": "53249194"
   },
   "categories": [],
   "legal": {
@@ -33,5 +57,37 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/53249194"
+  ],
+  "molecular_formula": "C11H15NO",
+  "molecular_weight": "177.24",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(methylamino)-1-phenylbutan-1-one",
+  "synonyms_pubchem": [
+    "Buphedrone",
+    "MABP",
+    "408332-79-6",
+    "alpha-Methylamino-butyrophenone",
+    "VD73947M0O",
+    "J2.929.921H",
+    "DTXSID701014170",
+    "RefChem:121920",
+    "DTXCID001436711",
+    "2-(Methylamino)-1-phenylbutan-1-one",
+    "UNII-VD73947M0O",
+    "CHEMBL3298875",
+    "2-(METHYLAMINO)-1-PHENYL-1-BUTANONE",
+    "alpha-methylaminobutyrophenone",
+    "SCHEMBL28190506",
+    "DDPMGIMJSRUULN-UHFFFAOYSA-N",
+    "BDBM50023180",
+    "AKOS015950992",
+    ".ALPHA.-METHYLAMINO-BUTYROPHENONE",
+    "1-Butanone, 2-(methylamino)-1-phenyl-",
+    "NS00015383",
+    "Q4998026"
+  ]
 }

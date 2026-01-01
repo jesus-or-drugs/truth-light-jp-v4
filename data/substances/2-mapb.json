@@ -1,12 +1,36 @@
 {
   "id": "2-mapb",
   "common_name": "2-MAPB",
-  "systematic name": "1-(benzofuran-2-iru)-N-me chirupuropan-2-amine 類",
-  "aliases": [],
+  "systematic name": "1-(1-benzofuran-2-yl)-N-methylpropan-2-amine",
+  "aliases": [
+    "2-MAPB",
+    "2-(2-(Methylamino)propyl)benzofuran",
+    "1-(1-benzofuran-2-yl)-N-methylpropan-2-amine",
+    "W5G20WN7CL",
+    "UNII-W5G20WN7CL",
+    "2-Benzofuranethanamine, N,alpha-dimethyl-",
+    "DTXSID901016908",
+    "2-BENZOFURANETHANAMINE, N,.ALPHA.-DIMETHYL-",
+    "RefChem:197552",
+    "DTXCID501475093",
+    "NOCAS_1016908",
+    "2-[2,N-Dimethyl-2-aminoethyl]benzofuran",
+    "[1-(1-benzofuran-2-yl)propan-2-yl](methyl)amine",
+    "SCHEMBL30457961",
+    "SCHEMBL30458086",
+    "ANJIDHKQUCZNQY-UHFFFAOYSA-N",
+    "PD045260",
+    "NS00017921",
+    "EN300-5213044",
+    "1-(1-Benzofuran-2-yl)-N-methyl-2-propanamine #",
+    "Q27292331"
+  ],
   "identifiers": {
     "pubchem_cid": "547092",
     "inchi_key": "ANJIDHKQUCZNQY-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "ANJIDHKQUCZNQY-UHFFFAOYSA-N",
+    "pubchemCID": "547092"
   },
   "categories": [],
   "legal": {
@@ -33,5 +57,37 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/547092"
+  ],
+  "molecular_formula": "C12H15NO",
+  "molecular_weight": "189.25",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(1-benzofuran-2-yl)-N-methylpropan-2-amine",
+  "synonyms_pubchem": [
+    "2-MAPB",
+    "2-(2-(Methylamino)propyl)benzofuran",
+    "1-(1-benzofuran-2-yl)-N-methylpropan-2-amine",
+    "W5G20WN7CL",
+    "UNII-W5G20WN7CL",
+    "806596-15-6",
+    "2-Benzofuranethanamine, N,alpha-dimethyl-",
+    "DTXSID901016908",
+    "2-BENZOFURANETHANAMINE, N,.ALPHA.-DIMETHYL-",
+    "RefChem:197552",
+    "DTXCID501475093",
+    "NOCAS_1016908",
+    "2-[2,N-Dimethyl-2-aminoethyl]benzofuran",
+    "[1-(1-benzofuran-2-yl)propan-2-yl](methyl)amine",
+    "SCHEMBL30457961",
+    "SCHEMBL30458086",
+    "ANJIDHKQUCZNQY-UHFFFAOYSA-N",
+    "PD045260",
+    "NS00017921",
+    "EN300-5213044",
+    "1-(1-Benzofuran-2-yl)-N-methyl-2-propanamine #",
+    "Q27292331"
+  ]
 }

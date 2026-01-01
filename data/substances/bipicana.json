@@ -1,12 +1,18 @@
 {
   "id": "bipicana",
   "common_name": "BiPICANA",
-  "systematic name": "N-(nafutaren-1-iru)-1-pen chiru-N-(1-penchiru-1H-in do-ru-3-karuboniru)-1H-in do-ru-3-karubokisamido 類",
-  "aliases": [],
+  "systematic name": "N-naphthalen-1-yl-1-pentyl-N-(1-pentyl-3a,7a-dihydroindole-3-carbonyl)indole-3-carboxamide",
+  "aliases": [
+    "BIPICANA",
+    "PR85BBU47K",
+    "N, N-BIS(1-PENTYLINDOL-3-YL-CARBOXY)NAPHTYLAMINE"
+  ],
   "identifiers": {
     "pubchem_cid": "162368425",
     "inchi_key": "JUJSXRUYGOTLSI-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "JUJSXRUYGOTLSI-UHFFFAOYSA-N",
+    "pubchemCID": "162368425"
   },
   "categories": [],
   "legal": {
@@ -33,5 +39,19 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/162368425"
+  ],
+  "molecular_formula": "C38H41N3O2",
+  "molecular_weight": "571.7",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "N-naphthalen-1-yl-1-pentyl-N-(1-pentyl-3a,7a-dihydroindole-3-carbonyl)indole-3-carboxamide",
+  "synonyms_pubchem": [
+    "BIPICANA",
+    "PR85BBU47K",
+    "N, N-BIS(1-PENTYLINDOL-3-YL-CARBOXY)NAPHTYLAMINE",
+    "N-(1-NAPHTHYL)-1-PENTYL-N-(1-PENTYL-3A,7A-DIHYDROINDOLE-3-CARBONYL)INDOLE-3-CARBOXAMIDE"
+  ]
 }

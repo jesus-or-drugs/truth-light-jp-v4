@@ -1,14 +1,26 @@
 {
   "id": "emb-fubinaca",
   "common_name": "EMB-FUBINACA",
-  "systematic name": "echiru=2-[1-(4-furuorobenji ru)-1H-indazo-ru-3-karubo kisamido]-3-mechirubutanoa-to及び その salts",
+  "systematic name": "ethyl (2S)-2-[[1-[(4-fluorophenyl)methyl]indazole-3-carbonyl]amino]-3-methylbutanoate",
   "aliases": [
-    "FUB-AEB"
+    "EMB-FUBINACA",
+    "5-Fluoro emb-fubinaca",
+    "FU-AEB",
+    "GW8LFT4PZ5",
+    "Ethyl (1-(4-fluorobenzyl)-1H-indazole-3-carbonyl)-L-valinate",
+    "RefChem:136585",
+    "UNII-GW8LFT4PZ5",
+    "ethyl(1-(4-fluorobenzyl)-1H-indazole-3-carbonyl)-L-valinate",
+    "SCHEMBL30641077",
+    "NS00018118",
+    "ethyl [1-(4-fluorobenzyl)-1h-indazole-3-carbonyl]valinate"
   ],
   "identifiers": {
     "pubchem_cid": "125181443",
     "inchi_key": "YOECWCNJGHHTMN-IBGZPJMESA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "YOECWCNJGHHTMN-IBGZPJMESA-N",
+    "pubchemCID": "125181443"
   },
   "categories": [],
   "legal": {
@@ -35,5 +47,30 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/125181443"
+  ],
+  "molecular_formula": "C22H24FN3O3",
+  "molecular_weight": "397.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "ethyl (2S)-2-[[1-[(4-fluorophenyl)methyl]indazole-3-carbonyl]amino]-3-methylbutanoate",
+  "synonyms_pubchem": [
+    "EMB-FUBINACA",
+    "2365470-94-4",
+    "5-Fluoro emb-fubinaca",
+    "FU-AEB",
+    "GW8LFT4PZ5",
+    "Ethyl (1-(4-fluorobenzyl)-1H-indazole-3-carbonyl)-L-valinate",
+    "Ethyl 2-((1-((4-fluorophenyl)methyl)indazole-3-carbonyl)amino)-3-methyl-butanoate",
+    "RefChem:136585",
+    "UNII-GW8LFT4PZ5",
+    "ethyl (2S)-2-[[1-[(4-fluorophenyl)methyl]indazole-3-carbonyl]amino]-3-methylbutanoate",
+    "ethyl(1-(4-fluorobenzyl)-1H-indazole-3-carbonyl)-L-valinate",
+    "SCHEMBL30641077",
+    "NS00018118",
+    "ethyl [1-(4-fluorobenzyl)-1h-indazole-3-carbonyl]valinate",
+    "ethyl (2S)-2-[[1-[(4-fluorophenyl)methyl]indazole-3-carbonyl]amino]-3-methyl-butanoate"
+  ]
 }

@@ -1,12 +1,25 @@
 {
   "id": "edmb-pinaca",
   "common_name": "EDMB-PINACA",
-  "systematic name": "echiru=3,3-jimechiru-2-(1-pe nchiru-1H-indazo-ru-3-karu bokisamido)butanoa-to",
-  "aliases": [],
+  "systematic name": "ethyl (2S)-3,3-dimethyl-2-[(1-pentylindazole-3-carbonyl)amino]butanoate",
+  "aliases": [
+    "Edmb-pinaca",
+    "G5GCH8G2J3",
+    "Edmb-pinaca [NFLIS-DRUG]",
+    "L-Valine, 3-methyl-N-((1-pentyl-1H-indazol-3-yl)carbonyl)-, ethyl ester",
+    "EDMB-PINACA (NFLIS-DRUG)",
+    "RefChem:200757",
+    "UNII-G5GCH8G2J3",
+    "SCHEMBL24221986",
+    "DTXSID301038277",
+    "Ethyl (S)-3,3-dimethyl-2-(1-pentyl-1H-indazole-3-carboxamido)butanoate"
+  ],
   "identifiers": {
     "pubchem_cid": "163203511",
     "inchi_key": "HKKKXLZFEZHHFC-GOSISDBHSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "HKKKXLZFEZHHFC-GOSISDBHSA-N",
+    "pubchemCID": "163203511"
   },
   "categories": [],
   "legal": {
@@ -33,5 +46,26 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/163203511"
+  ],
+  "molecular_formula": "C21H31N3O3",
+  "molecular_weight": "373.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "ethyl (2S)-3,3-dimethyl-2-[(1-pentylindazole-3-carbonyl)amino]butanoate",
+  "synonyms_pubchem": [
+    "Edmb-pinaca",
+    "G5GCH8G2J3",
+    "Edmb-pinaca [NFLIS-DRUG]",
+    "2666934-55-8",
+    "L-Valine, 3-methyl-N-((1-pentyl-1H-indazol-3-yl)carbonyl)-, ethyl ester",
+    "EDMB-PINACA (NFLIS-DRUG)",
+    "RefChem:200757",
+    "UNII-G5GCH8G2J3",
+    "SCHEMBL24221986",
+    "DTXSID301038277",
+    "Ethyl (S)-3,3-dimethyl-2-(1-pentyl-1H-indazole-3-carboxamido)butanoate"
+  ]
 }

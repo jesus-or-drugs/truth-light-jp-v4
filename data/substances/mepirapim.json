@@ -1,12 +1,25 @@
 {
   "id": "mepirapim",
   "common_name": "MEPIRAPIM",
-  "systematic name": "(4-mechirupiperajin-1-iru)(1- penchiru-1H-indo-ru-3-i ru)metanon",
-  "aliases": [],
+  "systematic name": "(4-methylpiperazin-1-yl)-(1-pentylindol-3-yl)methanone",
+  "aliases": [
+    "MEPIRAPIM",
+    "W6OZW1T05K",
+    "(4-methylpiperazin-1-yl)(1-pentyl-1h-indol-3-yl)methanone",
+    "RefChem:156516",
+    "UNII-W6OZW1T05K",
+    "Mepirapim (hydrochloride)",
+    "SCHEMBL25367671",
+    "DTXSID901032510",
+    "NS00017541",
+    "Q20707101"
+  ],
   "identifiers": {
     "pubchem_cid": "101896603",
     "inchi_key": "IUEFFEOHJKCBPF-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "IUEFFEOHJKCBPF-UHFFFAOYSA-N",
+    "pubchemCID": "101896603"
   },
   "categories": [],
   "legal": {
@@ -33,5 +46,26 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/101896603"
+  ],
+  "molecular_formula": "C19H27N3O",
+  "molecular_weight": "313.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "(4-methylpiperazin-1-yl)-(1-pentylindol-3-yl)methanone",
+  "synonyms_pubchem": [
+    "MEPIRAPIM",
+    "W6OZW1T05K",
+    "(4-methylpiperazin-1-yl)(1-pentyl-1h-indol-3-yl)methanone",
+    "2365542-29-4",
+    "RefChem:156516",
+    "UNII-W6OZW1T05K",
+    "Mepirapim (hydrochloride)",
+    "SCHEMBL25367671",
+    "DTXSID901032510",
+    "NS00017541",
+    "Q20707101"
+  ]
 }

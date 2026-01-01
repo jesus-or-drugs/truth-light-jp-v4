@@ -1,12 +1,27 @@
 {
   "id": "cumyl-cbmica",
   "common_name": "CUMYL-CBMICA",
-  "systematic name": "1-(shikurobuchirumechiru)-N-(2- phenylpuropan-2-iru)-1H-i ndo-ru-3-karubokisamido",
-  "aliases": [],
+  "systematic name": "1-(cyclobutylmethyl)-N-(2-phenylpropan-2-yl)indole-3-carboxamide",
+  "aliases": [
+    "Cumyl-cbmica",
+    "GPD3YVJ5RT",
+    "SGT-280",
+    "SGT280",
+    "DTXSID001336648",
+    "RefChem:128789",
+    "DTXCID401766887",
+    "UNII-GPD3YVJ5RT",
+    "1H-Indole-3-carboxamide, 1-(cyclobutylmethyl)-N-(1-methyl-1-phenylethyl)-",
+    "1-(Cyclobutylmethyl)-N-(2-phenylpropan-2-yl)-1H-indole-3-carboxamide",
+    "SCHEMBL24222021",
+    "GLXC-26651"
+  ],
   "identifiers": {
     "pubchem_cid": "155884426",
     "inchi_key": "INXXQNIOWMOYEJ-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "INXXQNIOWMOYEJ-UHFFFAOYSA-N",
+    "pubchemCID": "155884426"
   },
   "categories": [],
   "legal": {
@@ -33,5 +48,28 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/155884426"
+  ],
+  "molecular_formula": "C23H26N2O",
+  "molecular_weight": "346.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(cyclobutylmethyl)-N-(2-phenylpropan-2-yl)indole-3-carboxamide",
+  "synonyms_pubchem": [
+    "Cumyl-cbmica",
+    "GPD3YVJ5RT",
+    "SGT-280",
+    "SGT280",
+    "2571070-88-5",
+    "DTXSID001336648",
+    "RefChem:128789",
+    "DTXCID401766887",
+    "UNII-GPD3YVJ5RT",
+    "1H-Indole-3-carboxamide, 1-(cyclobutylmethyl)-N-(1-methyl-1-phenylethyl)-",
+    "1-(Cyclobutylmethyl)-N-(2-phenylpropan-2-yl)-1H-indole-3-carboxamide",
+    "SCHEMBL24222021",
+    "GLXC-26651"
+  ]
 }

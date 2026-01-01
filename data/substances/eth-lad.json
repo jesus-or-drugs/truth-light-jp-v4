@@ -1,12 +1,34 @@
 {
   "id": "eth-lad",
   "common_name": "ETH-LAD",
-  "systematic name": "N,N-jiechiru-7-echiru-4,6, 6a,7,8,9-hekisahidoroindoro[4, 3-fg]kinorin-9-karubokisamido及 びその salts",
-  "aliases": [],
+  "systematic name": "(6aR,9R)-N,N,7-triethyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",
+  "aliases": [
+    "ETH-LAD",
+    "N-EthylnorLSD",
+    "N-Ethylnorlysergic acid N,N-diethylamide",
+    "21Z2736X9Q",
+    "6-Ethyl-6-nor-lysergic acid diethylamide",
+    "6-ETHYL-6-NOR-LSD",
+    "DTXSID90215823",
+    "ERGOLINE-8-CARBOXAMIDE, 9,10-DIDEHYDRO-N,N,6-TRIETHYL-, (8.BETA.)-",
+    "RefChem:830005",
+    "DTXCID20138314",
+    "ERGOLINE-8-CARBOXAMIDE, 9,10-DIDEHYDRO-N,N,6-TRIETHYL-, (8BETA)-",
+    "UNII-21Z2736X9Q",
+    "N-Ethyl Norlysergic Acid N,N-Diethylamide",
+    "ETH-LAD (solution)",
+    "CHEMBL22694",
+    "orb2814680",
+    "SCHEMBL20970885",
+    "Ergoline-8-carboxamide, 9,10-didehydro-N,N,6-triethyl-, (8b)-",
+    "Q5324462"
+  ],
   "identifiers": {
     "pubchem_cid": "44457783",
     "inchi_key": "MYNOUXJLOHVSMQ-DNVCBOLYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "MYNOUXJLOHVSMQ-DNVCBOLYSA-N",
+    "pubchemCID": "44457783"
   },
   "categories": [],
   "legal": {
@@ -33,5 +55,39 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/44457783"
+  ],
+  "molecular_formula": "C21H27N3O",
+  "molecular_weight": "337.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "(6aR,9R)-N,N,7-triethyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",
+  "synonyms_pubchem": [
+    "65527-62-0",
+    "ETH-LAD",
+    "N-EthylnorLSD",
+    "N-Ethylnorlysergic acid N,N-diethylamide",
+    "21Z2736X9Q",
+    "6-Ethyl-6-nor-lysergic acid diethylamide",
+    "6-ETHYL-6-NOR-LSD",
+    "DTXSID90215823",
+    "(6aR,9R)-N,N,7-triethyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",
+    "ERGOLINE-8-CARBOXAMIDE, 9,10-DIDEHYDRO-N,N,6-TRIETHYL-, (8.BETA.)-",
+    "(6aR,9R)-N,N,7-triethyl-6,6a,8,9-tetrahydro-4H-indolo(4,3-fg)quinoline-9-carboxamide",
+    "RefChem:830005",
+    "DTXCID20138314",
+    "ERGOLINE-8-CARBOXAMIDE, 9,10-DIDEHYDRO-N,N,6-TRIETHYL-, (8BETA)-",
+    "976-601-5",
+    "UNII-21Z2736X9Q",
+    "N-Ethyl Norlysergic Acid N,N-Diethylamide",
+    "ETH-LAD (solution)",
+    "(8ss)-9,10-Didehydro-N,N,6-triethylergoline-8-carboxamide; N-EthylnorLSD; N-Ethylnorlysergic Acid N,N-diethylamide;",
+    "CHEMBL22694",
+    "orb2814680",
+    "SCHEMBL20970885",
+    "Ergoline-8-carboxamide, 9,10-didehydro-N,N,6-triethyl-, (8b)-",
+    "Q5324462"
+  ]
 }

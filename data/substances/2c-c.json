@@ -1,12 +1,40 @@
 {
   "id": "2c-c",
   "common_name": "2C-C",
-  "systematic name": "2-(4-kuroro-2,5-jimethoxyfe niru)etanamine",
-  "aliases": [],
+  "systematic name": "2-(4-chloro-2,5-dimethoxyphenyl)ethanamine",
+  "aliases": [
+    "2,5-Dimethoxy-4-chlorophenethylamine",
+    "RefChem:444456",
+    "2C-C",
+    "4-Chloro-2,5-dimethoxy-phenethylamine",
+    "UNII-0RO7MZY2LS",
+    "1-(4-Chloro-2,5-dimethoxyphenyl)-2-aminoethane",
+    "0RO7MZY2LS",
+    "2-(4-chloro-2,5-dimethoxyphenyl)ethanamine",
+    "CHEMBL124733",
+    "DEA No. 7519",
+    "1-(4-Chloro-2,5-dimethoxyphenyl)-2-ethanamine",
+    "4-chloro-2,5-dimethoxyphenethylamine",
+    "Benzeneethanamine, 4-chloro-2,5-dimethoxy-",
+    "2,5-di-meo-4-cl-pea",
+    "SCHEMBL1048327",
+    "SCHEMBL29529162",
+    "DTXSID80893699",
+    "CGKQFIWIPSIVAS-UHFFFAOYSA-N",
+    "BDBM50240789",
+    "2,5-Dimethoxy-4-chloro-phenethylamine",
+    "PD046577",
+    "2-(4-chloro-2,5-dimethoxyphenyl)ethylamine",
+    "NS00006466",
+    "2-(4-Chloro-2,5-dimethoxy-phenyl)-ethylamine",
+    "441C149"
+  ],
   "identifiers": {
     "pubchem_cid": "29979100",
     "inchi_key": "CGKQFIWIPSIVAS-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "CGKQFIWIPSIVAS-UHFFFAOYSA-N",
+    "pubchemCID": "29979100"
   },
   "categories": [],
   "legal": {
@@ -33,5 +61,41 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/29979100"
+  ],
+  "molecular_formula": "C10H14ClNO2",
+  "molecular_weight": "215.67",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(4-chloro-2,5-dimethoxyphenyl)ethanamine",
+  "synonyms_pubchem": [
+    "2,5-Dimethoxy-4-chlorophenethylamine",
+    "RefChem:444456",
+    "88441-14-9",
+    "2C-C",
+    "4-Chloro-2,5-dimethoxy-phenethylamine",
+    "UNII-0RO7MZY2LS",
+    "1-(4-Chloro-2,5-dimethoxyphenyl)-2-aminoethane",
+    "0RO7MZY2LS",
+    "2-(4-chloro-2,5-dimethoxyphenyl)ethanamine",
+    "CHEMBL124733",
+    "DEA No. 7519",
+    "1-(4-Chloro-2,5-dimethoxyphenyl)-2-ethanamine",
+    "4-chloro-2,5-dimethoxyphenethylamine",
+    "Benzeneethanamine, 4-chloro-2,5-dimethoxy-",
+    "2,5-di-meo-4-cl-pea",
+    "SCHEMBL1048327",
+    "SCHEMBL29529162",
+    "DTXSID80893699",
+    "CGKQFIWIPSIVAS-UHFFFAOYSA-N",
+    "BDBM50240789",
+    "2,5-Dimethoxy-4-chloro-phenethylamine",
+    "PD046577",
+    "2-(4-chloro-2,5-dimethoxyphenyl)ethylamine",
+    "NS00006466",
+    "2-(4-Chloro-2,5-dimethoxy-phenyl)-ethylamine",
+    "441C149"
+  ]
 }

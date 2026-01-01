@@ -1,12 +1,41 @@
 {
   "id": "4-oh-dipt",
   "common_name": "4-OH-DIPT",
-  "systematic name": "4-hidorokishi-N,N-jiisopropyl toriputamine",
-  "aliases": [],
+  "systematic name": "3-[2-[di(propan-2-yl)amino]ethyl]-1H-indol-4-ol",
+  "aliases": [
+    "4-Hydroxy-N,N-diisopropyltryptamine",
+    "4-HO-DiPT",
+    "Iprocin",
+    "n,n-diisopropyl-4-hydroxytryptamine",
+    "YG9OUS518B",
+    "4-OH-DIPT",
+    "UNII-YG9OUS518B",
+    "1H-Indol-4-ol, 3-[2-[bis(1-methylethyl)amino]ethyl]-",
+    "4-Hydroxy-diisopropyltryptamine",
+    "1H-Indol-4-ol, 3-(2-(bis(1-methylethyl)amino)ethyl)-",
+    "RefChem:161216",
+    "KBRYKXCBGISXQV-UHFFFAOYSA-N",
+    "3-(2-(Diisopropylamino)ethyl)-1H-indol-4-ol",
+    "3-[2-[di(propan-2-yl)amino]ethyl]-1H-indol-4-ol",
+    "3-{2-[bis(propan-2-yl)amino]ethyl}-1H-indol-4-ol",
+    "3-{2-[Di(propan-2-yl)amino]ethyl}-1H-indol-4-ol",
+    "SCHEMBL4216851",
+    "SCHEMBL29402695",
+    "DTXSID50618836",
+    "AKOS015914358",
+    "EN-0005",
+    "PD048734",
+    "NS00017620",
+    "328H451",
+    "Q229960",
+    "3-[2-[Bis(1-methylethyl)amino]ethyl]-1H-indol-4-ol"
+  ],
   "identifiers": {
     "pubchem_cid": "21854225",
     "inchi_key": "KBRYKXCBGISXQV-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "KBRYKXCBGISXQV-UHFFFAOYSA-N",
+    "pubchemCID": "21854225"
   },
   "categories": [],
   "legal": {
@@ -33,5 +62,43 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/21854225"
+  ],
+  "molecular_formula": "C16H24N2O",
+  "molecular_weight": "260.37",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "3-[2-[di(propan-2-yl)amino]ethyl]-1H-indol-4-ol",
+  "synonyms_pubchem": [
+    "132328-45-1",
+    "4-Hydroxy-N,N-diisopropyltryptamine",
+    "4-HO-DiPT",
+    "Iprocin",
+    "n,n-diisopropyl-4-hydroxytryptamine",
+    "YG9OUS518B",
+    "4-OH-DIPT",
+    "UNII-YG9OUS518B",
+    "1H-Indol-4-ol, 3-[2-[bis(1-methylethyl)amino]ethyl]-",
+    "4-Hydroxy-diisopropyltryptamine",
+    "1H-Indol-4-ol, 3-(2-(bis(1-methylethyl)amino)ethyl)-",
+    "RefChem:161216",
+    "KBRYKXCBGISXQV-UHFFFAOYSA-N",
+    "3-(2-(Diisopropylamino)ethyl)-1H-indol-4-ol",
+    "3-[2-[di(propan-2-yl)amino]ethyl]-1H-indol-4-ol",
+    "3-{2-[bis(propan-2-yl)amino]ethyl}-1H-indol-4-ol",
+    "3-{2-[Di(propan-2-yl)amino]ethyl}-1H-indol-4-ol",
+    "SCHEMBL4216851",
+    "SCHEMBL29402695",
+    "DTXSID50618836",
+    "AKOS015914358",
+    "EN-0005",
+    "PD048734",
+    "NS00017620",
+    "328H451",
+    "Q229960",
+    "3-[2-[Bis(1-methylethyl)amino]ethyl]-1H-indol-4-ol",
+    "3-(2-(Diisopropylamino)ethyl)-1H-indol-4-ol; 1H-Indol-4-ol, 3-[2-[bis(1-methylethyl)amino]ethyl]-; 3-[2-[Bis(1-methylethyl)amino]ethyl]-1H-indol-4-ol; 4-Hydroxy-N,N-diisopropyltryptamine; N,N-Diisopropyl-4-hydroxytryptamine; 4HO-DIPT"
+  ]
 }

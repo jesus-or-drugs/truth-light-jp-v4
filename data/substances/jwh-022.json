@@ -1,12 +1,34 @@
 {
   "id": "jwh-022",
   "common_name": "JWH-022",
-  "systematic name": "nafutaren-1-iru[1-(pento-4 -en-1-iru)-1H-indo-ru -3-iru]metanon",
-  "aliases": [],
+  "systematic name": "naphthalen-1-yl-(1-pent-4-enylindol-3-yl)methanone",
+  "aliases": [
+    "JWH-022",
+    "1-(4-Pentenyl)-3-(1-naphthoyl)indole",
+    "ZA9G132G9T",
+    "UNII-ZA9G132G9T",
+    "DTXSID501016344",
+    "Methanone, 1-naphthalenyl(1-(4-penten-1-yl)-1H-indol-3-yl)-",
+    "RefChem:150673",
+    "DTXCID501474514",
+    "JWH 022",
+    "Naphthalen-1-yl-(1-pent-4-enylindol-3-yl)methanone",
+    "naphthalen-1-yl(1-(pent-4-en-1-yl)-1H-indol-3-yl)methanone",
+    "JWH022",
+    "SCHEMBL29361817",
+    "CHEBI:186087",
+    "JIA41416",
+    "AKOS040745918",
+    "NS00018384",
+    "Q27295227",
+    "(1-(4-pentenyl)-1h-indol-3-yl)(naphthalen-1-yl)methanone"
+  ],
   "identifiers": {
     "pubchem_cid": "91936930",
     "inchi_key": "IVVCMEGHVSDGFJ-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "IVVCMEGHVSDGFJ-UHFFFAOYSA-N",
+    "pubchemCID": "91936930"
   },
   "categories": [],
   "legal": {
@@ -33,5 +55,35 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/91936930"
+  ],
+  "molecular_formula": "C24H21NO",
+  "molecular_weight": "339.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "naphthalen-1-yl-(1-pent-4-enylindol-3-yl)methanone",
+  "synonyms_pubchem": [
+    "JWH-022",
+    "209414-16-4",
+    "1-(4-Pentenyl)-3-(1-naphthoyl)indole",
+    "ZA9G132G9T",
+    "UNII-ZA9G132G9T",
+    "DTXSID501016344",
+    "Methanone, 1-naphthalenyl(1-(4-penten-1-yl)-1H-indol-3-yl)-",
+    "RefChem:150673",
+    "DTXCID501474514",
+    "JWH 022",
+    "Naphthalen-1-yl-(1-pent-4-enylindol-3-yl)methanone",
+    "naphthalen-1-yl(1-(pent-4-en-1-yl)-1H-indol-3-yl)methanone",
+    "JWH022",
+    "SCHEMBL29361817",
+    "CHEBI:186087",
+    "JIA41416",
+    "AKOS040745918",
+    "NS00018384",
+    "Q27295227",
+    "(1-(4-pentenyl)-1h-indol-3-yl)(naphthalen-1-yl)methanone"
+  ]
 }

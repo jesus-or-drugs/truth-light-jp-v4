@@ -1,14 +1,40 @@
 {
   "id": "5-api",
   "common_name": "5-API",
-  "systematic name": "1-(1H-indo-ru-5-iru)puro pan-2-amine",
+  "systematic name": "1-(1H-indol-5-yl)propan-2-amine",
   "aliases": [
-    "5-IT"
+    "5-(2-Aminopropyl)indole",
+    "5-API",
+    "W98BOE73HH",
+    "PAL-571",
+    "RefChem:555821",
+    "alpha-Methyl-1H-indole-5-ethanamine",
+    "5-Aminopropylindole",
+    "1-(1H-indol-5-yl)propan-2-amine",
+    "5-IT",
+    "UNII-W98BOE73HH",
+    "5-Aminopropylindole (1.0 mg/ml in Acetonitrile)",
+    "orb2814511",
+    "SCHEMBL2553783",
+    "DTXSID30873562",
+    "AULGMISRJWGTBA-UHFFFAOYSA-N",
+    "5-(2-AMINOPROPYL) INDOLE",
+    "AKOS006288221",
+    "INDOLE, 5-(2-AMINOPROPYL)-",
+    "HY-59059",
+    "PD019307",
+    "NS00007085",
+    "5-Aminopropylindole (1 mg/ml in Acetonitrile)",
+    "1H-INDOLE-5-ETHANAMINE, .ALPHA.-METHYL-",
+    "Q4639556",
+    "5-(2-Aminopropyl)indole; ?-Methyl-1H-indole-5-ethanamine; 5-IT;"
   ],
   "identifiers": {
     "pubchem_cid": "55253543",
     "inchi_key": "AULGMISRJWGTBA-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "AULGMISRJWGTBA-UHFFFAOYSA-N",
+    "pubchemCID": "55253543"
   },
   "categories": [],
   "legal": {
@@ -35,5 +61,42 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/55253543"
+  ],
+  "molecular_formula": "C11H14N2",
+  "molecular_weight": "174.24",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(1H-indol-5-yl)propan-2-amine",
+  "synonyms_pubchem": [
+    "5-(2-Aminopropyl)indole",
+    "3784-30-3",
+    "5-API",
+    "W98BOE73HH",
+    "PAL-571",
+    "RefChem:555821",
+    "alpha-Methyl-1H-indole-5-ethanamine",
+    "5-Aminopropylindole",
+    "1-(1H-indol-5-yl)propan-2-amine",
+    "5-IT",
+    "UNII-W98BOE73HH",
+    "5-Aminopropylindole (1.0 mg/ml in Acetonitrile)",
+    "5-IT; 5-API; 5-(2-Aminopropyl)indole; alpha-Methyl-1H-indole-5-ethanamine; 5-(2-Aminopropyl)-indole; 5-Aminopropylindole",
+    "orb2814511",
+    "SCHEMBL2553783",
+    "DTXSID30873562",
+    "AULGMISRJWGTBA-UHFFFAOYSA-N",
+    "5-(2-AMINOPROPYL) INDOLE",
+    "AKOS006288221",
+    "INDOLE, 5-(2-AMINOPROPYL)-",
+    "HY-59059",
+    "PD019307",
+    "NS00007085",
+    "5-Aminopropylindole (1 mg/ml in Acetonitrile)",
+    "1H-INDOLE-5-ETHANAMINE, .ALPHA.-METHYL-",
+    "Q4639556",
+    "5-(2-Aminopropyl)indole; ?-Methyl-1H-indole-5-ethanamine; 5-IT;"
+  ]
 }

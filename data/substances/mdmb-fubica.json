@@ -1,12 +1,22 @@
 {
   "id": "mdmb-fubica",
   "common_name": "MDMB-FUBICA",
-  "systematic name": "mechiru=2―[1―(4-furuorobenji ru)―1H―indo-ru―3―karuboki samido]―3,3―jimechirubutanoa-to及 びその salts",
-  "aliases": [],
+  "systematic name": "methyl (2S)-2-[[1-[(4-fluorophenyl)methyl]indole-3-carbonyl]amino]-3,3-dimethylbutanoate",
+  "aliases": [
+    "MDMB-FUBICA",
+    "K53ZMB4NR6",
+    "RefChem:156163",
+    "UNII-K53ZMB4NR6",
+    "orb2945204",
+    "HY-168750",
+    "NS00096670"
+  ],
   "identifiers": {
     "pubchem_cid": "129522107",
     "inchi_key": "RVAWIZIGOSKPBP-HXUWFJFHSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "RVAWIZIGOSKPBP-HXUWFJFHSA-N",
+    "pubchemCID": "129522107"
   },
   "categories": [],
   "legal": {
@@ -33,5 +43,31 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/129522107"
+  ],
+  "molecular_formula": "C23H25FN2O3",
+  "molecular_weight": "396.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "methyl (2S)-2-[[1-[(4-fluorophenyl)methyl]indole-3-carbonyl]amino]-3,3-dimethylbutanoate",
+  "synonyms_pubchem": [
+    "MDMB-FUBICA",
+    "K53ZMB4NR6",
+    "L-Valine, N-((1-((4-fluorophenyl)methyl)-1H-indol-3-yl)carbonyl)-3-methyl-, methyl ester",
+    "N-((1-((4-Fluorophenyl)methyl)-1H-indol-3-yl)carbonyl)-3-methyl-L-valine methyl ester",
+    "N-[[1-[(4-Fluorophenyl)methyl]-1H-indol-3-yl]carbonyl]-3-methyl-L-valine methyl ester",
+    "RefChem:156163",
+    "1971007-91-6",
+    "UNII-K53ZMB4NR6",
+    "N-[[1-[(4-fluorophenyl)methyl]-1H-indol-3-yl]carbonyl]-3-methyl-L-valine,methylester",
+    "methyl (2S)-2-[[1-[(4-fluorophenyl)methyl]indole-3-carbonyl]amino]-3,3-dimethylbutanoate",
+    "orb2945204",
+    "N-[[1-[(4-fluorophenyl)methyl]-1H-indol-3-yl]carbonyl]-3-methyl-L-valine, methyl ester",
+    "HY-168750",
+    "NS00096670",
+    "methyl (2S)-2-[[1-[(4-fluorophenyl)methyl]indole-3-carbonyl]amino]-3,3-dimethyl-butanoate",
+    "methyl (2s)-2-({1-[(4-fluorophenyl)methyl]-1h-indole-3-carbonyl}amino)-3,3-dimethylbutanoate"
+  ]
 }

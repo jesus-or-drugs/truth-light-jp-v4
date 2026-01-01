@@ -1,12 +1,19 @@
 {
   "id": "4f-octedrone",
   "common_name": "4F-Octedrone",
-  "systematic name": "",
-  "aliases": [],
+  "systematic name": "1-(4-fluorophenyl)-2-(methylamino)octan-1-one",
+  "aliases": [
+    "4F-OCTEDRONE",
+    "4-FLUOROOCTEDRONE",
+    "PW6Q3B2XB5",
+    "1-(4-FLUOROPHENYL)-2-(METHYLAMINO)OCTAN-1-ONE"
+  ],
   "identifiers": {
     "pubchem_cid": "165412099",
     "inchi_key": "PCVBISJRIYDMIU-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "PCVBISJRIYDMIU-UHFFFAOYSA-N",
+    "pubchemCID": "165412099"
   },
   "categories": [],
   "legal": {
@@ -33,5 +40,19 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/165412099"
+  ],
+  "molecular_formula": "C15H22FNO",
+  "molecular_weight": "251.34",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "1-(4-fluorophenyl)-2-(methylamino)octan-1-one",
+  "synonyms_pubchem": [
+    "4F-OCTEDRONE",
+    "4-FLUOROOCTEDRONE",
+    "PW6Q3B2XB5",
+    "1-(4-FLUOROPHENYL)-2-(METHYLAMINO)OCTAN-1-ONE"
+  ]
 }

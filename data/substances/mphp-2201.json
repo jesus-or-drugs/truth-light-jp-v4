@@ -1,12 +1,28 @@
 {
   "id": "mphp-2201",
   "common_name": "MPHP-2201",
-  "systematic name": "mechiru=2-[1-(5-furuoropenchi ru)-1H-indo-ru-3-karuboki samido]-3-phenylpuropanoa-to及 びその salts",
-  "aliases": [],
+  "systematic name": "methyl 2-[[1-(5-fluoropentyl)indole-3-carbonyl]amino]-3-phenylpropanoate",
+  "aliases": [
+    "5F-MPHP-PICA",
+    "5F-MPP-PICA",
+    "W0S3GDH5Z5",
+    "MPHP-2201",
+    "5F-MPP-PICA [NFLIS-DRUG]",
+    "5F-MPP-PICA (NFLIS-DRUG)",
+    "METHYL (1-(5-FLUOROPENTYL)-1H-INDOLE-3-CARBONYL) PHENYLALANINATE",
+    "METHYL 2-((1-(5-FLUOROPENTYL)INDOLE-3-CARBONYL)AMINO)-3-PHENYLPROPANOATE",
+    "RefChem:199012",
+    "5-Fluoro-MPhP-PICA",
+    "Methyl 2-(1-(5-Fluoropentyl)-1H-indole-3-carboxamido)-3-phenylpropanoate",
+    "SCHEMBL31571486",
+    "PD088782"
+  ],
   "identifiers": {
     "pubchem_cid": "165412024",
     "inchi_key": "GZGBNOYVLYYYCZ-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "GZGBNOYVLYYYCZ-UHFFFAOYSA-N",
+    "pubchemCID": "165412024"
   },
   "categories": [],
   "legal": {
@@ -33,5 +49,28 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/165412024"
+  ],
+  "molecular_formula": "C24H27FN2O3",
+  "molecular_weight": "410.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "methyl 2-[[1-(5-fluoropentyl)indole-3-carbonyl]amino]-3-phenylpropanoate",
+  "synonyms_pubchem": [
+    "5F-MPHP-PICA",
+    "5F-MPP-PICA",
+    "W0S3GDH5Z5",
+    "MPHP-2201",
+    "5F-MPP-PICA [NFLIS-DRUG]",
+    "5F-MPP-PICA (NFLIS-DRUG)",
+    "METHYL (1-(5-FLUOROPENTYL)-1H-INDOLE-3-CARBONYL) PHENYLALANINATE",
+    "METHYL 2-((1-(5-FLUOROPENTYL)INDOLE-3-CARBONYL)AMINO)-3-PHENYLPROPANOATE",
+    "RefChem:199012",
+    "5-Fluoro-MPhP-PICA",
+    "Methyl 2-(1-(5-Fluoropentyl)-1H-indole-3-carboxamido)-3-phenylpropanoate",
+    "SCHEMBL31571486",
+    "PD088782"
+  ]
 }

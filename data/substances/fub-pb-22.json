@@ -1,12 +1,40 @@
 {
   "id": "fub-pb-22",
   "common_name": "FUB-PB-22",
-  "systematic name": "kinorin-8-iru=1-(4-furuoro benzylu)-1H-indo-ru-3-ka rubokishira-to",
-  "aliases": [],
+  "systematic name": "quinolin-8-yl 1-[(4-fluorophenyl)methyl]indole-3-carboxylate",
+  "aliases": [
+    "FUB-PB-22 compound",
+    "RefChem:921883",
+    "quinolin-8-yl 1-((4-fluorophenyl)methyl)-1H-indole-3-carboxylate",
+    "FUB-PB-22",
+    "DS46154N3F",
+    "J3.314.547K",
+    "UNII-DS46154N3F",
+    "quinolin-8-yl 1-[(4-fluorophenyl)methyl]indole-3-carboxylate",
+    "1-(4-Fluorobenzyl)-1H-indole-3-carboxylic acid 8-quinolyl ester",
+    "Quinolin-8-yl 1-(4-fluorobenzyl)-1H-indole-3-carboxylate",
+    "1H-Indole-3-carboxylic acid, 1-((4-fluorophenyl)methyl)-, 8-quinolinyl ester",
+    "quinolin-8-yl-1-(4-fluorobenzyl)-1h-indole-3-carboxylate",
+    "FUB-PB-22 (1.0 mg/mL in Methanol)",
+    "1h-indole-3-carboxylic acid, 1-[(4-fluorophenyl)methyl]-, 8-quinolinyl ester",
+    "SCHEMBL29871483",
+    "C25H17FN2O2",
+    "CHEBI:183979",
+    "DTXSID601016909",
+    "MFCD29036741",
+    "FUB-PB-22 (1 mg/mL in Methanol)",
+    "NS00017663",
+    "Q21098947",
+    "8-quinolyl 1-[(4-fluorophenyl)methyl]indole-3-carboxylate",
+    "quinolin-8-yl 1-[(4-luorophenyl)methyl]indole-3-carboxylate",
+    "8-Quinolinyl 1-[(4-fluorophenyl)methyl]-1H-indole-3-carboxylate"
+  ],
   "identifiers": {
     "pubchem_cid": "91936864",
     "inchi_key": "ROHVURVXAOMRJY-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "ROHVURVXAOMRJY-UHFFFAOYSA-N",
+    "pubchemCID": "91936864"
   },
   "categories": [],
   "legal": {
@@ -33,5 +61,42 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/91936864"
+  ],
+  "molecular_formula": "C25H17FN2O2",
+  "molecular_weight": "396.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "quinolin-8-yl 1-[(4-fluorophenyl)methyl]indole-3-carboxylate",
+  "synonyms_pubchem": [
+    "FUB-PB-22 compound",
+    "RefChem:921883",
+    "quinolin-8-yl 1-((4-fluorophenyl)methyl)-1H-indole-3-carboxylate",
+    "FUB-PB-22",
+    "1800098-36-5",
+    "DS46154N3F",
+    "J3.314.547K",
+    "UNII-DS46154N3F",
+    "quinolin-8-yl 1-[(4-fluorophenyl)methyl]indole-3-carboxylate",
+    "1-(4-Fluorobenzyl)-1H-indole-3-carboxylic acid 8-quinolyl ester",
+    "Quinolin-8-yl 1-(4-fluorobenzyl)-1H-indole-3-carboxylate",
+    "1H-Indole-3-carboxylic acid, 1-((4-fluorophenyl)methyl)-, 8-quinolinyl ester",
+    "quinolin-8-yl-1-(4-fluorobenzyl)-1h-indole-3-carboxylate",
+    "FUB-PB-22 (1.0 mg/mL in Methanol)",
+    "1h-indole-3-carboxylic acid, 1-[(4-fluorophenyl)methyl]-, 8-quinolinyl ester",
+    "SCHEMBL29871483",
+    "C25H17FN2O2",
+    "CHEBI:183979",
+    "DTXSID601016909",
+    "MFCD29036741",
+    "FUB-PB-22 (1 mg/mL in Methanol)",
+    "NS00017663",
+    "Q21098947",
+    "8-quinolyl 1-[(4-fluorophenyl)methyl]indole-3-carboxylate",
+    "quinolin-8-yl 1-[(4-luorophenyl)methyl]indole-3-carboxylate",
+    "8-Quinolinyl 1-[(4-fluorophenyl)methyl]-1H-indole-3-carboxylate",
+    "FUB-PB-22; 1H-Indole-3-carboxylic acid, 1-[(4-fluorophenyl)methyl]-, 8-quinolinyl ester; Quinolin-8-yl{1-[(4-fluorophenyl)methyl]-1H-indol-3-carboxylate}"
+  ]
 }

@@ -1,12 +1,42 @@
 {
   "id": "4-aco-dmt",
   "common_name": "4-AcO-DMT",
-  "systematic name": "4-acetoxy-N,N-jimechirutoripu tamine",
-  "aliases": [],
+  "systematic name": "[3-[2-(dimethylamino)ethyl]-1H-indol-4-yl] acetate",
+  "aliases": [
+    "O-Acetylpsilocin",
+    "Psilacetin",
+    "4-acetoxy-DMT",
+    "UNII-8BLF220HX1",
+    "3-(2-(Dimethylamino)ethyl)-1H-indol-4-yl acetate",
+    "O-ACETYL-PSILOCIN",
+    "DTXSID30238955",
+    "3-[2-(Dimethylamino)ethyl]-1H-indol-4-yl acetate",
+    "1H-INDOL-4-OL, 3-(2-(DIMETHYLAMINO)ETHYL)-, 4-ACETATE",
+    "1H-Indol-4-ol, 3-[2-(dimethylamino)ethyl]-, 4-acetate",
+    "RefChem:167130",
+    "4-acetoxy-dimethyltryptamine",
+    "DTXCID80161446",
+    "4-ACETOXY-N,N-DIMETHYLTRYPTAMINE",
+    "4-AcO-DMT",
+    "[3-[2-(dimethylamino)ethyl]-1H-indol-4-yl] acetate",
+    "8BLF220HX1",
+    "3-[2-(dimethylamino)ethyl]-Indol-4-ol Acetate;",
+    "SCHEMBL4225666",
+    "SCHEMBL29400156",
+    "AKOS025149599",
+    "EN-0012",
+    "PD047343",
+    "DB-023311",
+    "NS00017629",
+    "F15174",
+    "Q3491364"
+  ],
   "identifiers": {
     "pubchem_cid": "15429212",
     "inchi_key": "RTLRUOSYLFOFHV-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "RTLRUOSYLFOFHV-UHFFFAOYSA-N",
+    "pubchemCID": "15429212"
   },
   "categories": [],
   "legal": {
@@ -33,5 +63,43 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/15429212"
+  ],
+  "molecular_formula": "C14H18N2O2",
+  "molecular_weight": "246.30",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "[3-[2-(dimethylamino)ethyl]-1H-indol-4-yl] acetate",
+  "synonyms_pubchem": [
+    "O-Acetylpsilocin",
+    "Psilacetin",
+    "4-acetoxy-DMT",
+    "UNII-8BLF220HX1",
+    "3-(2-(Dimethylamino)ethyl)-1H-indol-4-yl acetate",
+    "O-ACETYL-PSILOCIN",
+    "DTXSID30238955",
+    "3-[2-(Dimethylamino)ethyl]-1H-indol-4-yl acetate",
+    "1H-INDOL-4-OL, 3-(2-(DIMETHYLAMINO)ETHYL)-, 4-ACETATE",
+    "1H-Indol-4-ol, 3-[2-(dimethylamino)ethyl]-, 4-acetate",
+    "RefChem:167130",
+    "4-acetoxy-dimethyltryptamine",
+    "DTXCID80161446",
+    "4-ACETOXY-N,N-DIMETHYLTRYPTAMINE",
+    "92292-84-7",
+    "4-AcO-DMT",
+    "[3-[2-(dimethylamino)ethyl]-1H-indol-4-yl] acetate",
+    "8BLF220HX1",
+    "3-[2-(dimethylamino)ethyl]-Indol-4-ol Acetate;",
+    "SCHEMBL4225666",
+    "SCHEMBL29400156",
+    "AKOS025149599",
+    "EN-0012",
+    "PD047343",
+    "DB-023311",
+    "NS00017629",
+    "F15174",
+    "Q3491364"
+  ]
 }

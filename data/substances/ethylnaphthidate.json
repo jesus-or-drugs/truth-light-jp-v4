@@ -1,14 +1,25 @@
 {
   "id": "ethylnaphthidate",
   "common_name": "Ethylnaphthidate",
-  "systematic name": "2-(nafutaren-2-iru)-2-(pi perijin-2-iru) acetateechiruesute ru",
+  "systematic name": "ethyl 2-naphthalen-2-yl-2-piperidin-2-ylacetate",
   "aliases": [
-    "HDEP-28"
+    "ethylnaphthidate",
+    "HDEP-28",
+    "A8326SH248",
+    "ETHYL 2-(NAPHTHALEN-2-YL)-2-(PIPERIDIN-2-YL)ACETATE",
+    "RefChem:200895",
+    "HDEP-28 (ethylnaphthidate)",
+    "DTXSID601336139",
+    "PD044734",
+    "NS00098463",
+    "Q27273756"
   ],
   "identifiers": {
     "pubchem_cid": "91844468",
     "inchi_key": "OTQVTBPHZRARTL-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "OTQVTBPHZRARTL-UHFFFAOYSA-N",
+    "pubchemCID": "91844468"
   },
   "categories": [],
   "legal": {
@@ -35,5 +46,26 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/91844468"
+  ],
+  "molecular_formula": "C19H23NO2",
+  "molecular_weight": "297.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "ethyl 2-naphthalen-2-yl-2-piperidin-2-ylacetate",
+  "synonyms_pubchem": [
+    "ethylnaphthidate",
+    "HDEP-28",
+    "A8326SH248",
+    "ETHYL 2-(NAPHTHALEN-2-YL)-2-(PIPERIDIN-2-YL)ACETATE",
+    "RefChem:200895",
+    "HDEP-28 (ethylnaphthidate)",
+    "DTXSID601336139",
+    "PD044734",
+    "NS00098463",
+    "Q27273756",
+    "2170529-69-6"
+  ]
 }

@@ -1,12 +1,32 @@
 {
   "id": "jwh-213",
   "common_name": "JWH-213",
-  "systematic name": "(4-echirunafutaren-1-iru) (2-mechiru-1-penchiru-1H-i ndo-ru-3-iru)metanon",
-  "aliases": [],
+  "systematic name": "(4-ethylnaphthalen-1-yl)-(2-methyl-1-pentylindol-3-yl)methanone",
+  "aliases": [
+    "JWH-213",
+    "JWH 213",
+    "(4-ethylnaphthalen-1-yl)-(2-methyl-1-pentylindol-3-yl)methanone",
+    "UNII-4S7U3Q8S6W",
+    "4S7U3Q8S6W",
+    "CHEMBL564622",
+    "(4-ethyl-1-naphthalenyl)(2-methyl-1-pentyl-1h-indol-3-yl)methanone",
+    "Methanone, (4-ethyl-1-naphthalenyl)(2-methyl-1-pentyl-1H-indol-3-yl)-",
+    "JAVDQKMSPNBPCK-UHFFFAOYSA-N",
+    "SCHEMBL6331420",
+    "SCHEMBL29387479",
+    "DTXSID801016886",
+    "ZHB95983",
+    "BDBM50414036",
+    "NS00017610",
+    "(4-ethyl-1-naphthyl)-(2-methyl-1-pentyl-indol-3-yl)methanone",
+    "(4-ethyl-1-naphthalenyl)(2-methyl-1-pentyl-1H-indol-3-yl)-methanone"
+  ],
   "identifiers": {
     "pubchem_cid": "45268707",
     "inchi_key": "JAVDQKMSPNBPCK-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "JAVDQKMSPNBPCK-UHFFFAOYSA-N",
+    "pubchemCID": "45268707"
   },
   "categories": [],
   "legal": {
@@ -33,5 +53,33 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/45268707"
+  ],
+  "molecular_formula": "C27H29NO",
+  "molecular_weight": "383.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "(4-ethylnaphthalen-1-yl)-(2-methyl-1-pentylindol-3-yl)methanone",
+  "synonyms_pubchem": [
+    "JWH-213",
+    "824959-83-3",
+    "JWH 213",
+    "(4-ethylnaphthalen-1-yl)-(2-methyl-1-pentylindol-3-yl)methanone",
+    "UNII-4S7U3Q8S6W",
+    "4S7U3Q8S6W",
+    "CHEMBL564622",
+    "(4-ethyl-1-naphthalenyl)(2-methyl-1-pentyl-1h-indol-3-yl)methanone",
+    "Methanone, (4-ethyl-1-naphthalenyl)(2-methyl-1-pentyl-1H-indol-3-yl)-",
+    "JAVDQKMSPNBPCK-UHFFFAOYSA-N",
+    "SCHEMBL6331420",
+    "SCHEMBL29387479",
+    "DTXSID801016886",
+    "ZHB95983",
+    "BDBM50414036",
+    "NS00017610",
+    "(4-ethyl-1-naphthyl)-(2-methyl-1-pentyl-indol-3-yl)methanone",
+    "(4-ethyl-1-naphthalenyl)(2-methyl-1-pentyl-1H-indol-3-yl)-methanone"
+  ]
 }

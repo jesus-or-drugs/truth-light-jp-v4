@@ -1,14 +1,24 @@
 {
   "id": "amb-fubica",
   "common_name": "AMB-FUBICA",
-  "systematic name": "mechiru=2―[1―(4―furuorobenji ru)―1H―indo-ru―3―karuboki samido]―3―mechirubutanoa-to及びそ の salts",
+  "systematic name": "methyl (2S)-2-[[1-[(4-fluorophenyl)methyl]indole-3-carbonyl]amino]-3-methylbutanoate",
   "aliases": [
-    "MMB-FUBICA"
+    "MMB-FUBICA",
+    "RefChem:813133",
+    "N-[[1-[(4-fluorophenyl)methyl]-1H-indol-3-yl]carbonyl]-L-valine,methylester",
+    "AMB-FUBICA",
+    "ESG6Y9TL2F",
+    "DEA NO. 7095",
+    "Methyl 2-(1-(4-fluorobenzyl)-1H-indole-3-carboxamido)-3-methyl butanoate",
+    "L-Valine, N-[[1-[(4-fluorophenyl)methyl]-1H-indol-3-yl]carbonyl]-, methyl ester",
+    "N-[[1-[(4-Fluorophenyl)methyl]-1H-indol-3-yl]carbonyl]-L-valine methyl ester"
   ],
   "identifiers": {
     "pubchem_cid": "129522103",
     "inchi_key": "NYQOGZPXNJSYDW-FQEVSTJZSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "NYQOGZPXNJSYDW-FQEVSTJZSA-N",
+    "pubchemCID": "129522103"
   },
   "categories": [],
   "legal": {
@@ -35,5 +45,30 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/129522103"
+  ],
+  "molecular_formula": "C22H23FN2O3",
+  "molecular_weight": "382.4",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "methyl (2S)-2-[[1-[(4-fluorophenyl)methyl]indole-3-carbonyl]amino]-3-methylbutanoate",
+  "synonyms_pubchem": [
+    "MMB-FUBICA",
+    "RefChem:813133",
+    "Methyl 2-(1-(4-fluorobenzyl)-1H-indole-3-carboxamido)-3-methyl butanoate, its optical and geometric isomers, salts and salts of isomers (Other name: MMB-FUBICA)",
+    "1971007-90-5",
+    "N-[[1-[(4-fluorophenyl)methyl]-1H-indol-3-yl]carbonyl]-L-valine,methylester",
+    "methyl (2S)-2-[[1-[(4-fluorophenyl)methyl]indole-3-carbonyl]amino]-3-methylbutanoate",
+    "AMB-FUBICA",
+    "ESG6Y9TL2F",
+    "DEA NO. 7095",
+    "Methyl 2-(1-(4-fluorobenzyl)-1H-indole-3-carboxamido)-3-methyl butanoate",
+    "L-Valine, N-[[1-[(4-fluorophenyl)methyl]-1H-indol-3-yl]carbonyl]-, methyl ester",
+    "methyl (2s)-2-({1-[(4-fluorophenyl)methyl]-1h-indole-3-carbonyl}amino)-3-methylbutanoate",
+    "methyl (2S)-2-[[1-[(4-fluorophenyl)methyl]indole-3-carbonyl]amino]-3-methyl-butanoate",
+    "N-[[1-[(4-Fluorophenyl)methyl]-1H-indol-3-yl]carbonyl]-L-valine methyl ester",
+    "L-Valine, N-[[1-[(4-fluorophenyl)methyl]-1H-indol-3-yl]carbonyl]-, methyl ester; N-[[1-[(4-Fluorophenyl)methyl]-1H-indol-3-yl]carbonyl]-L-valine methyl ester; MMB-FUBICA; AMB-FUBICA"
+  ]
 }

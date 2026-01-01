@@ -1,14 +1,26 @@
 {
   "id": "4-fluorophenmetrazine",
   "common_name": "4-Fluorophenmetrazine",
-  "systematic name": "2-(4-furuorophenyl)-3-mechi rumoruforin",
+  "systematic name": "2-(4-fluorophenyl)-3-methylmorpholine",
   "aliases": [
-    "4-FPM"
+    "4-Fluorophenmetrazine",
+    "4-Fpm",
+    "AEU8Y7H4Q6",
+    "PAL-748",
+    "2-(4-fluorophenyl)-3-methylmorpholine",
+    "3-Methyl-(4-fluoro-2-phenyl)morpholine",
+    "Morpholine, 2-(4-fluorophenyl)-3-methyl-",
+    "RefChem:99037",
+    "UNII-AEU8Y7H4Q6",
+    "SCHEMBL2599478",
+    "DTXSID701341957"
   ],
   "identifiers": {
     "pubchem_cid": "43350789",
     "inchi_key": "CLXPYTBRAZHUFD-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "",
+    "inchikey": "CLXPYTBRAZHUFD-UHFFFAOYSA-N",
+    "pubchemCID": "43350789"
   },
   "categories": [],
   "legal": {
@@ -35,5 +47,27 @@
       "label": "",
       "url": ""
     }
-  }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/43350789"
+  ],
+  "molecular_formula": "C11H14FNO",
+  "molecular_weight": "195.23",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "2-(4-fluorophenyl)-3-methylmorpholine",
+  "synonyms_pubchem": [
+    "4-Fluorophenmetrazine",
+    "4-Fpm",
+    "AEU8Y7H4Q6",
+    "PAL-748",
+    "2-(4-fluorophenyl)-3-methylmorpholine",
+    "3-Methyl-(4-fluoro-2-phenyl)morpholine",
+    "Morpholine, 2-(4-fluorophenyl)-3-methyl-",
+    "1097796-73-0",
+    "RefChem:99037",
+    "UNII-AEU8Y7H4Q6",
+    "SCHEMBL2599478",
+    "DTXSID701341957"
+  ]
 }
