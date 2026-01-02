@@ -1,7 +1,7 @@
 export default defineAppConfig({
   truthlight: {
     site: {
-      name: 'Truth Light JP',
+      name: 'Truth Light',
       description: 'この日本で薬物依存症により苦しむ人をゼロにするハームリダクションサイト',
       ogImage: '/og-default.png'
     },
@@ -26,8 +26,8 @@ export default defineAppConfig({
         dropdownType: 'select',
       },
       logo: {
-        light: 'logo.png',
-        dark: 'logo-dark.png',
+        light: '/logo/Truth-Light_03_light.png',
+        dark: '/logo/Truth-Light_03_light.png',
       },
       border: false,
       nav: [
