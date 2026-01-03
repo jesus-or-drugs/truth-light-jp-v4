@@ -1,0 +1,39 @@
+{
+  "id": "dimethylthiambutene",
+  "common_name": "dimethylthiambutene",
+  "systematic_name": "3-dimethylamino-1,1-ji-(2-thienyl)-1-butene",
+  "aliases": [
+    "三―ジメチルアミノ―一・一―ジ―(二―チエニル)―一―ブテン及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "三―ジメチルアミノ―一・一―ジ―(二―チエニル)―一―ブテン及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/328AC0000000014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "delta-8-tetrahydrocannabinol",
+  "common_name": "delta-8-tetrahydrocannabinol",
+  "systematic_name": "a,7,10,a-tetorahidoro-6,6,9-torimethyl-3-penchiru-H-jibenzo[b,d]piran-1-ol",
+  "aliases": [
+    "六a・七・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "六a・七・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/328AC0000000014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

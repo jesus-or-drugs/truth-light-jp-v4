@@ -1,0 +1,39 @@
+{
+  "id": "n__8",
+  "common_name": "三・四―ジクロロ―N―{[一―(ジメチルアミノ)シクロヘキシル]メチル}ベンズアミド及びその塩類",
+  "systematic_name": "3,4-dichloro-N-{[1-(dimethylamino)cyclohexyl]methyl}benzamide",
+  "aliases": [
+    "三・四―ジクロロ―N―{[一―(ジメチルアミノ)シクロヘキシル]メチル}ベンズアミド及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "三・四―ジクロロ―N―{[一―(ジメチルアミノ)シクロヘキシル]メチル}ベンズアミド及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

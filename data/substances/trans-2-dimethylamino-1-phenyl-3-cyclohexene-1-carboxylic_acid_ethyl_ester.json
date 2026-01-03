@@ -1,0 +1,39 @@
+{
+  "id": "trans-2-dimethylamino-1-phenyl-3-cyclohexene-1-carboxylic_acid_ethyl_ester",
+  "common_name": "チリジン",
+  "systematic_name": "trans-2-dimethylamino-1-phenyl-3-cyclohexene-1-carboxylic acid ethyl ester",
+  "aliases": [
+    "トランス―二―ジメチルアミノ―一―フェニル―三―シクロヘキセン―一―カルボン酸エチルエステル(別名チリジン)及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "トランス―二―ジメチルアミノ―一―フェニル―三―シクロヘキセン―一―カルボン酸エチルエステル(別名チリジン)及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

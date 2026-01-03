@@ -1,0 +1,39 @@
+{
+  "id": "metopon",
+  "common_name": "Metopon",
+  "systematic_name": "(4R,4aR,7aR,12bS)-9-hydroxy-3,7a-dimethyl-2,4,4a,5,6,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one",
+  "aliases": [
+    "メチルジヒドロモルヒノン、そのエステル及びこれらの塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "5359353",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "メチルジヒドロモルヒノン、そのエステル及びこれらの塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/328AC0000000014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

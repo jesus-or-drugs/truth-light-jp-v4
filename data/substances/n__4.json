@@ -1,0 +1,39 @@
+{
+  "id": "n__4",
+  "common_name": "モルヒネ―N―オキシドその他五価窒素モルヒネ及びその誘導体",
+  "systematic_name": "morphine-N-okishidomorphine",
+  "aliases": [
+    "モルヒネ―N―オキシドその他五価窒素モルヒネ及びその誘導体"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "モルヒネ―N―オキシドその他五価窒素モルヒネ及びその誘導体",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/328AC0000000014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

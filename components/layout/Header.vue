@@ -10,21 +10,23 @@
     >
       <div><LayoutHeaderLogo :subtitle="subtitle" /></div>
       <div><LayoutHeaderNav :variant="props.variant" /></div>
-      <div><LayoutHeaderToc /></div>
+      <LayoutHeaderToc />
     </div>
   </header>
   
   <!-- Substancesページ用ヘッダー -->
   <header v-else-if="props.variant === `substances`"
-  class="shrink-0 flex item-center bg-slate-800 z-40 border-teal-600 h-14 border-b">
+  class="w-full shrink-0 flex items-center bg-slate-800 z-40 border-teal-600 h-14 border-b">
     <div
-      class="w-full relative flex flex-row justify-between items-center gap-2 px-4 md:px-6 my-auto"
+      class="w-full relative flex flex-row justify-between items-center gap-2 px-4 md:px-6"
     >
-      <div class="w-full shrink-0"><LayoutHeaderLogo :subtitle="subtitle" :variant="props.variant" /></div>
+      <div class="shrink"><LayoutHeaderLogo :subtitle="subtitle" :variant="props.variant" /></div>
       <!-- <div><LayoutHeaderNav :variant="props.variant" /></div> -->
-      <div><LayoutHeaderToc /></div>
+      <div class="shrink-0"><LayoutHeaderToc /></div>
     </div>
   </header>
+
+  <!-- 規制情報ページ用ヘッダー -->
   <header v-else="props.variant === `legal`" class="flex item-center bg-background/80 bg-slate-900 sticky z-40 backdrop-blur-lg border-teal-400 h-20 border-b-4">
     <div
       class="relative flex flex-row justify-between items-center gap-2 px-4 md:px-20 my-auto"
@@ -61,7 +63,7 @@ const subtitle = computed(() => {
   if (props.variant === "default") {
     return ""
   } else if (props.variant === "substances") {
-    return "向精神薬データベース(β)"
+    return "ハームリダクション・ナレッジ(β)"
   } else if (props.variant === "legal") {
     return ""
   } else {

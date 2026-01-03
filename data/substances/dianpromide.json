@@ -1,0 +1,39 @@
+{
+  "id": "dianpromide",
+  "common_name": "dianpromide",
+  "systematic_name": "N-[2-(methylphenethylamino)puropiru]propioneaniride",
+  "aliases": [
+    "N―〔二―(メチルフェネチルアミノ)プロピル〕プロピオンアニリド及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "N―〔二―(メチルフェネチルアミノ)プロピル〕プロピオンアニリド及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/328AC0000000014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

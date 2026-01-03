@@ -1,0 +1,37 @@
+{
+  "id": "methyprylon",
+  "common_name": "Methyprylon",
+  "systematic_name": "",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "7848213",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "向三種",
+      "official_name": "",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

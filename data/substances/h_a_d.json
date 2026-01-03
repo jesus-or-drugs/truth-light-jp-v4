@@ -1,0 +1,39 @@
+{
+  "id": "h_a_d",
+  "common_name": "アミネプチン",
+  "systematic_name": "7-[(10,11-dihydro-5H-dibenzo[a,d]cycloheptene-5-yl)amino]heptanoic acid",
+  "aliases": [
+    "七―[(十・十一―ジヒドロ―五H―ジベンゾ[a・d]シクロヘプテン―五―イル)アミノ]ヘプタン酸(別名アミネプチン)及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "七―[(十・十一―ジヒドロ―五H―ジベンゾ[a・d]シクロヘプテン―五―イル)アミノ]ヘプタン酸(別名アミネプチン)及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

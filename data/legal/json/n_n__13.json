@@ -1,0 +1,39 @@
+{
+  "id": "n_n__13",
+  "common_name": "プロピラム",
+  "systematic_name": "N-[1-methyl-2-(piperidinoethyl)]-N-2-pyridylpropionamide",
+  "aliases": [
+    "N―〔一―メチル―二―(ピペリジノエチル)〕―N―二―ピリジルプロピオンアミド(別名プロピラム)及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "N―〔一―メチル―二―(ピペリジノエチル)〕―N―二―ピリジルプロピオンアミド(別名プロピラム)及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

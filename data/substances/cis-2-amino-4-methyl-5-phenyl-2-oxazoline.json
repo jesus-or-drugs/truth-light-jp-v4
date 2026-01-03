@@ -1,0 +1,39 @@
+{
+  "id": "cis-2-amino-4-methyl-5-phenyl-2-oxazoline",
+  "common_name": "四―メチルアミノレクス",
+  "systematic_name": "cis-2-amino-4-methyl-5-phenyl-2-oxazoline",
+  "aliases": [
+    "シス―二―アミノ―四―メチル―五―フェニル―二―オキサゾリン(別名四―メチルアミノレクス)及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "シス―二―アミノ―四―メチル―五―フェニル―二―オキサゾリン(別名四―メチルアミノレクス)及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

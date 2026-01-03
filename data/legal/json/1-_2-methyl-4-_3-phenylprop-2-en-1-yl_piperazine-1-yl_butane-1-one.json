@@ -1,0 +1,39 @@
+{
+  "id": "1-_2-methyl-4-_3-phenylprop-2-en-1-yl_piperazine-1-yl_butane-1-one",
+  "common_name": "一―[二―メチル―四―(三―フェニルプロパ―二―エン―一―イル)ピペラジン―一―イル]ブタン―一―オン及びその塩類",
+  "systematic_name": "1-[2-methyl-4-(3-phenylprop-2-en-1-yl)piperazine-1-yl]butane-1-one",
+  "aliases": [
+    "一―[二―メチル―四―(三―フェニルプロパ―二―エン―一―イル)ピペラジン―一―イル]ブタン―一―オン及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "一―[二―メチル―四―(三―フェニルプロパ―二―エン―一―イル)ピペラジン―一―イル]ブタン―一―オン及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

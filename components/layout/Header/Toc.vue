@@ -1,10 +1,12 @@
 <template>
-    <ul v-if="tocEnable === true" class="flex flex-row gap-5">
-        <li
-        v-for="i in tocLinks">
-            <a :href="i.to"><img :src="i.icon" :alt="i.title" class="w-4" /></a>
-        </li>
-    </ul>
+    <div class="ml-auto">
+        <ul v-if="tocEnable === true" class="flex flex-row gap-5">
+            <li
+            v-for="i in tocLinks">
+                <a :href="i.to"><img :src="`/${i.icon}`" :alt="i.title" class="w-4" /></a>
+            </li>
+        </ul>
+    </div>
 </template>
 
 <script setup lang="ts">

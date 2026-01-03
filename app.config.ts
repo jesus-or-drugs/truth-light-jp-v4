@@ -2,7 +2,7 @@ export default defineAppConfig({
   truthlight: {
     site: {
       name: 'Truth Light',
-      description: 'この日本で薬物依存症により苦しむ人をゼロにするハームリダクションサイト',
+      description: 'この日本で薬物依存症で苦しむ人をゼロにするハームリダクションサイト',
       ogImage: '/og-default.png'
     },
     theme: {
@@ -31,7 +31,7 @@ export default defineAppConfig({
       },
       border: false,
       nav: [
-        { title: '向精神薬DB', to: '/substances' },
+        { title: 'ハームリダクション・データベース', to: '/substances' },
         { title: '規制薬物一覧', to: '/legal' },
         { title: '依存症相談窓口', to: '/recovery' }
       ],

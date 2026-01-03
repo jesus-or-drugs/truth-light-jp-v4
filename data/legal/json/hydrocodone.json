@@ -1,0 +1,39 @@
+{
+  "id": "hydrocodone",
+  "common_name": "hydrocodone",
+  "systematic_name": "4,5α-epoxy-3-methoxy-17-methylmorphinan-6-one",
+  "aliases": [
+    "ジヒドロコデイノン、そのエステル及びこれらの塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "ジヒドロコデイノン、そのエステル及びこれらの塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/328AC0000000014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

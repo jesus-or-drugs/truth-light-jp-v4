@@ -1,0 +1,39 @@
+{
+  "id": "n__16",
+  "common_name": "N―メチル―一―(チオフェン―二―イル)プロパン―二―アミン及びその塩類",
+  "systematic_name": "N-methyl-1-(thiophen-2-yl)propane-2-amine",
+  "aliases": [
+    "N―メチル―一―(チオフェン―二―イル)プロパン―二―アミン及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "N―メチル―一―(チオフェン―二―イル)プロパン―二―アミン及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

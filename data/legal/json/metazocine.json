@@ -1,0 +1,39 @@
+{
+  "id": "metazocine",
+  "common_name": "metazocine",
+  "systematic_name": "(1R,9R,13R)-1,10,13-trimethyl-10-azatricyclo[7.3.1.02,7]trideca-2(7),3,5-trien-4-ol",
+  "aliases": [
+    "一・二・三・四・五・六―ヘキサヒドロ―八―ヒドロキシ―三・六・十一―トリメチル―二・六―メタノ―三―ベンザゾシン及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "443404",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "一・二・三・四・五・六―ヘキサヒドロ―八―ヒドロキシ―三・六・十一―トリメチル―二・六―メタノ―三―ベンザゾシン及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/328AC0000000014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

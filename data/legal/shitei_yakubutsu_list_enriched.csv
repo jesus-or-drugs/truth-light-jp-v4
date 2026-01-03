@@ -1,0 +1,1014 @@
+﻿law_number,law_category,official_name,systematic_name,common_name,aliases,effective_date,effective_date_ja,pubchem_cid,inchi_key,smiles,source_link,note,status
+1,指定薬物,亜硝酸イソブチル,isobutyl nitrite,亜硝酸イソブチル,,2007/02/28,平成19年2月28日,10958 ,APNSGVMLAYLYCT-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+2,指定薬物,亜硝酸イソプロピル,isopropyl nitrite,亜硝酸イソプロピル,,2007/02/28,平成19年2月28日,10929 ,SKRDXYBATCVEMS-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+3,指定薬物,亜硝酸イソペンチル,isopentyl nitrite,亜硝酸イソペンチル,亜硝酸イソアミル,2007/02/28,平成19年2月28日,8053 ,OWFXIOWLTKNBAP-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+4,指定薬物,亜硝酸３級ブチル,tert-butyl nitrite,亜硝酸三級ブチル,,2007/02/28,平成19年2月28日,10906 ,IOGXOCVLYRDXLW-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+5,指定薬物,亜硝酸シクロヘキシル,cyclohexyl nitrite,亜硝酸シクロヘキシル,,2007/02/28,平成19年2月28日,545140 ,NRCNZCLHYWKEDX-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+6,指定薬物,亜硝酸ブチル,butyl nitrite,亜硝酸ブチル,,2007/02/28,平成19年2月28日,10996 ,JQJPBYFTQAANLE-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+7,指定薬物,４－アセチル－N，N－ジエチル－７－メチル－４，６，６a，７，８，９－ヘキサヒドロインドロ[４，３－ｆｇ]キノリン－９－カルボキサミド及びその塩類,"(6aR,9R)-4-acetyl-N,N-diethyl-7-methyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide",ALD-52,1-Acetyl-LSD; 1A-LSD,2020/02/28,令和2年2月28日,201111,FJOWXGYLIWJFCH-OXQOHEQNSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+8,指定薬物,４－アセトキシ－Ｎ－イソプロピル－Ｎ－メチルトリプタミン及びその塩類,[3-[2-[methyl(propan-2-yl)amino]ethyl]-1H-indol-4-yl] acetate,4-AcO-MIPT,,2015/03/25,平成27年3月25日,46783587,CIDMXLOVFPIHDS-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+9,指定薬物,４－アセトキシ－Ｎ－エチル－Ｎ－メチルトリプタミン及びその塩類,[3-[2-[ethyl(methyl)amino]ethyl]-1H-indol-4-yl] acetate,4-AcO-MET,,2015/07/29,平成27年7月29日,71308138,OMDKHOOGGJRLLX-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+10,指定薬物,４－アセトキシ－Ｎ，Ｎ－ジアリルトリプタミン及びその塩類,[3-[2-[bis(prop-2-enyl)amino]ethyl]-1H-indol-4-yl] acetate,4-AcO-DALT,,2015/07/29,平成27年7月29日,119025857,WRHFDIBXZYYCHO-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+11,指定薬物,４－アセトキシ－Ｎ，Ｎ－ジイソプロピルトリプタミン及びその塩類,[3-[2-[di(propan-2-yl)amino]ethyl]-1H-indol-4-yl] acetate,4-AcO-DIPT,,2007/02/28,平成19年2月28日,24801868,ZPAOVGZYDSXCPK-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+12,指定薬物,４－アセトキシ－Ｎ，Ｎ－ジエチルトリプタミン及びその塩類,"4-acetoxy-N,N-jiechirutoripu tamine",4-AcO-DET,,2015/07/29,平成27年7月29日,24801867,WYEVVQJLTXBMPM-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+13,指定薬物,４－アセトキシ－Ｎ，Ｎ－ジメチルトリプタミン及びその塩類,"4-acetoxy-N,N-jimechirutoripu tamine",4-AcO-DMT,,2015/07/29,平成27年7月29日,15429212,RTLRUOSYLFOFHV-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+14,指定薬物,Ｎ－（１－アダマンチル）－１－（５－クロロペンチル）－１Ｈ－インダゾール－３－カルボキサミド及びその塩類,N-(1-Adamantyl)-1-(5-chloropenthyl)-1H-indazole-3-carboxamide,APINACA N-(5-chloropentyl)誘導体,,2016/04/08,平成28年4月8日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+15,指定薬物,Ｎ－（１－アダマンチル）－１－（シクロヘキシルメチル）－１Ｈ－インダゾ－ル－３－カルボキサミド及びその塩類,N-(1-Adamantyl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide,Adamantyl-CHMINACA,A-CHMINACA,2021/10/21,令和3年10月21日,137700313,ACFKPINHOINOFB-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+16,指定薬物,Ｎ－（１－アダマンチル）－１－［（テトラヒドロ－２H－ピラン－４－イル）メチル］－１Ｈ－インダゾール－３－カルボキサミド及びその塩類,N-(1-adamantyl)-1-(oxan-4-ylmethyl)indazole-3-carboxamide,Adamantyl-THPINACA,ATHPINACA; AD-THPINACA,2017/02/24,平成29年2月24日,123132009,XFZLBNDGZVRJNJ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+17,指定薬物,Ｎ－（２－アダマンチル）－１－［（テトラヒドロ－２H－ピラン－４－イル）メチル］－１Ｈ－インダゾール－３－カルボキサミド及びその塩類,N-(2-adamantyl)-1-(oxan-4-ylmethyl)indazole-3-carboxamide,Adamantyl-THPINACA 2- adamantyl 異性体,,2017/02/24,平成29年2月24日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+18,指定薬物,Ｎ－（１－アダマンチル）－１－（４―フルオロブチル）－１Ｈ－インダゾ－ル－３－カルボキサミド及びその塩類,N-(1-Adamantyl)-1-(4-fuluoropentyl)indazole-3-carboxyamide,4F-ABINACA,,2023/06/21,令和5年6月21日,118796478 ,CBDPDVXPZYOIRM-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+19,指定薬物,Ｎ－（１－アダマンチル）－１－（４－フルオロベンジル）－１Ｈ－インダゾール－３－カルボキサミド及びその塩類,N-(1-adamantyl)-1-[(4-fluorophenyl)methyl]indazole-3-carboxamide,FUB-APINACA,,2014/12/26,平成26年12月26日,118796517,MWBHSNBPUSKVDD-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+20,指定薬物,Ｎ－（１－アダマンチル）－１－（５－フルオロペンチル）－１Ｈ－インドール－３－カルボキサミド及びその塩類,N-(1-adamantyl)-1-(5-fluoropentyl)indole-3-carboxamide,STS-135,APICA N-(5-fluoropentyl) 誘導体,2013/04/30,平成25年4月30日,57404059,COYHGVCHRRXECF-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+21,指定薬物,Ｎ－（１－アダマンチル）－１－ペンチル－１Ｈ－インダゾール－３－カルボキサミド及びその塩類,N-(1-adamantyl)-1-pentylindazole-3-carboxamide,AKB48,APINACA,2012/06/01,平成24年6月1日,57404063,UCTCCIPCJZKWEZ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+22,指定薬物,１―アダマンチル＝１―ペンチル―１Ｈ―インダゾール―３―カルボキシラート及びその塩類,1-adamantyl 1-pentylindazole-3-carboxylate,ACBL(N)-018,APINAC; AKB57,2017/12/19,平成29年12月19日,129532609,KCCVWUAAHDXNNQ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+23,指定薬物,１－アダマンチル（１－ペンチル－１Ｈ－インドール－３－イル）メタノン及びその塩類,1-adamantyl-(1-pentylindol-3-yl)methanone,AB-001,,2013/04/30,平成25年4月30日,154728220,LJSMCOGLALRQKD-BISOHRNISA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+24,指定薬物,Ｎ－（１－アダマンチル）－１－ペンチル－１Ｈ－インドール－３－カルボキサミド及びその塩類,N-(1-adamantyl)-1-pentylindole-3-carboxamide,APICA,2NE1,2012/06/01,平成24年6月1日,71308155,MDJYHWLDDJBTMX-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+25,指定薬物,１－アダマンチル｛１－［（１－メチルピペリジン－２－イル）メチル］－１Ｈ－インドール－３－イル｝メタノン及びその塩類,1-adamantyl-[1-[(1-methylpiperidin-2-yl)methyl]indol-3-yl]methanone,AM1248,,2013/04/30,平成25年4月30日,10293794,JRECAXBHMULNJQ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+26,指定薬物,Ｎ－（１－アミノ－１－オキソ－３－フェニルプロパン－２－イル）－１－（シクロヘキシルメチル）－１Ｈ－インダゾール－３－カルボキサミド及びその塩類,N-[(2S)-1-amino-1-oxo-3-phenylpropan-2-yl]-1-(cyclohexylmethyl)indazole-3-carboxamide,APP-CHMINACA,PX-3,2016/08/24,平成28年8月24日,44206137,DMHWDSGURMXMGE-FQEVSTJZSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+27,指定薬物,Ｎ－（１－アミノ－１－オキソ－３－フェニルプロパン－２－イル）－１－ブチル－１Ｈ－インダゾール－３－カルボキサミド及びその塩類,N-[(2S)-1-amino-1-oxo-3-phenylpropan-2-yl]-1-butylindazole-3-carboxamide,APP-BUTINACA,APP-BINACA,2022/12/16,令和4年12月16日,154735174,OYARCJMQMAFMTG-KRWDZBQOSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+28,指定薬物,Ｎ－（１－アミノ－１－オキソ－３－フェニルプロパン－２－イル）－１－（４－フルオロベンジル）－１Ｈ－インダゾール－３－カルボキサミド及びその塩類,N-(1-amino-1-oxo-3-phenylpropan-2-yl)-1-(5-fluorobenzyl)indazole-3-carboxamide,FU-PX-2,,2015/08/19,平成27年8月19日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+29,指定薬物,Ｎ－（１－アミノ－１－オキソ－３－フェニルプロパン－２－イル）－１－（５－フルオロペンチル）－１Ｈ－インダゾール－３－カルボキサミド及びその塩類,N-(1-amino-1-oxo-3-phenylpropan-2-yl)-1-(5-fluoropentyl)indazole-3-carboxamide,PX-2,,2014/11/18,平成26年11月18日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+30,指定薬物,Ｎ－（１－アミノ－１－オキソ－３－フェニルプロパン－２－イル）－１－（５－フルオロペンチル）－１Ｈ－インドール－３－カルボキサミド及びその塩類,N-(1-amineo-1-okiso-3-fe nirupuropan-2-iru)-1-(5-fu ruoropenchiru)-1H-indo-ru- 3-karubokisamido,PX-1,5F-APP-PICA,2014/11/18,平成26年11月18日,125181260,DDVANTXQCRMRFF-FQEVSTJZSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+31,指定薬物,N－（１－アミノ－３，３－ジメチル－１－オキソブタン－２－イル）－１－（シクロヘキシルメチル）－１Ｈ－インドール－３－カルボキサミド及びその塩類,"N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)indole-3-carboxamide  ",ADB-CHMICA,ADB-CHMINACA; ADB-CHMICA; MAB-CHMICA,2019/02/19,平成31年2月19日,68894304,ZWCCSIUBHCZKOY-GOSISDBHSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+32,指定薬物,Ｎ－（１－アミノ－３，３－ジメチル－１－オキソブタン－２－イル）－１－（５－フルオロペンチル）－１Ｈ－インダゾール－３－カルボキサミド及びその塩類,"N-[1-amino-3,3-dimethyl-1-oxobutan-2-yl]-1-(5-fluoropentyl)indazole-3-carboxamide",5F-ADB-PINACA,,2014/11/18,平成26年11月18日,119026135,SOYDDJYBRCNNIT-MRXNPFEDSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+33,指定薬物,Ｎ－（１－アミノ－３，３－ジメチル－１－オキソブタン－２－イル）－１－（５－フルオロペンチル）－１Ｈ－インドール－３－カルボキサミド及びその塩類,"N-[1-amino-3,3-dimethyl-1-oxobutan-2-yl]-1-(5-fluoropentyl)indole-3-carboxamide",5F-ADBICA,,2015/01/30,平成27年1月30日,118796421,ITZSOCZDFSHNCL-QGZVFWFLSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+34,指定薬物,Ｎ－（１－アミノ－３，３－ジメチル－１－オキソブタン－２－イル）－５－ブロモ－１－ブチル－１Ｈ－インダゾール－３－カルボキサミド及びその塩類,"N-[1-amino-3,3-dimethyl-1-oxobutan-2-yl]-5-bromo-1-(1,1,2,2,3,3,4,4,4-nonadeuteriobutyl)indazole-3-carboxamide  ",ADB-5’Br-BUTINACA,,2024/08/07,令和6年8月7日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+35,指定薬物,Ｎ－（１－アミノ－３，３－ジメチル－１－オキソブタン－２－イル）－５－ブロモ－１－ペンチル－１Ｈ－インダゾール－３－カルボキサミド及びその塩類,"N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-5-bromo-1-pentylindazole-3-carboxamide",ADB-5’Br-PINACA,,2024/11/06,令和6年11月6日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+36,指定薬物,Ｎ－（１－アミノ－３，３－ジメチル－１－オキソブタン－２－イル）－１－ヘキシル－１Ｈ－インダゾール－３－カルボキサミド及びその塩類,"N-(1-amineo-3,3-jimechiru-1 -okisobutan-2-iru)-1-heki shiru-1H-indazo-ru-3-karubo kisamido",ADB-HEXINACA,ADB-HINACA,2022/12/16,令和4年12月16日,162705326,PZMLDAGKYPJWHJ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+37,指定薬物,Ｎ－（１－アミノ－３，３－ジメチル－１－オキソブタン－２－イル）－１－ベンジル－１Ｈ－インダゾール－３－カルボキサミド及びその塩類,"N-(1-amineo-3,3-jimechiru-1 -okisobutan-2-iru)-1-ben jiru-1H-indazo-ru-3-karubo kisamido",ADB-BINACA,,2023/08/31,令和5年8月31日,129406620,IUFIUAWRCUVUCQ-GOSISDBHSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+38,指定薬物,Ｎ－（１－アミノ－３，３－ジメチル－１－オキソブタン－２－イル）－１－（ペンタ－４－エン－１－イル）－１Ｈ－インダゾール－３－カルボキサミド及びその塩類,"N-(1-amineo-3,3-jimechiru-1 -okisobutan-2-iru)-1-(pen ta-4-en-1-iru)-1H-inda zo-ru-3-karubokisamido",ADB-4en-PINACA,,2023/10/26,令和5年10月26日,162705324,NXDLAZXBALPFSN-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+39,指定薬物,Ｎ－（１－アミノ－３，３－ジメチル－１－オキソブタン－２－イル）－１－ペンチル－１H－インダゾ－ル－３－カルボキサミド及びその塩類,"N-(1-amineo-3,3-jimechiru-1 -okisobutan-2-iru)-1-pen chiru-1H-indazo-ru-3-karubo kisamido",ADB-PINACA,,2014/06/11,平成26年6月11日,86280478,FWTARAXQGJRQKN-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+40,指定薬物,Ｎ－（１－アミノ－３，３－ジメチル－１－オキソブタン－２－イル）－１－ペンチル－１Ｈ－インドール－３－カルボキサミド及びその塩類,"N-(1-amineo-3,3-jimechiru-1 -okisobutan-2-iru)-1-pen chiru-1H-indo-ru-3-karuboki samido",ADBICA,,2013/04/30,平成25年4月30日,72710773,IXUYMXAKKYWKRG-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+41,指定薬物,２－アミノ－１－（４－ブロモ－２，５－ジメトキシフェニル）エタノン及びその塩類,"2-amineo-1-(4-buromo-2,5-ji methoxyphenyl)etanon",bk-2C-B,,2015/03/25,平成27年3月25日,11288812,HFYJGAIOBIDRPX-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+42,指定薬物,Ｎ－（１－アミノ－３－メチル－１－オキソブタン－２－イル）－１－（５－クロロペンチル）－１Ｈ－インダゾール－３－カルボキサミド及びその塩類,N-(1-amineo-3-mechiru-1-oki sobutan-2-iru)-1-(5-kuroro penchiru)-1H-indazo-ru-3- karubokisamido,5Cl-AB-PINACA,,2014/10/29,平成26年10月29日,91936938,VUPMALPMUYUYES-HNNXBMFYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+43,指定薬物,Ｎ－（１－アミノ－３－メチル－１－オキソブタン－２－イル）－１－（２－フルオロベンジル）－１Ｈ－インダゾール－３－カルボキサミド及びその塩類,N-(1-amineo-3-mechiru-1-oki sobutan-2-iru)-1-(2-furuo robenzylu)-1H-indazo-ru-3 -karubokisamido,AB-FUBINACA 2- fluorobenzyl isomer,,2015/11/25,平成27年11月25日,121232597,AJGUHANHCUPXSK-KRWDZBQOSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+44,指定薬物,N－（１－アミノ－３－メチル－１－オキソブタン－２－イル)－１－（5-フルオロペンチル）-1H-インダゾール-3-カルボキサミド及びその塩類,N-(1-amineo-3-mechiru-1-oki sobutan-2-iru)-1-(5-furuoro penchiru)-1H-indazo-ru-3-karubo kisamido,5-Fluoro-AB-PINACA,,2014/06/11,平成26年6月11日,91936927,WCBYXIBEPFZUBG-HNNXBMFYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+45,指定薬物,Ｎ－（１－アミノ－３－メチル－１－オキソブタン－２－イル）－１－（５－フルオロペンチル）－１Ｈ－インドール－３－カルボキサミド及びその塩類,N-(1-amineo-3-mechiru-1-oki sobutan-2-iru)-1-(5-furuo ropenchiru)-1H-indo-ru-3-ka rubokisamido,5-Fluoro-ABICA,,2014/08/15,平成26年8月15日,119058049,GQYZBLMAONPUNX-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+46,指定薬物,２－（４－アリルオキシ－３，５－ジメトキシフェニル）エタンアミン及びその塩類,"2-(4-ariruokishi-3,5-jimeto kishiphenyl)etanamine 類",Allylescaline,,2015/03/25,平成27年3月25日,44719469,JNUAYHHGCXYBHX-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+47,指定薬物,７－アリル－N，N－ジエチル－４－（チオフェン－２－カルボニル）－４，６，６ a，７，８，９－ヘキサヒドロインドロ［４，３－ｆｇ］キノリン－９－カルボキサミド及びその塩類,"7-ariru-N,N-jiechiru-4-(chi ofen-2-karuboniru)-4,6,6 a,7,8,9-hekisahidoroindoro[4, 3-fg]kinorin-9-karubokisamido及 びその salts",1T-AL-LAD,,2025/07/03,令和7年7月3日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+48,指定薬物,"７－アリル－N，N－ジエチル－４，６，６ a，７，８，９－ヘキサヒドロインドロ[４，３
+－ｆｇ]キノリン－９－カルボキサミド及びその塩類","7-ariru-N,N-jiechiru-4,6,6 a,7,8,9-hekisahidoroindoro[4,3 -fg]kinorin-9-karubokisamido及び その salts",AL-LAD,,2020/02/28,令和2年2月28日,15227511 ,JCQLEPDZFXGHHQ-OXQOHEQNSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+49,指定薬物,７－アリル－４－（シクロプロピルカルボニル）－Ｎ，Ｎ－ジエチル－４，６，６ a，７，８，９－ヘキサヒドロインドロ［４，３－ｆｇ］キノリン－９－カルボキサミド及びその塩類,"7-ariru-4-(shikuropuropirukaru boniru)-N,N-jiechiru-4,6,6 a,7,8,9-hekisahidoroindoro[4, 3-fg]kinorin-9-karubokisamido及 びその salts",1cP-AL-LAD,,2025/01/27,令和7年1月27日,162368406 ,VSABTUDYQCMWKE-AUSIDOKSSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+50,指定薬物,２－（イソプロピルアミノ）－２－（３－メトキシフェニル）シクロヘキサノン及びその塩類,2-(isopropylamineo)-2-(3-meto kishiphenyl)shikurohekisanon及びそ の salts,Methoxisopropamine,MXiPr,2022/12/16,令和4年12月16日,163192824 ,FTQIVDGNGXPEKP-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+51,指定薬物,１－（４－イソプロピルスルファニル－２，５－ジメトキシフェニル）プロパン－２－アミン及びその塩類,"1-(4-isopropylsurufaniru- 2,5-jimethoxyphenyl)puropan-2 -amine",ALEPH-4,,2011/04/14,平成23年4月14日,44350301 ,BCWCXWKCQMBFBQ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+52,指定薬物,Ｎ－イソプロピル－Ｎ－メチルトリプタミン及びその塩類,N-isopropyl-N-mechirutoriputami n,MIPT,,2007/02/28,平成19年2月28日,29935323 ,KTQJVAJLJZIKKD-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+53,指定薬物,Ｎ－イソプロピル－５－メトキシ－Ｎ－メチルトリプタミン及びその塩類,N-isopropyl-5-methoxy-N-me chirutoriputamine,5-MeO-MIPT,,2007/02/28,平成19年2月28日,2763156 ,HEDOODBJFVUQMS-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+54,指定薬物,一酸化二窒素,一酸化二窒素,亜酸化窒素,Nitrous oxide,2016/02/18,平成28年2月18日,948 ,GQPLMRYTRLFLPF-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+55,指定薬物,インダン－２－アミン及びその塩類,indan-2-amine,2-AI,,2007/12/12,平成19年12月12日,76310 ,LMHHFZAXSANGGM-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+56,指定薬物,１－（インダン－５－イル）－２－（ピロリジン－１－イル）ブタン－１－オン及びその塩類,1-(indan-5-iru)-2-(pirori jin-1-iru)butan-1-on及び その salts,α-PBP indane analog,5-PPDI,2015/01/30,平成27年1月30日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+57,指定薬物,１－（インダン－５－イル）－２－（ピロリジン－１－イル）ヘキサン－１－オン及びその塩類,1-(indan-5-iru)-2-(pirori jin-1-iru)hekisan-1-on及 びその salts,α-PHP indane analog,5-BPDI,2015/02/18,平成27年2月18日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+58,指定薬物,（１Ｈ－インドール－３－イル）（２，２，３，３－テトラメチルシクロプロパン－１－イル）メタノン及びその塩類,"(1H-indo-ru-3-iru)(2,2, 3,3-tetoramechirushikuropuropan-1 -iru)metanon",DP-UR-144,,2014/09/19,平成26年9月19日,24756409 ,WYZQBEQQQKCTHM-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+59,指定薬物,１－（１Ｈ－インドール－５－イル）プロパン－２－アミン及びその塩類,1-(1H-indo-ru-5-iru)puro pan-2-amine,5-API,5-IT,2012/12/17,平成24年12月17日,55253543 ,AULGMISRJWGTBA-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+60,指定薬物,２－（エチルアミノ）－１－（インダン－５－イル）ブタン－１－オン及びその塩類,2-(echiruamineo)-1-(indan-5 -iru)butan-1-on,bk-IBP,,2015/01/30,平成27年1月30日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+61,指定薬物,２－（エチルアミノ）－１－（インダン－５－イル）ペンタン－１－オン及びその塩類,2-(echiruamineo)-1-(indan-5 -iru)pentan-1-on 類,bk-IVP,,2015/01/30,平成27年1月30日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+62,指定薬物,３－［１－（エチルアミノ）シクロヘキシル］フェノール及びその塩類,3-[1-(echiruamineo)shikurohekishi ru]feno-ru,3-HO-PCE,,-,令和元年12月17日,137332171 ,MIKNPNLBFHVMKK-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+63,指定薬物,２－（エチルアミノ）－２－（チオフェン－２－イル）シクロヘキサノン及びその塩類,2-(echiruamineo)-2-(chiofen- 2-iru)shikurohekisanon 類,Tiletamine,,2017/02/24,平成29年2月24日,26533 ,QAXBVGVYDCAVLV-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+64,指定薬物,２－（エチルアミノ）－２－（３－ヒドロキシフェニル）シクロヘキサノン及びその塩類,2-(echiruamineo)-2-(3-hidoroki shiphenyl)shikurohekisanon,HXE,Hydroxetamine,2024/01/19,令和6年1月19日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+65,指定薬物,２－（エチルアミノ）－２－フェニルシクロヘキサノン及びその塩類,2-(echiruamineo)-2-phenylshiku rohekisanon,Deschloro-N-ethyl- ketamine,Eticyclidone; O-PCE; 2-Oxo-PCE,2018/08/22,平成30年8月22日,132989542 ,IDLSBAANXISGEI-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+66,指定薬物,２－（エチルアミノ）－２－（２－フルオロフェニル）シクロヘキサノン及びその塩類,2-(echiruamineo)-2-(2-furuoro phenyl)shikurohekisanon 類,2F-NENDCK,2-fluoro-2-oxo-PCE,2025/01/27,令和7年1月27日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+67,指定薬物,２－（エチルアミノ）－２－（３－フルオロフェニル）シクロヘキサノン及びその塩類,2-(echiruamineo)-2-(3-furuoro phenyl)shikurohekisanon 類,FXE,Fluorexetamine,2023/08/31,令和5年8月31日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+68,指定薬物,２－（エチルアミノ）－２－（３－メチルフェニル）シクロヘキサノン及びその塩類,2-(echiruamineo)-2-(3-mechiru phenyl)shikurohekisanon 類,DMXE,Deoxymethoxetamine; 3’-methyl-2-oxo-PCE; 3D-MXE,2022/06/28,令和4年6月28日,157010705 ,WIMLPRYZJQNQLE-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+69,指定薬物,Ｎ－エチル－Ｎ－イソプロピル－５－メトキシトリプタミン及びその塩類,N-echiru-N-isopropyl-5-me tokishitoriputamine,5-MeO-EIPT,,2008/12/17,平成20年12月17日,53485366 ,VVEQXDHSGNBFLZ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+70,指定薬物,Ｎ－エチル－１，２－ジフェニルエチルアミン及びその塩類,"N-echiru-1,2-jiphenylechiru amine",Ephenidine,EPE; NEDPA,2016/11/01,平成28年11月1日,110821 ,IGFZMQXEKIZPDR-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+71,指定薬物,エチル＝３，３－ジメチル－２－（１－ペンチル－１Ｈ－インダゾール－３－カルボキサミド）ブタノアート及びその塩類,"echiru=3,3-jimechiru-2-(1-pe nchiru-1H-indazo-ru-3-karu bokisamido)butanoa-to",EDMB-PINACA,,2024/01/19,令和6年1月19日,163203511 ,HKKKXLZFEZHHFC-GOSISDBHSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+72,指定薬物,２－（４－エチル－２，５－ジメトキシフェニル）エタンアミン及びその塩類,"2-(4-echiru-2,5-jimethoxyfe niru)etanamine",2C-E,,2007/02/28,平成19年2月28日,24729233 ,VDRGNAMREYBIHA-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+73,指定薬物,２－（４－エチル－２，５－ジメトキシフェニル）－Ｎ－（２－メトキシベンジル）エタンアミン及びその塩類,"2-(4-echiru-2,5-jimethoxyfe niru)-N-(2-methoxybenzylu)e tanamine",25E-NBOMe,,2015/05/22,平成27年5月22日,118796522 ,PXDVGFGXPVCNAB-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+74,指定薬物,２－［（４－エチル－２，５－ジメトキシフェネチルアミノ）メチル］フェノール及びその塩類,"2-[(4-echiru-2,5-jimethoxy fenechiruamineo)mechiru]feno-ru及 びその salts",25E-NBOH,,2018/12/19,平成30年12月19日,135391539 ,SYBINTRPEZWFLZ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+75,指定薬物,１－（４－エチルスルファニル－２，５－ジメトキシフェニル）プロパン－２－アミン及びその塩類,"1-(4-echirusurufaniru-2,5- jimethoxyphenyl)puropan-2-ami n",ALEPH-2,,2008/12/17,平成20年12月17日,10264356 ,MCYCODJKXUJSAT-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+76,指定薬物,Ｎ－エチル－４－ヒドロキシ－Ｎ－プロピルトリプタミン及びその塩類,N-echiru-4-hidorokishi-N-puro pirutoriputamine,4-HO-EPT,,2024/01/19,令和6年1月19日,138454310 ,JQELEPKHBXEAHR-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+77,指定薬物,Ｎ－エチル－４－ヒドロキシ－Ｎ－メチルトリプタミン及びその塩類,N-echiru-4-hidorokishi-N-mechi rutoriputamine,4-OH-MET,,2015/03/25,平成27年3月25日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+78,指定薬物,エチル＝１－（１－フェニルエチル）－１ Ｈ－イミダゾール－５－カルボキシラート,echiru=1-(1-phenylechiru)-1 H-imidazo-ru-5-karubokishira- to,Etomidate,,2025/05/16,令和7年5月16日,667484 ,NPUKDXXFDDZOKR-LLVKDONJSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+79,指定薬物,１－（４－エチルフェニル）－Ｎ－（２－メトキシベンジル）プロパン－２－アミン及びその塩類,1-(4-echiruphenyl)-N-(2-me tokishibenzylu)puropan-2-amine及 びその salts,4-EA-NBOMe,,2017/12/19,平成29年12月19日,132280994 ,WWWBFWRUWWKJIJ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+80,指定薬物,エチル＝２－（４－フルオロフェニル）－２－（ピペリジン－２－イル）アセテート及びその塩類,echiru=2-(4-furuorophenyl)- 2-(piperijin-2-iru)asete-to,4-Fluoroethylphenidate,,2021/03/15,令和3年3月15日,123133727 ,RKXQYWFDJDYSEN-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+81,指定薬物,Ｎ－エチル－１－（２－フルオロフェニル）プロパン－２－アミン及びその塩類,N-echiru-1-(2-furuorofeni ru)puropan-2-amine,2-FEA,2-fluoroethamphetamine,2019/02/19,平成31年2月19日,20027466 ,NIWYLNFSJJLYHU-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+82,指定薬物,N－エチル－１－（３－フルオロフェニル）プロパン－２－アミン及びその塩類,N-echiru-1-(3-furuorofeni ru)puropan-2-amine,3-FEA,3-fluoroethamphetamine,2018/11/14,平成30年11月14日,57458869 ,CKPWHLGHHXSVJI-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+83,指定薬物,N－エチル－１－（４－フルオロフェニル）プロパン－２－アミン及びその塩類,N-echiru-1-(4-furuorofeni ru)puropan-2-amine,4-FEA,4-fluoroethamphetamine,2018/11/14,平成30年11月14日,18352720 ,PUJNOWQUPWZVER-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+84,指定薬物,３－エチル－２－（３－フルオロフェニル)モルフォリン及びその塩類,3-echiru-2-(3-furuorofeni ru)moruforin,3F-Phenetrazine,3-FPE,2017/08/29,平成29年8月29日,165361708 ,GPTHUZORYIVVNJ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+85,指定薬物,エチル＝２－［１－（４－フルオロベンジル）－１Ｈ－インダゾール－３－カルボキサミド］－３－メチルブタノアート及びその塩類,echiru=2-[1-(4-furuorobenji ru)-1H-indazo-ru-3-karubo kisamido]-3-mechirubutanoa-to及び その salts,EMB-FUBINACA,FUB-AEB,2016/08/24,平成28年8月24日,125181443 ,YOECWCNJGHHTMN-IBGZPJMESA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+86,指定薬物,エチル＝２－［１－（５－フルオロペンチル）－１Ｈ－インダゾール－３－カルボキサミド］－３，３－ジメチルブタノアート及びその塩類,"echiru=2-[1-(5-furuoropenchi ru)-1H-indazo-ru-3-karubo kisamido]-3,3-jimechirubutanoa-to",5F-EDMB-PINACA,,2021/01/22,令和3年1月22日,137700114 ,VDEACSPMBSUVRD-GOSISDBHSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+87,指定薬物,エチル＝２－［１－（５－フルオロペンチル）－１Ｈ－インダゾール－３－カルボキサミド］－３－メチルブタノアート及びその塩類,echiru=2-[1-(5-furuoropenchi ru)-1H-indazo-ru-3-karubo kisamido]-3-mechirubutanoa-to及び その salts,5F-AEB,,2016/06/22,平成28年6月22日,125181449 ,YWSYUMWEKPNAHT-KRWDZBQOSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+88,指定薬物,エチル＝２－［１－（５－フルオロペンチル）－１Ｈ－インドール－３－カルボキサミド］－３，３－ジメチルブタノアート及びその塩類,"echiru=2-[1-(5-furuoropenchi ru)-1H-indo-ru-3-karuboki samido]-3,3-jimechirubutanoa-to及 びその salts",5F-EDMB-PICA,,2022/03/07,令和4年3月7日,165361474 ,RNWBJOCYFGGMRJ-LJQANCHMSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+89,指定薬物,エチル＝２－［１－(５－フルオロペンチル) －１H－インドール－３－カルボキサミド］－３－メチルブタノアート及びその塩類,echiru=2-[1-(5-furuoropenchi ru) -1H-indo-ru-3-karuboki samido]-3-mechirubutanoa-to及びそ の salts,5F-EMB-PICA,EMB-2201,2021/08/25,令和3年8月25日,155907803 ,WPRKGJGOLPGBMG-IBGZPJMESA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+90,指定薬物,３－｛２－［エチル（プロピル）アミノ］エチル｝－１Ｈ－インドール－４－イル＝アセテート及びその塩類,3-{2-[echiru(puropiru)amineo]echi ru}-1H-indo-ru-4-iru=a sete-to,4-AcO-EPT,,2021/03/15,令和3年3月15日,138454311 ,VMFRFQVZMZGHOK-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+91,指定薬物,N－エチル－N－メチルトリプタミン及びその塩類,N-echiru-N-mechirutoriputamine及び その salts,MET,Methyl ethyl tryptamine,2023/03/10,令和5年3月10日,6137 ,FFEARJCKVFRZRR-BYPYZUCNSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+92,指定薬物,Ｎ－エチル－Ｎ－［２－（５－メトキシ－１Ｈ－インドール－３－イル）エチル］プロパン－１－アミン及びその塩類,N-echiru-N-[2-(5-methoxy- 1H-indo-ru-3-iru)echiru]pu ropan-1-amine,5-MeO-EPT,,2011/04/14,平成23年4月14日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+93,指定薬物,Ｎ－エチル－１－（３－メトキシフェニル)シクロヘキサン－１－アミン及びその塩類,N-echiru-1-(3-methoxyfeni ru)shikurohekisan-1-amine及びそ の salts,3-MeO-PCE,,-,令和元年6月13日,57461569 ,OFGOOZLOGUNDFS-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+94,指定薬物,Ｎ－エチル－１－（４－メトキシフェニ ル）プロパン－２－アミン及びその塩類,N-echiru-1-(4-methoxyfeni ru)puropan-2-amine,PMEA,,2014/09/19,平成26年9月19日,60172 ,SUPKOOSCJHTBAH-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+95,指定薬物,２－（４－エトキシ－３，５－ジメトキシフェニル）エタンアミン及びその塩類,"2-(4-etokishi-3,5-jimethoxy phenyl)etanamine",Escaline,,2016/12/21,平成28年12月21日,38240 ,RHOGRSKNWDNCDN-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+96,指定薬物,１－（４－エトキシ－３，５－ジメトキシフェニル）プロパン－２－アミン及びその塩類,"1-(4-etokishi-3,5-jimethoxy phenyl)puropan-2-amine及びそ の salts",3C-E,,2015/03/25,平成27年3月25日,44350137 ,AHLXCGRWNKUNTQ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+97,指定薬物,２－（４－エトキシベンジル）－１－（エチルアミノ）エチル－５－ニトロベンズイミダゾール,2-(4-etokishibenzylu)-1-(e chiruamineo)echiru-5-nitorobenzui midazo-ru,N-Desethyl Etonitazene,,2025/07/03,令和7年7月3日,162623580 ,RESPFUMJVJRUMB-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+98,指定薬物,２－（４－エトキシベンジル）－１－（２－ジエチルアミノ）エチル－５－メチルベンズイミダゾール,2-(4-etokishibenzylu)-1-(2- jiechiruamineo)echiru-5-mechiruben zuimidazo-ru,5-Methyl etodesnitazene Etomethazene,,2025/10/29,令和7年10月29日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+99,指定薬物,２－（１－オキソ－１－フェニルプロパン－２－イル）イソインドリン－１，３－ジオン及びその塩類,"2-(1-okiso-1-phenylpuropan -2-iru)isoindorin-1,3-ji on",Phthalimidopropiophenone,,2014/09/19,平成26年9月19日,519663 ,CKLKGWHINGNHOK-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+100,指定薬物,キノリン－８－イル＝１－（シクロヘキシルメチル）－１Ｈ－インドール－３－カルボキシラート及びその塩類,kinorin-8-iru=1-(shikurohekishi rumechiru)-1H-indo-ru-3-ka rubokishira-to,QUCHIC,BB-22,2013/10/21,平成25年10月21日,71711120 ,RHYGTJXOHOGQGI-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+101,指定薬物,キノリン－８－イル＝３－［（４，４－ジフルオロピペリジン－１－イル）スルホニル］－４－メチルベンゾア－ト及びその塩類,"kinorin-8-iru=3-[(4,4-jifu ruoropiperijin-1-iru)suruhoni ru]-4-mechirubenzoa-to",2F-QMPSB,,2021/10/21,令和3年10月21日,155884739 ,JOSWCKYCXJMLNM-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+102,指定薬物,キノリン－８－イル＝１－（４－フルオロベンジル）－１Ｈ－インダゾール－３－カルボキシラート及びその塩類,kinorin-8-iru=1-(4-furuoro benzylu)-1H-indazo-ru-3- karubokishira-to,FUB-NPB-22,,2015/02/18,平成27年2月18日,125181354 ,NYHGKZZRRCVGAU-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+103,指定薬物,キノリン－８－イル＝１－（４－フルオロベンジル）－１Ｈ－インドール－３－カルボキシラート及びその塩類,kinorin-8-iru=1-(4-furuoro benzylu)-1H-indo-ru-3-ka rubokishira-to,FUB-PB-22,,2014/06/11,平成26年6月11日,91936864 ,ROHVURVXAOMRJY-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+104,指定薬物,キノリン－８－イル＝１－（５－フルオロペンチル）－１Ｈ－インダゾール－３－カルボキシラート及びその塩類,kinorin-8-iru=1-(5-furuoro penchiru)-1H-indazo-ru-3- karubokishira-to,5-Fluoro-NPB-22,,2014/08/15,平成26年8月15日,118796524 ,DZNDVBLSHUYZLI-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+105,指定薬物,キノリン－８－イル＝１－ペンチル－１ H－インダゾール－３－カルボキシラート及びその塩類,kinorin-8-iru=1-penchiru-1 H-indazo-ru-3-karubokishira- to,NPB-22,,2018/12/19,平成30年12月19日,118796435 ,UWICFJAXLKCHTQ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+106,指定薬物,キノリン－８－イル＝１－ペンチル（１Ｈ－インドール）－３－カルボキシラート及びその塩類,kinorin-8-iru=1-penchiru(1H -indo-ru)-3-karubokishira-to,QUPIC,PB-22,2013/04/30,平成25年4月30日,71604304 ,ZAVGICCEAOUWFM-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+107,指定薬物,５－クロロ－３－エチル－Ｎ－［４－（ピペリジン－１－イル）フェネチル］－１H－インドール－２－カルボキサミド及びその塩類,5-kuroro-3-echiru-N-[4-(pi perijin-1-iru)fenechiru]-1H -indo-ru-2-karubokisamido及び その salts,Org27569,,2015/03/25,平成27年3月25日,44828492 ,AHFZDNYNXFMRFQ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+108,指定薬物,２－（４－クロロ－２，５－ジメトキシフェニル）エタンアミン及びその塩類,"2-(4-kuroro-2,5-jimethoxyfe niru)etanamine",2C-C,,2007/02/28,平成19年2月28日,29979100 ,CGKQFIWIPSIVAS-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+109,指定薬物,２－（４－クロロ－２，５－ジメトキシフェニル）－Ｎ－（３，４，５－トリメトキシベンジル）エタンアミン及びその塩類,"2-(4-kuroro-2,5-jimethoxyfe niru)-N-(3,4,5-torimethoxybe njiru)etanamine",30C-NBOMe,,2015/05/22,平成27年5月22日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+110,指定薬物,２－（４－クロロ－２，５－ジメトキシフェニル）－Ｎ－（２－フルオロベンジル）エタンアミン及びその塩類,"2-(4-kuroro-2,5-jimethoxyfe niru)-N-(2-furuorobenzylu)e tanamine",25C-NBF,,2014/09/19,平成26年9月19日,125181230 ,AHIUIEOLKNDLSC-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+111,指定薬物,２－［（４－クロロ－２，５－ジメトキシフェネチルアミノ）メチル］フェノール及びその塩類,"2-[(4-kuroro-2,5-jimethoxy fenechiruamineo)mechiru]feno-ru及 びその salts",25C-NBOH,,2015/06/24,平成27年6月24日,125181419 ,VHWXICYYQMMZCW-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+112,指定薬物,１－（４－クロロフェニル）プロパン－２－アミン及びその塩類,1-(4-kurorophenyl)puropan-2 -amine,4Cl-AMP,,2014/08/15,平成26年8月15日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+113,指定薬物,２－（２－クロロフェニル）－１－（１－ペンチル－１Ｈ－インドール－３－イル）エタノン及びその塩類,2-(2-kurorophenyl)-1-(1-pe nchiru-1H-indo-ru-3-iru) etanon,JWH-203,,2011/09/20,平成23年9月20日,44397500 ,YDINKDBAZJOSLV-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+114,指定薬物,Ｎ－（４－クロロフェニル）－２－メチル－Ｎ－（１－フェネチルピペリジン－４－イル）プロパンアミド及びその塩類,N-(4-kurorophenyl)-2-mechiru -N-(1-fenechirupiperijin-4- iru)puropanamido,4Cl-iBF,p-CIBF,2018/02/28,平成30年2月28日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+115,指定薬物,１－（４－クロロフェニル）－Ｎ－メチルプロパン－２－アミン及びその塩類,1-(4-kurorophenyl)-N-mechiru puropan-2-amine,4-CMA,p-CMA,2017/06/21,平成29年6月21日,3128 ,XXLWNLKEOWWHDC-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+116,指定薬物,２－（３－クロロフェニル）－３－メチルモルフォリン及びその塩類,2-(3-kurorophenyl)-3-mechiru moruforin,3-CPM,3-Chlorophenmetrazine,2023/06/21,令和5年6月21日,43350791 ,BOFUZZAQNVYZFF-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+117,指定薬物,サルビノリンA,sarubinorinA,sarubinorinA,,2007/02/28,平成19年2月28日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+118,指定薬物,１－（４－シアノブチル）－Ｎ－（２－フェニルプロパン－２－イル）－１Ｈ－ピロロ［２，３－ｂ ］ピリジン－３－カルボキサミド及びその塩類,"1-(4-shianobuchiru)-N-(2-fe nirupuropan-2-iru)-1H-piro ro[2,3-b]pirijin-3-karuboki samido",CUMYL-4CN-B7AICA,,-,令和元年6月13日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+119,指定薬物,Ｎ，Ｎ－ジイソプロピルトリプタミン及びその塩類,"N,N-jiisopropyltoriputamine及び その salts",DIPT,,2007/02/28,平成19年2月28日,26903 ,ZRVAAGAZUWXRIP-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+120,指定薬物,１－（２－ジエチルアミノ）エチル－２－（４－フルオロベンジル）－５－ニトロベンズイミダゾール及びその塩類,1-(2-jiechiruamineo)echiru-2- (4-furuorobenzylu)-5-nitorobe nzuimidazo-ru,Flunitazene,Fluonitazene,2024/11/06,令和6年11月6日,156588967 ,ZTWHIDCAGRMKTC-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+121,指定薬物,１－（２－ジエチルアミノ）エチル－２－（４－メトキシベンジル）ベンズイミダゾール及びその塩類,1-(2-jiechiruamineo)echiru-2- (4-methoxybenzylu)benzuimida zo-ru,"Metodesnitazene,  Metazene",,2024/11/06,令和6年11月6日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+122,指定薬物,３－ジエチルアミノ－２，２－ジメチルプロピル＝４－アミノベンゾアート及びその塩類,"3-jiechiruamineo-2,2-jimechirupu ropiru=4-amineobenzoa-to及びそ の salts",Dimethocaine,,2015/05/22,平成27年5月22日,7177 ,OWQIUQKMMPDHQQ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+123,指定薬物,N，N－ジエチル－７－エチル－４，６，６a，７，８，９－ヘキサヒドロインドロ[４，３－ｆｇ]キノリン－９－カルボキサミド及びその塩類,"N,N-jiechiru-7-echiru-4,6, 6a,7,8,9-hekisahidoroindoro[4, 3-fg]kinorin-9-karubokisamido及 びその salts",ETH-LAD,,2020/02/28,令和2年2月28日,44457783 ,MYNOUXJLOHVSMQ-DNVCBOLYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+124,指定薬物,Ｎ，Ｎ－ジエチル－４－ヒドロキシトリプタミン及びその塩類,"N,N-jiechiru-4-hidorokishitoripu tamine",4-OH DET,,2013/04/30,平成25年4月30日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+125,指定薬物,Ｎ，Ｎ－ジエチル－７－メチル－４－（チオフェン－２－カルボニル）－４，６，６ ａ，７，８，９－ヘキサヒドロインドロ［４，３－ｆｇ］キノリン－９－カルボキサミド及びその塩類,"N,N-jiechiru-7-mechiru-4-(chi ofen-2-karuboniru)-4,6,6 a,7,8,9-hekisahidoroindoro[4, 3-fg]kinorin-9-karubokisamido及 びその salts",1T-LSD,,2024/05/01,令和6年5月1日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+126,指定薬物,Ｎ，Ｎ－ジエチル－７－メチル－４－［３－（トリメチルシリル）プロパノイル］－４，６，６ａ，７，８，９－ヘキサヒドロインドロ［４，３－ｆｇ］キノリン－９－カルボキサミド及びその塩類,"N,N-jiechiru-7-mechiru-4-[3 -(torimechirushiriru)puropanoiru]- 4,6,6a,7,8,9-hekisahidoroin doro[4,3-fg]kinorin-9-karuboki samido",1S-LSD,,2025/03/05,令和7年3月5日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+127,指定薬物,Ｎ，Ｎ－ジエチル－７－メチル－４－プロピオニル－４，６，６ａ，７，８，９－ヘキサヒドロインドロ［４，３－ｆｇ］キノリン－９－カルボキサミド及びその塩類,"N,N-jiechiru-7-mechiru-4-pu ropioniru-4,6,6a,7,8,9-he kisahidoroindoro[4,3-fg]kinorin -9-karubokisamido",1P-LSD,,2016/04/08,平成28年4月8日,119025985 ,JSMQOVGXBIDBIE-OXQOHEQNSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+128,指定薬物,Ｎ，Ｎ－ジエチル－７－メチル－４－ペンタノイル－４，６，６ａ，７，８，９－ヘキサヒドロインドロ［４，３－ｆｇ］キノリン－９－カルボキサミド及びその塩類,"N,N-jiechiru-7-mechiru-4-pe ntanoiru-4,6,6a,7,8,9-heki sahidoroindoro[4,3-fg]kinorin- 9-karubokisamido",1V-LSD,,2023/03/10,令和5年3月10日,162368540 ,GIIBVGJWUZNECE-XMSQKQJNSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+129,指定薬物,Ｎ，Ｎ－ジエチル－５－メトキシトリプタミン及びその塩類,"N,N-jiechiru-5-methoxytoriputa min",5-MeO-DET,,2007/02/28,平成19年2月28日,417608 ,KGDVJQQWCDDEPP-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+130,指定薬物,1－（シクロブチルメチル）－N－（２－ フェニルプロパン－２－イル）－１H－インダゾール－3－カルボキサミド及びその塩類,1-(shikurobuchirumechiru)-N-(2- phenylpuropan-2-iru)-1H-i ndazo-ru-3-karubokisamido及びそ の salts,CUMYL-CBMINACA,,2022/08/30,令和4年8月30日,155884799 ,CFMZQSDQCNKGII-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+131,指定薬物,1－（シクロブチルメチル）－N－（２－ フェニルプロパン－２－イル）－１H－インドール－3－カルボキサミド及びその塩類,1-(shikurobuchirumechiru)-N-(2- phenylpuropan-2-iru)-1H-i ndo-ru-3-karubokisamido,CUMYL-CBMICA,,2022/06/28,令和4年6月28日,155884426 ,INXXQNIOWMOYEJ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+132,指定薬物,４－（シクロプロピルカルボニル）－Ｎ， Ｎ－ジエチル－７－メチル－４，６，６ａ，７，８，９－ヘキサヒドロインドロ［４，３－ ｆｇ］キノリン－９－カルボキサミド及びその塩類,"4-(shikuropuropirukaruboniru)-N, N-jiechiru-7-mechiru-4,6,6a, 7,8,9-hekisahidoroindoro[4,3- fg]kinorin-9-karubokisamido及びそ の salts",1cP-LSD,,2021/01/22,令和3年1月22日,155884675 ,RAFUPYYDHPFASC-DYESRHJHSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+133,指定薬物,４－（シクロプロピルカルボニル）－Ｎ－メチル－Ｎ－（プロパン－２－イル）－７－メチル－４，６，６ａ，７，８，９－ヘキサヒドロインドロ［４，３－ｆｇ］キノリン－９－カルボキサミド及びその塩類,"4-(shikuropuropirukaruboniru)-N- mechiru-N-(puropan-2-iru)-7 -mechiru-4,6,6a,7,8,9-heki sahidoroindoro[4,3-fg]kinorin- 9-karubokisamido",1cP-MiPLA,,2025/01/27,令和7年1月27日,170763684 ,DBIYDHUGEKMIHZ-DYESRHJHSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+134,指定薬物,２－（シクロヘキシルアミノ）－１－（３，４－メチレンジオキシフェニル）ブタン－１－オン及びその塩類,"2-(cyclohexylamineo)-1-(3, 4-mechirenjiokishiphenyl)butan- 1-on",N-Cyclohexylbutylone,Cybutylone,2023/10/26,令和5年10月26日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+135,指定薬物,２－シクロヘキシルアミノ－１－（３，４－メチレンジオキシフェニル）プロパン－１－オン,"2-cyclohexylamineo-1-(3,4 -mechirenjiokishiphenyl)puropan -1-on",Cyputylone N-Cyclohexylmethylone,,2025/07/03,令和7年7月3日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+136,指定薬物,２－シクロヘキシル－１－フェニル－２－（ピロリジン－１－イル）エタン－１－オン及びその塩類,2-cyclohexyl-1-phenyl-2 -(pirorijin-1-iru)etan-1- on,α-PCYP,,2021/08/25,令和3年8月25日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+137,指定薬物,２－［１－（シクロヘキシルメチル）－１H－インダゾール－３－カルボキサミド］－３－メチルブタン酸及びその塩類,2-[1-(cyclohexylmechiru)-1H -indazo-ru-3-karubokisamido] -3-mechirubutan酸,CHMINACA-BA,,2014/09/19,平成26年9月19日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+138,指定薬物,［１－（シクロヘキシルメチル）－１Ｈ－インドール－３－イル]（ナフタレン－１－イル）メタノン及びその塩類,[1-(cyclohexylmechiru)-1H- indo-ru-3-iru](nafutaren-1 -iru)metanon,NE-CHMIMO,JWH-018 cyclohexylmethyl derivative,-,令和元年11月14日,139031057 ,HGJYPIZWMHHQKS-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+139,指定薬物,［１－（シクロヘキシルメチル）－１Ｈ－インドール－３－イル］（４－メトキシナフタレン－１－イル）メタノン及びその塩類,[1-(cyclohexylmechiru)-1H- indo-ru-3-iru](4-methoxyna futaren-1-iru)metanon 類,CHM-081(JWH-081 cyclohexylmethyl derivative),,2020/08/26,令和2年8月26日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+140,指定薬物,５－（シクロヘキシルメチル）－２－（２－フェニルプロパン－２－イル）－２，５－ジヒドロ－１Ｈ－ピリド［４，３－ｂ］インドール－１－オン及びその塩類,"5-(cyclohexylmechiru)-2-(2 -phenylpuropan-2-iru)-2,5 -jihidoro-1H-pirido[4,3-b]in do-ru-1-on",CUMYL-CH-MEGACLONE,,2022/01/19,令和4年1月19日,155884822 ,CGHCGYCTOLWAPL-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+141,指定薬物,１－（２，３－ジクロロフェニル）ピペラジン及びその塩類,"1-(2,3-jikurorophenyl)piperaji n","2, 3-DCPP",,2013/04/30,平成25年4月30日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+142,指定薬物,２－（３，４－ジクロロフェニル）－２－（ピペリジン－２－イル）酢酸メチルエステル及びその塩類,"2-(3,4-jikurorophenyl)-2- (piperijin-2-iru) acetatemechiruesu teru","3, 4-Dichloromethylphenidate",,2014/03/06,平成26年3月6日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+143,指定薬物,４－(３，４－ジクロロフェニル）－７－メトキシ－２－メチル－１，２，３，４－テトラヒドロイソキノリン及びその塩類,"4-(3,4-jikurorophenyl)-7-me tokishi-2-mechiru-1,2,3,4-teto rahidoroisokinorin",Diclofensine,,2014/08/15,平成26年8月15日,68871 ,ZJDCGVDEEHWEIG-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+144,指定薬物,１－（２，３－ジヒドロベンゾフラン－５－イル）－２－（ピロリジン－１－イル）ペンタン－１－オン及びその塩類,"1-(2,3-jihidorobenzofuran-5- iru)-2-(pirorijin-1-iru)pe ntan-1-on",5-DBFPV,,2014/11/18,平成26年11月18日,129844558 ,CIGWUZUBQBQZAO-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+145,指定薬物,１－（２，３－ジヒドロベンゾフラン－５－イル）プロパン－２－アミン及びその塩類,"1-(2,3-jihidorobenzofuran-5- iru)puropan-2-amine 類",5-APDB,,2014/03/06,平成26年3月6日,192601 ,PZTJXZKNTPCPJL-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+146,指定薬物,１－（２，３－ジヒドロベンゾフラン－６－イル）プロパン－２－アミン及びその塩類,"1-(2,3-jihidorobenzofuran-6- iru)puropan-2-amine 類",6-APDB,,2015/09/16,平成27年9月16日,192599 ,VRNGXHJGMCJRSQ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+147,指定薬物,１－（２，３－ジヒドロベンゾフラン－５－イル）－Ｎ－メチルプロパン－２－アミン及びその塩類,"1-(2,3-jihidorobenzofuran-5- iru)-N-mechirupuropan-2-ami n",5-MAPDB,,2015/11/25,平成27年11月25日,112500533 ,PLQTZOCLUHHCOI-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+148,指定薬物,１，２－ジフェニル－２－（ピロリジン－１－イル）エタン－１－オン及びその塩類,"1,2-jiphenyl-2-(pirorijin- 1-iru)etan-1-on 類",α-D2PV,A-D2PV,2022/03/07,令和4年3月7日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+149,指定薬物,ジフェニル（ピロリジン－２－イル）メタノール及びその塩類,jiphenyl(pirorijin-2-iru)meta no-ru,Diphenylprolinol,D2PM,2009/10/21,平成21年10月21日,204386 ,OGCGXUGBDJGFFY-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+150,指定薬物,２－（ジフェニルメチル）ピペリジン及びその塩類,2-(jiphenylmechiru)piperijin及び その salts,2-DPMP,Desoxypipradrol,2016/04/08,平成28年4月8日,160506 ,RWTNXJXZVGHMGI-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+151,指定薬物,２－（ジフェニルメチル）ピロリジン及びその塩類,2-(jiphenylmechiru)pirorijin及び その salts,Desoxy-D2PM,,2013/04/30,平成25年4月30日,1295 ,OXOBKZZXZVFOBB-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+152,指定薬物,１－［（２，２－ジフルオロベンゾ［d］［１，３］ジオキソール－５－イル）メチル］ピペラジン及びその塩類,"1-[(2,2-jifuruorobenzo[d][1, 3]jiokiso-ru-5-iru)mechiru]pi perajin",DF-MDBP,,2015/12/15,平成27年12月15日,66553702 ,MPZINTHEMFDGTH-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+153,指定薬物,Ｎ，Ｎ－ジプロピルトリプタミン及びその塩類,"N,N-jipuropirutoriputamine",DPT,,2007/02/28,平成19年2月28日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+154,指定薬物,（２，４－ジメチルアゼチジン－１－イ ル）－（７－メチル－４，６，６ａ，７，８，９－ヘキサヒドロインドロ［４，３－ｆｇ］キノリン－９－イル）メタノン及びその塩類,"(2,4-jimechiruazechijin-1-i ru)-(7-mechiru-4,6,6a,7,8,9 -hekisahidoroindoro[4,3-fg]kino rin-9-iru)metanon",LSZ,LA-SS-Az,2022/08/30,令和4年8月30日,71301249 ,DUKNIHFTDAXJON-CTQRGLTFSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+155,指定薬物,２－［（ジメチルアミノ）メチル］－1－（３－ヒドロキシフェニル）シクロヘキサノール及びその塩類,2-[(jimechiruamineo)mechiru]-1-(3 -hidorokishiphenyl)shikurohekisano- ru,O-Desmethyltramadol,O-DSMT,2016/11/01,平成28年11月1日,9838803 ,UWJUQVWARXYRCG-HIFRSBDPSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+156,指定薬物,N′－（１，１－ジメチルエトキシカルボニル）－N，N－ジメチルトリプタミン及びその塩類,"N′-(1,1-jimechiruetokishikarubo niru)-N,N-jimechirutoriputamine及 びその salts",NBoc-DMT NB-DMT,,2025/08/29,令和7年8月29日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+157,指定薬物,１－（３，４－ジメチルフェニル）－２－（エチルアミノ）ブタン－１－オン及びその塩類,"1-(3,4-jimechiruphenyl)-2- (echiruamineo)butan-1-on及びそ の salts","3, 4-Dimethyl-NEB","3, 4-Dimethyl-α- ethylaminobutiophenone",2015/01/30,平成27年1月30日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+158,指定薬物,１－（３，４－ジメチルフェニル）－２－（エチルアミノ）ペンタン－１－オン及びその塩類,"1-(3,4-jimechiruphenyl)-2- (echiruamineo)pentan-1-on及び その salts","3, 4-Dimethyl-α- ethylaminopentiophenone",,2015/01/30,平成27年1月30日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+159,指定薬物,１－（３，４－ジメチルフェニル）－２－（ピロリジン－１－イル）ペンタン－１－オン及びその塩類,"1-(3,4-jimechiruphenyl)-2- (pirorijin-1-iru)pentan-1- on","3, 4-Dimethyl-α-PVP",,2015/03/25,平成27年3月25日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+160,指定薬物,２－［２，５－ジメトキシ－４－（トリフルオロメチル）フェニル］エタンアミン及びその塩類,"2-[2,5-jimethoxy-4-(torifuru oromechiru)phenyl]etanamine及び その salts",2C-TFM,,2017/10/31,平成29年10月31日,10399795 ,LYXGNMLWYONZID-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+161,指定薬物,２－（２，５－ジメトキシ－４－ニトロフェニル）エタンアミン及びその塩類,"2-(2,5-jimethoxy-4-nitorofe niru)etanamine",2C-N,,2014/06/11,平成26年6月11日,10036637 ,ZMUSDZGRRJGRAO-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+162,指定薬物,１－（２，５－ジメトキシ－４－ニトロフェニル）プロパン－２－アミン及びその塩類,"1-(2,5-jimethoxy-4-nitorofe niru)puropan-2-amine 類",DON,,2010/08/25,平成22年8月25日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+163,指定薬物,２－（２，５－ジメトキシフェニル）エタンアミン及びその塩類,"2-(2,5-jimethoxyphenyl)etan amine",2C-H,,2014/09/19,平成26年9月19日,76632 ,WNCUVUUEJZEATP-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+164,指定薬物,１－（３，４－ジメトキシフェニル）－２－（エチルアミノ）ペンタン－１－オン及びその塩類,"1-(3,4-jimethoxyphenyl)-2- (echiruamineo)pentan-1-on及び その salts",DL-4662,,2014/08/15,平成26年8月15日,102144588 ,WZVCLFAACAERMB-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+165,指定薬物,１－（３，４－ジメトキシフェニル）－２－（ピロリジン－１－イル）ヘキサン－１－オン及びその塩類,"1-(3,4-jimethoxyphenyl)-2- (pirorijin-1-iru)hekisan-1- on","3, 4-Dimethoxy-α-PHP",,2014/11/18,平成26年11月18日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+166,指定薬物,１－（３，４－ジメトキシフェニル）－２－（ピロリジン－１－イル）ペンタン－１－オン及びその塩類,"1-(3,4-jimethoxyphenyl)-2- (pirorijin-1-iru)pentan-1- on","3, 4-Dimethoxy-α-PVP",,2014/03/06,平成26年3月6日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+167,指定薬物,１－（３，４－ジメトキシフェニル）－２－（メチルアミノ）プロパン－１－オン及びその塩類,"1-(3,4-jimethoxyphenyl)-2- (mechiruamineo)puropan-1-on及び その salts","3, 4-Dimethoxymethcathinone",,2016/06/22,平成28年6月22日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+168,指定薬物,２－（２，５－ジメトキシフェニル）－Ｎ－（２－メトキシベンジル）エタンアミン及びその塩類,"2-(2,5-jimethoxyphenyl)-N- (2-methoxybenzylu)etanamine及 びその salts",25H-NBOMe,,2014/03/06,平成26年3月6日,39424372 ,RMLXCDMTGWSEOU-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+169,指定薬物,２－（２，５－ジメトキシ－４－プロピルフェニル）エタンアミン及びその塩類,"2-(2,5-jimethoxy-4-puropiru phenyl)etanamine",2C-P,,2015/03/25,平成27年3月25日,44350080 ,PZJOKFZGPTVNBF-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+170,指定薬物,１－（３，５－ジメトキシ－４－プロポキシフェニル）プロパン－２－アミン及びその塩類,"1-(3,5-jimethoxy-4-puropoki shiphenyl)puropan-2-amine及び その salts",3C-P,,2018/02/28,平成30年2月28日,54929142 ,KKMCHCCXGKYEKJ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+171,指定薬物,２－（２，５－ジメトキシ－４－メチルフェニル）エタンアミン及びその塩類,"2-(2,5-jimethoxy-4-mechirufe niru)etanamine",2C-D,,2016/01/21,平成28年1月21日,135740 ,UNQQFDCVEMVQHM-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+172,指定薬物,２－（２，５－ジメトキシ－４－メチルフェニル）－２－メトキシエタンアミン及びその塩類,"2-(2,5-jimethoxy-4-mechirufe niru)-2-methoxyetanamine及びそ の salts",β-METHOXY-2C-D,,2020/08/26,令和2年8月26日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+173,指定薬物,｛１－［（テトラヒドロピラン－４－イル）メチル］－１Ｈ－インドール－３－イル｝（２，２，３，３－テトラメチルシクロプロパン－１－イル）メタノン及びその塩類,"{1-[(tetrahydropiran-4-iru)me chiru]-1H-indo-ru-3-iru} (2,2,3,3-tetoramechirushikuropuro pan-1-iru)metanon",A-834735,,2013/06/28,平成25年6月28日,11544639 ,NQTMRZNYLIGQCF-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+174,指定薬物,（２，２，３，３－テトラメチルシクロプロパン－１－イル）［１－（４，４，４－トリフルオロブチル）－１Ｈ－インドール－３－イル］メタノン及びその塩類,"(2,2,3,3-tetoramechirushikuropuro pan-1-iru)[1-(4,4,4-torifu ruorobuchiru)-1H-indo-ru-3 -iru]metanon",XLR-12,,2014/06/11,平成26年6月11日,11559386 ,PEXYKZYTXIEEOB-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+175,指定薬物,２－（２，４，５－トリクロロ－３，６－ジメトキシフェニル）エタンアミン及びその塩類,"2-(2,4,5-torikuroro-3,6-jime tokishiphenyl)etanamine 類",2C-C-3,,2010/08/25,平成22年8月25日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+176,指定薬物,１－（２，４，６－トリメトキシフェニル）プロパン－２－アミン及びその塩類,"1-(2,4,6-torimethoxyphenyl)pu ropan-2-amine",TMA-6,,2007/02/28,平成19年2月28日,31015 ,DDGNOUVDFKXADP-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+177,指定薬物,２－（ナフタレン－２－イル）－２－（ピペリジン－２－イル）酢酸エチルエステル及びその塩類,2-(nafutaren-2-iru)-2-(pi perijin-2-iru) acetateechiruesute ru,Ethylnaphthidate,HDEP-28,2016/06/22,平成28年6月22日,91844468 ,OTQVTBPHZRARTL-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+178,指定薬物,２－（ナフタレン－２－イル）－２－（ピペリジン－２－イル）酢酸メチルエステル及びその塩類,2-(nafutaren-2-iru)-2-(pi perijin-2-iru) acetatemechiruesute ru,Methylnaphthidate,HDMP-28,2015/11/25,平成27年11月25日,9817261 ,DNRNSIJBSCBESJ-IAGOWNOFSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+179,指定薬物,１－（ナフタレン－２－イル）－２－（ピロリジン－１－イル）ペンタン－１－オン及びその塩類,1-(nafutaren-2-iru)-2-(piro rijin-1-iru)pentan-1-on,Naphyrone,,2011/09/20,平成23年9月20日,11243002 ,DTNUPBSOODGRKW-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+180,指定薬物,ナフタレン－１－イル＝１－（４－フルオロベンジル）－１Ｈ－インドール－３－カルボキシラート及びその塩類,nafutaren-1-iru=1-(4-furuo robenzylu)-1H-indo-ru-3-ka rubokishira-to,FDU-PB-22,,2014/08/15,平成26年8月15日,119025888 ,RCEKSVIFQKKFLS-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+181,指定薬物,ナフタレン－１－イル＝１－（５－フルオロペンチル）－１Ｈ－インダゾール－３－カルボキシラート及びその塩類,nafutaren-1-iru=1-(5-furuo ropenchiru)-1H-indazo-ru-3 -karubokishira-to,5-Fluoro-SDB-005,,2014/08/15,平成26年8月15日,124519691 ,FNMFGMMHNFDPNT-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+182,指定薬物,Ｎ－（ナフタレン－１－イル）－１－（５－フルオロペンチル）－１Ｈ－インドール－３－カルボキサミド及びその塩類,N-(nafutaren-1-iru)-1-(5- furuoropenchiru)-1H-indo-ru -3-karubokisamido,5F-NNE1,,2013/10/21,平成25年10月21日,118796566 ,DJKVOBZLMBHFKX-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+183,指定薬物,ナフタレン－１－イル＝１－（５－フルオロペンチル）－１Ｈ－インドール－３－カルボキシラート及びその塩類,nafutaren-1-iru=1-(5-furuo ropenchiru)-1H-indo-ru-3-ka rubokishira-to,NM2201,,2014/10/29,平成26年10月29日,91864534 ,PRGFSQYZCKCBQO-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+184,指定薬物,ナフタレン－１－イル（１－ペンチル－１ Ｈ－インダゾール－３－イル）メタノン及びその塩類,nafutaren-1-iru(1-penchiru-1 H-indazo-ru-3-iru)metanon及 びその salts,THJ-018,JWH-018 indazole analog,2014/08/15,平成26年8月15日,124518671 ,VAKGBPSFDNTMDJ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+185,指定薬物,N－（ナフタレン－１－イル）－１－ペンチル－１Ｈ－インダゾール－３－カルボキサミド及びその塩類,N-(nafutaren-1-iru)-1-pen chiru-1H-indazo-ru-3-karubo kisamido,MN-18,MN-18,2014/03/06,平成26年3月6日,119058030 ,UJKHLVOEXULDRU-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+186,指定薬物,ナフタレン－１－イル＝１－ペンチル－１Ｈ－インダゾール－３－カルボキシラート及びその塩類,nafutaren-1-iru=1-penchiru- 1H-indazo-ru-3-karubokishi ra-to,SDB-005,,2014/10/29,平成26年10月29日,91936885 ,SPUQBSMPSCYQLS-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+187,指定薬物,Ｎ－（ナフタレン－１－イル）－１－ペンチル－１Ｈ－インドール－３－カルボキサミド及びその塩類,N-(nafutaren-1-iru)-1-pen chiru-1H-indo-ru-3-karuboki samido,NNE1,MN-24,2013/10/21,平成25年10月21日,54752945 ,GWCQNKRMTGVYIZ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+188,指定薬物,ナフタレン－１－イル［４－（ペンチルオキシ）ナフタレン－１－イル］メタノン及びその塩類,nafutaren-1-iru[4-(penchiruo kishi)nafutaren-1-iru]metanon及 びその salts,CB-13,,2012/06/01,平成24年6月1日,9799417 ,RSUMDJRTAFBISX-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+189,指定薬物,ナフタレン－１－イル（９－ペンチル－９ Ｈ－カルバゾール－３－イル）メタノン及びその塩類,nafutaren-1-iru(9-penchiru-9 H-karubazo-ru-3-iru)metanon,EG-018,,2014/10/29,平成26年10月29日,118796466 ,FJMMDJDPNLZYLA-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+190,指定薬物,ナフタレン－１－イル（１－ペンチル－１ Ｈ－ピロール－３－イル）メタノン及びその塩類,nafutaren-1-iru(1-penchiru-1 H-piro-ru-3-iru)metanon及び その salts,JWH-030,,2013/04/30,平成25年4月30日,9971539 ,VPBJQDBKZSHCPC-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+191,指定薬物,ナフタレン－１－イル（１－ペンチル－５－フェニル－１H－ピロール－３－イル）メタノン及びその塩類,nafutaren-1-iru(1-penchiru-5 -phenyl-1H-piro-ru-3-i ru)metanon,JWH-145,,2015/03/25,平成27年3月25日,44418304 ,JLXYYSHMURZHKI-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+192,指定薬物,Ｎ－（ナフタレン－１－イル）－１－ペンチル－Ｎ－（１－ペンチル－１Ｈ－インドール－３－カルボニル）－１Ｈ－イン ドール－３－カルボキサミド及びその塩類,N-(nafutaren-1-iru)-1-pen chiru-N-(1-penchiru-1H-in do-ru-3-karuboniru)-1H-in do-ru-3-karubokisamido 類,BiPICANA,,2014/08/15,平成26年8月15日,162368425 ,JUJSXRUYGOTLSI-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+193,指定薬物,２－｛［ビス（４－フルオロフェニル）メチル］スルフィニル｝アセトアミド及びその塩類,2-{[bisu(4-furuorophenyl)mechi ru]surufiniru}asetoamido,Bisfluoromodafinil,,2016/03/09,平成28年3月9日,13271852 ,YEAQNUMCWMRYMU-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+194,指定薬物,２－｛［ビス（４－フルオロフェニル）メチル］スルフィニル｝－Ｎ－メチルアセトアミド及びその塩類,2-{[bisu(4-furuorophenyl)mechi ru]surufiniru}-N-mechiruasetoa mido,Modafiendz,"N-Methyl-4, 4-difluoro- modafinil",2016/01/21,平成28年1月21日,132989661 ,MQZWTCIUDSDFCQ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+195,指定薬物,４－ヒドロキシ－Ｎ－イソプロピル－Ｎ－メチルトリプタミン及びその塩類,4-hidorokishi-N-isopropyl-N -mechirutoriputamine,4-OH-MIPT,,2015/03/25,平成27年3月25日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+196,指定薬物,４－ヒドロキシ－Ｎ，Ｎ－ジイソプロピルトリプタミン及びその塩類,"4-hidorokishi-N,N-jiisopropyl toriputamine",4-OH-DIPT,,2007/02/28,平成19年2月28日,21854225 ,KBRYKXCBGISXQV-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+197,指定薬物,Ｎ－｛１－［２－ヒドロキシ－２－（チオフェン－２－イル）エチル］ピぺリジン－４－イル｝－Ｎ－フェニルプロパンアミド及びその塩類,N-{1-[2-hidorokishi-2-(chio fen-2-iru)echiru]piぺrijin- 4-iru}-N-phenylpuropanamido,β-hydroxythiofentanyl,,2021/06/17,令和3年6月17日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+198,指定薬物,（１ＲＳ，３ＳＲ）－３－［２－ヒドロキシ－４－（２－メチルオクタン－２－イル）  フェニル］シクロヘキサン－１－オール及びその塩類,"(1RS,3SR)-3-[2-hidorokishi- 4-(2-mechiruokutan-2-iru) phenyl]shikurohekisan-1-o-ru","CP-47, 497",,2009/10/21,平成21年10月21日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+199,指定薬物,３－［１－（ピペリジン－１－イル）シクロヘキシル］フェノール及びその塩類,3-[1-(piperijin-1-iru)shikuro hekishiru]feno-ru,3-HO-PCP,3-OH-PCP; 3-hydroxy-PCP; PCP-3-OH,2018/12/19,平成30年12月19日,133277 ,AMSXTZUCNOKUEN-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+200,指定薬物,２－（ピロリジン－１－イル）－１－（チオフェン－２－イル）ブタン－１－オン及びその塩類,2-(pirorijin-1-iru)-1-(chi ofen-2-iru)butan-1-on及 びその salts,α-PBT,,2014/09/19,平成26年9月19日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+201,指定薬物,２－（ピロリジン－１－イル）－１－（チオフェン－２－イル）ペンタン－１－オン及びその塩類,2-(pirorijin-1-iru)-1-(chi ofen-2-iru)pentan-1-on,α-PVT,,2013/04/30,平成25年4月30日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+202,指定薬物,"２－（ピロリジン－１－イル）－１－（５，
+６，７，８－テトラヒドロナフタレン－２－イル）ペンタン－１－オン及びその塩類","2-(pirorijin-1-iru)-1-(5, 6,7,8-tetrahydronafutaren-2- iru)pentan-1-on",TH-PVP,,2015/12/15,平成27年12月15日,132989549 ,MMIKQWIZKBYLKZ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+203,指定薬物,２－フェニル－２－（ピペリジン－２－イル）酢酸イソプロピルエステル及びその塩類,2-phenyl-2-(piperijin-2-i ru) acetateisopropylesuteru,Isopropylphenidate,,2015/11/25,平成27年11月25日,68314762 ,AZVPADMEIMLODT-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+204,指定薬物,１－フェニル－２－（ピペリジン－１－イル）ブタン－１－オン及びその塩類,1-phenyl-2-(piperijin-1-i ru)butan-1-on,α-PBP piperidine analog,,2014/03/06,平成26年3月6日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+205,指定薬物,Ｎ－（２－フェニルプロパン－２－イル）－１－［（テトラヒドロ－２Ｈ－ピラン－４－イル）メチル］－１Ｈ－インダゾール－３－カルボキサミド及びその塩類,N-(2-phenylpuropan-2-iru) -1-[(tetrahydro-2H-piran-4 -iru)mechiru]-1H-indazo-ru- 3-karubokisamido,CUMYL-THPINACA,,2016/03/09,平成28年3月9日,86273679 ,HINCNLQQLQFMRD-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+206,指定薬物,１－（１－フェニルペンタン－２－イル）ピロリジン及びその塩類,1-(1-phenylpentan-2-iru) pirorijin,Prolintane,,2015/02/18,平成27年2月18日,14592 ,OJCPSBCUMRIPFL-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+207,指定薬物,Ｎ－(1－フェネチルピペリジン－４－イル)－Ｎ－フェニルイソブチルアミド及びその塩類,N-(1-fenechirupiperijin-4-i ru)-N-phenylisobutylamido及び その salts,Isobutyrylfentanyl,,2020/08/26,令和2年8月26日,14402357 ,WRPFPNIHTOSMKU-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+208,指定薬物,N－(１－フェネチルピペリジン－４－イル）－N－フェニルシクロペンタンカルボキサミド及びその塩類,N-(1-fenechirupiperijin-4-i ru)-N-phenylshikuropentankarubo kisamido,Cyclopentylfentanyl,,-,令和元年8月29日,126682248 ,PEASFKSPITUZGT-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+209,指定薬物,４－ブタノイル－Ｎ，Ｎ－ジエチル－７－メチル－４，６，６ａ，７，８，９－ヘキサヒドロインドロ［４，３－ｆｇ］キノリン－９－カルボキサミド及びその塩類,"4-butanoiru-N,N-jiechiru-7 -mechiru-4,6,6a,7,8,9-heki sahidoroindoro[4,3-fg]kinorin- 9-karubokisamido",1B-LSD,,2020/08/26,令和2年8月26日,145875086 ,SVRFNPSJPIDUBC-DYESRHJHSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+210,指定薬物,２－（ブチルアミノ）－１－（４－クロロ フェニル）プロパン－１－オン及びその塩類,2-(buchiruamineo)-1-(4-kuroro phenyl)puropan-1-on,4-Chloro-N-butylcathinone,,-,令和元年12月17日,82100385 ,FMDPVFRFGCOFKM-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+211,指定薬物,２－（ブチルアミノ）－１－（３，４－メチレンジオキシフェニル）ブタン－１－オン及びその塩類,"2-(buchiruamineo)-1-(3,4-mechi renjiokishiphenyl)butan-1-on",N-Butyl butylone,,2023/08/31,令和5年8月31日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+212,指定薬物,２－（ブチルアミノ）－１－（３，４－メチレンジオキシフェニル）ペンタン－１－オン及びその塩類,"2-(buchiruamineo)-1-(3,4-mechi renjiokishiphenyl)pentan-1- on",N-Butylpentylone,,2020/02/28,令和2年2月28日,145722628 ,SEIQPCGGBMTHCB-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+213,指定薬物,１－ブチル－Ｎ－（２－フェニルプロパン－２－イル）－１Ｈ－インドール－３－カルボキサミド及びその塩類,1-buchiru-N-(2-phenylpuropa n-2-iru)-1H-indo-ru-3- karubokisamido,CUMYL-BICA,,2016/02/10,平成28年2月10日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+214,指定薬物,Ｎ－｛１－［２－（フラン－２－イル）エチル］ピぺリジン－４－イル｝－Ｎ－フェニルプロパンアミド及びその塩類,N-{1-[2-(furan-2-iru)echi ru]piぺrijin-4-iru}-N-feni rupuropanamido,Furanylethylfentanyl,FUEF,2020/08/26,令和2年8月26日,126682249 ,AFTQVAQNGJXATO-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+215,指定薬物,１－（４－フルオロフェニル）－２－（イソプロピルアミノ）ペンタン－１－オン及びその塩類,1-(4-furuorophenyl)-2-(iso puropiruamineo)pentan-1-on及び その salts,4F-IPV,4-Fluoro-NPP,2014/12/26,平成26年12月26日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+216,指定薬物,１－［１－（３－フルオロフェニル）シクロヘキシル］ピペリジン及びその塩類,1-[1-(3-furuorophenyl)shikuro hekishiru]piperijin,3F-PCP,3-Fluoro-PCP,2021/03/15,令和3年3月15日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+217,指定薬物,１－（４－フルオロフェニル）ピペラジン及びその塩類,1-(4-furuorophenyl)piperajin,4FPP,,2009/10/21,平成21年10月21日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+218,指定薬物,２－（４－フルオロフェニル）－２－（ピペリジン－２－イル）酢酸メチルエステル及びその塩類,2-(4-furuorophenyl)-2-(pi perijin-2-iru) acetatemechiruesute ru,4-Fluoromethylphenidate,4-FMPH; 4F-MPH,2017/10/31,平成29年10月31日,52944002 ,XISBAJBPDVRSPG-CHWSQXEVSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+219,指定薬物,１－（４－フルオロフェニル）－２－（ピペリジン－１－イル）ペンタン－１－オン及びその塩類,1-(4-furuorophenyl)-2-(pi perijin-1-iru)pentan-1-on,4-Fluoro-α-PVP piperidine analog,,2015/01/30,平成27年1月30日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+220,指定薬物,N－（４－フルオロフェニル）－N－（１－フェネチルピペリジン－４－イル）フラン－２－カルボキサミド及びその塩類,N-(4-furuorophenyl)-N-(1- fenechirupiperijin-4-iru)furan -2-karubokisamido,4F-Furanylfentanyl,para-Fluorofuranylfentanyl,2023/03/10,令和5年3月10日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+221,指定薬物,１－（２－フルオロフェニル）プロパン－２－アミン及びその塩類,1-(2-furuorophenyl)puropan- 2-amine,2FMP,2-Fluoroamphetamine; 2F-AMP,2014/12/26,平成26年12月26日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+222,指定薬物,１－（３－フルオロフェニル）プロパン－２－アミン及びその塩類,1-(3-furuorophenyl)puropan- 2-amine,3FMP,3-Fluoroamphetamine; 3F-AMP,2015/01/30,平成27年1月30日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+223,指定薬物,［５－（２－フルオロフェニル）－１－ペンチル－１Ｈ－ピロール－３－イル］（ナフタレン－１－イル）メタノン及びその塩類,[5-(2-furuorophenyl)-1-pe nchiru-1H-piro-ru-3-iru](na futaren-1-iru)metanon 類,JWH-307,,2013/04/30,平成25年4月30日,16049783 ,WYNZPDDTQGVCLZ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+224,指定薬物,［５－（３－フルオロフェニル）－１－ペンチル－１H－ピロール－３－イル］（ナフタレン－１－イル）メタノン及びその塩類,[5-(3-furuorophenyl)-1-pe nchiru-1H-piro-ru-3-iru](na futaren-1-iru)metanon 類,JWH-368,,2015/03/25,平成27年3月25日,44418331 ,OCOICOMCAJNSCA-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+225,指定薬物,５－（４－フルオロフェニル）－４－メチル－４，５－ジヒドロオキサゾール－２－アミン及びその塩類,"5-(4-furuorophenyl)-4-mechi ru-4,5-jihidorookisazo-ru-2 -amine",4F-4-MAR,4-fluoro-4-Methylaminorex; 4-FPO; 4F-MAR,2025/08/29,令和7年8月29日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+226,指定薬物,１－（２－フルオロフェニル）－Ｎ －メチルプロパン－２－アミン及びその塩類,1-(2-furuorophenyl)-N-mechi rupuropan-2-amine,N-Methyl-2-FMP,2-FMA,2010/08/25,平成22年8月25日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+227,指定薬物,１－（３－フルオロフェニル）－Ｎ－メチルプロパン－２－アミン及びその塩類,1-(3-furuorophenyl)-N-mechi rupuropan-2-amine,3-Fluoromethamphetamine,3-FMA,2013/06/28,平成25年6月28日,58216164 ,RRVAUTPWWWFYQT-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+228,指定薬物,１－（４－フルオロフェニル）－Ｎ－メチルプロパン－２－アミン及びその塩類,1-(4-furuorophenyl)-N-mechi rupuropan-2-amine,N-Methyl-4-FMP,4-Fluoromethamphetamine,2008/12/17,平成20年12月17日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+229,指定薬物,２－（２－フルオロフェニル）－３－メチルモルフォリン及びその塩類,2-(2-furuorophenyl)-3-mechi rumoruforin,2-FPM,2-Fluorophenmetrazine,2017/02/24,平成29年2月24日,67471199 ,QTYLEXQVLJYJHT-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+230,指定薬物,２－（３－フルオロフェニル）－３－メチルモルフォリン及びその塩類,2-(3-furuorophenyl)-3-mechi rumoruforin,3-Fluorophenmetrazine,3-FPM,2015/11/25,平成27年11月25日,54673723 ,VHYVKJAQSJCYCK-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+231,指定薬物,２－（４－フルオロフェニル）－３－メチルモルフォリン及びその塩類,2-(4-furuorophenyl)-3-mechi rumoruforin,4-Fluorophenmetrazine,4-FPM,2016/03/09,平成28年3月9日,43350789 ,CLXPYTBRAZHUFD-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+232,指定薬物,[１－（４－フルオロベンジル）－１Ｈ－インドール－３－イル]（２，２，３，３－テトラメチルシクロプロピル）メタノン及びその塩類,"[1-(4-furuorobenzylu)-1H-i ndo-ru-3-iru](2,2,3,3-teto ramechirushikuropuropiru)metanon及びそ の salts",FUB-144,,2014/08/15,平成26年8月15日,118796439 ,UXOFEILQVZFLRH-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+233,指定薬物,［１－（４－フルオロベンジル）－１Ｈ－インドール－３－イル］（ナフタレン－１－イル）メタノン及びその塩類,[1-(4-furuorobenzylu)-1H- indo-ru-3-iru](nafutaren-1 -iru)metanon,FUB-JWH-018,,2015/11/25,平成27年11月25日,121489975 ,VREQTLWJHFQLEX-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+234,指定薬物,１－（４－フルオロベンジル）－Ｎ－（ナフタレン－１－イル）－１Ｈ－インドール－３－カルボキサミド及びその塩類,1-(4-furuorobenzylu)-N-(na futaren-1-iru)-1H-indo-ru -3-karubokisamido,FDU-NNE1,,2015/06/24,平成27年6月24日,122213806 ,XYSIFMHZXZATQO-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+235,指定薬物,Ｎ－（２－フルオロベンジル）－２－（４－ヨード－２，５－ジメトキシフェニル）エタンアミン及びその塩類,"N-(2-furuorobenzylu)-2-(4 -yo-do-2,5-jimethoxyphenyl) etanamine",25I-NBF,,2015/05/22,平成27年5月22日,57469209 ,LPBKNBHMWRBPHT-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+236,指定薬物,[１－（５－フルオロペンチル）－１Ｈ－インダゾール－３－イル]（ナフタレン－１－イル）メタノン及びその塩類,[1-(5-furuoropenchiru)-1H-i ndazo-ru-3-iru](nafutaren-1 -iru)metanon,THJ-2201,,2014/08/15,平成26年8月15日,91864533 ,DULWRYKFTVFPTL-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+237,指定薬物,［1－（５－フルオロペンチル）－1Ｈ－インドール－３－イル］（ピリジン－３－イル）メタノン及びその塩類,[1-(5-furuoropenchiru)-1H-i ndo-ru-3-iru](pirijin-3-i ru)metanon,5-Fluoropentyl-3-pyridinoylindole,,2013/04/30,平成25年4月30日,129844439 ,MGZNWVDDFDINBW-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+238,指定薬物,［１－（５－フルオロペンチル）－１Ｈ－インドール－３－イル］（２－ヨードフェニル）メタノン及びその塩類,[1-(5-furuoropenchiru)-1H- indo-ru-3-iru](2-yo-dofe niru)metanon,AM694,,2011/09/20,平成23年9月20日,9889172 ,LFFIIZFINPPEMC-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+239,指定薬物,１－（５－フルオロペンチル）－N－（ナフタレン－１－イル）－１H－インダゾール－３－カルボキサミド及びその塩類,1-(5-furuoropenchiru)-N-(na futaren-1-iru)-1H-indazo- ru-3-karubokisamido,5-Fluoro-MN-18,5-Fluoro-NNE1 indazole analog,2014/06/11,平成26年6月11日,91936859 ,XBSWUIWDRFCAGZ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+240,指定薬物,１－（５－フルオロペンチル）－Ｎ－フェニル－１Ｈ－インドール－３－カルボキサミド及びその塩類,1-(5-furuoropenchiru)-N-fe niru-1H-indo-ru-3-karuboki samido,LTI-701,,2017/08/29,平成29年8月29日,91936840 ,FZYJALPWLNXEIP-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+241,指定薬物,１－（５－フルオロペンチル）－Ｎ－（２－フェニルプロパン－２－イル）－１Ｈ－インダゾール－３－カルボキサミド及びその塩類,1-(5-furuoropenchiru)-N-(2 -phenylpuropan-2-iru)-1H -indazo-ru-3-karubokisamido及 びその salts,CUMYL-5F-PINACA,,2015/08/19,平成27年8月19日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+242,指定薬物,１－（５－フルオロペンチル）－Ｎ－（２－フェニルプロパン－２－イル）－１Ｈ－インドール－３－カルボキサミド及びその塩類,1-(5-furuoropenchiru)-N-(2 -phenylpuropan-2-iru)-1H -indo-ru-3-karubokisamido及び その salts,CUMYL-5F-PICA,,2015/08/19,平成27年8月19日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+243,指定薬物,５－（５－フルオロペンチル）－２－（２－フェニルプロパン－２－イル）－２，５－ジヒドロ－１H－ピリド［４，３－ｂ］インドール－１－オン及びその塩類,"5-(5-furuoropenchiru)-2-(2 -phenylpuropan-2-iru)-2,5 -jihidoro-1H-pirido[4,3-b]in do-ru-1-on",5F-CUMYL-PEGACLONE,5FーSGT-151,-,令和元年8月29日,134818048 ,SMRRORRDOWXERZ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+244,指定薬物,１－（５－フルオロペンチル）－Ｎ－（２－フェニルプロパン－２－イル）－１Ｈ－ピロロ［２，３－ｂ］ピリジン－３－カルボキサミド及びその塩類,"1-(5-furuoropenchiru)-N-(2 -phenylpuropan-2-iru)-1H -piroro[2,3-b]pirijin-3-karu bokisamido",CUMYL-5F-P7AICA,,2016/02/10,平成28年2月10日,129532613 ,MXJYOUMYJGNQEY-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+245,指定薬物,[１－（５－フルオロペンチル）－１Ｈ－ベンゾ[d]イミダゾール－２－イル]（ナフタレン－１－イル）メタノン及びその塩類,[1-(5-furuoropenchiru)-1H- benzo[d]imidazo-ru-2-iru](nafu taren-1-iru)metanon 類,FUBIMINA,AM2201 benzimidazole analog,2014/08/15,平成26年8月15日,124519316 ,KUESSZMROAFKQJ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+246,指定薬物,１－（４－フルオロ－３－メチルフェニル）－２－（ピロリジン－１－イル）ペンタン－１－オン及びその塩類,1-(4-furuoro-3-mechirufeni ru)-2-(pirorijin-1-iru)pen tan-1-on,4-fluoro-3-methyl-α-PVP,MFPVP,2022/08/30,令和4年8月30日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+247,指定薬物,４－プロパノイルオキシ－Ｎ，Ｎ－ジメチルトリプタミン,"4-puropanoiruokishi-N,N-jime chirutoriputamine",4-PrO-DMT,,2025/10/29,令和7年10月29日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+248,指定薬物,２－（４－ブロモ－２，５－ジメトキシフェニル）－Ｎ－（２－フルオロベンジル）エタンアミン及びその塩類,"2-(4-buromo-2,5-jimethoxyfe niru)-N-(2-furuorobenzylu)e tanamine",25B-NBF,,2014/09/19,平成26年9月19日,125181239 ,ATMBBMXJNIJRST-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+249,指定薬物,２－［（４－ブロモ－２，５－ジメトキシフェネチルアミノ）メチル］フェノール及びその塩類,"2-[(4-buromo-2,5-jimethoxy fenechiruamineo)mechiru]feno-ru及 びその salts",25B-NBOH,2C-B-NBOH; NBOH-2C-B,2017/12/19,平成29年12月19日,125181394 ,RSUNJYKZRKIBNB-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+250,指定薬物,２－（８－ブロモ－２，３，６，７－テトラヒドロベンゾ［１，２－ｂ：４，５－ｂ’］ジフラン－４－イル）エタンアミン及びその塩類,"2-(8-buromo-2,3,6,7-tetorahi dorobenzo[1,2-b:4,5-b’]jifura n-4-iru)etanamine 類",2C-B-FLY,,2016/02/10,平成28年2月10日,10265873 ,YZDFADGMVOSVIX-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+251,指定薬物,１－（８－ブロモベンゾ[１，２－ｂ：４，５－ｂ’]ジフラン－４－イル）プロパン－２－アミン及びその塩類,"1-(8-buromobenzo[1,2-b:4,5 -b’]jifuran-4-iru)puropan-2 -amine",Bromo-DragonFLY,,2015/08/19,平成27年8月19日,10544447 ,GIKPTWKWYXCBEC-SSDOTTSWSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+252,指定薬物,３－ヘプチル－６ａ，７，８，９，１０，１０ａ－ヘキサヒドロ－１－メトキシ－６，６，９－トリメチル－６Ｈ－ジベンゾ［ｂ，ｄ］ピラン及びその塩類,"3-hepuchiru-6a,7,8,9,10,10a -hekisahidoro-1-methoxy-6,6, 9-torimechiru-6H-jibenzo[b,d] piran",HHCPM,O-methyl-HHCP; Hexahydrocannabiphorol methyl ether,2024/08/07,令和6年8月7日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+253,指定薬物,２－ベンジルアミノ－１－（３，４－メチレンジオキシフェニル）プロパン－１－オン及びその塩類,"2-benzyluamineo-1-(3,4-mechire njiokishiphenyl)puropan-1-o n",BMDP,,2012/10/17,平成24年10月17日,129318251 ,VPHHNGQFGIQHOU-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+254,指定薬物,４－ベンジルピペリジン及びその塩類,4-benzylupiperijin,,,2015/02/18,平成27年2月18日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,
+255,指定薬物,Ｎ－ベンジル－１－（５－フルオロペンチル）－１Ｈ－インドール－３－カルボキサミド及びその塩類,N-benzylu-1-(5-furuoropen chiru)-1H-indo-ru-3-karubo kisamido,5F-SDB-006,,2015/03/25,平成27年3月25日,91936847 ,VFLXAWVAWXHMFB-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+256,指定薬物,N－ベンジル－１－ペンチル－１H－インドール－３－カルボキサミド及びその塩類,N-benzylu-1-penchiru-1H-i ndo-ru-3-karubokisamido,SDB-006,,2014/09/19,平成26年9月19日,2227769 ,OLACYTSBFXCDOH-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+257,指定薬物,１－ベンジル－４－メチルピペラジン及びその塩類,1-benzylu-4-mechirupiperajin及 びその salts,MBZP,,2007/02/28,平成19年2月28日,763557 ,MLJOKPBESJWYGL-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+258,指定薬物,４－ベンゾイル－Ｎ，Ｎ－ジエチル－７－メチル－４，６，６ａ，７，８，９－ヘキサヒドロインドロ［４，３－ｆｇ］キノリン－９－カルボキサミド及びその塩類,"4-benzoiru-N,N-jiechiru-7 -mechiru-4,6,6a,7,8,9-heki sahidoroindoro[4,3-fg]kinorin- 9-karubokisamido",1Bz-LSD,,2025/08/29,令和7年8月29日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+259,指定薬物,１－［１－（ベンゾ［ｂ］チオフェン－２－ イル）シクロヘキシル］ピペリジン及びその塩類,1-[1-(benzo[b]chiofen-2- iru)cyclohexyl]piperijin及びそ の salts,Benocyclidine,BTCP,2021/10/21,令和3年10月21日,123692 ,RGSVXQJPSWZXOP-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+260,指定薬物,１－（ベンゾフラン－２－イル）－Ｎ－エチルプロパン－２－アミン及びその塩類,1-(benzofuran-2-iru)-N-e chirupuropan-2-amine 類,2-EAPB,,2015/01/30,平成27年1月30日,102144589 ,SGGKRTSTBXBERJ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+261,指定薬物,１－（ベンゾフラン－４－イル）－Ｎ－エチルプロパン－２－アミン及びその塩類,1-(benzofuran-4-iru)-N-e chirupuropan-2-amine 類,4-EAPB,,-,令和元年11月14日,137699817 ,MRILILMKQADCNG-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+262,指定薬物,１－（ベンゾフラン－５－イル）－Ｎ－エチルプロパン－２－アミン及びその塩類,1-(benzofuran-5-iru)-N-e chirupuropan-2-amine 類,5-EAPB,,2014/12/26,平成26年12月26日,102336590 ,ZBZDDOARNPAMSP-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+263,指定薬物,１－（ベンゾフラン－６－イル）－Ｎ－エチルプロパン－２－アミン及びその塩類,1-(benzofuran-6-iru)-N-e chirupuropan-2-amine 類,6-EAPB,,-,令和元年11月14日,102336591 ,MIRNYUKRRZFBOI-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+264,指定薬物,１－（ベンゾフラン－２－イル）プロパン－２－アミン及びその塩類,1-(benzofuran-2-iru)puropan -2-amine,2-APB,,2015/02/18,平成27年2月18日,1598 ,BLZVCIGGICSWIG-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+265,指定薬物,１－（ベンゾフラン－５－イル）プロパン－２－アミン及びその塩類,1-(benzofuran-5-iru)puropan -2-amine,5-APB,,2015/09/16,平成27年9月16日,9837232 ,VKUMKUZDZWHMQU-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+266,指定薬物,１－（ベンゾフラン－６－イル）プロパン－２－アミン及びその塩類,1-(benzofuran-6-iru)puropan -2-amine,6-APB,,2012/12/17,平成24年12月17日,9794343 ,FQDAMYLMQQKPRX-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+267,指定薬物,１－（ベンゾフラン－２－イル）－Ｎ－メチルプロパン－２－アミン及びその塩類,1-(benzofuran-2-iru)-N-me chirupuropan-2-amine 類,2-MAPB,,2014/08/15,平成26年8月15日,547092 ,ANJIDHKQUCZNQY-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+268,指定薬物,１－（ベンゾフラン－５－イル）－Ｎ－メチルプロパン－２－アミン及びその塩類,1-(benzofuran-5-iru)-N-me chirupuropan-2-amine 類,5-MAPB,,2014/08/15,平成26年8月15日,102336592 ,ZOVRTIPCNFERHY-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+269,指定薬物,１－ペンチル－Ｎ－（キノリン－８－イル）－１Ｈ－インダゾール－３－カルボキサミド及びその塩類,1-penchiru-N-(kinorin-8-i ru)-1H-indazo-ru-3-karubo kisamido,THJ,,2016/06/22,平成28年6月22日,124519290 ,YAYIQXMTUCPLHG-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+270,指定薬物,１－ペンチル－Ｎ－（２－フェニルプロパン－２－イル）－１Ｈ－インダゾール－３－カルボキサミド及びその塩類,1-penchiru-N-(2-phenylpuro pan-2-iru)-1H-indazo-ru -3-karubokisamido,CUMYL-PINACA,,2015/08/19,平成27年8月19日,86273676 ,LCBASRYREGWIJT-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+271,指定薬物,１－ペンチル－Ｎ－（２－フェニルプロパン－２－イル）－１Ｈ－インドール－３－カルボキサミド及びその塩類,1-penchiru-N-(2-phenylpuro pan-2-iru)-1H-indo-ru-3 -karubokisamido,CUMYL-PICA,,2015/08/19,平成27年8月19日,86273678 ,RCXFMWJQOYCIQU-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+272,指定薬物,[１－（１－メチルアゼパン－３－イル）－１Ｈ－インドール－３－イル]（ナフタレン－１－イル）メタノン及びその塩類,[1-(1-mechiruazepan-3-iru) -1H-indo-ru-3-iru](nafuta ren-1-iru)metanon,AM1220 アゼパン異性体,AM1220 azepan isomer,2014/08/15,平成26年8月15日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+273,指定薬物,２－（メチルアミノ）－１－（３，４－ジメチルフェニル）プロパン－１－オン及びその塩類,"2-(mechiruamineo)-1-(3,4-jimechi ruphenyl)puropan-1-on及びそ の salts","3, 4-Dimethylmethcathinone",,2012/06/01,平成24年6月1日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+274,指定薬物,２－（メチルアミノ）－１－（チオフェン－２－イル）プロパン－１－オン及びその塩類,2-(mechiruamineo)-1-(chiofen- 2-iru)puropan-1-on,2-Thiothinone,βk-MPA,2021/08/25,令和3年8月25日,12198617 ,DOZQPYDMJMLVKX-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+275,指定薬物,２－（メチルアミノ）－２－フェニルシクロヘキサノン及びその塩類,2-(mechiruamineo)-2-phenylshikuro hekisanon,Deschloroketamine,DXE; DCK,2017/06/21,平成29年6月21日,437168 ,ZAGBSZSITDFFAF-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+276,指定薬物,２－［（メチルアミノ）メチル］－３，４－ジヒドロナフタレン－１（２Ｈ）－オン及びその塩類,"2-[(mechiruamineo)mechiru]-3,4-ji hidoronafutaren-1(2H)-on及びそ の salts",Mephtetramine,,2015/09/16,平成27年9月16日,69845357 ,FTRWLSZFQILOOD-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+277,指定薬物,Ｎ－メチルインダン－２－アミン及びその塩類,N-mechiruindan-2-amine及びそ の salts,N-methyl-2-AI,,2014/03/06,平成26年3月6日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+278,指定薬物,（Ｅ）－メチル＝２－［（２Ｓ，３Ｓ，７ａＳ，１２ｂＳ）－３－エチル－７ａ－ヒドロキシ－８－メトキシ－１，２，３，４，６，７，７ ａ，１２ｂ－オクタヒドロインドロ［２，３－ ａ］キノリジン－２－イル］－３－メトキシアクリラート及びその塩類,"(E)-mechiru=2-[(2S,3S,7aS, 12bS)-3-echiru-7a-hidorokishi -8-methoxy-1,2,3,4,6,7,7 a,12b-okutahidoroindoro[2,3- a]kinorijin-2-iru]-3-methoxy akurira-to",7-Hydroxymitragynine,7a-Hydroxy-7H-mitragynine,2016/03/09,平成28年3月9日,44301524 ,RYENLSMHLCNXJT-CYXFISRXSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+279,指定薬物,（Ｅ）－メチル＝２－［（２Ｓ，３Ｓ，１２ｂ Ｓ）－３－エチル－８－メトキシ－１，２，３，４，６，７，１２，１２ｂ－オクタヒドロインドロ［２，３－ａ］キノリジン－２－イル］－３－メトキシアクリラート及びその塩類,"(E)-mechiru=2-[(2S,3S,12b S)-3-echiru-8-methoxy-1,2, 3,4,6,7,12,12b-okutahidoroi ndoro[2,3-a]kinorijin-2-iru] -3-methoxyakurira-to 類",Mitragynine,,2016/03/09,平成28年3月9日,3034396 ,LELBFTMXCIIKKX-QVRQZEMUSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+280,指定薬物,メチル＝２－[１－（シクロヘキシルメチル）－１Ｈ－インダゾール－３－カルボキサミド]－３，３－ジメチルブタノアート及びその塩類,"mechiru=2-[1-(cyclohexylmechi ru)-1H-indazo-ru-3-karubo kisamido]-3,3-jimechirubutanoa-to",MDMB-CHMINACA,,2014/12/26,平成26年12月26日,121491808 ,DGQMLBSSRFFINY-LJQANCHMSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+281,指定薬物,メチル＝２－［１－（シクロヘキシルメチル）－１Ｈ－インダゾール－３－カルボキサミド]－３－メチルブタノアート及びその塩類,mechiru=2-[1-(cyclohexylmechi ru)-1H-indazo-ru-3-karubo kisamido]-3-mechirubutanoa-to及び その salts,MA-CHMINACA,,2014/12/26,平成26年12月26日,119026010 ,CRGGXDSTBHQLKJ-SFHVURJKSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+282,指定薬物,メチル＝２－［１－（シクロヘキシルメチル）－１Ｈ－インドール－３－カルボキサミド］－３－メチルブタノアート及びその塩類,mechiru=2-[1-(cyclohexylmechi ru)-1H-indo-ru-3-karuboki samido]-3-mechirubutanoa-to及びそ の salts,AMB-CHMICA,,2016/12/21,平成28年12月21日,121494125 ,ROWZIXRLVUOMCJ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+283,指定薬物,メチル＝３－（３，４－ジクロロフェニル）－８－メチル－８－アザビシクロ［３．２．１］オクタン－２－カルボキシラート及びその塩類,"mechiru=3-(3,4-jikurorophenyl) -8-mechiru-8-azabishikuro[3. 2.1]okutan-2-karubokishira-to",RTI-111,Dichloropane; O-401,2017/02/24,平成29年2月24日,9820470 ,RHWDQYHGQIZSGW-LZRDFDPJSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+284,指定薬物,Ｎ－メチル－１－（ナフタレン－２－イル）プロパン－２－アミン及びその塩類,N-mechiru-1-(nafutaren-2-i ru)puropan-2-amine,Methamnetamine,,2015/09/16,平成27年9月16日,17802040 ,BWWWOLYZMKACSB-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+285,指定薬物,（４－メチルピペラジン－１－イル）（１－ペンチル－１Ｈ－インドール－３－イ  ル）メタノン及びその塩類,(4-mechirupiperajin-1-iru)(1- penchiru-1H-indo-ru-3-i ru)metanon,MEPIRAPIM,,2014/10/29,平成26年10月29日,101896603 ,IUEFFEOHJKCBPF-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+286,指定薬物,｛１－［（１－メチルピペリジン－２－イル）メチル］－１Ｈ－インドール－３－イル｝（ナフタレン－1－イル）メタノン及びその塩類,{1-[(1-mechirupiperijin-2-i ru)mechiru]-1H-indo-ru-3-i ru}(nafutaren-1-iru)metanon及び その salts,AM1220,,2012/06/01,平成24年6月1日,9929889 ,URKVBEKZCMUTQC-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+287,指定薬物,１－［１－（３－メチルフェニル）シクロヘキシル］ピロリジン及びその塩類,1-[1-(3-mechiruphenyl)shikurohe kishiru]pirorijin,3-Me-PCPy,3-Methyl rolicyclidine,2023/03/10,令和5年3月10日,137332188 ,JZVMREFYFTZXGN-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+288,指定薬物,２－（４－メチルフェニル）－２－（ピペリジン－２－イル）酢酸メチルエステル及びその塩類,2-(4-mechiruphenyl)-2-(piperi jin-2-iru) acetatemechiruesuteru及 びその salts,4-Methylmethylphenidate,,2016/06/22,平成28年6月22日,23815457 ,WJZNCJIOIACDBR-UONOGXRCSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+289,指定薬物,Ｎ－（２－メチルフェニル）－Ｎ－（１－フェネチルピペリジン－４－イル）プロパンアミド,N-(2-mechiruphenyl)-N-(1- fenechirupiperijin-4-iru)puro panamido,ortho-Methylfentanyl o-Methylfentanyl,,2025/10/29,令和7年10月29日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+290,指定薬物,１－（４－メチルフェニル）プロパン－２－アミン及びその塩類,1-(4-mechiruphenyl)puropan-2 -amine,4-Methylamphetamine,,2012/10/17,平成24年10月17日,199116 ,ZDHZDWSHLNBTEB-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+291,指定薬物,メチル（１―フェニルプロパン―２―イル）カルバミン酸１，１―ジメチルエチル及びその塩類,"mechiru(1―phenylpuropan―2―i ru)karubamine酸1,1―jimechiruechiru",t-BOC-Methamphetamine,,2017/12/19,平成29年12月19日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+292,指定薬物,２－（２－メチルフェニル）－１－（１－ペンチル－１Ｈ－インドール－３－イル）エタン－１－オン及びその塩類,2-(2-mechiruphenyl)-1-(1-pe nchiru-1H-indo-ru-3-iru) etan-1-on,JWH-251,,2011/04/14,平成23年4月14日,11616723 ,YBIPNGRKUAVSBG-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+293,指定薬物,1-［（3-メチルフェニル）メチル］ピペラジン及びその塩類,1-[(3-mechiruphenyl)mechiru]piperaji n,1-(3-Methylbenzyl)piperazine,,2014/06/11,平成26年6月11日,79213 ,VTEOTZPEMDQENX-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+294,指定薬物,１－（３－メチルフェニル）－Ｎ－メチルプロパン－２－アミン及びその塩類,1-(3-mechiruphenyl)-N-mechiru puropan-2-amine,3-MMA,3-Methylmethamphetamine,2023/10/26,令和5年10月26日,91253 ,XDXMRSBXBOXSQW-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+295,指定薬物,メチル＝２－［１－（４－フルオロブチ ル）－１H－インドール－３－カルボキサミド］－３，３－ジメチルブタノア－ト及びその塩類,"mechiru=2-[1-(4-furuorobuchi ru)-1H-indo-ru-3-karuboki samido]-3,3-jimechirubutanoa-to及 びその salts",4F-MDMB-BICA,4F-MDMB-BUTICA,2021/06/17,令和3年6月17日,157010663 ,QIKHYQCWGUGFBB-QGZVFWFLSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+296,指定薬物,メチル＝２－[１－（４－フルオロベンジル）－１Ｈ－インダゾール－３－カルボキサミド]－３，３－ジメチルブタノアート及びその塩類,"mechiru=2-[1-(4-furuorobenji ru)-1H-indazo-ru-3-karubo kisamido]-3,3-jimechirubutanoa-to",MDMB-FUBINACA,FUB-ADB,2015/02/18,平成27年2月18日,119025665 ,RFCDVEHNYDVCMU-LJQANCHMSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+297,指定薬物,メチル＝２―［１―（４－フルオロベンジル）―１Ｈ―インドール―３―カルボキサミド］―３，３―ジメチルブタノアート及びその塩類,"mechiru=2―[1―(4-furuorobenji ru)―1H―indo-ru―3―karuboki samido]―3,3―jimechirubutanoa-to及 びその salts",MDMB-FUBICA,,2016/06/22,平成28年6月22日,129522107 ,RVAWIZIGOSKPBP-HXUWFJFHSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+298,指定薬物,メチル＝２―［１―（４―フルオロベンジル）―１Ｈ―インドール―３―カルボキサミド］―３―メチルブタノアート及びその塩類,mechiru=2―[1―(4―furuorobenji ru)―1H―indo-ru―3―karuboki samido]―3―mechirubutanoa-to及びそ の salts,AMB-FUBICA,MMB-FUBICA,2021/01/22,令和3年1月22日,129522103 ,NYQOGZPXNJSYDW-FQEVSTJZSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+299,指定薬物,メチル＝２－［１－（５－フルオロペンチル）－１Ｈ－インドール－３－カルボキサミド］－３－フェニルプロパノアート及びその塩類,mechiru=2-[1-(5-furuoropenchi ru)-1H-indo-ru-3-karuboki samido]-3-phenylpuropanoa-to及 びその salts,MPHP-2201,,-,令和元年12月17日,165412024 ,GZGBNOYVLYYYCZ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+300,指定薬物,メチル＝２－[１－（５－フルオロペンチル）－１Ｈ－インドール－３－カルボキサミド]－３－メチルブタノアート及びその塩類,mechiru=2-[1-(5-furuoropenchi ru)-1H-indo-ru-3-karuboki samido]-3-mechirubutanoa-to及びそ の salts,MMB2201,5-Fluoro-AMB indole analog,2014/08/15,平成26年8月15日,119058037 ,JFXASAFVUQVGEW-SFHVURJKSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+301,指定薬物,メチル＝２－［１－（５－フルオロペンチル）－１Ｈ－ピロロ［２，３－ｂ］ピリジン－３－カルボキサミド］－３，３－ジメチルブタノアート及びその塩類,"mechiru=2-[1-(5-furuoropenchi ru)-1H-piroro[2,3-b]pirijin -3-karubokisamido]-3,3-jimechi rubutanoa-to",5F-MDMB-P7AICA,,2022/01/19,令和4年1月19日,165361518 ,LIRBKFHBIDESHO-MRXNPFEDSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+302,指定薬物,N－メチル－N－（プロパン－２－イル）－７－メチル－４，６，６ａ，７，８，９－ヘキサヒドロインドロ［４，３－ｆｇ］キノリン－９－カルボキサミド及びその塩類,"N-mechiru-N-(puropan-2-iru) -7-mechiru-4,6,6a,7,8,9- hekisahidoroindoro[4,3-fg]kinori n-9-karubokisamido",MiPLA,MIPLA; N-Methyl-N-isopropyl lysergamide,2024/03/06,令和6年3月6日,102060927 ,ROICYBLUWUMJFF-RDTXWAMCSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+303,指定薬物,Ｎ－メチル－Ｎ－プロピルトリプタミン及びその塩類,N-mechiru-N-puropirutoriputamine及 びその salts,MPT,,2025/03/05,令和7年3月5日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+304,指定薬物,N－メチル－１－（５－メチルチオフェン－２－イル）プロパン－２－アミン及びその塩類,N-mechiru-1-(5-mechiruchiofen -2-iru)puropan-2-amine及び その salts,Mephedrene,5-MMPA,2022/12/16,令和4年12月16日,64487873 ,HZICDJQMPRFRKC-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+305,指定薬物,３－メチル－２－（４－メチルフェニル）モルフォリン及びその塩類,3-mechiru-2-(4-mechiruphenyl) moruforin,Mephenmetrazine,,2015/11/25,平成27年11月25日,30487 ,MFOCDFTXLCYLKU-CMPLNLGQSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+306,指定薬物,メチル＝３－メチル－２－［１－（ペンタ－４－エン－１－イル）－１Ｈ－インドール－３－カルボキサミド］ブタノアート及びその塩類,mechiru=3-mechiru-2-[1-(penta -4-en-1-iru)-1H-indo- ru-3-karubokisamido]butanoa-to及 びその salts,MMB-022,AMB-4en-PICA; MMB-4en-PICA,2021/01/22,令和3年1月22日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+307,指定薬物,メチル＝３－メチル－２－（１－ペンチル－１H－インダゾール－３－カルボキサミド）ブタノアート及びその塩類,mechiru=3-mechiru-2-(1-penchi ru-1H-indazo-ru-3-karuboki samido)butanoa-to,AMB,,2014/10/29,平成26年10月29日,119058053 ,KTTMFFHXDMTTOB-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+308,指定薬物,４－メチル－１－（３，４－メチレンジオキシフェニル）－２－（ピロリジン－１－イル）ペンタン－１－オン及びその塩類,"4-mechiru-1-(3,4-mechirenjio kishiphenyl)-2-(pirorijin-1- iru)pentan-1-on",MD-PiHP,MD-PHiP,2024/11/06,令和6年11月6日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+309,指定薬物,Ｎ－メチル－４－（３，４－メチレンジオキシフェニル）ブタン－２－アミン及びその塩類,"N-mechiru-4-(3,4-mechirenjio kishiphenyl)butan-2-amine及びそ の salts",HMDMA,,2007/02/28,平成19年2月28日,130058 ,PUKMCMUXXJZVNY-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+310,指定薬物,３－メチル－２－（３，４－メチレンジオキシフェニル）モルフォリン及びその塩類,"3-mechiru-2-(3,4-mechirenjio kishiphenyl)moruforin 類","3, 4-MDPM","3-MDPM; 3, 4- Methylenedioxyphenmetrazine",2024/08/07,令和6年8月7日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+311,指定薬物,５，６－メチレンジオキシインダン－２－アミン及びその塩類,"5,6-mechirenjiokishiindan-2- amine",MDAI,,2013/04/30,平成25年4月30日,125558 ,FQDRMHHCWZAXJM-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+312,指定薬物,１－（３，４－メチレンジオキシフェニル）ブタン－２－アミン及びその塩類,"1-(3,4-mechirenjiokishiphenyl) butan-2-amine",BDB,,2007/02/28,平成19年2月28日,129870 ,VHMRXGAIDDCGDU-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+313,指定薬物,１－（３，４－メチレンジオキシフェニル）プロパン－２－イル（メチル）カルバミン酸１，１－ジメチルエチル及びその塩類,"1-(3,4-mechirenjiokishiphenyl) puropan-2-iru(mechiru)karubamine 酸1,1-jimechiruechiru","t-BOC-3, 4-MDMA",,2017/12/19,平成29年12月19日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+314,指定薬物,"１－（３，４－メチレンジオキシフェニル）
+－２－（プロピルアミノ）ブタン－１－オン及びその塩類","1-(3,4-mechirenjiokishiphenyl) -2-(puropiruamineo)butan-1-o n",N-Propylbutylone,Putylone; bk-PBDB,2024/03/06,令和6年3月6日,122129922 ,NRIHOTHAMAUSRO-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+315,指定薬物,１－（３，４－メチレンジオキシベンジル）ピペラジン及びその塩類,"1-(3,4-mechirenjiokishibenji ru)piperajin",MDBP,,2007/12/12,平成19年12月12日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+316,指定薬物,"１－（５－メトキシ－１Ｈ－インドール－
+３－イル）プロパン－２－アミン及びその塩類",1-(5-methoxy-1H-indo-ru- 3-iru)puropan-2-amine及びそ の salts,5-MeO-AMT,,2007/02/28,平成19年2月28日,36906 ,OGNJZVNNKBZFRM-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+317,指定薬物,（Z）－N－［３－（２－メトキシエチル）－４，５－ジメチルチアゾール－2（３H）－イリデン］－２，２，３，３－テトラメチルシクロプロパンカルボキサミド及びその塩類,"(Z)-N-[3-(2-methoxyechiru) -4,5-jimechiruchiazo-ru-2(3H) -iriden]-2,2,3,3-tetoramechi rushikuropuropankarubokisamido及びそ の salts",A-836339,,2014/03/06,平成26年3月6日,17754357 ,JKGIMVBQKSRTGX-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+318,指定薬物,５－メトキシ－Ｎ，Ｎ－ジプロピルトリプタミン及びその塩類,"5-methoxy-N,N-jipuropirutoripu tamine",5-MeO-DPT,,2007/02/28,平成19年2月28日,14011047 ,PNHPVNBKLQWBKH-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+319,指定薬物,１－メトキシ－３，３－ジメチル－１－オキソブタン－２－イル＝１－（シクロヘキシルメチル）－１Ｈ－インダゾール－３－カルボキシラート及びその塩類,"1-methoxy-3,3-jimechiru-1-o kisobutan-2-iru=1-(shikurohe kishirumechiru)-1H-indazo-ru- 3-karubokishira-to",MO-CHMINACA,,2016/01/21,平成28年1月21日,132584892 ,SUEOBRAXHJBVGY-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+320,指定薬物,５－メトキシ－Ｎ，Ｎ－ジメチルトリプタミン及びその塩類,"5-methoxy-N,N-jimechirutoriputami n",5-MeO-DMT,,2007/02/28,平成19年2月28日,1832 ,ZSTKHSQDNIGFLM-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+321,指定薬物,１－［１－（４－メトキシフェニル）シクロヘキシル］ピペリジン及びその塩類,1-[1-(4-methoxyphenyl)shikuro hekishiru]piperijin,4-MeO-PCP,,2014/09/19,平成26年9月19日,15100753 ,MUZGGFNYVLGUFS-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+322,指定薬物,４－［１－（３－メトキシフェニル）シクロヘキシル］モルフォリン及びその塩類,4-[1-(3-methoxyphenyl)shikuro hekishiru]moruforin,3-MeO-PCMo,,2015/12/15,平成27年12月15日,132605908 ,BOGOEDFWPOXWQE-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+323,指定薬物,１－（４－メトキシフェニル）ピペラジン及びその塩類,1-(4-methoxyphenyl)piperajin,4MPP,4-MeOPP,2007/02/28,平成19年2月28日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+324,指定薬物,１－［１－（２－メトキシフェニル）－２－フェニルエチル］ピペリジン及びその塩類,1-[1-(2-methoxyphenyl)-2- phenylechiru]piperijin 類,2-MeO-diphenidine,Methoxphenidine,2014/09/19,平成26年9月19日,67833251 ,QXXCUXIRBHSITD-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+325,指定薬物,Ｎ－（４－メトキシフェニル）－Ｎ－（１－フェネチルピペリジン－４－イル）ブタンアミド及びその塩類,N-(4-methoxyphenyl)-N-(1- fenechirupiperijin-4-iru)butan amido,4-Methoxybutyrfentanyl,p-Methoxybutyrylfentanyl; 4-MeO-BF; p-MeO-BF,2019/02/19,平成31年2月19日,118796493 ,FNVSEQCPMXWQKG-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+326,指定薬物,２－（３－メトキシフェニル）－２－（プロピルアミノ）シクロヘキサノン及びその塩類,2-(3-methoxyphenyl)-2-(puro piruamineo)shikurohekisanon,Methoxpropamine,MXPr; 3-MeO-2’-oxo-PCPr,2022/03/07,令和4年3月7日,155817932 ,AAVOSBAXDRASAH-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+327,指定薬物,２－（２－メトキシフェニル）－１－（１ーペンチル－ １Ｈ－インドール－３－イル）エタノン及びその塩類,2-(2-methoxyphenyl)-1-(1- penchiru-1H-indo-ru-3-i ru)etanon,JWH-250,,2010/08/25,平成22年8月25日,44397540 ,FFLSJIQJQKDDCM-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+328,指定薬物,（２－メトキシフェニル）（１－ペンチル－１Ｈ－インドール－３－イル）メタノン及びその塩類,(2-methoxyphenyl)(1-penchiru- 1H-indo-ru-3-iru)metanon及 びその salts,RCS-4 オルト異性体,,2012/10/17,平成24年10月17日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+329,指定薬物,（４－メトキシフェニル）（１－ペンチル－１Ｈ－インドール－３－イル）メタノン及びその塩類,(4-methoxyphenyl)(1-penchiru- 1H-indo-ru-3-iru)metanon及 びその salts,RCS-4,,2011/09/20,平成23年9月20日,56841530 ,OZCYJKDWRUIFFE-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+330,指定薬物,２－（３－メトキシフェニル）－２－（メチルアミノ）シクロヘキサノン及びその塩類,2-(3-methoxyphenyl)-2-(mechi ruamineo)shikurohekisanon 類,Methoxmetamine,MMXE,2016/02/10,平成28年2月10日,117067863 ,ZGQWDAOLJNAADS-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+331,指定薬物,２－（２－メトキシフェニル）－１－｛１－［（１－メチルピペリジン－２－イル）メチル］－１Ｈ－インドール－３－イル｝エタノン及びその塩類,2-(2-methoxyphenyl)-1-{1- [(1-mechirupiperijin-2-iru)mechi ru]-1H-indo-ru-3-iru}eta non,Cannabipiperidiethanone,,2012/06/01,平成24年6月1日,53494930 ,AJSBNWAHEDVQJT-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+332,指定薬物,３－［２－（２－メトキシベンジルアミノ）エチル］キナゾリン－ ２，４（１Ｈ，３Ｈ）－ジオン及びその塩類,"3-[2-(2-methoxybenzyluamineo) echiru]kinazorin-2,4(1H,3H) -jion",RH-34,,2015/05/22,平成27年5月22日,10041987 ,NUAJBITWGGTZCM-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+333,指定薬物,Ｎ－（２－メトキシベンジル）－２－（２，５－ジメトキシ－４－メチルフェニル）エタンアミン及びその塩類,"N-(2-methoxybenzylu)-2-(2, 5-jimethoxy-4-mechiruphenyl)e tanamine",25D-NBOMe,,2015/03/25,平成27年3月25日,118536027 ,UTVHBNXCFSATDB-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+334,指定薬物,Ｎ－（２－メトキシベンジル）－Ｎ－メチル－１－（４－メチルフェニル）プロパン－２－アミン及びその塩類,N-(2-methoxybenzylu)-N-mechi ru-1-(4-mechiruphenyl)puropan -2-amine,4-MMA-NBOMe,,2018/02/28,平成30年2月28日,132989148 ,OPOYXGQXRAORRI-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+335,指定薬物,３－メトキシ－２－（メチルアミノ）－１－（４－メチルフェニル）プロパン－１－オン及びその塩類,3-methoxy-2-(mechiruamineo)-1- (4-mechiruphenyl)puropan-1-o n,Mexedrone,4-MMC-OMe,2016/08/24,平成28年8月24日,129318262 ,JHGDCSPZKQLBOP-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+336,指定薬物,５－メトキシ－２－メチル－Ｎ，Ｎ－ジメチルトリプタミン及びその塩類,"5-methoxy-2-mechiru-N,N-jime chirutoriputamine",5-MeO-2-TMT,,2015/05/22,平成27年5月22日,49756 ,ACEHBQPPDDGCGZ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+337,指定薬物,１－（２－メトキシ－４，５－メチレンジオキシフェニル）プロパン－２－アミン及びその塩類,"1-(2-methoxy-4,5-mechirenjio kishiphenyl)puropan-2-amine及 びその salts",MMDA-2,,2007/02/28,平成19年2月28日,90966 ,GPVJAXJRAZVITB-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+338,指定薬物,１－（２－メトキシ－４，５－メチレンジオキシフェニル）－２－（メチルアミノ）プロパン－１－オン及びその塩類,"1-(2-methoxy-4,5-mechirenjio kishiphenyl)-2-(mechiruamineo)puro pan-1-on","2-Methoxy-4,5- methylenedioxy methcathinone",,2015/03/25,平成27年3月25日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+339,指定薬物,［１－（２－モルフォリノエチル）－１Ｈ－インドール－３－イル］（ナフタレン－１－イル）メタノン及びその塩類,[1-(2-moruforinoechiru)-1H- indo-ru-3-iru](nafutaren-1 -iru)metanon,JWH-200,,2011/04/14,平成23年4月14日,10045570 ,SZWYXJHTNGJPKU-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+340,指定薬物,５－ヨードインダン－２－アミン及びその塩類,5-yo-doindan-2-amine及びそ の salts,5-IAI,,2012/12/17,平成24年12月17日,131506 ,BIHPYCDDPGNWQO-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+341,指定薬物,１－（４－ヨード－２，５－ジメトキシフェニル）プロパン－２－アミン及びその塩類,"1-(4-yo-do-2,5-jimethoxyfe niru)puropan-2-amine 類",DOI,,2007/12/12,平成19年12月12日,1229 ,BGMZUEKZENQUJY-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+342,指定薬物,２－（４－ヨード－２，５－ジメトキシフェニル）－Ｎ－（３，４－メチレンジオキシベンジル）エタンアミン及びその塩類,"2-(4-yo-do-2,5-jimethoxyfe niru)-N-(3,4-mechirenjiokishi benzylu)etanamine",25I-NB34MD,,2015/06/24,平成27年6月24日,129844505 ,FWEBGKDUEZRMRQ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+343,指定薬物,２－［（４－ヨード－２，５－ジメトキシフェネチルアミノ）メチル］フェノール及びその塩類,"2-[(4-yo-do-2,5-jimethoxy fenechiruamineo)mechiru]feno-ru及 びその salts",25I-NBOH,,2018/06/20,平成30年6月20日,10001761 ,FEUZHYRXGQTBRO-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+344,指定薬物,（２－ヨード－５－ニトロフェニル）｛1－［（1－メチルピペリジン－２－イル）メチル］－1Ｈ－インドール－３－イル｝メタノン及びその塩類,(2-yo-do-5-nitorophenyl){1- [(1-mechirupiperijin-2-iru)mechi ru]-1H-indo-ru-3-iru}metano n,AM1241,,2013/04/30,平成25年4月30日,10141893 ,ZUHIXXCLLBMBDW-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+345,指定薬物,（２－ヨードフェニル）（１－ペンチル－１ Ｈ－インドール－３－イル）メタノン及びその塩類,(2-yo-dophenyl)(1-penchiru-1 H-indo-ru-3-iru)metanon及び その salts,AM679,,2012/10/17,平成24年10月17日,57458891 ,GAJBHYUAJOTAEW-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+346,指定薬物,（２－ヨードフェニル）[１－（１－メチルアゼパン－３－イル）－１Ｈ－インドール－３－イル]メタノン及びその塩類,(2-yo-dophenyl)[1-(1-mechirua zepan-3-iru)-1H-indo-ru -3-iru]metanon,AM2233 アゼパン異性体,AM2233 azepan isomer,2014/08/15,平成26年8月15日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+347,指定薬物,（２－ヨードフェニル）｛１－［（１－メチルピペリジン－２－イル）メチル］－１Ｈ－インドール－３－イル｝メタノン及びその塩類,(2-yo-dophenyl){1-[(1-mechiru piperijin-2-iru)mechiru]-1H- indo-ru-3-iru}metanon,AM2233,,2012/06/01,平成24年6月1日,9955789 ,KSLCYQTUSSEGPT-MRXNPFEDSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),（４－エチルナフタレン－１－イル）（１－ペンチル－１Ｈ－インドール－３－イル）メタノン及びその塩類,(4-echirunafutaren-1-iru) (1-penchiru-1H-indo-ru-3 -iru)metanon,JWH-210,,2011/09/20,平成23年9月20日,45270396 ,LACIUQLUNACUKC-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),"（４－エチルナフタレン－１－イル）
+（２－メチル－１－ペンチル－１Ｈ－インドール－３－イル）メタノン及びその塩類",(4-echirunafutaren-1-iru) (2-mechiru-1-penchiru-1H-i ndo-ru-3-iru)metanon,JWH-213,,2012/12/17,平成24年12月17日,45268707 ,JAVDQKMSPNBPCK-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),（４－クロロナフタレン－１－イル）（１－ペンチル－１Ｈ－インドール－３－イル）メタノン及びその塩類,(4-kuroronafutaren-1-iru) (1-penchiru-1H-indo-ru-3 -iru)metanon,JWH-398,,2012/10/17,平成24年10月17日,57458928 ,IUWBHGFOHXVVKV-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),ナフタレン－１－イル[１－（ペント－４－エン－１－イル）－１Ｈ－インドール－３－イル]メタノン及びその塩類,nafutaren-1-iru[1-(pento-4 -en-1-iru)-1H-indo-ru -3-iru]metanon,JWH-022,,2012/06/01,平成24年6月1日,91936930 ,IVVCMEGHVSDGFJ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),５－[３－（１－ナフトイル）－１Ｈ－インドール－１－イル]ペンタンニトリル及びその塩類,5-[3-(1-nafutoiru)-1H-i ndo-ru-1-iru]pentannitoriru及 びその salts,AM2232,,2012/10/17,平成24年10月17日,57458892 ,VWVAIBKHFCUSMD-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),（１－ヘキシル－１Ｈ－インドール－３－イル）（ナフタレン－１－イル）メタノン及びその塩類,(1-hekishiru-1H-indo-ru-3 -iru)(nafutaren-1-iru)meta non,JWH-019,,2011/09/20,平成23年9月20日,52224389 ,PALJPGHWDUHUPO-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),（１－ペンチル－１Ｈ－インドール－３－イル）（４－プロピルナフタレン－１－イル）メタノン及びその塩類,(1-penchiru-1H-indo-ru-3 -iru)(4-puropirunafutaren-1 -iru)metanon,JWH-182,,2012/10/17,平成24年10月17日,45268702 ,AKGUMDFQXWZHHS-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),（４－メチルナフタレン－１－イル）[１－（ペント－４－エン－１－イル）－１ Ｈ－インドール－３－イル]メタノン及びその塩類,(4-mechirunafutaren-1-iru)[1 -(pento-4-en-1-iru)-1 H-indo-ru-3-iru]metanon及び その salts,JWH-122 N-(4-pentenyl)誘導体,,2012/10/17,平成24年10月17日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+,指定薬物(包括),（２－メチル－１－プロピル－１Ｈ－インドール－３－イル）（ナフタレン－１－イル）メタノン及びその塩類,,JWH-015,,-,,4273754 ,LJSBBBWQTLXQEN-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),（２－メチル－１－ペンチル－１Ｈ－インドール－３－イル）（ナフタレン－１－イル）メタノン及びその塩類,,JWH-007,,-,,10360860 ,IBBNKINXTRKICJ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),１－（４－メトキシナフタレン－１－イル）（１－ペンチル－１Ｈ－インドール－３－イル）メタノン及びその塩類,,JWH-081,,-,,10547208 ,UBMPKJKGUQDHRM-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),２－（エチルアミノ）－１－フェニルブタン－１－オン及びその塩類,2-(echiruamineo)-1-phenylbutan -1-on,N-Ethylbuphedrone,NEB,2013/04/30,平成25年4月30日,20326296 ,HEPVRDHGUWFXJS-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),１－（４－エチルフェニル）－２－（メチルアミノ）プロパン－１－オン及びその塩類,1-(4-echiruphenyl)-2-(mechiru amineo)puropan-1-on,4-Ethylmethcathinone,,2012/12/17,平成24年12月17日,71316576 ,FUYPDKFWOHBUFT-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),２－（ジメチルアミノ）－１－（４－メチル フェニル）ブタン－１－オン及びその塩類,2-(jimechiruamineo)-1-(4-mechiru phenyl)butan-1-on,4-Methyl-N-methylbuphedrone,,2013/04/30,平成25年4月30日,91698929 ,UKVFBTRCNFUOFU-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),"２－（ジメチルアミノ）－１－（３, ４－メチレンジオキシフェニル）プロパン－１－オン及びその塩類","2-(jimechiruamineo)-1-(3, 4-mechire njiokishiphenyl)puropan-1-on",bk-MDDMA,,2013/04/30,平成25年4月30日,9794472 ,OSNIIMCBVLBNGS-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),１－フェニル－２－（ピロリジン－１－イル）ブタン－１－オン及びその塩類,1-phenyl-2-(pirorijin-1-i ru)butan-1-on,α-PBP,,2013/04/30,平成25年4月30日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+,指定薬物(包括),１－（３－フルオロフェニル）－２－（メチルアミノ）プロパン－１－オン及びその塩類,1-(3-furuorophenyl)-2-(mechi ruamineo)puropan-1-on 類,3-Fluoromethcathinone,3-FMC,2011/04/14,平成23年4月14日,53415330 ,PQIBROLLUQSNQI-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),１－（４－フルオロフェニル）－２－（メチルアミノ）プロパン－１－オン及びその塩類,1-(4-furuorophenyl)-2-(mechi ruamineo)puropan-1-on 類,4-Fluoromethcathinone,4-FMC,2011/09/20,平成23年9月20日,49853406 ,MWKQPIROPJSFRI-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),１－（４－ブロモフェニル）－２－（メチルアミノ）プロパン－１－オン及びその塩類,1-(4-buromophenyl)-2-(mechirua mino)puropan-1-on,Brephedrone,4-Bromomethcathinone,2013/04/30,平成25年4月30日,10421832 ,OOJXMFNDUXHDOV-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),2－（メチルアミノ）－1－フェニルブタン－1－オン及びその塩類,2-(mechiruamineo)-1-phenylbutan- 1-on,Buphedrone,,2012/10/17,平成24年10月17日,53249194 ,DDPMGIMJSRUULN-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),２－（メチルアミノ）－１－（４－メチルフェニル）ブタン－１－オン及びその塩類,2-(mechiruamineo)-1-(4-mechirufe niru)butan-1-on,4-Methylbuphedrone,,2013/04/30,平成25年4月30日,71750237 ,ZOGGCQVVLHCLHY-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),２－メチルアミノ－１－（３，４－メチレンジオキシフェニル）ブタン－１－オン及びその塩類,"2-mechiruamineo-1-(3,4-mechirenji okishiphenyl)butan-1-on及びそ の salts",bk-MBDB,Butylone,2007/12/12,平成19年12月12日,56843046 ,CGKQZIULZRXRRJ-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),"２－（メチルアミノ）－１－（３, ４－メチレンジオキシフェニル）ペンタン－１－オン及びその塩類","2-(mechiruamineo)-1-(3, 4-mechiren jiokishiphenyl)pentan-1-on及 びその salts",Pentylone,,2013/04/30,平成25年4月30日,60208608 ,DFMLULIEUUXXSA-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),１－（４－メチルフェニル）－２－（ピロリジン－１－イル）プロパン－１－オン及びその塩類,1-(4-mechiruphenyl)-2-(piroriji n-1-iru)puropan-1-on及びそ の salts,デスエチルピロバレロン,4-MePPP,2012/10/17,平成24年10月17日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+,指定薬物(包括),"１－（３, ４－メチレンジオキシフェニル）－２－（ピロリジン－１－イル）ブタン－１－オン及びその塩類","1-(3, 4-mechirenjiokishiphenyl)- 2-(pirorijin-1-iru)butan-1- on",MDPBP,,2012/10/17,平成24年10月17日,71300672 ,OLVLMDVPMCIBQW-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),"１－（３, ４－メチレンジオキシフェニル）－２－（ピロリジン－１－イル）プロパン－１－オン及びその塩類","1-(3, 4-mechirenjiokishiphenyl)- 2-(pirorijin-1-iru)puropan-1 -on",MDPPP,,2013/06/28,平成25年6月28日,6430845 ,NIYQOTCYXGXMPI-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),１－（４－メトキシフェニル）－２－（ジメチルアミノ）プロパン－１－オン及びその塩類,1-(4-methoxyphenyl)-2-(jimechi ruamineo)puropan-1-on 類,"4-Methoxy-N, N- dimethylcathinone",N-Methylmethedrone,2013/04/30,平成25年4月30日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+,指定薬物(包括),１－（４－メトキシフェニル）－２－（ピロリジン－１－イル）ペンタン－１－オン及びその塩類,1-(4-methoxyphenyl)-2-(pirori jin-1-iru)pentan-1-on及び その salts,4-MeO-α-PVP,,2013/10/21,平成25年10月21日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+,指定薬物(包括),１－（４－メトキシフェニル）－２－（メチルアミノ）プロパン－１－オン及びその塩類,1-(4-methoxyphenyl)-2-(mechiru amineo)puropan-1-on,4-Methoxymethcathinone,Methedrone,2011/04/14,平成23年4月14日,216281 ,MQUIHBQDYYAEMH-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),２－エチルアミノ－１－（４－メチル フェニル）ヘキサン－１－オン及びその塩類,2-echiruamineo-1-(4-mechiru phenyl)hekisan-1-on及びそ の salts,-,,2015/03/25,平成27年3月25日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+,指定薬物(包括),1-フェニル-2-（ピロリジン-1-イル）オクタン-1-オン及びその塩類,1-phenyl-2-(pirorijin-1-iru) okutan-1-on,α-POP,PV9,2014/03/06,平成26年3月6日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+,指定薬物(包括),１－フェニル－２－（ピロリジン－１－イル）ノナン－１－オン及びその塩類,1-phenyl-2-(pirorijin-1- iru)nonan-1-on,α-PNP,PV10,2014/11/18,平成26年11月18日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+,指定薬物(包括),１－フェニル－２－（ピロリジン－１－イル）ヘプタン－１－オン及びその塩類,1-phenyl-2-(pirorijin-1- iru)heputan-1-on 類,α-PHPP,PV8,2013/10/21,平成25年10月21日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+,指定薬物(包括),１－（４－フルオロフェニル）－２－（ピロリジン－１－イル）オクタン－１－オン及びその塩類,1-(4-furuorophenyl)-2-(piro rijin-1-iru)okutan-1-on及 びその salts,4-Fluoro-α-POP,,2015/01/30,平成27年1月30日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+,指定薬物(包括),１－（４－フルオロフェニル）－２－（ピロリジン－１－イル）ヘプタン－１－オン及びその塩類,1-(4-furuorophenyl)-2- (pirorijin-1-iru)heputan-1 -on,4-Fluoro-α-PHPP,,2014/09/19,平成26年9月19日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+,指定薬物(包括),１－（４－フルオロフェニル）－２－（メチルアミノ）オクタン－１－オン及びその塩類,,4F-Octedrone,,-,,165412099 ,PCVBISJRIYDMIU-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),１－（４－フルオロフェニル）－２－（メチルアミノ）ヘキサン－１－オン及びその塩類,,-,,-,,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+,指定薬物(包括),１－（４－メチルフェニル）－２－（ピロリジン－１－イル）ヘキサン－１－オン及びその塩類,,MPHP,4-MePHP,-,,6423085 ,YOSQVMGMENUCDX-UHFFFAOYSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),１－（３，４－メチレンジオキシフェニル）－２－（ピロリジン－１－イル）ヘキサン－１－オン及びその塩類,,"3,4-Methylenedioxy-α-PHP",MDPH,-,,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+,指定薬物(包括),1-（４－メトキシフェニル）-2-（ピロリジン-1-イル）オクタン-1-オン及びその塩類,,4-Methoxy-α-POP,,-,,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+,指定薬物(包括),１－（４－メトキシフェニル）－２－（ピロリジン－１－イル）ヘプタン－１－オン及びその塩類,,4-Methoxy-α-PHPP,4-Methoxy-PV8,-,,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+,指定薬物(包括),３－ヘキシル－６ａ，７，８，１０ａ－テトラヒドロ－６，６，９－トリメチル－６Ｈ－ジベンゾ［ｂ， ｄ］ピラン－１－オール及びその塩類,"3-hekishiru-6a,7,8,10a-tetrahydro -6,6,9-torimechiru-6H-jibenzo[b, d]piran-1-o-ru",Δ9-THCH,THCH,2023/07/25,令和5年7月25日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+,指定薬物(包括),３－ヘキシル－６ａ，７，１０，１０ａ－テトラヒドロ－６，６，９－トリメチル－６Ｈ－ ジベンゾ［ｂ，ｄ］ピラン－１－オール及びその塩類,"3-hekishiru-6a,7,10,10a-tetorahido ro-6,6,9-torimechiru-6H-jibenzo [b,d]piran-1-o-ru",Δ8-THCH,THCH,2023/07/25,令和5年7月25日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+,指定薬物(包括),３－ヘプチル－６ａ，７，８，１０ａ－テトラヒドロ－６，６，９－トリメチル－６Ｈ－ジベンゾ［ｂ， ｄ］ピラン－１－オール及びその塩類,"3-hepuchiru-6a,7,8,10a-tetrahydro -6,6,9-torimechiru-6H-jibenzo[b, d]piran-1-o-ru",Δ9-THCP,THC-Heptyl,2022/03/07,令和4年3月7日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+,指定薬物(包括),６ａ，７，８，９，１０，１０ａ－ヘキサヒドロ－６，６，９－トリメチル－３－ペンチル－６Ｈ－ジベンゾ［ｂ，ｄ］ピラン－１－オール及びその塩類,"6a,7,8,9,10,10a-hekisahidoro- 6,6,9-torimechiru-3-penchiru-6H -jibenzo[b,d]piran-1-o-ru及び その salts",Hexahydrocannabinol,HHC,-,令和4年3月7日 令和7年10月3日麻薬,16050328 ,XKRHRBJLCLXSGE-VNCLPFQGSA-N,,https://laws.e-gov.go.jp/law/419M60000100014,,OK
+,指定薬物(包括),３－ヘキシル－６ａ，７，８，９，１０，１０ａ－ヘキサヒドロ－６，６，９－トリメチル－６Ｈ－ジベンゾ［ｂ，ｄ］ピラン－１－オール及びその塩類,"3-hekishiru-6a,7,8,9,10,10a- hekisahidoro-6,6,9-torimechiru-6H -jibenzo[b,d]piran-1-o-ru及び その salts",HHCH,HHC-H; Hexahydrocannabihexol,2023/11/22,令和5年11月22日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+,指定薬物(包括),６ａ，７，８，１０ａ－テトラヒドロ－６，６，９－トリメチル－３－ペンチル－６Ｈ－ジベンゾ［ｂ， ｄ］ピン－１－イル＝アセテート及びその塩類,"6a,7,8,10a-tetrahydro-6,6,9-to rimechiru-3-penchiru-6H-jibenzo[b, d]piran-1-iru=asete-to 類",Δ9-THCO,THC-O; THCO; THC-O-acetate,-,令和5年3月10日 令和6年8月30日麻薬,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+,指定薬物(包括),６ａ，７，１０，１０ａ－テトラヒドロ－６，６，９－トリメチル－３－ペンチル－６Ｈ－ジベンゾ［ｂ，ｄ］ピラン－１－イル＝アセテート及びその塩類,"6a,7,10,10a-tetrahydro-6,6,9- torimechiru-3-penchiru-6H-jibenzo [b,d]piran-1-iru=asete-to及びそ の salts",Δ8-THCO,THC-O; THCO; THC-O-acetate,-,令和5年3月10日 令和6年11月20日麻薬,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+,指定薬物(包括),６ａ，７，８，９，１０，１０ａ－ヘキサヒドロ－６，６，９－トリメチル－３－ペンチル－６Ｈ－ジベンゾ［ｂ，ｄ］ピラン－１－イル＝アセテート及びその塩類,"6a,7,8,9,10,10a-hekisahidoro-6, 6,9-torimechiru-3-penchiru-6H-jibe nzo[b,d]piran-1-iru=asete-to及 びその salts",HHCO,HHC-O; HHC-O-acetate,2023/03/10,令和5年3月10日,,,,https://laws.e-gov.go.jp/law/419M60000100014,,NOTFOUND
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
