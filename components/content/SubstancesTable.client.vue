@@ -201,8 +201,8 @@ const go = (id: string) => {
           <table class="w-full table-fixed border-separate border-spacing-0" id="substances-table">
             <colgroup>
               <col class="w-2/4" />
-              <col class="w-1/4 hidden md:block" />
-              <col class="w-1/4 hidden md:block" />
+              <col class="w-1/4 hidden md:table-cell" />
+              <col class="w-1/4 hidden md:table-cell" />
             </colgroup>
 
             <thead class="title">
@@ -224,7 +224,7 @@ const go = (id: string) => {
                   />
                 </th>
 
-                <th class="hidden md:block sticky border-b border-teal-600 top-0 bg-[#192539] text-left pt-4 pb-4 pr-4">
+                <th class="hidden md:table-cell sticky border-b border-teal-600 top-0 bg-[#192539] text-left pt-4 pb-4 pr-4">
                   <button
                     class="sort-toggle"
                     :class="sortClass('category')"
@@ -241,7 +241,7 @@ const go = (id: string) => {
                   />
                 </th>
 
-                <th class="hidden md:block sticky border-b border-teal-600 top-0 bg-[#192539] text-left pt-4 pb-4 pr-4">
+                <th class="hidden md:table-cell sticky border-b border-teal-600 top-0 bg-[#192539] text-left pt-4 pb-4 pr-4">
                   <button
                     class="sort-toggle"
                     :class="sortClass('legal')"
@@ -272,11 +272,11 @@ const go = (id: string) => {
                   <div v-if="r.aliases" class="text-slate-400 text-sm">{{ r.aliases }}</div>
                 </td>
 
-                <td class="hidden md:block bg-[#192539] border-b border-teal-600 h-14 p-4 w-1/4 group-hover:bg-[#2b3e5a]">
+                <td class="hidden md:table-cell bg-[#192539] border-b border-teal-600 h-14 p-4 w-1/4 group-hover:bg-[#2b3e5a]">
                   {{ r.category }}
                 </td>
 
-                <td class="hidden md:block bg-[#192539] border-b border-teal-600 h-14 p-4 w-1/4 group-hover:bg-[#2b3e5a]">
+                <td class="hidden md:table-cell bg-[#192539] border-b border-teal-600 h-14 p-4 w-1/4 group-hover:bg-[#2b3e5a]">
                   {{ r.legal }}
                 </td>
               </tr>
