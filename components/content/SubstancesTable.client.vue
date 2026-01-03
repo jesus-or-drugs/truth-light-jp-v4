@@ -196,7 +196,7 @@ const go = (id: string) => {
         Failed to load: {{ String(error) }}
       </div>
 
-      <div v-else class="border-l border-t border-b rounded-l-xl overflow-hidden border-teal-600">
+      <div v-else class="border-r md:border-r-0 border-l border-t border-b rounded-l-xl overflow-hidden border-teal-600">
         <div class="max-h-[80vh] overflow-y-auto">
           <table class="w-full table-fixed border-separate border-spacing-0" id="substances-table">
             <colgroup>
