@@ -270,9 +270,9 @@ const notFound = computed(() => !substance.value && !error.value)
 // UI
 const tabs = [
   { key: "history", label: "ヒストリー" },
-  { key: "effects", label: "体感" },
+  { key: "effects", label: "効果" },
   { key: "dosage", label: "用量" },
-  { key: "harm", label: "安全" },
+  { key: "harm", label: "リスク" },
   { key: "resources", label: "外部リンク" },
   { key: "aliases", label: "別名" },
 ] as const

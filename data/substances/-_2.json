@@ -1,10 +1,10 @@
 {
-  "id": "-_2",
-  "common_name": "-",
-  "systematic name": "",
-  "aliases": [],
+  "id": "4-fluoro-hexedrone",
+  "common_name": "4-Fluoro-Hexedrone",
+  "systematic name": "1-(4-fluorophenyl)-2-(methylamino)hexan-1-one",
+  "aliases": ["4F-Hexedrone"],
   "identifiers": {
-    "pubchem_cid": "",
+    "pubchem_cid": "519737966",
     "inchi_key": "",
     "smiles": ""
   },

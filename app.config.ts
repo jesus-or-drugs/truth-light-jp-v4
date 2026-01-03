@@ -31,8 +31,7 @@ export default defineAppConfig({
       },
       border: false,
       nav: [
-        { title: 'ハームリダクション・データベース', to: '/substances' },
-        { title: '規制薬物一覧', to: '/legal' },
+        { title: 'ハームリダクション・ナレッジ', to: '/substances' },
         { title: '依存症相談窓口', to: '/recovery' }
       ],
       links: [{
