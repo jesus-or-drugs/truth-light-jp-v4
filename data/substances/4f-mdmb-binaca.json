@@ -1,0 +1,42 @@
+{
+  "id": "4f-mdmb-binaca",
+  "common_name": "4F-MDMB-BINACA",
+  "systematic_name": "methyl (2S)-2-[[1-(4-fluorobutyl)indazole-3-carbonyl]amino]-3,3-dimethylbutanoate",
+  "aliases": [
+    "4F-Mdmb-binaca",
+    "4-Fluoro-mdmb-binaca",
+    "4F-Adb",
+    "メチル=二―[一―(四―フルオロブチル)―一H―インダゾール―三―カルボキサミド]―三・三―ジメチルブタノアート及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "145707216",
+    "inchi_key": "GZGKSDAMWRWYOZ-MRXNPFEDSA-N",
+    "smiles": "CC(C)(C)[C@@H](C(=O)OC)NC(=O)C1=NN(C2=CC=CC=C21)CCCCF"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "メチル=二―[一―(四―フルオロブチル)―一H―インダゾール―三―カルボキサミド]―三・三―ジメチルブタノアート及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cumyl-pegaclone",
+  "common_name": "CUMYL-PEGACLONE",
+  "systematic_name": "5-pentyl-2-(2-phenylpropan-2-yl)pyrido[4,3-b]indol-1-one",
+  "aliases": [
+    "五―ペンチル―二―(二―フェニルプロパン―二―イル)―二・五―ジヒドロ―一H―ピリド[四・三―b]インドール―一―オン及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "134818034",
+    "inchi_key": "AWHWTKXMUJLSRM-UHFFFAOYSA-N",
+    "smiles": "CCCCCN1C2=C(C3=CC=CC=C31)C(=O)N(C=C2)C(C)(C)C4=CC=CC=C4"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "五―ペンチル―二―(二―フェニルプロパン―二―イル)―二・五―ジヒドロ―一H―ピリド[四・三―b]インドール―一―オン及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

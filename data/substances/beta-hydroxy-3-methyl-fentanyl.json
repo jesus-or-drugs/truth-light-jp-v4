@@ -1,0 +1,39 @@
+{
+  "id": "beta-hydroxy-3-methyl-fentanyl",
+  "common_name": "β-Hydroxy-3-Methyl-Fentanyl",
+  "systematic_name": "N-[1-(β-hydroxyphenethyl)-3-methyl-4-piperidyl]propionanilide",
+  "aliases": [
+    "N―〔一―(β―ヒドロキシフェネチル)―三―メチル―四―ピペリジル〕プロピオンアニリド(別名ベータヒドロキシ―三―メチルフェンタニル)及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": ["オピオイド", "高力価"],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "N―〔一―(β―ヒドロキシフェネチル)―三―メチル―四―ピペリジル〕プロピオンアニリド(別名ベータヒドロキシ―三―メチルフェンタニル)及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

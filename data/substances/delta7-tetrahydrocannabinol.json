@@ -1,0 +1,39 @@
+{
+  "id": "delta7-tetrahydrocannabinol",
+  "common_name": "Δ7-Tetrahydrocannabinol",
+  "systematic_name": "6,6,9-trimethyl-3-pentyl-6a,9,10,10a-tetrahydrobenzo[c]chromen-1-ol",
+  "aliases": [
+    "六a・九・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ七テトラヒドロカンナビノール)及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "14552256",
+    "inchi_key": "WWYMYGIVLCKTBL-UHFFFAOYSA-N",
+    "smiles": "CCCCCC1=CC(=C2C3CC(C=CC3C(OC2=C1)(C)C)C)O"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "六a・九・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ七テトラヒドロカンナビノール)及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

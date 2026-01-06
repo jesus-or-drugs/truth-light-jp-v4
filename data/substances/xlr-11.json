@@ -1,0 +1,41 @@
+{
+  "id": "xlr-11",
+  "common_name": "XLR-11",
+  "systematic_name": "[1-(5-fluoropentyl)indol-3-yl]-(2,2,3,3-tetramethylcyclopropyl)methanone",
+  "aliases": [
+    "XLR11",
+    "5-FLUORO-UR-144",
+    "5F-UR-144"
+  ],
+  "identifiers": {
+    "pubchem_cid": "57501498",
+    "inchi_key": "PXLDPUUMIHVLEC-UHFFFAOYSA-N",
+    "smiles": "CC1(C(C1(C)C)C(=O)C2=CN(C3=CC=CC=C32)CCCCCF)C"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "[一―(五―フルオロペンチル)―一H―インドール―三―イル](二・二・三・三―テトラメチルシクロプロパン―一―イル)メタノン及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

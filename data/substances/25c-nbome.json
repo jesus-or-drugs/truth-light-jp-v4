@@ -1,0 +1,44 @@
+{
+  "id": "25c-nbome",
+  "common_name": "25C-NBOMe",
+  "systematic_name": "2-(4-chloro-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine",
+  "aliases": [
+    "2-(4-chloro-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine",
+    "二―(四―クロロ―二・五―ジメトキシフェニル)―N―(二―メトキシベンジル)エタンアミン及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "46856354",
+    "inchi_key": "FJFPOGCVVLUYAQ-UHFFFAOYSA-N",
+    "smiles": "COC1=CC=CC=C1CNCCC2=CC(=C(C=C2OC)Cl)OC"
+  },
+  "categories": [
+    "サイケデリック",
+    "急性毒性",
+    "試薬(RC)"
+  ],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "二―(四―クロロ―二・五―ジメトキシフェニル)―N―(二―メトキシベンジル)エタンアミン及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ah-7921",
+  "common_name": "AH-7921",
+  "systematic_name": "3,4-dichloro-N-[[1-(dimethylamino)cyclohexyl]methyl]benzamide",
+  "aliases": [
+    "三・四―ジクロロ―N―{[一―(ジメチルアミノ)シクロヘキシル]メチル}ベンズアミド及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "187760",
+    "inchi_key": "JMZROFPPEXCTST-UHFFFAOYSA-N",
+    "smiles": "CN(C)C1(CCCCC1)CNC(=O)C2=CC(=C(C=C2)Cl)Cl"
+  },
+  "categories": ["オピオイド","試薬(RC)"],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "三・四―ジクロロ―N―{[一―(ジメチルアミノ)シクロヘキシル]メチル}ベンズアミド及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

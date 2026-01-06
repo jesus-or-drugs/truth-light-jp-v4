@@ -1,0 +1,40 @@
+{
+  "id": "exo-thc",
+  "common_name": "exo-THC",
+  "systematic_name": "(6aS,10aS)-6,6-dimethyl-9-methylidene-3-pentyl-7,8,10,10a-tetrahydro-6aH-benzo[c]chromen-1-ol",
+  "aliases": [
+    "六a・七・八・九・十・十a―ヘキサヒドロ―六・六―ジメチル―九―メチレン―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ九(十一)テトラヒドロカンナビノール)及びその塩類",
+    "11-ヒドロキシテトラヒドロカンナビノール"
+  ],
+  "identifiers": {
+    "pubchem_cid": "21796775",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "六a・七・八・九・十・十a―ヘキサヒドロ―六・六―ジメチル―九―メチレン―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ九(十一)テトラヒドロカンナビノール)及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

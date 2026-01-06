@@ -1,87 +1,5 @@
 [
   {
-    "id": "-",
-    "name": "-",
-    "common_name": "-",
-    "systematic_name": "2-echiruamineo-1-(4-mechiru phenyl)hekisan-1-on及びそ の salts",
-    "aliases": [],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "指定薬物(包括)",
-        "official_name": "２－エチルアミノ－１－（４－メチル フェニル）ヘキサン－１－オン及びその塩類",
-        "effective_date": "2015/03/25",
-        "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "-_2",
-    "name": "-",
-    "common_name": "-",
-    "systematic_name": "",
-    "aliases": [],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "指定薬物(包括)",
-        "official_name": "１－（４－フルオロフェニル）－２－（メチルアミノ）ヘキサン－１－オン及びその塩類",
-        "effective_date": "-",
-        "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
     "id": "1-(3-methylbenzyl)piperazine",
     "name": "1-(3-Methylbenzyl)piperazine",
     "common_name": "1-(3-Methylbenzyl)piperazine",
@@ -212,49 +130,6 @@
         "law_number": "",
         "law_category": "麻薬",
         "official_name": "一―[一―(三―メトキシフェニル)シクロヘキシル]ピペリジン及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "1-_1_2-diphenylethyl_piperidine",
-    "name": "一―(一・二―ジフェニルエチル)ピペリジン及びその塩類",
-    "common_name": "一―(一・二―ジフェニルエチル)ピペリジン及びその塩類",
-    "systematic_name": "1-(1,2-diphenylethyl)piperidine",
-    "aliases": [
-      "一―(一・二―ジフェニルエチル)ピペリジン及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "一―(一・二―ジフェニルエチル)ピペリジン及びその塩類",
         "effective_date": "",
         "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
       }
@@ -3229,6 +3104,54 @@
     ]
   },
   {
+    "id": "25b-nbome",
+    "name": "25B-NBOMe",
+    "common_name": "25B-NBOMe",
+    "systematic_name": "2-(4-bromo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine",
+    "aliases": [
+      "Cimbi-36",
+      "二―(四―ブロモ―二・五―ジメトキシフェニル)―N―(二―メトキシベンジル)エタンアミン及びその塩類"
+    ],
+    "categories": [
+      "サイケデリック",
+      "高力価",
+      "急性毒性"
+    ],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "二―(四―ブロモ―二・五―ジメトキシフェニル)―N―(二―メトキシベンジル)エタンアミン及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "",
+      "inchi_key": "",
+      "smiles": ""
+    },
+    "pubchemCid": "",
+    "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
     "id": "25c-nbf",
     "name": "25C-NBF",
     "common_name": "25C-NBF",
@@ -3347,6 +3270,54 @@
     "refs": [
       "https://pubchem.ncbi.nlm.nih.gov/compound/125181419"
     ]
+  },
+  {
+    "id": "25c-nbome",
+    "name": "25C-NBOMe",
+    "common_name": "25C-NBOMe",
+    "systematic_name": "2-(4-chloro-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine",
+    "aliases": [
+      "2-(4-chloro-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine",
+      "二―(四―クロロ―二・五―ジメトキシフェニル)―N―(二―メトキシベンジル)エタンアミン及びその塩類"
+    ],
+    "categories": [
+      "サイケデリック",
+      "急性毒性",
+      "試薬(RC)"
+    ],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "二―(四―クロロ―二・五―ジメトキシフェニル)―N―(二―メトキシベンジル)エタンアミン及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "46856354",
+      "inchi_key": "FJFPOGCVVLUYAQ-UHFFFAOYSA-N",
+      "smiles": "COC1=CC=CC=C1CNCCC2=CC(=C(C=C2OC)Cl)OC"
+    },
+    "pubchemCid": "46856354",
+    "inchiKey": "FJFPOGCVVLUYAQ-UHFFFAOYSA-N",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
   },
   {
     "id": "25d-nbome",
@@ -7223,6 +7194,49 @@
     "refs": []
   },
   {
+    "id": "4-fluoro-hexedrone",
+    "name": "4-Fluoro-Hexedrone",
+    "common_name": "4-Fluoro-Hexedrone",
+    "systematic_name": "1-(4-fluorophenyl)-2-(methylamino)hexan-1-one",
+    "aliases": [
+      "4F-Hexedrone"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "指定薬物(包括)",
+        "official_name": "１－（４－フルオロフェニル）－２－（メチルアミノ）ヘキサン－１－オン及びその塩類",
+        "effective_date": "-",
+        "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "519737966",
+      "inchi_key": "",
+      "smiles": ""
+    },
+    "pubchemCid": "519737966",
+    "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
     "id": "4-fluoro-α-phpp",
     "name": "4-Fluoro-α-PHPP",
     "common_name": "4-Fluoro-α-PHPP",
@@ -8068,6 +8082,47 @@
         "official_name": "四―メチル―五―(四―メチルフェニル)―四・五―ジヒドロオキサゾール―二―アミン及びその塩類",
         "effective_date": "",
         "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "",
+      "inchi_key": "",
+      "smiles": ""
+    },
+    "pubchemCid": "",
+    "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
+    "id": "4-methyl-n-ethylhexedrone",
+    "name": "4-Methyl-N-Ethylhexedrone",
+    "common_name": "4-Methyl-N-Ethylhexedrone",
+    "systematic_name": "2-echiruamineo-1-(4-mechiru phenyl)hekisan-1-on及びそ の salts",
+    "aliases": [],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "指定薬物(包括)",
+        "official_name": "２－エチルアミノ－１－（４－メチルフェニル）ヘキサン－１－オン及びその塩類",
+        "effective_date": "2015/03/25",
+        "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
       }
     },
     "identifiers": {
@@ -11527,47 +11582,6 @@
     ]
   },
   {
-    "id": "",
-    "name": "",
-    "common_name": "",
-    "systematic_name": "",
-    "aliases": [],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "",
-        "official_name": "",
-        "effective_date": "",
-        "source_link": ""
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
     "id": "a-834735",
     "name": "A-834735",
     "common_name": "A-834735",
@@ -11704,436 +11718,6 @@
     "refs": [
       "https://pubchem.ncbi.nlm.nih.gov/compound/17754357"
     ]
-  },
-  {
-    "id": "a",
-    "name": "デルタ六a(七",
-    "common_name": "デルタ六a(七",
-    "systematic_name": "8,9,10,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-ol",
-    "aliases": [
-      "八・九・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ六a(七)テトラヒドロカンナビノール)及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "八・九・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ六a(七)テトラヒドロカンナビノール)及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "a_a",
-    "name": "デルタ六a(十a",
-    "common_name": "デルタ六a(十a",
-    "systematic_name": "7,8,9,10-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-ol",
-    "aliases": [
-      "七・八・九・十―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ六a(十a)テトラヒドロカンナビノール)及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "七・八・九・十―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ六a(十a)テトラヒドロカンナビノール)及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "a_a_h_b_d",
-    "name": "六a・七・八・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=アセテート及びその塩類",
-    "common_name": "六a・七・八・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=アセテート及びその塩類",
-    "systematic_name": "6a,7,8,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-yl=acetate",
-    "aliases": [
-      "六a・七・八・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=アセテート及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "六a・七・八・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=アセテート及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "a_a_h_b_d__2",
-    "name": "六a・七・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=アセテート及びその塩類",
-    "common_name": "六a・七・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=アセテート及びその塩類",
-    "systematic_name": "6a,7,10,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-yl=acetate",
-    "aliases": [
-      "六a・七・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=アセテート及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "六a・七・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=アセテート及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "a_a_h_b_d__3",
-    "name": "六a・七・八・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=プロピオネート及びその塩類",
-    "common_name": "六a・七・八・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=プロピオネート及びその塩類",
-    "systematic_name": "6a,7,8,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-yl=propionate",
-    "aliases": [
-      "六a・七・八・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=プロピオネート及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "六a・七・八・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=プロピオネート及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "a_a_h_b_d__4",
-    "name": "六a・七・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=プロピオネート及びその塩類",
-    "common_name": "六a・七・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=プロピオネート及びその塩類",
-    "systematic_name": "6a,7,10,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-yl=propionate",
-    "aliases": [
-      "六a・七・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=プロピオネート及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "六a・七・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=プロピオネート及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "a_a_h_b_d__5",
-    "name": "デルタ七テトラヒドロカンナビノール",
-    "common_name": "デルタ七テトラヒドロカンナビノール",
-    "systematic_name": "6a,9,10,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-ol",
-    "aliases": [
-      "六a・九・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ七テトラヒドロカンナビノール)及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "六a・九・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ七テトラヒドロカンナビノール)及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "a_a_h_b_d__6",
-    "name": "デルタ九(十一",
-    "common_name": "デルタ九(十一",
-    "systematic_name": "6a,7,8,9,10,10a-hexahydro-6,6-dimethyl-9-methylene-3-pentyl-6H-dibenzo[b,d]pyran-1-ol",
-    "aliases": [
-      "六a・七・八・九・十・十a―ヘキサヒドロ―六・六―ジメチル―九―メチレン―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ九(十一)テトラヒドロカンナビノール)及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "六a・七・八・九・十・十a―ヘキサヒドロ―六・六―ジメチル―九―メチレン―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ九(十一)テトラヒドロカンナビノール)及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "a_a_h_b_d__7",
-    "name": "六a・七・八・九・十・十a―ヘキサヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―オール及びその塩類",
-    "common_name": "六a・七・八・九・十・十a―ヘキサヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―オール及びその塩類",
-    "systematic_name": "6a,7,8,9,10,10a-hexahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-ol",
-    "aliases": [
-      "六a・七・八・九・十・十a―ヘキサヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―オール及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "六a・七・八・九・十・十a―ヘキサヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―オール及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "a_h_b_d",
-    "name": "デルタ十テトラヒドロカンナビノール",
-    "common_name": "デルタ十テトラヒドロカンナビノール",
-    "systematic_name": "6a,7,8,9-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-ol",
-    "aliases": [
-      "六a・七・八・九―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ十テトラヒドロカンナビノール)及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "六a・七・八・九―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ十テトラヒドロカンナビノール)及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
   },
   {
     "id": "ab-001",
@@ -12956,6 +12540,52 @@
     ]
   },
   {
+    "id": "ah-7921",
+    "name": "AH-7921",
+    "common_name": "AH-7921",
+    "systematic_name": "3,4-dichloro-N-[[1-(dimethylamino)cyclohexyl]methyl]benzamide",
+    "aliases": [
+      "三・四―ジクロロ―N―{[一―(ジメチルアミノ)シクロヘキシル]メチル}ベンズアミド及びその塩類"
+    ],
+    "categories": [
+      "オピオイド",
+      "試薬(RC)"
+    ],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "三・四―ジクロロ―N―{[一―(ジメチルアミノ)シクロヘキシル]メチル}ベンズアミド及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "187760",
+      "inchi_key": "JMZROFPPEXCTST-UHFFFAOYSA-N",
+      "smiles": "CN(C)C1(CCCCC1)CNC(=O)C2=CC(=C(C=C2)Cl)Cl"
+    },
+    "pubchemCid": "187760",
+    "inchiKey": "JMZROFPPEXCTST-UHFFFAOYSA-N",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
     "id": "akb48",
     "name": "AKB48",
     "common_name": "AKB48",
@@ -13691,6 +13321,51 @@
     },
     "pubchemCid": "2118",
     "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
+    "id": "am-2201",
+    "name": "AM-2201",
+    "common_name": "AM-2201",
+    "systematic_name": "[1-(5-fluoropentyl)-1H-indole-3-yl](naphthalene-1-yl)methanone",
+    "aliases": [
+      "[一―(五―フルオロペンチル)―一H―インドール―三―イル](ナフタレン―一―イル)メタノン及びその塩類"
+    ],
+    "categories": [
+      "カンナビノイド"
+    ],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "[一―(五―フルオロペンチル)―一H―インドール―三―イル](ナフタレン―一―イル)メタノン及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "53393997",
+      "inchi_key": "ALQFAGFPQCBPED-UHFFFAOYSA-N",
+      "smiles": "C1=CC=C2C(=C1)C=CC=C2C(=O)C3=CN(C4=CC=CC=C43)CCCCCF"
+    },
+    "pubchemCid": "53393997",
+    "inchiKey": "ALQFAGFPQCBPED-UHFFFAOYSA-N",
     "summary": "",
     "history": "",
     "effects": {
@@ -15136,6 +14811,96 @@
     "refs": []
   },
   {
+    "id": "beta-hydroxy-3-methyl-fentanyl",
+    "name": "β-Hydroxy-3-Methyl-Fentanyl",
+    "common_name": "β-Hydroxy-3-Methyl-Fentanyl",
+    "systematic_name": "N-[1-(β-hydroxyphenethyl)-3-methyl-4-piperidyl]propionanilide",
+    "aliases": [
+      "N―〔一―(β―ヒドロキシフェネチル)―三―メチル―四―ピペリジル〕プロピオンアニリド(別名ベータヒドロキシ―三―メチルフェンタニル)及びその塩類"
+    ],
+    "categories": [
+      "オピオイド",
+      "高力価"
+    ],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "N―〔一―(β―ヒドロキシフェネチル)―三―メチル―四―ピペリジル〕プロピオンアニリド(別名ベータヒドロキシ―三―メチルフェンタニル)及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "",
+      "inchi_key": "",
+      "smiles": ""
+    },
+    "pubchemCid": "",
+    "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
+    "id": "beta-hydroxyfentanyl",
+    "name": "β-Hydroxyfentanyl",
+    "common_name": "β-Hydroxyfentanyl",
+    "systematic_name": "N-[1-(2-hydroxy-2-phenylethyl)piperidin-4-yl]-N-phenylpropanamide",
+    "aliases": [
+      "N-[1-(β-hydroxyphenethyl)-4-piperidyl]propionanilide",
+      "N―〔一―(β―ヒドロキシフェネチル)―四―ピペリジル〕プロピオンアニリド(別名ベータヒドロキシフェンタニル)及びその塩類"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "N―〔一―(β―ヒドロキシフェネチル)―四―ピペリジル〕プロピオンアニリド(別名ベータヒドロキシフェンタニル)及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "",
+      "inchi_key": "",
+      "smiles": ""
+    },
+    "pubchemCid": "",
+    "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
     "id": "beta-meprodine",
     "name": "beta-meprodine",
     "common_name": "beta-meprodine",
@@ -16225,6 +15990,50 @@
         "law_number": "",
         "law_category": "麻薬",
         "official_name": "一―メチル―四―フェニルピペリジン―四―カルボン酸(別名ペチジン中間体C)及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "",
+      "inchi_key": "",
+      "smiles": ""
+    },
+    "pubchemCid": "",
+    "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
+    "id": "c11-methyl-hexahydrocannabinol",
+    "name": "C(11)-Methyl-Hexahydrocannabinol",
+    "common_name": "C(11)-Methyl-Hexahydrocannabinol",
+    "systematic_name": "6,6,9-trimethyl-3-pentyl-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol",
+    "aliases": [
+      "6a,7,8,9,10,10a-hexahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-ol",
+      "六a・七・八・九・十・十a―ヘキサヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―オール及びその塩類"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "六a・七・八・九・十・十a―ヘキサヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―オール及びその塩類",
         "effective_date": "",
         "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
       }
@@ -17891,6 +17700,358 @@
     "refs": []
   },
   {
+    "id": "delta10-tetrahydrocannabinol",
+    "name": "Δ10-Tetrahydrocannabinol",
+    "common_name": "Δ10-Tetrahydrocannabinol",
+    "systematic_name": "6,6,9-trimethyl-3-pentyl-6a,7,8,9-tetrahydrobenzo[c]chromen-1-ol",
+    "aliases": [
+      "Δ10-THC",
+      "6a,7,8,9-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-ol",
+      "六a・七・八・九―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ十テトラヒドロカンナビノール)及びその塩類"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "六a・七・八・九―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ十テトラヒドロカンナビノール)及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "71440386",
+      "inchi_key": "YLTWYAXWDLZZCU-UHFFFAOYSA-N",
+      "smiles": "CCCCCC1=CC(=C2C3=CC(CCC3C(OC2=C1)(C)C)C)O"
+    },
+    "pubchemCid": "71440386",
+    "inchiKey": "YLTWYAXWDLZZCU-UHFFFAOYSA-N",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
+    "id": "delta3-tetrahydrocannabinol",
+    "name": "Δ3-Tetrahydrocannabinol",
+    "common_name": "Δ3-Tetrahydrocannabinol",
+    "systematic_name": "6,6,9-trimethyl-3-pentyl-7,8,9,10-tetrahydrobenzo[c]chromen-1-ol",
+    "aliases": [
+      "7,8,9,10-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-ol",
+      "七・八・九・十―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ六a(十a)テトラヒドロカンナビノール)及びその塩類"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "七・八・九・十―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ六a(十a)テトラヒドロカンナビノール)及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "",
+      "inchi_key": "",
+      "smiles": ""
+    },
+    "pubchemCid": "",
+    "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
+    "id": "delta6a7-Tetrahydrocannabinol",
+    "name": "Δ6a7-Tetrahydrocannabinol",
+    "common_name": "Δ6a7-Tetrahydrocannabinol",
+    "systematic_name": "(9R,10aR)-6,6,9-trimethyl-3-pentyl-8,9,10,10a-tetrahydrobenzo[c]chromen-1-ol",
+    "aliases": [
+      "delta4-Tetrahydrocannabinol",
+      "8,9,10,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-ol",
+      "八・九・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ六a(七)テトラヒドロカンナビノール)及びその塩類"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "八・九・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ六a(七)テトラヒドロカンナビノール)及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "91936925",
+      "inchi_key": "UQOUHXDCXBITSF-GDBMZVCRSA-N",
+      "smiles": "CCCCCC1=CC(=C2[C@@H]3C[C@@H](CC=C3C(OC2=C1)(C)C)C)O"
+    },
+    "pubchemCid": "91936925",
+    "inchiKey": "UQOUHXDCXBITSF-GDBMZVCRSA-N",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
+    "id": "delta7-tetrahydrocannabinol",
+    "name": "Δ7-Tetrahydrocannabinol",
+    "common_name": "Δ7-Tetrahydrocannabinol",
+    "systematic_name": "6,6,9-trimethyl-3-pentyl-6a,9,10,10a-tetrahydrobenzo[c]chromen-1-ol",
+    "aliases": [
+      "六a・九・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ七テトラヒドロカンナビノール)及びその塩類"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "六a・九・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ七テトラヒドロカンナビノール)及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "14552256",
+      "inchi_key": "WWYMYGIVLCKTBL-UHFFFAOYSA-N",
+      "smiles": "CCCCCC1=CC(=C2C3CC(C=CC3C(OC2=C1)(C)C)C)O"
+    },
+    "pubchemCid": "14552256",
+    "inchiKey": "WWYMYGIVLCKTBL-UHFFFAOYSA-N",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
+    "id": "delta8-thco",
+    "name": "Δ8-THCO",
+    "common_name": "Δ8-THCO",
+    "systematic_name": "6a,7,10,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-yl=acetate",
+    "aliases": [
+      "六a・七・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=アセテート及びその塩類"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "六a・七・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=アセテート及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "",
+      "inchi_key": "",
+      "smiles": ""
+    },
+    "pubchemCid": "",
+    "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
+    "id": "delta8-thcop",
+    "name": "Δ8-THCOP",
+    "common_name": "Δ8-THCOP",
+    "systematic_name": "6a,7,10,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-yl=propionate",
+    "aliases": [
+      "六a・七・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=プロピオネート及びその塩類"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "六a・七・十・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=プロピオネート及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "",
+      "inchi_key": "",
+      "smiles": ""
+    },
+    "pubchemCid": "",
+    "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
+    "id": "delta9-tetrahydrocannabinol_acetate",
+    "name": "Δ9-Tetrahydrocannabinol acetate",
+    "common_name": "Δ9-Tetrahydrocannabinol acetate",
+    "systematic_name": "[(6aR,10aR)-6,6,9-trimethyl-3-pentyl-6a,7,8,10a-tetrahydrobenzo[c]chromen-1-yl] acetate",
+    "aliases": [
+      "6a,7,8,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-yl=acetate",
+      "六a・七・八・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=アセテート及びその塩類",
+      "Dronabinol O-Acetate",
+      "THC-O-Acetate"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "六a・七・八・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=アセテート及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "198013",
+      "inchi_key": "DEWSJDIJFWQLOA-RTBURBONSA-N",
+      "smiles": "CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1)OC(=O)C"
+    },
+    "pubchemCid": "198013",
+    "inchiKey": "DEWSJDIJFWQLOA-RTBURBONSA-N",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
+    "id": "delta9-thcop",
+    "name": "Δ9-THCOP",
+    "common_name": "Δ9-THCOP",
+    "systematic_name": "6a,7,8,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-yl=propionate",
+    "aliases": [
+      ""
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "六a・七・八・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=プロピオネート及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "",
+      "inchi_key": "",
+      "smiles": ""
+    },
+    "pubchemCid": "",
+    "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
     "id": "demethylmorphine",
     "name": "demethylmorphine",
     "common_name": "demethylmorphine",
@@ -18594,6 +18755,49 @@
     "refs": []
   },
   {
+    "id": "dihydroetorphine",
+    "name": "ジヒドロエトルフィン",
+    "common_name": "ジヒドロエトルフィン",
+    "systematic_name": "7,8-dihydro-7-α-[1-(R)-hydroxy-1-methylbutyl]-6,14-endo-ethanotetrahydrooripavine",
+    "aliases": [
+      "七・八―ジヒドロ―七―α―[一―(R)―ヒドロキシ―一―メチルブチル]―六・十四―エンド―エタノテトラヒドロオリパビン(別名ジヒドロエトルフィン)及びその塩類"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "七・八―ジヒドロ―七―α―[一―(R)―ヒドロキシ―一―メチルブチル]―六・十四―エンド―エタノテトラヒドロオリパビン(別名ジヒドロエトルフィン)及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "",
+      "inchi_key": "",
+      "smiles": ""
+    },
+    "pubchemCid": "",
+    "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
     "id": "dihydromorphine",
     "name": "dihydromorphine",
     "common_name": "dihydromorphine",
@@ -18864,6 +19068,49 @@
     },
     "pubchemCid": "",
     "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
+    "id": "diphenidine",
+    "name": "diphenidine",
+    "common_name": "diphenidine",
+    "systematic_name": "1-(1,2-diphenylethyl)piperidine",
+    "aliases": [
+      "一―(一・二―ジフェニルエチル)ピペリジン及びその塩類"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "一―(一・二―ジフェニルエチル)ピペリジン及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "206666",
+      "inchi_key": "JQWJJJYHVHNXJH-UHFFFAOYSA-N",
+      "smiles": "C1CCN(CC1)C(CC2=CC=CC=C2)C3=CC=CC=C3"
+    },
+    "pubchemCid": "206666",
+    "inchiKey": "JQWJJJYHVHNXJH-UHFFFAOYSA-N",
     "summary": "",
     "history": "",
     "effects": {
@@ -20378,6 +20625,54 @@
     ]
   },
   {
+    "id": "eticyclidine",
+    "name": "Eticyclidine",
+    "common_name": "Eticyclidine",
+    "systematic_name": "N-ethyl-1-phenylcyclohexan-1-amine",
+    "aliases": [
+      "N-ethyl-1-phenylcyclohexylamine",
+      "Ethylphencyclidine",
+      "N―エチル―一―フェニルシクロヘキシルアミン(別名エチシクリジン)及びその塩類"
+    ],
+    "categories": [
+      "解離性",
+      "試薬(RC)"
+    ],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "N―エチル―一―フェニルシクロヘキシルアミン(別名エチシクリジン)及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "16622",
+      "inchi_key": "IFYLVUHLOOCYBG-UHFFFAOYSA-N",
+      "smiles": "CCNC1(CCCCC1)C2=CC=CC=C2"
+    },
+    "pubchemCid": "16622",
+    "inchiKey": "IFYLVUHLOOCYBG-UHFFFAOYSA-N",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
     "id": "etomidate",
     "name": "Etomidate",
     "common_name": "Etomidate",
@@ -20495,6 +20790,50 @@
     "refs": []
   },
   {
+    "id": "etorphine",
+    "name": "Etorphine",
+    "common_name": "Etorphine",
+    "systematic_name": "7,8-dihydro-7α-[1(R)-hydroxy-1-methylbutyl]-6-O-methyl-6,14-endo-ethenomorphine",
+    "aliases": [
+      "エトルフィン",
+      "七・八―ジヒドロ―七α―〔一(R)―ヒドロキシ―一―メチルブチル〕―六―O―メチル―六・十四―エンド―エテノモルヒネ(別名エトルフィン)及びその塩類"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "七・八―ジヒドロ―七α―〔一(R)―ヒドロキシ―一―メチルブチル〕―六―O―メチル―六・十四―エンド―エテノモルヒネ(別名エトルフィン)及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "",
+      "inchi_key": "",
+      "smiles": ""
+    },
+    "pubchemCid": "",
+    "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
     "id": "etryptamine",
     "name": "etryptamine",
     "common_name": "etryptamine",
@@ -20518,6 +20857,50 @@
       "smiles": ""
     },
     "pubchemCid": "",
+    "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
+    "id": "exo-thc",
+    "name": "exo-THC",
+    "common_name": "exo-THC",
+    "systematic_name": "(6aS,10aS)-6,6-dimethyl-9-methylidene-3-pentyl-7,8,10,10a-tetrahydro-6aH-benzo[c]chromen-1-ol",
+    "aliases": [
+      "六a・七・八・九・十・十a―ヘキサヒドロ―六・六―ジメチル―九―メチレン―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ九(十一)テトラヒドロカンナビノール)及びその塩類",
+      "11-ヒドロキシテトラヒドロカンナビノール"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "六a・七・八・九・十・十a―ヘキサヒドロ―六・六―ジメチル―九―メチレン―三―ペンチル―六H―ジベンゾ〔b・d〕ピラン―一―オール(別名デルタ九(十一)テトラヒドロカンナビノール)及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "21796775",
+      "inchi_key": "",
+      "smiles": ""
+    },
+    "pubchemCid": "21796775",
     "inchiKey": "",
     "summary": "",
     "history": "",
@@ -21753,15 +22136,18 @@
         "law_category": "麻薬",
         "official_name": "(四―メチルナフタレン―一―イル)(一―ペンチル―一H―インドール―三―イル)メタノン及びその塩類",
         "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+        "source_link": [
+          "https://laws.e-gov.go.jp/law/402CO0000000238/",
+          "https://chatgpt.com/c/695b6cd6-bcc8-8324-9931-94d9a3979b28#:~:text=%E7%A8%8E%E9%96%A2%E7%B7%8F%E5%90%88,%2B1"
+        ]
       }
     },
     "identifiers": {
-      "pubchem_cid": "",
+      "pubchem_cid": "44466638",
       "inchi_key": "",
       "smiles": ""
     },
-    "pubchemCid": "",
+    "pubchemCid": "44466638",
     "inchiKey": "",
     "summary": "",
     "history": "",
@@ -21967,350 +22353,6 @@
         "law_number": "",
         "law_category": "麻薬",
         "official_name": "メチル=二―[一―(五―フルオロペンチル)―一H―インドール―三―カルボキサミド]―三・三―ジメチルブタノアート及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "h__2",
-    "name": "一―ナフタレニル(一―ペンチル―一H―インドール―三―イル)メタノン及びその塩類",
-    "common_name": "一―ナフタレニル(一―ペンチル―一H―インドール―三―イル)メタノン及びその塩類",
-    "systematic_name": "1-naphthalenyl(1-pentyl-1H-indole-3-yl)methanone",
-    "aliases": [
-      "一―ナフタレニル(一―ペンチル―一H―インドール―三―イル)メタノン及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "一―ナフタレニル(一―ペンチル―一H―インドール―三―イル)メタノン及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "h__3",
-    "name": "(一―ブチル―一H―インドール―三―イル)(ナフタレン―一―イル)メタノン及びその塩類",
-    "common_name": "(一―ブチル―一H―インドール―三―イル)(ナフタレン―一―イル)メタノン及びその塩類",
-    "systematic_name": "(1-butyl-1H-indole-3-yl)(naphthalene-1-yl)methanone",
-    "aliases": [
-      "(一―ブチル―一H―インドール―三―イル)(ナフタレン―一―イル)メタノン及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "(一―ブチル―一H―インドール―三―イル)(ナフタレン―一―イル)メタノン及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "h__4",
-    "name": "[一―(五―フルオロペンチル)―一H―インドール―三―イル](二・二・三・三―テトラメチルシクロプロパン―一―イル)メタノン及びその塩類",
-    "common_name": "[一―(五―フルオロペンチル)―一H―インドール―三―イル](二・二・三・三―テトラメチルシクロプロパン―一―イル)メタノン及びその塩類",
-    "systematic_name": "[1-(5-fluoropentyl)-1H-indole-3-yl](2,2,3,3-tetramethylcyclopropane-1-yl)methanone",
-    "aliases": [
-      "[一―(五―フルオロペンチル)―一H―インドール―三―イル](二・二・三・三―テトラメチルシクロプロパン―一―イル)メタノン及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "[一―(五―フルオロペンチル)―一H―インドール―三―イル](二・二・三・三―テトラメチルシクロプロパン―一―イル)メタノン及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "h__5",
-    "name": "[一―(五―フルオロペンチル)―一H―インドール―三―イル](ナフタレン―一―イル)メタノン及びその塩類",
-    "common_name": "[一―(五―フルオロペンチル)―一H―インドール―三―イル](ナフタレン―一―イル)メタノン及びその塩類",
-    "systematic_name": "[1-(5-fluoropentyl)-1H-indole-3-yl](naphthalene-1-yl)methanone",
-    "aliases": [
-      "[一―(五―フルオロペンチル)―一H―インドール―三―イル](ナフタレン―一―イル)メタノン及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "[一―(五―フルオロペンチル)―一H―インドール―三―イル](ナフタレン―一―イル)メタノン及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "h__6",
-    "name": "[一―(五―フルオロペンチル)―一H―インドール―三―イル](四―メチルナフタレン―一―イル)メタノン及びその塩類",
-    "common_name": "[一―(五―フルオロペンチル)―一H―インドール―三―イル](四―メチルナフタレン―一―イル)メタノン及びその塩類",
-    "systematic_name": "[1-(5-fluoropentyl)-1H-indole-3-yl](4-methylnaphthalene-1-yl)methanone",
-    "aliases": [
-      "[一―(五―フルオロペンチル)―一H―インドール―三―イル](四―メチルナフタレン―一―イル)メタノン及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "[一―(五―フルオロペンチル)―一H―インドール―三―イル](四―メチルナフタレン―一―イル)メタノン及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "h__7",
-    "name": "(一―ペンチル―一H―インドール―三―イル)(二・二・三・三―テトラメチルシクロプロパン―一―イル)メタノン及びその塩類",
-    "common_name": "(一―ペンチル―一H―インドール―三―イル)(二・二・三・三―テトラメチルシクロプロパン―一―イル)メタノン及びその塩類",
-    "systematic_name": "(1-pentyl-1H-indole-3-yl)(2,2,3,3-tetramethylcyclopropane-1-yl)methanone",
-    "aliases": [
-      "(一―ペンチル―一H―インドール―三―イル)(二・二・三・三―テトラメチルシクロプロパン―一―イル)メタノン及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "(一―ペンチル―一H―インドール―三―イル)(二・二・三・三―テトラメチルシクロプロパン―一―イル)メタノン及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "h__8",
-    "name": "メチル=二―[一―(シクロヘキシルメチル)―一H―インドール―三―カルボキサミド]―三・三―ジメチルブタノアート及びその塩類",
-    "common_name": "メチル=二―[一―(シクロヘキシルメチル)―一H―インドール―三―カルボキサミド]―三・三―ジメチルブタノアート及びその塩類",
-    "systematic_name": "methyl=2-[1-(cyclohexylmethyl)-1H-indole-3-carboxamide]-3,3-dimethylbutanoate",
-    "aliases": [
-      "メチル=二―[一―(シクロヘキシルメチル)―一H―インドール―三―カルボキサミド]―三・三―ジメチルブタノアート及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "メチル=二―[一―(シクロヘキシルメチル)―一H―インドール―三―カルボキサミド]―三・三―ジメチルブタノアート及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "h__9",
-    "name": "メチル=三・三―ジメチル―二―[一―(ペンタ―四―エン―一―イル)―一H―インダゾール―三―カルボキサミド]ブタノアート及びその塩類",
-    "common_name": "メチル=三・三―ジメチル―二―[一―(ペンタ―四―エン―一―イル)―一H―インダゾール―三―カルボキサミド]ブタノアート及びその塩類",
-    "systematic_name": "methyl=3,3-dimethyl-2-[1-(pent-4-en-1-yl)-1H-indazole-3-carboxamide]butanoate",
-    "aliases": [
-      "メチル=三・三―ジメチル―二―[一―(ペンタ―四―エン―一―イル)―一H―インダゾール―三―カルボキサミド]ブタノアート及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "メチル=三・三―ジメチル―二―[一―(ペンタ―四―エン―一―イル)―一H―インダゾール―三―カルボキサミド]ブタノアート及びその塩類",
         "effective_date": "",
         "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
       }
@@ -23396,6 +23438,50 @@
     ]
   },
   {
+    "id": "jwh-018",
+    "name": "JWH-018",
+    "common_name": "JWH-018",
+    "systematic_name": "naphthalen-1-yl-(1-pentylindol-3-yl)methanone",
+    "aliases": [
+      "1-naphthalenyl(1-pentyl-1H-indole-3-yl)methanone",
+      "AM-678"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "一―ナフタレニル(一―ペンチル―一H―インドール―三―イル)メタノン及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "10382701",
+      "inchi_key": "JDNLPKCAXICMBW-UHFFFAOYSA-N",
+      "smiles": "CCCCCN1C=C(C2=CC=CC=C21)C(=O)C3=CC=CC4=CC=CC=C43"
+    },
+    "pubchemCid": "10382701",
+    "inchiKey": "JDNLPKCAXICMBW-UHFFFAOYSA-N",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
     "id": "jwh-019",
     "name": "JWH-019",
     "common_name": "JWH-019",
@@ -23596,6 +23682,49 @@
     "refs": [
       "https://pubchem.ncbi.nlm.nih.gov/compound/9971539"
     ]
+  },
+  {
+    "id": "jwh-073",
+    "name": "JWH-073",
+    "common_name": "JWH-073",
+    "systematic_name": "(1-butylindol-3-yl)-naphthalen-1-ylmethanone",
+    "aliases": [
+      ""
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "(一―ブチル―一H―インドール―三―イル)(ナフタレン―一―イル)メタノン及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "10471670",
+      "inchi_key": "VCHHHSMPMLNVGS-UHFFFAOYSA-N",
+      "smiles": "CCCCN1C=C(C2=CC=CC=C21)C(=O)C3=CC=CC4=CC=CC=C43"
+    },
+    "pubchemCid": "10471670",
+    "inchiKey": "VCHHHSMPMLNVGS-UHFFFAOYSA-N",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
   },
   {
     "id": "jwh-081",
@@ -24590,6 +24719,137 @@
     "refs": []
   },
   {
+    "id": "levomethorphan",
+    "name": "Levomethorphan",
+    "common_name": "Levomethorphan",
+    "systematic_name": "(1R,9R,10R)-4-methoxy-17-methyl-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-triene",
+    "aliases": [
+      "l-Methorphan",
+      "(-)-3-Methoxy-N-methylmorphinan",
+      "三―メトキシ―N―メチルモルヒナン(右旋性のものを除く。)及びその塩類"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "三―メトキシ―N―メチルモルヒナン(右旋性のものを除く。)及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/328AC0000000014"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "5362449",
+      "inchi_key": "MKXZASYAUGDDCJ-CGTJXYLNSA-N",
+      "smiles": "CN1CC[C@]23CCCC[C@H]2[C@H]1CC4=C3C=C(C=C4)OC"
+    },
+    "pubchemCid": "5362449",
+    "inchiKey": "MKXZASYAUGDDCJ-CGTJXYLNSA-N",
+    "summary": "デキストロメトルファン(メジコン&reg;)の左旋性。<br />デキストロメトルファンことなりオピオイド受容体への親和性も高くモルヒネの5倍の効力を示す。",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
+    "id": "levophenomorphan",
+    "name": "Levophenomorphan",
+    "common_name": "Levophenomorphan",
+    "systematic_name": "(1R,9R,10R)-17-(2-phenylethyl)-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-trien-4-ol",
+    "aliases": [
+      "三―ヒドロキシ―N―フェナシルモルヒナン(右旋性のものを除く。)及びその塩類"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "三―ヒドロキシ―N―フェナシルモルヒナン(右旋性のものを除く。)及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/328AC0000000014"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "5362458",
+      "inchi_key": "CFBQYWXPZVQQTN-QPTUXGOLSA-N",
+      "smiles": "C1CC[C@@]23CCN([C@@H]([C@@H]2C1)CC4=C3C=C(C=C4)O)CCC5=CC=CC=C5"
+    },
+    "pubchemCid": "5362458",
+    "inchiKey": "CFBQYWXPZVQQTN-QPTUXGOLSA-N",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
+    "id": "levorphanol",
+    "name": "Levorphanol",
+    "common_name": "Levorphanol",
+    "systematic_name": "(1R,9R,10R)-17-methyl-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-trien-4-ol",
+    "aliases": [
+      "三―ヒドロキシ―N―メチルモルヒナン(右旋性のものを除く。)及びその塩類"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "三―ヒドロキシ―N―メチルモルヒナン(右旋性のものを除く。)及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/328AC0000000014"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "",
+      "inchi_key": "",
+      "smiles": ""
+    },
+    "pubchemCid": "",
+    "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
     "id": "lsz",
     "name": "LSZ",
     "common_name": "LSZ",
@@ -24809,6 +25069,51 @@
     "refs": [
       "https://pubchem.ncbi.nlm.nih.gov/compound/119026010"
     ]
+  },
+  {
+    "id": "mam-2201",
+    "name": "MAM-2201",
+    "common_name": "MAM-2201",
+    "systematic_name": "[1-(5-fluoropentyl)-1H-indole-3-yl](4-methylnaphthalene-1-yl)methanone",
+    "aliases": [
+      "[一―(五―フルオロペンチル)―一H―インドール―三―イル](四―メチルナフタレン―一―イル)メタノン及びその塩類"
+    ],
+    "categories": [
+      "カンナビノイド"
+    ],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "[一―(五―フルオロペンチル)―一H―インドール―三―イル](四―メチルナフタレン―一―イル)メタノン及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "66570720",
+      "inchi_key": "IGBHZHCGWLHBAE-UHFFFAOYSA-N",
+      "smiles": "CC1=CC=C(C2=CC=CC=C12)C(=O)C3=CN(C4=CC=CC=C43)CCCCCF"
+    },
+    "pubchemCid": "66570720",
+    "inchiKey": "IGBHZHCGWLHBAE-UHFFFAOYSA-N",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
   },
   {
     "id": "mazindol",
@@ -25183,6 +25488,97 @@
         "law_number": "",
         "law_category": "麻薬",
         "official_name": "N・α―ジメチル―三・四―(メチレンジオキシ)フェネチルアミン(別名MDMA)及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "",
+      "inchi_key": "",
+      "smiles": ""
+    },
+    "pubchemCid": "",
+    "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
+    "id": "mdmb-4en-pinaca",
+    "name": "MDMB-4en-PINACA",
+    "common_name": "MDMB-4en-PINACA",
+    "systematic_name": "methyl (2S)-3,3-dimethyl-2-[(1-pent-4-enylindazole-3-carbonyl)amino]butanoate",
+    "aliases": [
+      "メチル=三・三―ジメチル―二―[一―(ペンタ―四―エン―一―イル)―一H―インダゾール―三―カルボキサミド]ブタノアート及びその塩類",
+      "Mdmb-peninaca"
+    ],
+    "categories": [
+      "カンナビノイド"
+    ],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "メチル=三・三―ジメチル―二―[一―(ペンタ―四―エン―一―イル)―一H―インダゾール―三―カルボキサミド]ブタノアート及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "155804661",
+      "inchi_key": "LWOCBHBFWNGPGM-QGZVFWFLSA-N",
+      "smiles": "CC(C)(C)[C@@H](C(=O)OC)NC(=O)C1=NN(C2=CC=CC=C21)CCCC=C"
+    },
+    "pubchemCid": "155804661",
+    "inchiKey": "LWOCBHBFWNGPGM-QGZVFWFLSA-N",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
+    "id": "mdmb-chmica",
+    "name": "MDMB-CHMICA",
+    "common_name": "MDMB-CHMICA",
+    "systematic_name": "methyl (2S)-3,3-dimethyl-2-[(1-pent-4-enylindazole-3-carbonyl)amino]butanoate",
+    "aliases": [
+      "メチル=二―[一―(シクロヘキシルメチル)―一H―インドール―三―カルボキサミド]―三・三―ジメチルブタノアート及びその塩類"
+    ],
+    "categories": [
+      "合成カンナビノイド"
+    ],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "メチル=二―[一―(シクロヘキシルメチル)―一H―インドール―三―カルボキサミド]―三・三―ジメチルブタノアート及びその塩類",
         "effective_date": "",
         "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
       }
@@ -27622,6 +28018,49 @@
     "refs": []
   },
   {
+    "id": "morphine-n-oxied",
+    "name": "morphine-N-Oxied",
+    "common_name": "morphine-N-Oxied",
+    "systematic_name": "morphine-N-Oxied",
+    "aliases": [
+      "モルヒネ―N―オキシドその他五価窒素モルヒネ及びその誘導体"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "モルヒネ―N―オキシドその他五価窒素モルヒネ及びその誘導体",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/328AC0000000014"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "",
+      "inchi_key": "",
+      "smiles": "C1(O)=C2O[C@@]3([H])C(O)C=C[C@@]4([H])[C@]5([H])[N+](O)(CC[C@@]43C2=C(C5)C=C1)C"
+    },
+    "pubchemCid": "",
+    "inchiKey": "",
+    "summary": "e.g.Morphine-N-Chloriedなどの五価窒素モルヒネなども含まれる。",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
     "id": "morphine",
     "name": "モルヒネ及びその塩類",
     "common_name": "モルヒネ及びその塩類",
@@ -28176,6 +28615,50 @@
     ]
   },
   {
+    "id": "n-ethylhexedrone",
+    "name": "N-Ethylhexedrone",
+    "common_name": "N-Ethylhexedrone",
+    "systematic_name": "2-(ethylamino)-1-phenylhexan-1-one",
+    "aliases": [
+      "N―エチルヘキセドロン",
+      "二―(エチルアミノ)―一―フェニルヘキサン―一―オン(別名N―エチルヘキセドロン)及びその塩類"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "二―(エチルアミノ)―一―フェニルヘキサン―一―オン(別名N―エチルヘキセドロン)及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "134822125",
+      "inchi_key": "CWNKMHIETKEBCA-UHFFFAOYSA-N",
+      "smiles": "CCCCC(C(=O)C1=CC=CC=C1)NCC"
+    },
+    "pubchemCid": "134822125",
+    "inchiKey": "CWNKMHIETKEBCA-UHFFFAOYSA-N",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
     "id": "n-methyl-2-ai",
     "name": "N-methyl-2-AI",
     "common_name": "N-methyl-2-AI",
@@ -28360,221 +28843,6 @@
     "refs": [
       "https://pubchem.ncbi.nlm.nih.gov/compound/122129922"
     ]
-  },
-  {
-    "id": "n",
-    "name": "三―ヒドロキシ―N―フェナシルモルヒナン(右旋性のものを除く。)及びその塩類",
-    "common_name": "三―ヒドロキシ―N―フェナシルモルヒナン(右旋性のものを除く。)及びその塩類",
-    "systematic_name": "3-hydroxy-N-phenacylmorphinan(excluding the dextrorotatory isomer)",
-    "aliases": [
-      "三―ヒドロキシ―N―フェナシルモルヒナン(右旋性のものを除く。)及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "三―ヒドロキシ―N―フェナシルモルヒナン(右旋性のものを除く。)及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/328AC0000000014"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "n__10",
-    "name": "ベータヒドロキシフェンタニル",
-    "common_name": "ベータヒドロキシフェンタニル",
-    "systematic_name": "N-[1-(β-hydroxyphenethyl)-4-piperidyl]propionanilide",
-    "aliases": [
-      "N―〔一―(β―ヒドロキシフェネチル)―四―ピペリジル〕プロピオンアニリド(別名ベータヒドロキシフェンタニル)及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "N―〔一―(β―ヒドロキシフェネチル)―四―ピペリジル〕プロピオンアニリド(別名ベータヒドロキシフェンタニル)及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "n__11",
-    "name": "ベータヒドロキシ―三―メチルフェンタニル",
-    "common_name": "ベータヒドロキシ―三―メチルフェンタニル",
-    "systematic_name": "N-[1-(β-hydroxyphenethyl)-3-methyl-4-piperidyl]propionanilide",
-    "aliases": [
-      "N―〔一―(β―ヒドロキシフェネチル)―三―メチル―四―ピペリジル〕プロピオンアニリド(別名ベータヒドロキシ―三―メチルフェンタニル)及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "N―〔一―(β―ヒドロキシフェネチル)―三―メチル―四―ピペリジル〕プロピオンアニリド(別名ベータヒドロキシ―三―メチルフェンタニル)及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "n__12",
-    "name": "パラフルオロフェンタニル",
-    "common_name": "パラフルオロフェンタニル",
-    "systematic_name": "4-fluoro-N-(1-phenethyl-4-piperidyl)propionanilide",
-    "aliases": [
-      "四―フルオロ―N―(一―フェネチル―四―ピペリジル)プロピオンアニリド(別名パラフルオロフェンタニル)及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "四―フルオロ―N―(一―フェネチル―四―ピペリジル)プロピオンアニリド(別名パラフルオロフェンタニル)及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "n__13",
-    "name": "二―(四―ブロモ―二・五―ジメトキシフェニル)―N―(二―メトキシベンジル)エタンアミン及びその塩類",
-    "common_name": "二―(四―ブロモ―二・五―ジメトキシフェニル)―N―(二―メトキシベンジル)エタンアミン及びその塩類",
-    "systematic_name": "2-(4-bromo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine",
-    "aliases": [
-      "二―(四―ブロモ―二・五―ジメトキシフェニル)―N―(二―メトキシベンジル)エタンアミン及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "二―(四―ブロモ―二・五―ジメトキシフェニル)―N―(二―メトキシベンジル)エタンアミン及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
   },
   {
     "id": "n__14",
@@ -28835,49 +29103,6 @@
     "refs": []
   },
   {
-    "id": "n__2",
-    "name": "三―ヒドロキシ―N―メチルモルヒナン(右旋性のものを除く。)及びその塩類",
-    "common_name": "三―ヒドロキシ―N―メチルモルヒナン(右旋性のものを除く。)及びその塩類",
-    "systematic_name": "3-hydroxy-N-methylmorphinan(excluding the dextrorotatory isomer)",
-    "aliases": [
-      "三―ヒドロキシ―N―メチルモルヒナン(右旋性のものを除く。)及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "三―ヒドロキシ―N―メチルモルヒナン(右旋性のものを除く。)及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/328AC0000000014"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
     "id": "n__20",
     "name": "メチル=一―フェネチル―四―(N―フェニルプロパンアミド)ピペリジン―四―カルボキシラート及びその塩類",
     "common_name": "メチル=一―フェネチル―四―(N―フェニルプロパンアミド)ピペリジン―四―カルボキシラート及びその塩類",
@@ -29020,307 +29245,6 @@
         "law_number": "",
         "law_category": "麻薬",
         "official_name": "二―(四―ヨード―二・五―ジメトキシフェニル)―N―(二―メトキシベンジル)エタンアミン及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "n__3",
-    "name": "三―メトキシ―N―メチルモルヒナン(右旋性のものを除く。)及びその塩類",
-    "common_name": "三―メトキシ―N―メチルモルヒナン(右旋性のものを除く。)及びその塩類",
-    "systematic_name": "3-methoxy-N-methylmorphinan(excluding the dextrorotatory isomer)",
-    "aliases": [
-      "三―メトキシ―N―メチルモルヒナン(右旋性のものを除く。)及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "三―メトキシ―N―メチルモルヒナン(右旋性のものを除く。)及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/328AC0000000014"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "n__4",
-    "name": "モルヒネ―N―オキシドその他五価窒素モルヒネ及びその誘導体",
-    "common_name": "モルヒネ―N―オキシドその他五価窒素モルヒネ及びその誘導体",
-    "systematic_name": "morphine-N-okishidomorphine",
-    "aliases": [
-      "モルヒネ―N―オキシドその他五価窒素モルヒネ及びその誘導体"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "モルヒネ―N―オキシドその他五価窒素モルヒネ及びその誘導体",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/328AC0000000014"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "n__5",
-    "name": "N―エチルヘキセドロン",
-    "common_name": "N―エチルヘキセドロン",
-    "systematic_name": "2-(ethylamino)-1-phenylhexane-1-one",
-    "aliases": [
-      "二―(エチルアミノ)―一―フェニルヘキサン―一―オン(別名N―エチルヘキセドロン)及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "二―(エチルアミノ)―一―フェニルヘキサン―一―オン(別名N―エチルヘキセドロン)及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "n__6",
-    "name": "エチシクリジン",
-    "common_name": "エチシクリジン",
-    "systematic_name": "N-ethyl-1-phenylcyclohexylamine",
-    "aliases": [
-      "N―エチル―一―フェニルシクロヘキシルアミン(別名エチシクリジン)及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "N―エチル―一―フェニルシクロヘキシルアミン(別名エチシクリジン)及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "n__7",
-    "name": "二―(四―クロロ―二・五―ジメトキシフェニル)―N―(二―メトキシベンジル)エタンアミン及びその塩類",
-    "common_name": "二―(四―クロロ―二・五―ジメトキシフェニル)―N―(二―メトキシベンジル)エタンアミン及びその塩類",
-    "systematic_name": "2-(4-chloro-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine",
-    "aliases": [
-      "二―(四―クロロ―二・五―ジメトキシフェニル)―N―(二―メトキシベンジル)エタンアミン及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "二―(四―クロロ―二・五―ジメトキシフェニル)―N―(二―メトキシベンジル)エタンアミン及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "n__8",
-    "name": "三・四―ジクロロ―N―{[一―(ジメチルアミノ)シクロヘキシル]メチル}ベンズアミド及びその塩類",
-    "common_name": "三・四―ジクロロ―N―{[一―(ジメチルアミノ)シクロヘキシル]メチル}ベンズアミド及びその塩類",
-    "systematic_name": "3,4-dichloro-N-{[1-(dimethylamino)cyclohexyl]methyl}benzamide",
-    "aliases": [
-      "三・四―ジクロロ―N―{[一―(ジメチルアミノ)シクロヘキシル]メチル}ベンズアミド及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "三・四―ジクロロ―N―{[一―(ジメチルアミノ)シクロヘキシル]メチル}ベンズアミド及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "n__9",
-    "name": "チオフェンタニル",
-    "common_name": "チオフェンタニル",
-    "systematic_name": "N-[1-[2-(2-thienyl)ethyl]-4-piperidyl]propionanilide",
-    "aliases": [
-      "N―〔一―〔二―(二―チエニル)エチル〕―四―ピペリジル〕プロピオンアニリド(別名チオフェンタニル)及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "N―〔一―〔二―(二―チエニル)エチル〕―四―ピペリジル〕プロピオンアニリド(別名チオフェンタニル)及びその塩類",
         "effective_date": "",
         "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
       }
@@ -31238,6 +31162,50 @@
     ]
   },
   {
+    "id": "oripavine",
+    "name": "Oripavine",
+    "common_name": "Oripavine",
+    "systematic_name": "(5R)-4,5-epoxy-6-methoxy-17-methyl-6,7,8,14-tetradehydromorphinan-3-ol",
+    "aliases": [
+      "オリパビン",
+      "(五R)―四・五―エポキシ―六―メトキシ―十七―メチル―六・七・八・十四―テトラデヒドロモルヒナン―三―オール(別名オリパビン)及びその塩類"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "(五R)―四・五―エポキシ―六―メトキシ―十七―メチル―六・七・八・十四―テトラデヒドロモルヒナン―三―オール(別名オリパビン)及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "",
+      "inchi_key": "",
+      "smiles": ""
+    },
+    "pubchemCid": "",
+    "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
     "id": "ortho-methylfentanyl_o-methylfentanyl",
     "name": "ortho-Methylfentanyl o-Methylfentanyl",
     "common_name": "ortho-Methylfentanyl o-Methylfentanyl",
@@ -31428,6 +31396,56 @@
     },
     "pubchemCid": "",
     "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
+    "id": "para-fluorofentanyl",
+    "name": "para-Fluorofentanyl",
+    "common_name": "para-Fluorofentanyl",
+    "systematic_name": "N-(4-fluorophenyl)-N-[1-(2-phenylethyl)piperidin-4-yl]propanamide",
+    "aliases": [
+      "4-fluoro-N-(1-phenethyl-4-piperidyl)propionanilide",
+      "四―フルオロ―N―(一―フェネチル―四―ピペリジル)プロピオンアニリド(別名パラフルオロフェンタニル)及びその塩類",
+      "p-Fluorofentanyl",
+      "4-Fluorofentanyl"
+    ],
+    "categories": [
+      "オピオイド",
+      "高力価",
+      "急性毒性"
+    ],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "四―フルオロ―N―(一―フェネチル―四―ピペリジル)プロピオンアニリド(別名パラフルオロフェンタニル)及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "62300",
+      "inchi_key": "KXUBAVLIJFTASZ-UHFFFAOYSA-N",
+      "smiles": "CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=C(C=C3)F"
+    },
+    "pubchemCid": "62300",
+    "inchiKey": "KXUBAVLIJFTASZ-UHFFFAOYSA-N",
     "summary": "",
     "history": "",
     "effects": {
@@ -33150,135 +33168,6 @@
     ]
   },
   {
-    "id": "r",
-    "name": "オリパビン",
-    "common_name": "オリパビン",
-    "systematic_name": "(5R)-4,5-epoxy-6-methoxy-17-methyl-6,7,8,14-tetradehydromorphinan-3-ol",
-    "aliases": [
-      "(五R)―四・五―エポキシ―六―メトキシ―十七―メチル―六・七・八・十四―テトラデヒドロモルヒナン―三―オール(別名オリパビン)及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "(五R)―四・五―エポキシ―六―メトキシ―十七―メチル―六・七・八・十四―テトラデヒドロモルヒナン―三―オール(別名オリパビン)及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "r__2",
-    "name": "ジヒドロエトルフィン",
-    "common_name": "ジヒドロエトルフィン",
-    "systematic_name": "7,8-dihydro-7-α-[1-(R)-hydroxy-1-methylbutyl]-6,14-endo-ethanotetrahydrooripavine",
-    "aliases": [
-      "七・八―ジヒドロ―七―α―[一―(R)―ヒドロキシ―一―メチルブチル]―六・十四―エンド―エタノテトラヒドロオリパビン(別名ジヒドロエトルフィン)及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "七・八―ジヒドロ―七―α―[一―(R)―ヒドロキシ―一―メチルブチル]―六・十四―エンド―エタノテトラヒドロオリパビン(別名ジヒドロエトルフィン)及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "r_o",
-    "name": "エトルフィン",
-    "common_name": "エトルフィン",
-    "systematic_name": "7,8-dihydro-7α-[1(R)-hydroxy-1-methylbutyl]-6-O-methyl-6,14-endo-ethenomorphine",
-    "aliases": [
-      "七・八―ジヒドロ―七α―〔一(R)―ヒドロキシ―一―メチルブチル〕―六―O―メチル―六・十四―エンド―エテノモルヒネ(別名エトルフィン)及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "七・八―ジヒドロ―七α―〔一(R)―ヒドロキシ―一―メチルブチル〕―六―O―メチル―六・十四―エンド―エテノモルヒネ(別名エトルフィン)及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
     "id": "rcs-4",
     "name": "RCS-4",
     "common_name": "RCS-4",
@@ -34241,6 +34130,55 @@
     "refs": []
   },
   {
+    "id": "thiofentanyl",
+    "name": "Thiofentanyl",
+    "common_name": "Thiofentanyl",
+    "systematic_name": "N-phenyl-N-[1-(2-thiophen-2-ylethyl)piperidin-4-yl]propanamide",
+    "aliases": [
+      "Thienylfentanyl",
+      "thienylfentanil",
+      "N―〔一―〔二―(二―チエニル)エチル〕―四―ピペリジル〕プロピオンアニリド(別名チオフェンタニル)及びその塩類"
+    ],
+    "categories": [
+      "オピオイド",
+      "高力価",
+      "試薬(RC)"
+    ],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "N―〔一―〔二―(二―チエニル)エチル〕―四―ピペリジル〕プロピオンアニリド(別名チオフェンタニル)及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "62380",
+      "inchi_key": "YMRFZDHYDKZXPA-UHFFFAOYSA-N",
+      "smiles": "CCC(=O)N(C1CCN(CC1)CCC2=CC=CS2)C3=CC=CC=C3"
+    },
+    "pubchemCid": "62380",
+    "inchiKey": "YMRFZDHYDKZXPA-UHFFFAOYSA-N",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
     "id": "thj-018",
     "name": "THJ-018",
     "common_name": "THJ-018",
@@ -34731,6 +34669,49 @@
     "refs": []
   },
   {
+    "id": "ur-144",
+    "name": "UR-144",
+    "common_name": "UR-144",
+    "systematic_name": "(1-pentyl-1H-indole-3-yl)(2,2,3,3-tetramethylcyclopropane-1-yl)methanone",
+    "aliases": [
+      "(一―ペンチル―一H―インドール―三―イル)(二・二・三・三―テトラメチルシクロプロパン―一―イル)メタノン及びその塩類"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "(一―ペンチル―一H―インドール―三―イル)(二・二・三・三―テトラメチルシクロプロパン―一―イル)メタノン及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "44626619",
+      "inchi_key": "",
+      "smiles": ""
+    },
+    "pubchemCid": "44626619",
+    "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
     "id": "valerylfentanyl",
     "name": "valerylfentanyl",
     "common_name": "valerylfentanyl",
@@ -34798,6 +34779,51 @@
     },
     "pubchemCid": "72135",
     "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
+    "id": "xlr-11",
+    "name": "XLR-11",
+    "common_name": "XLR-11",
+    "systematic_name": "[1-(5-fluoropentyl)indol-3-yl]-(2,2,3,3-tetramethylcyclopropyl)methanone",
+    "aliases": [
+      "XLR11",
+      "5-FLUORO-UR-144",
+      "5F-UR-144"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "[一―(五―フルオロペンチル)―一H―インドール―三―イル](二・二・三・三―テトラメチルシクロプロパン―一―イル)メタノン及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "57501498",
+      "inchi_key": "PXLDPUUMIHVLEC-UHFFFAOYSA-N",
+      "smiles": "CC1(C(C1(C)C)C(=O)C2=CN(C3=CC=CC=C32)CCCCCF)C"
+    },
+    "pubchemCid": "57501498",
+    "inchiKey": "PXLDPUUMIHVLEC-UHFFFAOYSA-N",
     "summary": "",
     "history": "",
     "effects": {

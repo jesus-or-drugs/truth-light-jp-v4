@@ -1,0 +1,40 @@
+{
+  "id": "methiopropamine",
+  "common_name": "Methiopropamine",
+  "systematic_name": "N-methyl-1-(thiophen-2-yl)propane-2-amine",
+  "aliases": [
+    "MPA",
+    "N―メチル―一―(チオフェン―二―イル)プロパン―二―アミン及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "436156",
+    "inchi_key": "HPHUWHKFQXTZPS-UHFFFAOYSA-N",
+    "smiles": "CC(CC1=CC=CS1)NC"
+  },
+  "categories": ["中枢神経刺激薬"],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "N―メチル―一―(チオフェン―二―イル)プロパン―二―アミン及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

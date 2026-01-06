@@ -63,7 +63,7 @@ const subtitle = computed(() => {
   if (props.variant === "default") {
     return ""
   } else if (props.variant === "substances") {
-    return "ハームリダクション・ナレッジ(β)"
+    return "NPSデータベース(β)"
   } else if (props.variant === "legal") {
     return ""
   } else {

@@ -1,0 +1,40 @@
+{
+  "id": "n-ethylhexedrone",
+  "common_name": "N-Ethylhexedrone",
+  "systematic_name": "2-(ethylamino)-1-phenylhexan-1-one",
+  "aliases": [
+    "N―エチルヘキセドロン",
+    "二―(エチルアミノ)―一―フェニルヘキサン―一―オン(別名N―エチルヘキセドロン)及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "134822125",
+    "inchi_key": "CWNKMHIETKEBCA-UHFFFAOYSA-N",
+    "smiles": "CCCCC(C(=O)C1=CC=CC=C1)NCC"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "二―(エチルアミノ)―一―フェニルヘキサン―一―オン(別名N―エチルヘキセドロン)及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

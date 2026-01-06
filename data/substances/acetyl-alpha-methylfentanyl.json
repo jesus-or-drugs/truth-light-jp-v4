@@ -1,0 +1,42 @@
+{
+  "id": "acetyl-alpha-methylfentanyl",
+  "common_name": "Acetyl-α-methylfentanyl",
+  "systematic_name": "N-[1-(α-methylphenethyl)-4-piperidyl]acetanilide",
+  "aliases": [
+    "acetyl-α-methylfentanyl",
+    "alpha-Methylacetylfentanyl",
+    "α-Methylacetylfentanyl"
+    "N―〔一―(α―メチルフェネチル)―四―ピペリジル〕アセトアニリド(別名アセチル―アルファ―メチルフェンタニル)及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "62307",
+    "inchi_key": "OKTLVZBUKMRPLL-UHFFFAOYSA-N",
+    "smiles": "CC(CC1=CC=CC=C1)N2CCC(CC2)N(C3=CC=CC=C3)C(=O)C"
+  },
+  "categories": ["オピオイド"],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "N―〔一―(α―メチルフェネチル)―四―ピペリジル〕アセトアニリド(別名アセチル―アルファ―メチルフェンタニル)及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

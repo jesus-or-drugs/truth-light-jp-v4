@@ -1,0 +1,41 @@
+{
+  "id": "thiofentanyl",
+  "common_name": "Thiofentanyl",
+  "systematic_name": "N-phenyl-N-[1-(2-thiophen-2-ylethyl)piperidin-4-yl]propanamide",
+  "aliases": [
+    "Thienylfentanyl",
+    "thienylfentanil",
+    "N―〔一―〔二―(二―チエニル)エチル〕―四―ピペリジル〕プロピオンアニリド(別名チオフェンタニル)及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "62380",
+    "inchi_key": "YMRFZDHYDKZXPA-UHFFFAOYSA-N",
+    "smiles": "CCC(=O)N(C1CCN(CC1)CCC2=CC=CS2)C3=CC=CC=C3"
+  },
+  "categories": ["オピオイド","高力価","試薬(RC)"],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "N―〔一―〔二―(二―チエニル)エチル〕―四―ピペリジル〕プロピオンアニリド(別名チオフェンタニル)及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

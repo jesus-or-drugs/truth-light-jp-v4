@@ -1,0 +1,42 @@
+{
+  "id": "jwh-122",
+  "common_name": "JWH-122",
+  "systematic_name": "(4-methylnaphthalen-1-yl)-(1-pentylindol-3-yl)methanone",
+  "aliases": [
+    "(四―メチルナフタレン―一―イル)(一―ペンチル―一H―インドール―三―イル)メタノン及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "44466638",
+    "inchi_key": "HUKJQMKQFWYIHS-UHFFFAOYSA-N",
+    "smiles": "CCCCCN1C=C(C2=CC=CC=C21)C(=O)C3=CC=C(C4=CC=CC=C43)C"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "(四―メチルナフタレン―一―イル)(一―ペンチル―一H―インドール―三―イル)メタノン及びその塩類",
+      "effective_date": "",
+      "source_link": ["https://laws.e-gov.go.jp/law/402CO0000000238/",
+        "https://chatgpt.com/c/695b6cd6-bcc8-8324-9931-94d9a3979b28#:~:text=%E7%A8%8E%E9%96%A2%E7%B7%8F%E5%90%88,%2B1"
+      ]
+
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

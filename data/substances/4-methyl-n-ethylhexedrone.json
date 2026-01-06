@@ -1,0 +1,37 @@
+{
+  "id": "4-methyl-n-ethylhexedrone",
+  "common_name": "4-Methyl-N-Ethylhexedrone",
+  "systematic name": "2-echiruamineo-1-(4-mechiru phenyl)hekisan-1-on及びそ の salts",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物(包括)",
+      "official_name": "２－エチルアミノ－１－（４－メチルフェニル）ヘキサン－１－オン及びその塩類",
+      "effective_date": "2015/03/25",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

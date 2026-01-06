@@ -1,0 +1,40 @@
+{
+  "id": "amineptine",
+  "common_name": "Amineptine",
+  "systematic_name": "7-(2-tricyclo[9.4.0.03,8]pentadeca-1(15),3,5,7,11,13-hexaenylamino)heptanoic acid",
+  "aliases": [
+    "アミネプチン",
+    "七―[(十・十一―ジヒドロ―五H―ジベンゾ[a・d]シクロヘプテン―五―イル)アミノ]ヘプタン酸(別名アミネプチン)及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "34870",
+    "inchi_key": "ONNOFKFOZAJDHT-UHFFFAOYSA-N",
+    "smiles": "C1CC2=CC=CC=C2C(C3=CC=CC=C31)NCCCCCCC(=O)O"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "七―[(十・十一―ジヒドロ―五H―ジベンゾ[a・d]シクロヘプテン―五―イル)アミノ]ヘプタン酸(別名アミネプチン)及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

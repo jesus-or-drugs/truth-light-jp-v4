@@ -3,7 +3,7 @@
   :style="{ backgroundImage: `url(${bgImg})` }">
     <h1 class="text-3xl md:text-6xl text-white font-bold leading-tight tracking-wide
            [filter:drop-shadow(0_6px_18px_rgba(0,0,0,0.90))] my-5 lg:leading-[1.1]">
-      デザイナードラッグDB開発中
+      NPSデータベース開発中
     </h1>
     <div class="flex">
         <!-- <LayoutSearchBar />  -->

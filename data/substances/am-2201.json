@@ -1,0 +1,39 @@
+{
+  "id": "am-2201",
+  "common_name": "AM-2201",
+  "systematic_name": "[1-(5-fluoropentyl)-1H-indole-3-yl](naphthalene-1-yl)methanone",
+  "aliases": [
+    "[一―(五―フルオロペンチル)―一H―インドール―三―イル](ナフタレン―一―イル)メタノン及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "53393997",
+    "inchi_key": "ALQFAGFPQCBPED-UHFFFAOYSA-N",
+    "smiles": "C1=CC=C2C(=C1)C=CC=C2C(=O)C3=CN(C4=CC=CC=C43)CCCCCF"
+  },
+  "categories": ["カンナビノイド"],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "[一―(五―フルオロペンチル)―一H―インドール―三―イル](ナフタレン―一―イル)メタノン及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

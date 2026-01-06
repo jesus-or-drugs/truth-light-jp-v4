@@ -1,0 +1,44 @@
+{
+  "stimulant": {
+    "label_ja": "中枢神経刺激薬",
+    "label_en": "Stimulant",
+    "description_ja": "中枢神経を刺激し、覚醒・集中・多幸感などを引き起こす物質。",
+    "description_en": "Substances that increase central nervous system activity."
+  },
+  "depressant": {
+    "label_ja": "鎮静薬",
+    "label_en": "Depressant / Sedative",
+    "description_ja": "中枢神経の活動を抑制し、鎮静や不安軽減をもたらす物質。",
+    "description_en": "Substances that reduce central nervous system activity."
+  },
+  "psychedelic": {
+    "label_ja": "サイケデリック",
+    "label_en": "Psychedelic",
+    "description_ja": "知覚や思考、意識の変容を引き起こす物質。",
+    "description_en": "Substances that profoundly alter perception and consciousness."
+  },
+  "dissociative": {
+    "label_ja": "解離性薬物",
+    "label_en": "Dissociative",
+    "description_ja": "自己や環境からの解離感を引き起こす物質。",
+    "description_en": "Substances that induce dissociation from self or environment."
+  },
+  "deliriant": {
+    "label_ja": "せん妄性薬物",
+    "label_en": "Deliriant",
+    "description_ja": "重度の混乱、幻視、現実検討能力の低下を引き起こす物質。",
+    "description_en": "Substances that cause delirium and severe confusion."
+  },
+  "opioid": {
+    "label_ja": "オピオイド",
+    "label_en": "Opioid",
+    "description_ja": "鎮痛・多幸感・鎮静作用を持つオピオイド受容体作動物質。",
+    "description_en": "Substances acting on opioid receptors."
+  },
+  "anesthetic": {
+    "label_ja": "麻酔薬",
+    "label_en": "Anesthetic",
+    "description_ja": "感覚や意識を一時的に遮断する物質。",
+    "description_en": "Substances that induce anesthesia or loss of sensation."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "delta9-tetrahydrocannabinol_acetate",
+  "common_name": "Δ9-Tetrahydrocannabinol acetate",
+  "systematic_name": "[(6aR,10aR)-6,6,9-trimethyl-3-pentyl-6a,7,8,10a-tetrahydrobenzo[c]chromen-1-yl] acetate",
+  "aliases": [
+    "6a,7,8,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-yl=acetate",
+    "六a・七・八・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=アセテート及びその塩類",
+    "Dronabinol O-Acetate",
+    "THC-O-Acetate"
+  ],
+  "identifiers": {
+    "pubchem_cid": "198013",
+    "inchi_key": "DEWSJDIJFWQLOA-RTBURBONSA-N",
+    "smiles": "CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1)OC(=O)C"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "六a・七・八・十a―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―イル=アセテート及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

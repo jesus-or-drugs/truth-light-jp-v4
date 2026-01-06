@@ -1,0 +1,104 @@
+{
+  "id": "isopropyl-nitrite",
+  "common_name": "亜硝酸イソプロピル",
+  "systematic name": "propan-2-yl nitrite",
+  "aliases": [
+    "Isopropyl nitrite",
+    "2-Propanol nitrite",
+    "2T3Y2PS0ZE",
+    "DTXSID3052191",
+    "RefChem:149832",
+    "DTXCID8030762",
+    "propan-2-yl nitrite",
+    "Nitrous acid, 1-methylethyl ester",
+    "ISOPROPYLNITRITE",
+    "NITROUS ACID, ISOPROPYL ESTER",
+    "EINECS 208-779-0",
+    "UNII-2T3Y2PS0ZE",
+    "Isopropylester kyseliny dusite [Czech]",
+    "Nitrous acid isopropyl ester",
+    "BRN 1698878",
+    "Isopropylester kyseliny dusite",
+    "Nitrous acid 1-methylethyl ester",
+    "iso-Propyl nitrite",
+    "SCHEMBL194332",
+    "ISOPROPYL NITRITE [MI]",
+    "nitrous acid propan-2-yl ester",
+    "AKOS006272058",
+    "DB-004045",
+    "NS00032972",
+    "A829987",
+    "Q15409423"
+  ],
+  "identifiers": {
+    "pubchem_cid": "10929",
+    "inchi_key": "SKRDXYBATCVEMS-UHFFFAOYSA-N",
+    "smiles": "",
+    "inchikey": "SKRDXYBATCVEMS-UHFFFAOYSA-N",
+    "pubchemCID": "10929"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "亜硝酸イソプロピル",
+      "effective_date": "2007/02/28",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/10929"
+  ],
+  "molecular_formula": "C3H7NO2",
+  "molecular_weight": "89.09",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "propan-2-yl nitrite",
+  "synonyms_pubchem": [
+    "Isopropyl nitrite",
+    "541-42-4",
+    "2-Propanol nitrite",
+    "2T3Y2PS0ZE",
+    "DTXSID3052191",
+    "RefChem:149832",
+    "DTXCID8030762",
+    "208-779-0",
+    "propan-2-yl nitrite",
+    "Nitrous acid, 1-methylethyl ester",
+    "ISOPROPYLNITRITE",
+    "NITROUS ACID, ISOPROPYL ESTER",
+    "EINECS 208-779-0",
+    "UNII-2T3Y2PS0ZE",
+    "Isopropylester kyseliny dusite [Czech]",
+    "Nitrous acid isopropyl ester",
+    "BRN 1698878",
+    "Isopropylester kyseliny dusite",
+    "Nitrous acid 1-methylethyl ester",
+    "iso-Propyl nitrite",
+    "SCHEMBL194332",
+    "ISOPROPYL NITRITE [MI]",
+    "nitrous acid propan-2-yl ester",
+    "AKOS006272058",
+    "DB-004045",
+    "NS00032972",
+    "A829987",
+    "Q15409423"
+  ]
+}

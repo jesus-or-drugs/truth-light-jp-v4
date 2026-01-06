@@ -1,0 +1,39 @@
+{
+  "id": "5f-mdmb-pica",
+  "common_name": "5F-MDMB-PICA",
+  "systematic_name": "methyl (2S)-2-[[1-(5-fluoropentyl)indole-3-carbonyl]amino]-3,3-dimethylbutanoate",
+  "aliases": [
+    "メチル=二―[一―(五―フルオロペンチル)―一H―インドール―三―カルボキサミド]―三・三―ジメチルブタノアート及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "129597835",
+    "inchi_key": "CHSUEEBESACQDV-GOSISDBHSA-N",
+    "smiles": "CC(C)(C)[C@@H](C(=O)OC)NC(=O)C1=CN(C2=CC=CC=C21)CCCCCF"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "メチル=二―[一―(五―フルオロペンチル)―一H―インドール―三―カルボキサミド]―三・三―ジメチルブタノアート及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

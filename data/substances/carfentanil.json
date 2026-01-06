@@ -1,0 +1,41 @@
+{
+  "id": "carfentanil",
+  "common_name": "Carfentanil",
+  "systematic_name": "methyl 1-(2-phenylethyl)-4-(N-propanoylanilino)piperidine-4-carboxylate",
+  "aliases": [
+    "Carfentanyl",
+    "Wildnil",
+    "メチル=一―フェネチル―四―(N―フェニルプロパンアミド)ピペリジン―四―カルボキシラート及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "62156",
+    "inchi_key": "YDSDEBIZUNNPOB-UHFFFAOYSA-N",
+    "smiles": "CCC(=O)N(C1=CC=CC=C1)C2(CCN(CC2)CCC3=CC=CC=C3)C(=O)OC"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "メチル=一―フェネチル―四―(N―フェニルプロパンアミド)ピペリジン―四―カルボキシラート及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

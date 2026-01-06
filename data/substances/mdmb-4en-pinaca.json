@@ -1,0 +1,40 @@
+{
+  "id": "mdmb-4en-pinaca",
+  "common_name": "MDMB-4en-PINACA",
+  "systematic_name": "methyl (2S)-3,3-dimethyl-2-[(1-pent-4-enylindazole-3-carbonyl)amino]butanoate",
+  "aliases": [
+    "メチル=三・三―ジメチル―二―[一―(ペンタ―四―エン―一―イル)―一H―インダゾール―三―カルボキサミド]ブタノアート及びその塩類",
+    "Mdmb-peninaca"
+  ],
+  "identifiers": {
+    "pubchem_cid": "155804661",
+    "inchi_key": "LWOCBHBFWNGPGM-QGZVFWFLSA-N",
+    "smiles": "CC(C)(C)[C@@H](C(=O)OC)NC(=O)C1=NN(C2=CC=CC=C21)CCCC=C"
+  },
+  "categories": ["カンナビノイド"],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "メチル=三・三―ジメチル―二―[一―(ペンタ―四―エン―一―イル)―一H―インダゾール―三―カルボキサミド]ブタノアート及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "c11-methyl-hexahydrocannabinol",
+  "common_name": "C(11)-Methyl-Hexahydrocannabinol",
+  "systematic_name": "6,6,9-trimethyl-3-pentyl-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol",
+  "aliases": [
+    "6a,7,8,9,10,10a-hexahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-ol",
+    "六a・七・八・九・十・十a―ヘキサヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―オール及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "六a・七・八・九・十・十a―ヘキサヒドロ―六・六・九―トリメチル―三―ペンチル―六H―ジベンゾ[b・d]ピラン―一―オール及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

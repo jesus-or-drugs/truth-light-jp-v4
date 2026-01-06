@@ -1,0 +1,39 @@
+{
+  "id": "morphine-n-oxied",
+  "common_name": "morphine-N-Oxied",
+  "systematic_name": "morphine-N-Oxied",
+  "aliases": [
+    "モルヒネ―N―オキシドその他五価窒素モルヒネ及びその誘導体"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": "C1(O)=C2O[C@@]3([H])C(O)C=C[C@@]4([H])[C@]5([H])[N+](O)(CC[C@@]43C2=C(C5)C=C1)C"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "モルヒネ―N―オキシドその他五価窒素モルヒネ及びその誘導体",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/328AC0000000014"
+    }
+  },
+  "summary": "e.g.Morphine-N-Chloriedなどの五価窒素モルヒネなども含まれる。",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

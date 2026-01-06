@@ -1,0 +1,40 @@
+{
+  "id": "amb-fubinaca",
+  "common_name": "AMB-FUBINACA",
+  "systematic_name": "methyl (2S)-2-[[1-[(4-fluorophenyl)methyl]indazole-3-carbonyl]amino]-3-methylbutanoate",
+  "aliases": [
+    "FUB-AMB",
+    "メチル=二―[一―(四―フルオロベンジル)―一H―インダゾール―三―カルボキサミド]―三―メチルブタノアート及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "119026173",
+    "inchi_key": "FRFFLYJQPCIIQB-SFHVURJKSA-N",
+    "smiles": "CC(C)[C@@H](C(=O)OC)NC(=O)C1=NN(C2=CC=CC=C21)CC3=CC=C(C=C3)F"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "メチル=二―[一―(四―フルオロベンジル)―一H―インダゾール―三―カルボキサミド]―三―メチルブタノアート及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

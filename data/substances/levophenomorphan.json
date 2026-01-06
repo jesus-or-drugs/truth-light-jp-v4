@@ -1,0 +1,39 @@
+{
+  "id": "levophenomorphan",
+  "common_name": "Levophenomorphan",
+  "systematic_name": "(1R,9R,10R)-17-(2-phenylethyl)-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-trien-4-ol",
+  "aliases": [
+    "三―ヒドロキシ―N―フェナシルモルヒナン(右旋性のものを除く。)及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "5362458",
+    "inchi_key": "CFBQYWXPZVQQTN-QPTUXGOLSA-N",
+    "smiles": "C1CC[C@@]23CCN([C@@H]([C@@H]2C1)CC4=C3C=C(C=C4)O)CCC5=CC=CC=C5"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "三―ヒドロキシ―N―フェナシルモルヒナン(右旋性のものを除く。)及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/328AC0000000014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

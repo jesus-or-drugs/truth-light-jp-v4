@@ -1,0 +1,41 @@
+{
+  "id": "levomethorphan",
+  "common_name": "Levomethorphan",
+  "systematic_name": "(1R,9R,10R)-4-methoxy-17-methyl-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-triene",
+  "aliases": [
+    "l-Methorphan",
+    "(-)-3-Methoxy-N-methylmorphinan",
+    "三―メトキシ―N―メチルモルヒナン(右旋性のものを除く。)及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "5362449",
+    "inchi_key": "MKXZASYAUGDDCJ-CGTJXYLNSA-N",
+    "smiles": "CN1CC[C@]23CCCC[C@H]2[C@H]1CC4=C3C=C(C=C4)OC"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "三―メトキシ―N―メチルモルヒナン(右旋性のものを除く。)及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/328AC0000000014"
+    }
+  },
+  "summary": "デキストロメトルファン(メジコン&reg;)の左旋性。<br />デキストロメトルファンことなりオピオイド受容体への親和性も高くモルヒネの5倍の効力を示す。",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

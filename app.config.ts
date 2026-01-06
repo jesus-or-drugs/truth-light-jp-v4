@@ -31,8 +31,8 @@ export default defineAppConfig({
       },
       border: false,
       nav: [
-        { title: 'ハームリダクション・ナレッジ', to: '/substances' },
-        { title: '依存症相談窓口', to: '/recovery' }
+        { title: 'NPSデータベース(ALPHA)', to: '/substances' },
+        // { title: '依存症相談窓口', to: '/recovery' }
       ],
       links: [{
         icon: 'lucide:github',
