@@ -1,13 +1,13 @@
 {
-  "id": "n__21",
-  "common_name": "一―(四―メトキシフェニル)―N―メチルプロパン―二―アミン及びその塩類",
-  "systematic_name": "1-(4-methoxyphenyl)-N-methylpropane-2-amine",
+  "id": "4-methoxymethamphetamine",
+  "common_name": "4-Methoxymethamphetamine",
+  "systematic_name": "1-(4-methoxyphenyl)-N-methylpropan-2-amine",
   "aliases": [
     "一―(四―メトキシフェニル)―N―メチルプロパン―二―アミン及びその塩類"
   ],
   "identifiers": {
-    "pubchem_cid": "",
-    "inchi_key": "",
+    "pubchem_cid": "90766",
+    "inchi_key": "UGFMBZYKVQSQFX-UHFFFAOYSA-N",
     "smiles": ""
   },
   "categories": [],
