@@ -1,0 +1,40 @@
+{
+  "id": "5f-akb48",
+  "common_name": "5F-AKB48",
+  "systematic_name": "N-(adamantane-1-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide",
+  "aliases": [
+    "5F-APINACA",
+    "N―(アダマンタン―一―イル)―一―(五―フルオロペンチル)―一H―インダゾール―三―カルボキサミド及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "71711119",
+    "inchi_key": "UCMFSGVIEPXYIV-UHFFFAOYSA-N",
+    "smiles": "C1C2CC3CC1CC(C2)(C3)NC(=O)C4=NN(C5=CC=CC=C54)CCCCCF"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "N―(アダマンタン―一―イル)―一―(五―フルオロペンチル)―一H―インダゾール―三―カルボキサミド及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

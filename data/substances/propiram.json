@@ -1,0 +1,40 @@
+{
+  "id": "propiram",
+  "common_name": "Propiram",
+  "systematic_name": "N-(1-piperidin-1-ylpropan-2-yl)-N-pyridin-2-ylpropanamide",
+  "aliases": [
+    "プロピラム",
+    "N―〔一―メチル―二―(ピペリジノエチル)〕―N―二―ピリジルプロピオンアミド(別名プロピラム)及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "26216",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "N―〔一―メチル―二―(ピペリジノエチル)〕―N―二―ピリジルプロピオンアミド(別名プロピラム)及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

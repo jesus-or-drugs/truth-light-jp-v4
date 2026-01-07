@@ -1,0 +1,42 @@
+{
+  "id": "25i-nbome",
+  "common_name": "25I-NBOMe",
+  "systematic_name": "2-(4-iodo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine",
+  "aliases": [
+    "2C-I-NMBOMe",
+    "Cimbi-5",
+    "N-bomb compound",
+    "二―(四―ヨード―二・五―ジメトキシフェニル)―N―(二―メトキシベンジル)エタンアミン及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "10251906",
+    "inchi_key": "ZFUOLNAKPBFDIJ-UHFFFAOYSA-N",
+    "smiles": "COC1=CC=CC=C1CNCCC2=CC(=C(C=C2OC)I)OC"
+  },
+  "categories": ["サイケデリック"],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "二―(四―ヨード―二・五―ジメトキシフェニル)―N―(二―メトキシベンジル)エタンアミン及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

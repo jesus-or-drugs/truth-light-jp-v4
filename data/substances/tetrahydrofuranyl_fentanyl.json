@@ -1,0 +1,42 @@
+{
+  "id": "tetrahydrofuranyl_fentanyl",
+  "common_name": "Tetrahydrofuranyl fentanyl",
+  "systematic_name": "N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]oxolane-2-carboxamide",
+  "aliases": [
+    "テトラヒドロフラニルフェンタニル",
+    "Thf-f",
+    "THF-FENTANYL",
+    "N―(一―フェネチルピペリジン―四―イル)―N―フェニルテトラヒドロフラン―二―カルボキサミド及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "137332293",
+    "inchi_key": "OHJNHKUFSKAANI-UHFFFAOYSA-N",
+    "smiles": "C1CC(OC1)C(=O)N(C2CCN(CC2)CCC3=CC=CC=C3)C4=CC=CC=C4"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "N―(一―フェネチルピペリジン―四―イル)―N―フェニルテトラヒドロフラン―二―カルボキサミド及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

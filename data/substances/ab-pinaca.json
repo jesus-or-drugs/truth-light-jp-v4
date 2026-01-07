@@ -1,0 +1,39 @@
+{
+  "id": "ab-pinaca",
+  "common_name": "AB-PINACA",
+  "systematic_name": "N-(1-amino-3-methyl-1-oxobutane-2-yl)-1-pentyl-1H-indazole-3-carboxamide",
+  "aliases": [
+    "N―(一―アミノ―三―メチル―一―オキソブタン―二―イル)―一―ペンチル―一H―インダゾール―三―カルボキサミド及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "71301472",
+    "inchi_key": "GIMHPAQOAAZSHS-HNNXBMFYSA-N",
+    "smiles": "CCCCCN1C2=CC=CC=C2C(=N1)C(=O)N[C@@H](C(C)C)C(=O)N"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "N―(一―アミノ―三―メチル―一―オキソブタン―二―イル)―一―ペンチル―一H―インダゾール―三―カルボキサミド及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

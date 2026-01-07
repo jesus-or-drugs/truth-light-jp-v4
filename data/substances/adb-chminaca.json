@@ -1,0 +1,42 @@
+{
+  "id": "adb-chminaca",
+  "common_name": "ADB-CHMINACA",
+  "systematic_name": "N-(1-amino-3,3-dimethyl-1-oxobutane-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide",
+  "aliases": [
+    "ADMB-CHMINACA",
+    "MAB-CHMINACA",
+    "CHMINACA",
+    "N―(一―アミノ―三・三―ジメチル―一―オキソブタン―二―イル)―一―(シクロヘキシルメチル)―一H―インダゾール―三―カルボキサミド及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "68894304",
+    "inchi_key": "ZWCCSIUBHCZKOY-GOSISDBHSA-N",
+    "smiles": "CC(C)(C)[C@@H](C(=O)N)NC(=O)C1=NN(C2=CC=CC=C21)CC3CCCCC3"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "N―(一―アミノ―三・三―ジメチル―一―オキソブタン―二―イル)―一―(シクロヘキシルメチル)―一H―インダゾール―三―カルボキサミド及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

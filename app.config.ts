@@ -26,8 +26,8 @@ export default defineAppConfig({
         dropdownType: 'select',
       },
       logo: {
-        light: '/logo/Truth-Light_03_light.png',
-        dark: '/logo/Truth-Light_03_light.png',
+        light: './logo/Jesus_fish_02_ol_black.png',
+        dark: './logo/Jesus_fish_02_ol_white.png',
       },
       border: false,
       nav: [

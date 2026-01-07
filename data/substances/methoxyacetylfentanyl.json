@@ -1,0 +1,41 @@
+{
+  "id": "methoxyacetylfentanyl",
+  "common_name": "Methoxyacetylfentanyl",
+  "systematic_name": "2-methoxy-N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]acetamide",
+  "aliases": [
+    "MAF",
+    "メトキシアセチルフェンタニル",
+    "二―メトキシ―N―(一―フェネチルピペリジン―四―イル)―N―フェニルアセトアミド及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "968688",
+    "inchi_key": "SADNVKRDSWWFTK-UHFFFAOYSA-N",
+    "smiles": "COCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "二―メトキシ―N―(一―フェネチルピペリジン―四―イル)―N―フェニルアセトアミド及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

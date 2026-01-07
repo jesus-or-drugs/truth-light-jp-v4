@@ -1,0 +1,39 @@
+{
+  "id": "adb-butinaca",
+  "common_name": "ADB-BUTINACA",
+  "systematic_name": "N-(1-amino-3,3-dimethyl-1-oxobutane-2-yl)-1-butyl-1H-indazole-3-carboxamide",
+  "aliases": [
+    "N―(一―アミノ―三・三―ジメチル―一―オキソブタン―二―イル)―一―ブチル―一H―インダゾール―三―カルボキサミド及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "155907792",
+    "inchi_key": "GPWADXHYJAZPAX-OAHLLOKOSA-N",
+    "smiles": "CCCCN1C2=CC=CC=C2C(=N1)C(=O)N[C@H](C(=O)N)C(C)(C)C"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "N―(一―アミノ―三・三―ジメチル―一―オキソブタン―二―イル)―一―ブチル―一H―インダゾール―三―カルボキサミド及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

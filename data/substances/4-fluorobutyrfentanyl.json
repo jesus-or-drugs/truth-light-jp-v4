@@ -1,0 +1,41 @@
+{
+  "id": "4-fluorobutyrfentanyl",
+  "common_name": "4-Fluorobutyrfentanyl",
+  "systematic_name": "N-(4-fluorophenyl)-N-(1-phenethylpiperidine-4-yl)butaneamide",
+  "aliases": [
+    "4-フルオロフェンタニル",
+    "P-FBF",
+    "N―(四―フルオロフェニル)―N―(一―フェネチルピペリジン―四―イル)ブタンアミド及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "86280430",
+    "inchi_key": "QZFMCYUBPSLOBP-UHFFFAOYSA-N",
+    "smiles": "CCCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=C(C=C3)F"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "N―(四―フルオロフェニル)―N―(一―フェネチルピペリジン―四―イル)ブタンアミド及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}
