@@ -146,7 +146,7 @@
 
         <!-- Side -->
         <aside class="lg:col-span-4 space-y-6">
-          <section v-if="substance?.smiles !== `undefined`">
+          <section v-if="substance?.smiles !== `smi`">
             <ClientOnly>
               <ContentKetcherFrame :smiles="substance?.smiles" />
             </ClientOnly>
@@ -156,21 +156,21 @@
 
             <dl class="space-y-3 text-sm">
               <div class="flex gap-3">
-                <dt class="w-28 text-slate-400">Systematic</dt>
+                <dt class="w-28 text-slate-400">系統名</dt>
                 <dd class="flex-1 text-slate-200 break-words">
                   {{ substance?.name_en_systematic || substance?.systematic_name || "—" }}
                 </dd>
               </div>
 
               <div class="flex gap-3">
-                <dt class="w-28 text-slate-400">Class</dt>
+                <dt class="w-28 text-slate-400">カテゴリー</dt>
                 <dd class="flex-1 text-slate-200 break-words">
                   {{ substance?.psychoactive_class || substance?.class || "—" }}
                 </dd>
               </div>
 
               <div class="flex gap-3">
-                <dt class="w-28 text-slate-400">Legal (JP)</dt>
+                <dt class="w-28 text-slate-400">法規制</dt>
                 <dd class="flex-1 text-slate-200 break-words">
                   {{ substance?.jp_legal_status || "—" }}
                 </dd>
@@ -274,6 +274,7 @@ const notFound = computed(() => !substance.value && !error.value)
 
 // UI
 const tabs = [
+  { key: "history", label: "ヒストリー"},
   { key: "effects", label: "効果" },
   { key: "dosage", label: "用量・作用時間" },
   { key: "harm", label: "リスク" },

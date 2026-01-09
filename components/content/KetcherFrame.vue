@@ -1,6 +1,7 @@
 <template>
   <div class="relative h-[70vh] w-full overflow-hidden rounded-lg border border-slate-600 bg-white">
     <iframe
+      ref="ketcherFrame"
       src="https://ketcher.truth-light.jp/"
       class="absolute inset-0 h-full w-full border-0 block"
     />
