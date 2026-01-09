@@ -81,7 +81,7 @@
             </div>
 
             <!-- Effects -->
-            <div v-else-if="activeTab === 'effects'">
+            <div v-if="activeTab === 'effects'">
               <h3 class="text-lg font-semibold mb-2">体感・作用</h3>
               <p v-if="substance?.effects" class="text-slate-200 whitespace-pre-line">{{ substance.effects }}</p>
               <p v-else class="text-slate-400">未記載</p>
@@ -146,6 +146,11 @@
 
         <!-- Side -->
         <aside class="lg:col-span-4 space-y-6">
+          <section v-if="substance?.smiles !== `undefined`">
+            <ClientOnly>
+              <ContentKetcherFrame :smiles="substance?.smiles" />
+            </ClientOnly>
+          </section>
           <section class="rounded-2xl border border-slate-700/60 bg-slate-900/30 p-6">
             <h2 class="text-lg font-semibold mb-3">基本情報</h2>
 
@@ -269,12 +274,10 @@ const notFound = computed(() => !substance.value && !error.value)
 
 // UI
 const tabs = [
-  { key: "history", label: "ヒストリー" },
   { key: "effects", label: "効果" },
-  { key: "dosage", label: "用量" },
+  { key: "dosage", label: "用量・作用時間" },
   { key: "harm", label: "リスク" },
   { key: "resources", label: "外部リンク" },
-  { key: "aliases", label: "別名" },
 ] as const
 
 const activeTab = ref<(typeof tabs)[number]["key"]>("history")

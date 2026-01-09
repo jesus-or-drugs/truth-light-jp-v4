@@ -21,12 +21,57 @@ type Row = {
   aliases: string
   category: string
   legal: string
+  legalKey: LegalKey
+}
+
+type LegalKey = 
+  | ""
+  |"narcotics"
+  | "schedule-1"
+  | "schedule-2"
+  | "schedule-3"
+  | "designated-substances"
+  | "generic-scheduling"
+
+function toLegalKey(legal: string): LegalKey {
+  const raw = (legal ?? "").trim()
+  if (!raw) return ""
+
+  const direct = new Set<LegalKey>([
+    "narcotics",
+    "schedule-1",
+    "schedule-2",
+    "schedule-3",
+    "designated-substances",
+    "generic-scheduling",
+    ""
+  ])
+
+  if (direct.has(raw as LegalKey)) return raw as LegalKey
+
+  const s = raw.replace(/\s+/g, "")
+
+  if (s.includes("麻薬")) return "narcotics"
+
+  if (s.includes("向精神") || /^向/.test(s)) {
+    if (/(1|１|一|Ⅰ)/.test(s)) return "schedule-1"
+    if (/(2|２|二|Ⅱ)/.test(s)) return "schedule-2"
+    if (/(3|３|三|Ⅲ)/.test(s)) return "schedule-3"
+  }
+
+  if (s.includes("指定薬物")) {
+    if (s.includes("包括")) return "generic-scheduling"
+    return "designated-substances"
+  }
+
+  return ""
 }
 
 const router = useRouter()
 
 const pending = ref(true)
 const error = ref<unknown>(null)
+
 const rows = ref<Row[]>([])
 
 // 検索（3カラム別）
@@ -68,34 +113,42 @@ function buildFuses(list: Row[]) {
     minMatchCharLength: 2
   } satisfies Fuse.IFuseOptions<Row>
 
+  // 名称のFuseオブジェクト
   fuseName.value = new Fuse(list, {
     ...base,
     keys: ["commonName", "aliases"]
   })
 
+  // カテゴリーのFuseオブジェクト
   fuseCategory.value = new Fuse(list, {
     ...base,
     keys: ["category"]
   })
 
+  // 法規制のFuseオブジェクト
   fuseLegal.value = new Fuse(list, {
     ...base,
     keys: ["legal"]
   })
 }
 
+// DOMのレンダリングが終了し表示されたらFuse.jsをビルド
 onMounted(async () => {
   try {
     const r = await $fetch.raw("/data/all_substances.json")
     const arr: Substance[] = Array.isArray(r._data) ? r._data : []
 
-    rows.value = arr.map((s) => ({
-      id: s.id ?? "",
-      commonName: s.common_name ?? s.id ?? "",
-      aliases: (s.aliases ?? []).join(", "),
-      category: (s.categories ?? []).join(", "),
-      legal: s.legal?.jp?.law_category ?? ""
-    }))
+    rows.value = arr.map((s) => {
+      const legalVal = s.legal?.jp?.law_category ?? ""
+      return {
+        id: s.id ?? "",
+        commonName: s.common_name ?? s.id ?? "",
+        aliases: (s.aliases ?? []).join(", "),
+        category: (s.categories ?? []).join(", "),
+        legal: legalVal,
+        legalKey: toLegalKey(legalVal)
+      }
+    })
 
     buildFuses(rows.value)
   } catch (e) {
@@ -139,7 +192,7 @@ const filtered = computed<Row[]>(() => {
 
   const nameQ = dqName.value.trim()
   const catQ = dqCategory.value.trim()
-  const legalQ = dqLegal.value.trim()
+  const legalQ = dqLegal.value.trim() as LegalKey
 
   // 何も入ってないなら全件
   if (!nameQ && !catQ && !legalQ) return list
@@ -160,7 +213,11 @@ const filtered = computed<Row[]>(() => {
 
   apply(fuseName.value, nameQ)
   apply(fuseCategory.value, catQ)
-  apply(fuseLegal.value, legalQ)
+
+  if (legalQ) {
+    const hit = new Set(list.filter(r => r.legalKey === legalQ).map(r => r.id))
+    ids = ids ? intersect(ids, hit) : hit
+  }
 
   if (!ids) return list
   return list.filter((r) => ids!.has(r.id))
@@ -250,12 +307,24 @@ const go = (id: string) => {
                     規制区分
                   </button>
                   <br />
-                  <input
+                  <label>
+                    <select v-model="qLegal" name="drug" class="w-full pl-2 h-7 bg-slate-700 rounded-lg">
+                      <option value="">選択...</option>
+                      <option value="narcotics">麻薬</option>
+                      <option value="schedule-1">向1種</option>
+                      <option value="schedule-2">向2種</option>
+                      <option value="schedule-3">向3種</option>
+                      <option value="designated-substances">指定薬物</option>
+                      <option value="generic-scheduling">指定薬物(包括)</option>
+                    </select>
+                  </label>
+
+                  <!-- <input
                     v-model="qLegal"
                     type="search"
                     class="w-full h-7 p-2 bg-slate-700 rounded-lg"
                     placeholder="規制区分で検索"
-                  />
+                  /> -->
                 </th>
               </tr>
             </thead>
