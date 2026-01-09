@@ -1,7 +1,7 @@
 <template>
   <div class="w-full">
     <iframe
-      src="https://truth-light-jp-ketcher.vercel.app/"
+      src="https://ketcher.truth-light.jp/"
       class="w-full h-[70vh]"
     />
   </div>
