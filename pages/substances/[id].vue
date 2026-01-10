@@ -146,9 +146,9 @@
 
         <!-- Side -->
         <aside class="lg:col-span-4 space-y-6">
-          <section v-if="substance?.smiles !== `smi`">
+          <section v-if="substance?.identifiers?.smiles">
             <ClientOnly>
-              <ContentKetcherFrame :smiles="substance?.smiles" />
+              <ContentKetcherFrame :smiles="substance?.identifiers?.smiles" />
             </ClientOnly>
           </section>
           <section class="rounded-2xl border border-slate-700/60 bg-slate-900/30 p-6">
@@ -175,6 +175,14 @@
                   {{ substance?.jp_legal_status || "—" }}
                 </dd>
               </div>
+
+              <div class="flex gap-3">
+                <dt class="w-28 text-slate-400">SMILES</dt>
+                <dd class="flex-1 text-slate-200 break-words">
+                  {{ substance?.identifiers?.smiles || "—" }}
+                </dd>
+              </div>
+
             </dl>
           </section>
 

@@ -4,22 +4,12 @@
   "systematic name": "(6aR,9R)-4-butanoyl-N,N-diethyl-7-methyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide",
   "aliases": [
     "1B-LSD",
-    "Y6JQX3L6LP",
-    "N1-Butyryl-lysergic acid diethylamide",
-    "DTXSID801016274",
-    "RefChem:79592",
-    "DTXCID501474421",
-    "NOCAS_1016274",
-    "UNII-Y6JQX3L6LP",
-    "1-Butanoyl-lysergic Acid Diethylamide (1B-LSD)",
-    "SCHEMBL24635596",
-    "SCHEMBL29556830",
-    "PD117422"
+    "N1-Butyryl-lysergic acid diethylamide"
   ],
   "identifiers": {
     "pubchem_cid": "145875086",
     "inchi_key": "SVRFNPSJPIDUBC-DYESRHJHSA-N",
-    "smiles": "",
+    "smiles": "CCCC(=O)N1C=C2C[C@@H]3C(=C[C@H](CN3C)C(=O)N(CC)CC)C4=C2C1=CC=C4",
     "inchikey": "SVRFNPSJPIDUBC-DYESRHJHSA-N",
     "pubchemCID": "145875086"
   },
