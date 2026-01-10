@@ -63,7 +63,7 @@ const subtitle = computed(() => {
   if (props.variant === "default") {
     return ""
   } else if (props.variant === "substances") {
-    return "NPSデータベース(β)"
+    return "NPSデータベース(α版)"
   } else if (props.variant === "legal") {
     return ""
   } else {

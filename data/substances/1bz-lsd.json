@@ -5,10 +5,10 @@
   "aliases": [],
   "identifiers": {
     "pubchem_cid": "",
-    "inchi_key": "",
-    "smiles": ""
+    "inchi_key": "GVGINGNTVRBWSQ-XMMPIXPASA-N",
+    "smiles": "CCN(CC)C(=O)[C]1CN(C)[C@@H]2Cc3cn(C(=O)c4ccccc4)c5cccc(C2=C1)c35"
   },
-  "categories": [],
+  "categories": ["サイケデリックス"],
   "legal": {
     "jp": {
       "law_number": "",
