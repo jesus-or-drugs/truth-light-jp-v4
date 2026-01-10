@@ -1,16 +1,21 @@
 {
-  "id": "lysergide_lsd",
-  "common_name": "lysergide (LSD)",
-  "systematic_name": "lysergic acid diethylamide",
+  "id": "lsd-25",
+  "common_name": "LSD-25",
+  "systematic_name": "(6aR,9R)-N,N-diethyl-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",
   "aliases": [
+    "LSD",
+    "Acid",
+    "L",
+    "紙",
+    "🌈",
     "リゼルギン酸ジエチルアミド(別名リゼルギド)及びその塩類"
   ],
   "identifiers": {
-    "pubchem_cid": "",
-    "inchi_key": "",
-    "smiles": ""
+    "pubchem_cid": "5761",
+    "inchi_key": "VAYOSLLFUXYJDT-RDTXWAMCSA-N",
+    "smiles": "CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C"
   },
-  "categories": [],
+  "categories": ["psychecelics"],
   "legal": {
     "jp": {
       "law_number": "",

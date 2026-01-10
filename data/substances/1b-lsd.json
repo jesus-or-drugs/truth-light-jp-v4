@@ -9,10 +9,10 @@
   "identifiers": {
     "pubchem_cid": "145875086",
     "inchi_key": "SVRFNPSJPIDUBC-DYESRHJHSA-N",
-    "smiles": "CCCC(=O)N1C=C2C[C@@H]3C(=C[C@H](CN3C)C(=O)N(CC)CC)C4=C2C1=CC=C4",
+    "smiles": "CCCC(=O)N1C=C2C[C@@H]3C(=C[C@H](CN3C)C(=O)N(CC)CC)C4=C2C1=CC=C4"
 
   },
-  "categories": ["サイケデリックス", ],
+  "categories": ["psychecelics"],
   "legal": {
     "jp": {
       "law_number": "",
@@ -22,7 +22,7 @@
       "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
     }
   },
-  "summary": "LSDのアナログ。Lazard Labs",
+  "summary": "Lazard Labsが開発したLSDアナログ。<br/>LSD同様の幻覚作用があるとされるが力価はLSD-25の1/7とされている。<br/>代謝には主にCYP3A4とCYP2D6が関与している。<sup>[2]</sup>",
   "history": "",
   "effects": {
     "effects_positive": [
@@ -72,12 +72,13 @@
       "url": ""
     },
     "dosage_duration": {
-      "label": "",
-      "url": ""
+      "label": "What is 1B-LSD? The World of LSD Analogs",
+      "url": "https://tripsitter.com/1b-lsd/"
     }
   },
   "refs": [
-    "https://pubchem.ncbi.nlm.nih.gov/compound/145875086"
+    "https://pubchem.ncbi.nlm.nih.gov/compound/145875086",
+    "Wagmann L, Richter LHJ, Kehl T, Wack F, Bergstrand MP, Brandt SD, Stratford A, Maurer HH, Meyer MR. In vitro metabolic fate of nine LSD-based new psychoactive substances and their analytical detectability in different urinary screening procedures. Anal Bioanal Chem. 2019 Jul;411(19):4751-4763. doi: 10.1007/s00216-018-1558-9. Epub 2019 Jan 7. PMID: 30617391."
   ],
   "molecular_formula": "C24H31N3O2",
   "molecular_weight": "393.5",

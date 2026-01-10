@@ -9,14 +9,7 @@
           <span class="text-slate-300">{{ routeId }}</span>
         </div>
 
-        <h1 class="text-3xl font-bold leading-tight">
-          {{ titleJa }}
-        </h1>
-
-        <p v-if="titleEn || titleJa" class="mt-2 text-slate-300">
-          <span v-if="titleEn && titleJa" class="mx-2 text-slate-500">•</span>
-          <span v-if="titleJa">{{ titleJa }}</span>
-        </p>
+        <h1 class="text-3xl font-bold leading-tight h-auto">{{ titleJa }}</h1>
 
         <div class="mt-3 flex flex-wrap gap-2 text-xs">
           <span v-if="substance?.id" class="rounded-full border border-teal-600/60 px-3 py-1 text-teal-300">
@@ -139,37 +132,37 @@
 
             <dl class="space-y-3 text-sm">
               <div class="flex gap-3">
-                <dt class="w-28 text-slate-400">系統名</dt>
+                <dt class="w-28 text-slate-400">系統名<sup>[1]</sup></dt>
                 <dd class="flex-1 text-slate-200 break-words">
-                  {{ substance?.name_en_systematic || substance?.systematic_name || "—" }}
+                  {{ substance?.systematic_name || "—" }}
+                </dd>
+              </div>
+
+              <div class="flex gap-3">
+                <dt class="w-28 text-slate-400">SMILES<sup>[1]</sup></dt>
+                <dd class="w-28 flex-1 text-slate-200 break-words">
+                  {{ substance?.identifiers?.smiles || "—" }}
                 </dd>
               </div>
 
               <div class="flex gap-3">
                 <dt class="w-28 text-slate-400">カテゴリー</dt>
                 <dd class="flex-1 text-slate-200 break-words">
-                  {{ substance?.psychoactive_class || substance?.class || "—" }}
+                  <span v-for="cat in substance?.categories">{{cat  || "—" }}</span>
                 </dd>
               </div>
 
               <div class="flex gap-3">
                 <dt class="w-28 text-slate-400">法規制</dt>
                 <dd class="flex-1 text-slate-200 break-words">
-                  {{ substance?.jp_legal_status || "—" }}
+                  <span class="block">{{ substance?.legal?.jp?.law_category || "—" }}</span>
+                  <span v-if="substance?.legal?.jp?.source_link" class="block underline"><a :href="substance?.legal?.jp?.source_link">一次ソース</a></span>
                 </dd>
               </div>
-
-              <div class="flex gap-3">
-                <dt class="w-28 text-slate-400">SMILES</dt>
-                <dd class="flex-1 text-slate-200 break-words">
-                  {{ substance?.identifiers?.smiles || "—" }}
-                </dd>
-              </div>
-
             </dl>
           </section>
 
-          <section class="rounded-2xl border border-slate-700/60 bg-slate-900/30 p-6">
+          <!-- <section class="rounded-2xl border border-slate-700/60 bg-slate-900/30 p-6">
             <h2 class="text-lg font-semibold mb-3">ルートID確認</h2>
             <p class="text-slate-300 text-sm">
               URL param: <span class="font-mono text-slate-200">{{ routeId }}</span>
@@ -178,7 +171,7 @@
               読み込み対象ファイル候補:
               <span class="font-mono">{{ triedIds.join(", ") }}</span>
             </p>
-          </section>
+          </section> -->
         </aside>
       </div>
     </div>
@@ -277,6 +270,8 @@ const tabs = [
 const activeTab = ref<(typeof tabs)[number]["key"]>("effects")
 
 const titleJa = computed(() => substance.value?.common_name ?? substance.value?.id ?? "")
+
+console.log(`titleJaの中身: ${titleJa}`)
 
 const aliases = computed<string[]>(() => {
   const a = substance.value?.aliases
