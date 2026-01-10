@@ -1,79 +1,5 @@
 [
   {
-    "id": "1-(3-methylbenzyl)piperazine",
-    "name": "1-(3-Methylbenzyl)piperazine",
-    "common_name": "1-(3-Methylbenzyl)piperazine",
-    "systematic_name": "1-[(3-methylphenyl)methyl]piperazine",
-    "aliases": [
-      "1-(3-Methylbenzyl)piperazine",
-      "Piperazine, 1-(m-methylbenzyl)-",
-      "3-Methylbenzylpiperazine",
-      "LX9B7MME2X",
-      "NSC-30681",
-      "3-ME-BZP",
-      "DTXSID40201291",
-      "N-(M-METHYLBENZYL)PIPERAZINE",
-      "RefChem:94840",
-      "DTXCID40123782",
-      "1-[(3-methylphenyl)methyl]piperazine",
-      "1-(3-Methyl-benzyl)-piperazine",
-      "MFCD01321003",
-      "Piperazine, 1-[(3-methylphenyl)methyl]-",
-      "Piperazine, 1-((3-methylphenyl)methyl)-",
-      "1-(m-Methylbenzyl)piperazine",
-      "[(3-methylphenyl)methyl]piperazine",
-      "1-m-Methylbenzylpiperazine",
-      "1-(3-methylbenzyl)-piperazine",
-      "EINECS 226-184-4",
-      "NSC 30681",
-      "BRN 0147016",
-      "NSC30681",
-      "UNII-LX9B7MME2X",
-      "1-(m-tolylmethyl)piperazine",
-      "5-23-01-00210 (Beilstein Handbook Reference)",
-      "SCHEMBL593734",
-      "SCHEMBL3968717",
-      "SCHEMBL5258374",
-      "SCHEMBL19582190"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "指定薬物",
-        "official_name": "1-［（3-メチルフェニル）メチル］ピペラジン及びその塩類",
-        "effective_date": "2014/06/11",
-        "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "79213",
-      "inchi_key": "VTEOTZPEMDQENX-UHFFFAOYSA-N",
-      "smiles": ""
-    },
-    "pubchemCid": "79213",
-    "inchiKey": "VTEOTZPEMDQENX-UHFFFAOYSA-N",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": [
-      "https://pubchem.ncbi.nlm.nih.gov/compound/79213"
-    ]
-  },
-  {
     "id": "1-_1-_2-thienyl_cyclohexyl_piperidine",
     "name": "テノシクリジン",
     "common_name": "テノシクリジン",
@@ -5823,30 +5749,34 @@
     ]
   },
   {
-    "id": "3-methyl-4-morpholino-2_2-diphenyl_buchiriru_pyrrolidine",
-    "name": "〔(三―メチル―四―モルフォリノ―二・二―ジフェニル)ブチリル〕ピロリジン及びその塩類",
-    "common_name": "〔(三―メチル―四―モルフォリノ―二・二―ジフェニル)ブチリル〕ピロリジン及びその塩類",
-    "systematic_name": "[(3-methyl-4-morpholino-2,2-diphenyl)buchiriru]pyrrolidine",
+    "id": "3-methylbenzylpiperazine",
+    "name": "3-Methylbenzylpiperazine",
+    "common_name": "3-Methylbenzylpiperazine",
+    "systematic_name": "1-[(3-methylphenyl)methyl]piperazine",
     "aliases": [
-      "〔(三―メチル―四―モルフォリノ―二・二―ジフェニル)ブチリル〕ピロリジン及びその塩類"
+      "3-Me-BZP",
+      "1-(3-Methylbenzyl)piperazine",
+      "1-［（3-メチルフェニル）メチル］ピペラジン及びその塩類"
     ],
-    "categories": [],
+    "categories": [
+      ""
+    ],
     "legal": {
       "jp": {
         "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "〔(三―メチル―四―モルフォリノ―二・二―ジフェニル)ブチリル〕ピロリジン及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/328AC0000000014"
+        "law_category": "指定薬物",
+        "official_name": "1-［（3-メチルフェニル）メチル］ピペラジン及びその塩類",
+        "effective_date": "2014/06/11",
+        "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
       }
     },
     "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
+      "pubchem_cid": "79213",
+      "inchi_key": "VTEOTZPEMDQENX-UHFFFAOYSA-N",
+      "smiles": "CC1=CC(=CC=C1)CN2CCNCC2"
     },
-    "pubchemCid": "",
-    "inchiKey": "",
+    "pubchemCid": "79213",
+    "inchiKey": "VTEOTZPEMDQENX-UHFFFAOYSA-N",
     "summary": "",
     "history": "",
     "effects": {
@@ -5863,7 +5793,9 @@
         "url": ""
       }
     },
-    "refs": []
+    "refs": [
+      "https://pubchem.ncbi.nlm.nih.gov/compound/79213"
+    ]
   },
   {
     "id": "3-methylfentanyl",
@@ -17313,7 +17245,8 @@
     "common_name": "Cannabicyclohexanol",
     "systematic_name": "2-[(1R,3S)-3-hydroxycyclohexyl]-5-(2-methylnonan-2-yl)phenol",
     "aliases": [
-      "CP 47497 C8 homologue",
+      "CCH",
+      "(C8)-CP 47,497",
       "(一RS・三SR)―三―[二―ヒドロキシ―四―(二―メチルノナン―二―イル)フェニル]シクロヘキサン―一―オール及びその塩類"
     ],
     "categories": [
@@ -17335,7 +17268,7 @@
     },
     "pubchemCid": "12788231",
     "inchiKey": "HNMJDLVMIUDJNH-MJGOQNOKSA-N",
-    "summary": "CP 47497の(C8)ホモログ",
+    "summary": "CP 47,497の炭素鎖(C8)ホモログ",
     "history": "",
     "effects": {
       "effects_positive": [],
@@ -33312,6 +33245,51 @@
     "refs": [
       "https://pubchem.ncbi.nlm.nih.gov/compound/71604304"
     ]
+  },
+  {
+    "id": "racemoramide",
+    "name": "Racemoramide",
+    "common_name": "Racemoramide",
+    "systematic_name": "3-methyl-4-morpholin-4-yl-2,2-diphenyl-1-pyrrolidin-1-ylbutan-1-one",
+    "aliases": [
+      "〔(三―メチル―四―モルフォリノ―二・二―ジフェニル)ブチリル〕ピロリジン及びその塩類"
+    ],
+    "categories": [
+      "オピオイド"
+    ],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "〔(三―メチル―四―モルフォリノ―二・二―ジフェニル)ブチリル〕ピロリジン及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/328AC0000000014"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "9648",
+      "inchi_key": "INUNXTSAACVKJS-UHFFFAOYSA-N",
+      "smiles": "CC(CN1CCOCC1)C(C2=CC=CC=C2)(C3=CC=CC=C3)C(=O)N4CCCC4"
+    },
+    "pubchemCid": "9648",
+    "inchiKey": "INUNXTSAACVKJS-UHFFFAOYSA-N",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
   },
   {
     "id": "rcs-4",
