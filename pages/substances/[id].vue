@@ -10,11 +10,10 @@
         </div>
 
         <h1 class="text-3xl font-bold leading-tight">
-          {{ titleJa || titleEn || routeId }}
+          {{ titleJa }}
         </h1>
 
         <p v-if="titleEn || titleJa" class="mt-2 text-slate-300">
-          <span v-if="titleEn">{{ titleEn }}</span>
           <span v-if="titleEn && titleJa" class="mx-2 text-slate-500">•</span>
           <span v-if="titleJa">{{ titleJa }}</span>
         </p>
@@ -75,9 +74,15 @@
 
             <!-- effects -->
             <div v-if="activeTab === 'effects'">
-              <h3 class="text-lg font-semibold mb-2">効果</h3>
-              <p v-if="substance?.effects" class="text-slate-200 whitespace-pre-line">{{ substance.effects }}</p>
-              <p v-else class="text-slate-400">未記載</p>
+              <h3 v-if="substance?.effects.effects_positive.length ?? 0" class="text-lg font-semibold mb-2">ポジティブな効果</h3>
+              <ul>
+                <li v-for="ep in substance?.effects.effects_positive">{{ ep }}</li>
+              </ul>
+              <h3 v-if="substance?.effects.effects_negative.length ?? 0" class="text-lg font-semibold mb-2">ネガティブな効果</h3>
+                <ul>
+                  <li v-for="ep in substance?.effects.effects_negative">{{ ep }}</li>
+                </ul>
+              <!-- <p v-else class="text-slate-400">未記載</p> -->
             </div>
 
             <!-- dosage -->
@@ -185,6 +190,9 @@ definePageMeta({
   layout: "substances",
 })
 
+const appConfig = useAppConfig();
+const categoryList =appConfig.truthlight?.categories ?? [];
+
 // ✅ ここが“500避け”のキモ：存在するJSONをglobで全部拾う
 const JSON_MODULES = import.meta.glob("~/data/substances/*.json")
 
@@ -268,8 +276,7 @@ const tabs = [
 
 const activeTab = ref<(typeof tabs)[number]["key"]>("effects")
 
-const titleJa = computed(() => substance.value?.name_ja ?? substance.value?.name?.ja ?? "")
-const titleEn = computed(() => substance.value?.name_en ?? substance.value?.name?.en ?? "")
+const titleJa = computed(() => substance.value?.common_name ?? substance.value?.id ?? "")
 
 const aliases = computed<string[]>(() => {
   const a = substance.value?.aliases
