@@ -73,36 +73,29 @@
               </button>
             </div>
 
-            <!-- History -->
-            <div v-if="activeTab === 'history'">
-              <h3 class="text-lg font-semibold mb-2">ヒストリー</h3>
-              <p v-if="substance?.history" class="text-slate-200 whitespace-pre-line">{{ substance.history }}</p>
-              <p v-else class="text-slate-400">未記載</p>
-            </div>
-
-            <!-- Effects -->
+            <!-- effects -->
             <div v-if="activeTab === 'effects'">
-              <h3 class="text-lg font-semibold mb-2">体感・作用</h3>
+              <h3 class="text-lg font-semibold mb-2">効果</h3>
               <p v-if="substance?.effects" class="text-slate-200 whitespace-pre-line">{{ substance.effects }}</p>
               <p v-else class="text-slate-400">未記載</p>
             </div>
 
-            <!-- Dosage -->
-            <div v-else-if="activeTab === 'dosage'">
-              <h3 class="text-lg font-semibold mb-2">用法用量</h3>
+            <!-- dosage -->
+            <div v-if="activeTab === 'dosage'">
+              <h3 class="text-lg font-semibold mb-2">用量・作用時間</h3>
               <p v-if="substance?.dosage" class="text-slate-200 whitespace-pre-line">{{ substance.dosage }}</p>
               <p v-else class="text-slate-400">未記載</p>
             </div>
 
-            <!-- Harm reduction -->
-            <div v-else-if="activeTab === 'harm'">
-              <h3 class="text-lg font-semibold mb-2">ハームリダクション</h3>
-              <p v-if="substance?.harm_reduction" class="text-slate-200 whitespace-pre-line">{{ substance.harm_reduction }}</p>
+            <!-- experiences -->
+            <div v-if="activeTab === 'experiences'">
+              <h3 class="text-lg font-semibold mb-2">体験談</h3>
+              <p v-if="substance?.experiences" class="text-slate-200 whitespace-pre-line">{{ substance.dosage }}</p>
               <p v-else class="text-slate-400">未記載</p>
             </div>
 
             <!-- External resources -->
-            <div v-else-if="activeTab === 'resources'">
+            <div v-if="activeTab === 'resources'">
               <h3 class="text-lg font-semibold mb-3">外部リンク</h3>
 
               <div v-if="resourceLinks.length" class="space-y-3">
@@ -126,21 +119,6 @@
               <p v-else class="text-slate-400">未記載</p>
             </div>
 
-            <!-- Aliases -->
-            <div v-else-if="activeTab === 'aliases'">
-              <h3 class="text-lg font-semibold mb-3">別名（Aliases）</h3>
-
-              <div v-if="aliases.length" class="flex flex-wrap gap-2">
-                <span
-                  v-for="a in aliases"
-                  :key="a"
-                  class="rounded-full border border-slate-600/60 px-3 py-1 text-sm text-slate-200 bg-slate-950/20"
-                >
-                  {{ a }}
-                </span>
-              </div>
-              <p v-else class="text-slate-400">未記載</p>
-            </div>
           </section>
         </main>
 
@@ -282,14 +260,13 @@ const notFound = computed(() => !substance.value && !error.value)
 
 // UI
 const tabs = [
-  { key: "history", label: "ヒストリー"},
   { key: "effects", label: "効果" },
   { key: "dosage", label: "用量・作用時間" },
-  { key: "harm", label: "リスク" },
+  { key: "experiences", label: "体験談"},
   { key: "resources", label: "外部リンク" },
 ] as const
 
-const activeTab = ref<(typeof tabs)[number]["key"]>("history")
+const activeTab = ref<(typeof tabs)[number]["key"]>("effects")
 
 const titleJa = computed(() => substance.value?.name_ja ?? substance.value?.name?.ja ?? "")
 const titleEn = computed(() => substance.value?.name_en ?? substance.value?.name?.en ?? "")
