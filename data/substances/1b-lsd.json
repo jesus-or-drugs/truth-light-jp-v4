@@ -23,7 +23,7 @@
       "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
     }
   },
-  "summary": "",
+  "summary": "LSDのアナログ。Lazard Labs",
   "history": "",
   "effects": {
     "effects_positive": [],
@@ -45,5 +45,5 @@
   "molecular_formula": "C24H31N3O2",
   "molecular_weight": "393.5",
   "smiles_canonical": null,
-  "smiles_isomeric": null,
+  "smiles_isomeric": null
 }
