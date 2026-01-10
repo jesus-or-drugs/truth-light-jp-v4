@@ -1,16 +1,16 @@
 {
-  "id": "3-methyl-4-morpholino-2_2-diphenyl_buchiriru_pyrrolidine",
-  "common_name": "〔(三―メチル―四―モルフォリノ―二・二―ジフェニル)ブチリル〕ピロリジン及びその塩類",
-  "systematic_name": "[(3-methyl-4-morpholino-2,2-diphenyl)buchiriru]pyrrolidine",
+  "id": "racemoramide",
+  "common_name": "Racemoramide",
+  "systematic_name": "3-methyl-4-morpholin-4-yl-2,2-diphenyl-1-pyrrolidin-1-ylbutan-1-one",
   "aliases": [
     "〔(三―メチル―四―モルフォリノ―二・二―ジフェニル)ブチリル〕ピロリジン及びその塩類"
   ],
   "identifiers": {
-    "pubchem_cid": "",
-    "inchi_key": "",
-    "smiles": ""
+    "pubchem_cid": "9648",
+    "inchi_key": "INUNXTSAACVKJS-UHFFFAOYSA-N",
+    "smiles": "CC(CN1CCOCC1)C(C2=CC=CC=C2)(C3=CC=CC=C3)C(=O)N4CCCC4"
   },
-  "categories": [],
+  "categories": ["オピオイド"],
   "legal": {
     "jp": {
       "law_number": "",

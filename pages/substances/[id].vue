@@ -148,7 +148,7 @@
               <div class="flex gap-3">
                 <dt class="w-28 text-slate-400">カテゴリー</dt>
                 <dd class="flex-1 text-slate-200 break-words">
-                  <span v-for="cat in substance?.categories">{{cat  || "—" }}</span>
+                  <span v-for="cat in substance?.categories">{{cat || "—" }}</span>
                 </dd>
               </div>
 
@@ -156,7 +156,7 @@
                 <dt class="w-28 text-slate-400">法規制</dt>
                 <dd class="flex-1 text-slate-200 break-words">
                   <span class="block">{{ substance?.legal?.jp?.law_category || "—" }}</span>
-                  <span v-if="substance?.legal?.jp?.source_link" class="block underline"><a :href="substance?.legal?.jp?.source_link">一次ソース</a></span>
+                  <span v-if="substance?.legal?.jp?.source_link" class="block underline"><a :href="substance?.legal?.jp?.source_link" target="_blank">[一次ソース]</a></span>
                 </dd>
               </div>
             </dl>

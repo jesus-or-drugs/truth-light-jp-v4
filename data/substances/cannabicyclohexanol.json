@@ -1,16 +1,18 @@
 {
-  "id": "rs_sr",
-  "common_name": "(一RS・三SR)―三―[二―ヒドロキシ―四―(二―メチルノナン―二―イル)フェニル]シクロヘキサン―一―オール及びその塩類",
-  "systematic_name": "(1RS,3SR)-3-[2-hydroxy-4-(2-methylnonan-2-yl)phenyl]cyclohexane-1-ol",
+  "id": "cannabicyclohexanol",
+  "common_name": "Cannabicyclohexanol",
+  "systematic_name": "2-[(1R,3S)-3-hydroxycyclohexyl]-5-(2-methylnonan-2-yl)phenol",
   "aliases": [
+    "CCH",
+    "(C8)-CP 47,497",
     "(一RS・三SR)―三―[二―ヒドロキシ―四―(二―メチルノナン―二―イル)フェニル]シクロヘキサン―一―オール及びその塩類"
   ],
   "identifiers": {
-    "pubchem_cid": "",
-    "inchi_key": "",
-    "smiles": ""
+    "pubchem_cid": "12788231",
+    "inchi_key": "HNMJDLVMIUDJNH-MJGOQNOKSA-N",
+    "smiles": "CCCCCCCC(C)(C)C1=CC(=C(C=C1)[C@@H]2CCC[C@@H](C2)O)O"
   },
-  "categories": [],
+  "categories": ["カンナビノイド"],
   "legal": {
     "jp": {
       "law_number": "",
@@ -20,7 +22,7 @@
       "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
     }
   },
-  "summary": "",
+  "summary": "CP 47,497の炭素鎖(C8)ホモログ",
   "history": "",
   "effects": {
     "effects_positive": [],

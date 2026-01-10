@@ -899,7 +899,9 @@
       "1B-LSD",
       "N1-Butyryl-lysergic acid diethylamide"
     ],
-    "categories": [],
+    "categories": [
+      "psychecelics"
+    ],
     "legal": {
       "jp": {
         "law_number": "",
@@ -916,11 +918,49 @@
     },
     "pubchemCid": "145875086",
     "inchiKey": "SVRFNPSJPIDUBC-DYESRHJHSA-N",
-    "summary": "",
+    "summary": "Lazard Labsが開発したLSDアナログ。<br/>LSD同様の幻覚作用があるとされるが力価はLSD-25の1/7とされている。<br/>代謝には主にCYP3A4とCYP2D6が関与している。<sup>[2]</sup>",
     "history": "",
     "effects": {
-      "effects_positive": [],
-      "effects_negative": []
+      "effects_positive": [
+        "精神的・身体的な刺激（活力が出る）",
+        "連想が広がり、創造性が高まる",
+        "気分の高揚",
+        "音楽への感受性が上がり、より深く味わえる",
+        "感覚の増強（味・匂いなどが鋭く感じられる）",
+        "目を開けていても閉じていても起こる視覚変化（残像・軌跡、色の変化、明るさの増加など）",
+        "人生観が変わるほどの霊的体験、または個人的な気づき",
+        "治療的な内省（心理的な振り返り・自己理解が深まる）",
+        "宇宙や世界との強い一体感（自他の境界が薄れる感覚）",
+        "ものの見方が変わる／視点が大きく動く"
+      ],
+      "effects_negative": [
+        "意識状態の全般的な変化",
+        "瞳孔が開く",
+        "ピントが合いにくい",
+        "唾液や粘液が増える（人によっては咳が出る）",
+        "体の感覚がいつもと違う（顔のほてり、寒気、鳥肌、体内エネルギー感など）",
+        "思考や話し方が普段と違う感じになる",
+        "時間感覚の変化",
+        "感情が短時間でめまぐるしく変わる（幸福感、恐怖、浮かれ、不安、怒り、喜び、苛立ちなど）",
+        "体温がわずかに上がる（体が温かい、手汗、発汗、顔が熱いなど）",
+        "心拍数がわずかに上がる",
+        "眠くないのにあくびが増える",
+        "思考がループする／反復する／制御しづらい思考の暴走",
+        "不安",
+        "緊張（顎のこわばりを含む）",
+        "発汗の増加",
+        "妄想・被害的/飛躍した思い込み（空想を事実だと感じてしまう等）",
+        "体温調節がうまくいかない",
+        "吐き気",
+        "めまい、混乱",
+        "不眠",
+        "誇大感（自分が万能だと感じる等）",
+        "音楽や騒音への過敏（刺激が強すぎてつらい）",
+        "猜疑心、恐怖、パニック",
+        "望まない・圧倒されるような感情",
+        "望まない／予期しない「人生観が変わるほどの霊的体験」や気づき",
+        "PTSDのようなフラッシュバック、または不快なビジョン・記憶・思考が鮮明に蘇る"
+      ]
     },
     "external_resources": {
       "experiences": {
@@ -928,12 +968,13 @@
         "url": ""
       },
       "dosage_duration": {
-        "label": "",
-        "url": ""
+        "label": "What is 1B-LSD? The World of LSD Analogs",
+        "url": "https://tripsitter.com/1b-lsd/"
       }
     },
     "refs": [
-      "https://pubchem.ncbi.nlm.nih.gov/compound/145875086"
+      "https://pubchem.ncbi.nlm.nih.gov/compound/145875086",
+      "Wagmann L, Richter LHJ, Kehl T, Wack F, Bergstrand MP, Brandt SD, Stratford A, Maurer HH, Meyer MR. In vitro metabolic fate of nine LSD-based new psychoactive substances and their analytical detectability in different urinary screening procedures. Anal Bioanal Chem. 2019 Jul;411(19):4751-4763. doi: 10.1007/s00216-018-1558-9. Epub 2019 Jan 7. PMID: 30617391."
     ]
   },
   {
@@ -17267,6 +17308,52 @@
     "refs": []
   },
   {
+    "id": "cannabicyclohexanol",
+    "name": "Cannabicyclohexanol",
+    "common_name": "Cannabicyclohexanol",
+    "systematic_name": "2-[(1R,3S)-3-hydroxycyclohexyl]-5-(2-methylnonan-2-yl)phenol",
+    "aliases": [
+      "CP 47497 C8 homologue",
+      "(一RS・三SR)―三―[二―ヒドロキシ―四―(二―メチルノナン―二―イル)フェニル]シクロヘキサン―一―オール及びその塩類"
+    ],
+    "categories": [
+      "カンナビノイド"
+    ],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "(一RS・三SR)―三―[二―ヒドロキシ―四―(二―メチルノナン―二―イル)フェニル]シクロヘキサン―一―オール及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "12788231",
+      "inchi_key": "HNMJDLVMIUDJNH-MJGOQNOKSA-N",
+      "smiles": "CCCCCCCC(C)(C)C1=CC(=C(C=C1)[C@@H]2CCC[C@@H](C2)O)O"
+    },
+    "pubchemCid": "12788231",
+    "inchiKey": "HNMJDLVMIUDJNH-MJGOQNOKSA-N",
+    "summary": "CP 47497の(C8)ホモログ",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
     "id": "cannabipiperidiethanone",
     "name": "Cannabipiperidiethanone",
     "common_name": "Cannabipiperidiethanone",
@@ -25872,6 +25959,94 @@
     "refs": []
   },
   {
+    "id": "lsd-25",
+    "name": "LSD-25",
+    "common_name": "LSD-25",
+    "systematic_name": "(6aR,9R)-N,N-diethyl-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",
+    "aliases": [
+      "LSD",
+      "Acid",
+      "L",
+      "紙",
+      "🌈",
+      "リゼルギン酸ジエチルアミド(別名リゼルギド)及びその塩類"
+    ],
+    "categories": [
+      "サイケデリックス"
+    ],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "リゼルギン酸ジエチルアミド(別名リゼルギド)及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "5761",
+      "inchi_key": "VAYOSLLFUXYJDT-RDTXWAMCSA-N",
+      "smiles": "CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CNC4=CC=CC(=C34)C2=C1)C"
+    },
+    "pubchemCid": "5761",
+    "inchiKey": "VAYOSLLFUXYJDT-RDTXWAMCSA-N",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [
+        "精神的・身体的な刺激（活力が出る）",
+        "連想が広がり、創造性が高まる",
+        "気分の高揚",
+        "音楽への感受性が上がり、より深く味わえる",
+        "感覚の増強（味・匂いなどが鋭く感じられる）",
+        "目を開けていても閉じていても起こる視覚変化（残像・軌跡、色の変化、明るさの増加など）",
+        "人生観が変わるほどの霊的体験、または個人的な気づき",
+        "治療的な内省（心理的な振り返り・自己理解が深まる）",
+        "宇宙や世界との強い一体感（自他の境界が薄れる感覚）",
+        "ものの見方が変わる／視点が大きく動く"
+      ],
+      "effects_negative": [
+        "意識状態の全般的な変化",
+        "瞳孔が開く",
+        "ピントが合いにくい",
+        "唾液や粘液が増える（人によっては咳が出る）",
+        "体の感覚がいつもと違う（顔のほてり、寒気、鳥肌、体内エネルギー感など）",
+        "思考や話し方が普段と違う感じになる",
+        "時間感覚の変化",
+        "感情が短時間でめまぐるしく変わる（幸福感、恐怖、浮かれ、不安、怒り、喜び、苛立ちなど）",
+        "体温がわずかに上がる（体が温かい、手汗、発汗、顔が熱いなど）",
+        "心拍数がわずかに上がる",
+        "眠くないのにあくびが増える",
+        "思考がループする／反復する／制御しづらい思考の暴走",
+        "不安",
+        "緊張（顎のこわばりを含む）",
+        "発汗の増加",
+        "妄想・被害的/飛躍した思い込み（空想を事実だと感じてしまう等）",
+        "体温調節がうまくいかない",
+        "吐き気",
+        "めまい、混乱",
+        "不眠",
+        "誇大感（自分が万能だと感じる等）",
+        "音楽や騒音への過敏（刺激が強すぎてつらい）",
+        "猜疑心、恐怖、パニック",
+        "望まない・圧倒されるような感情",
+        "望まない／予期しない「人生観が変わるほどの霊的体験」や気づき",
+        "PTSDのようなフラッシュバック、または不快なビジョン・記憶・思考が鮮明に蘇る"
+      ]
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "Erowid LSD-25 Experiences Vault",
+        "url": "https://erowid.org/experiences/subs/exp_LSD.shtml"
+      },
+      "dosage_duration": {
+        "label": "Erowid LSD (Acid) Vault: effects",
+        "url": "https://erowid.org/chemicals/lsd/lsd_effects.shtml"
+      }
+    },
+    "refs": []
+  },
+  {
     "id": "lsz",
     "name": "LSZ",
     "common_name": "LSZ",
@@ -25988,49 +26163,6 @@
     "refs": [
       "https://pubchem.ncbi.nlm.nih.gov/compound/91936840"
     ]
-  },
-  {
-    "id": "lysergide_lsd",
-    "name": "lysergide (LSD)",
-    "common_name": "lysergide (LSD)",
-    "systematic_name": "lysergic acid diethylamide",
-    "aliases": [
-      "リゼルギン酸ジエチルアミド(別名リゼルギド)及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "リゼルギン酸ジエチルアミド(別名リゼルギド)及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
   },
   {
     "id": "ma-chminaca",
@@ -33426,49 +33558,6 @@
         "law_number": "",
         "law_category": "麻薬",
         "official_name": "一―(一―フェニルシクロヘキシル)ピロリジン(別名ロリシクリジン)及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "rs_sr",
-    "name": "(一RS・三SR)―三―[二―ヒドロキシ―四―(二―メチルノナン―二―イル)フェニル]シクロヘキサン―一―オール及びその塩類",
-    "common_name": "(一RS・三SR)―三―[二―ヒドロキシ―四―(二―メチルノナン―二―イル)フェニル]シクロヘキサン―一―オール及びその塩類",
-    "systematic_name": "(1RS,3SR)-3-[2-hydroxy-4-(2-methylnonan-2-yl)phenyl]cyclohexane-1-ol",
-    "aliases": [
-      "(一RS・三SR)―三―[二―ヒドロキシ―四―(二―メチルノナン―二―イル)フェニル]シクロヘキサン―一―オール及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "(一RS・三SR)―三―[二―ヒドロキシ―四―(二―メチルノナン―二―イル)フェニル]シクロヘキサン―一―オール及びその塩類",
         "effective_date": "",
         "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
       }
