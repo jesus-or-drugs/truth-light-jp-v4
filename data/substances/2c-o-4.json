@@ -1,21 +1,22 @@
 {
-  "id": "2_4_5-trimethoxy-_-methylphenethylamine",
-  "common_name": "二・四・五―トリメトキシ―α―メチルフェネチルアミン及びその塩類",
-  "systematic_name": "2,4,5-trimethoxy-α-methylphenethylamine",
+  "id": "2c-o-4",
+  "common_name": "2C-O-4",
+  "systematic_name": "2-(2,5-dimethoxy-4-propan-2-yloxyphenyl)ethanamine",
   "aliases": [
-    "二・四・五―トリメトキシ―α―メチルフェネチルアミン及びその塩類"
+    "2,5-Dimethoxy-4-isopropoxyphenethylamine",
+    "二―(二・五―ジメトキシ―四―イソプロピルスルファニルフェニル)エタンアミン及びその塩類"
   ],
   "identifiers": {
-    "pubchem_cid": "",
+    "pubchem_cid": "44719510",
     "inchi_key": "",
     "smiles": ""
   },
-  "categories": [],
+  "categories": ["サイケデリックス"],
   "legal": {
     "jp": {
       "law_number": "",
       "law_category": "麻薬",
-      "official_name": "二・四・五―トリメトキシ―α―メチルフェネチルアミン及びその塩類",
+      "official_name": "二―(二・五―ジメトキシ―四―イソプロピルスルファニルフェニル)エタンアミン及びその塩類",
       "effective_date": "",
       "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
     }

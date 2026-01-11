@@ -1,14 +1,17 @@
 {
   "id": "1t-lsd",
   "common_name": "1T-LSD",
-  "systematic name": "N,N-jiechiru-7-mechiru-4-(chi ofen-2-karuboniru)-4,6,6 a,7,8,9-hekisahidoroindoro[4, 3-fg]kinorin-9-karubokisamido及 びその salts",
-  "aliases": [],
+  "systematic name": "(6aR,9R)-N,N-diethyl-7-methyl-4-(thiophene-2-carbonyl)-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide",
+  "aliases": [
+    "1-(thiophene-2-carbonyl)-LSD",
+    "SYN-L-021"
+  ],
   "identifiers": {
-    "pubchem_cid": "",
-    "inchi_key": "",
-    "smiles": ""
+    "pubchem_cid": "170763788",
+    "inchi_key": "UKYJDWQKFQDRRX-DYESRHJHSA-N",
+    "smiles": "CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CN(C4=CC=CC(=C34)C2=C1)C(=O)C5=CC=CS5)C"
   },
-  "categories": [],
+  "categories": ["サイケデリックス","高力価", "LSDアナログ"],
   "legal": {
     "jp": {
       "law_number": "",

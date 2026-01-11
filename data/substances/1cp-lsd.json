@@ -8,11 +8,11 @@
   "identifiers": {
     "pubchem_cid": "155884675",
     "inchi_key": "RAFUPYYDHPFASC-DYESRHJHSA-N",
-    "smiles": "",
+    "smiles": "CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CN(C4=CC=CC(=C34)C2=C1)C(=O)C5CC5)CC=C",
     "inchikey": "RAFUPYYDHPFASC-DYESRHJHSA-N",
     "pubchemCID": "155884675"
   },
-  "categories": ["サイケデリックス"],
+  "categories": ["サイケデリックス","高力価", "LSDアナログ"],
   "legal": {
     "jp": {
       "law_number": "",

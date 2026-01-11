@@ -10,11 +10,11 @@
   "identifiers": {
     "pubchem_cid": "119025985",
     "inchi_key": "JSMQOVGXBIDBIE-OXQOHEQNSA-N",
-    "smiles": "",
+    "smiles": "CCC(=O)N1C=C2C[C@@H]3C(=C[C@H](CN3C)C(=O)N(CC)CC)C4=C2C1=CC=C4",
     "inchikey": "JSMQOVGXBIDBIE-OXQOHEQNSA-N",
     "pubchemCID": "119025985"
   },
-  "categories": [],
+  "categories": ["サイケデリックス","高力価", "LSDアナログ"],
   "legal": {
     "jp": {
       "law_number": "",

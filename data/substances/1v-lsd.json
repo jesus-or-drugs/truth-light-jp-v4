@@ -5,21 +5,16 @@
   "aliases": [
     "1V-LSD",
     "VALERIE",
-    "1-VALEROYL-LSD",
-    "V9TJ3HT283",
-    "RefChem:79978",
-    "SCHEMBL25219199",
-    "DTXSID801342453",
-    "PD163775"
+    "1-VALEROYL-LSD"
   ],
   "identifiers": {
     "pubchem_cid": "162368540",
     "inchi_key": "GIIBVGJWUZNECE-XMSQKQJNSA-N",
-    "smiles": "",
+    "smiles": "CCCCC(=O)N1C=C2C[C@@H]3C(=C[C@H](CN3C)C(=O)N(CC)CC)C4=C2C1=CC=C4",
     "inchikey": "GIIBVGJWUZNECE-XMSQKQJNSA-N",
     "pubchemCID": "162368540"
   },
-  "categories": [],
+  "categories": ["サイケデリックス","高力価", "LSDアナログ"],
   "legal": {
     "jp": {
       "law_number": "",

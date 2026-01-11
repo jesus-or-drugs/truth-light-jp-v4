@@ -1,16 +1,17 @@
 {
-  "id": "2-_4-ethoxybenzyl_-5-nitro-1-_2-_pyrrolidine-1-yl_ethyl_benzimidazole",
-  "common_name": "二―(四―エトキシベンジル)―五―ニトロ―一―[二―(ピロリジン―一―イル)エチル]ベンズイミダゾール及びその塩類",
-  "systematic_name": "2-(4-ethoxybenzyl)-5-nitro-1-[2-(pyrrolidine-1-yl)ethyl]benzimidazole",
+  "id": "etonitazepyne",
+  "common_name": "Etonitazepyne",
+  "systematic_name": "2-[(4-ethoxyphenyl)methyl]-5-nitro-1-(2-pyrrolidin-1-ylethyl)benzimidazole",
   "aliases": [
+    "N-PYRROLIDINO ETONITAZENE",
     "二―(四―エトキシベンジル)―五―ニトロ―一―[二―(ピロリジン―一―イル)エチル]ベンズイミダゾール及びその塩類"
   ],
   "identifiers": {
-    "pubchem_cid": "",
-    "inchi_key": "",
-    "smiles": ""
+    "pubchem_cid": "155804760",
+    "inchi_key": "LQZWZCJCEPUKCJ-UHFFFAOYSA-N",
+    "smiles": "CCOC1=CC=C(C=C1)CC2=NC3=C(N2CCN4CCCC4)C=CC(=C3)[N+](=O)[O-]"
   },
-  "categories": [],
+  "categories": ["オピオイド", "【注意】高力価"],
   "legal": {
     "jp": {
       "law_number": "",

@@ -3,21 +3,16 @@
   "common_name": "1cP-AL-LAD",
   "systematic name": "(6aR,9R)-4-(cyclopropanecarbonyl)-N,N-diethyl-7-prop-2-enyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide",
   "aliases": [
-    "1cP-AL-LAD",
-    "HH7F72QLZ3",
-    "1-CYCLOPROPIONYL-6-ALLYL-6-NOR-LSD",
-    "1-CYCLOPROPANECARBOXYL-N-ALLYLNORLYSERGIC ACID N,N-DIETHYLAMIDE",
-    "RefChem:79614",
-    "DTXSID301342446"
+    "1cP-AL-LAD"
   ],
   "identifiers": {
     "pubchem_cid": "162368406",
     "inchi_key": "VSABTUDYQCMWKE-AUSIDOKSSA-N",
-    "smiles": "",
+    "smiles": "CCN(CC)C(=O)[C@H]1CN([C@@H]2CC3=CN(C4=CC=CC(=C34)C2=C1)C(=O)C5CC5)CC=C",
     "inchikey": "VSABTUDYQCMWKE-AUSIDOKSSA-N",
     "pubchemCID": "162368406"
   },
-  "categories": [],
+  "categories": ["サイケデリックス","高力価", "LSDアナログ"],
   "legal": {
     "jp": {
       "law_number": "",

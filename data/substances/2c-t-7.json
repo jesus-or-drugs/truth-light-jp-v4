@@ -1,16 +1,18 @@
 {
-  "id": "2_5-dimethoxy-4-_propylthio_phenethylamine",
-  "common_name": "二・五―ジメトキシ―四―(プロピルチオ)フェネチルアミン及びその塩類",
+  "id": "2c-t-7",
+  "common_name": "2C-T-7",
   "systematic_name": "2,5-dimethoxy-4-(propylthio)phenethylamine",
   "aliases": [
+    
+    "Blue Mystic",
     "二・五―ジメトキシ―四―(プロピルチオ)フェネチルアミン及びその塩類"
   ],
   "identifiers": {
-    "pubchem_cid": "",
-    "inchi_key": "",
-    "smiles": ""
+    "pubchem_cid": "24728635",
+    "inchi_key": "OLEVEPDJOFPJTF-UHFFFAOYSA-N",
+    "smiles": "CCCSC1=C(C=C(C(=C1)OC)CCN)OC"
   },
-  "categories": [],
+  "categories": ["サイケデリックス"],
   "legal": {
     "jp": {
       "law_number": "",

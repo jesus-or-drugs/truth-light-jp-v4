@@ -1,0 +1,42 @@
+{
+  "id": "tma-2",
+  "common_name": "TMA-2",
+  "systematic_name": "2,4,5-trimethoxy-α-methylphenethylamine",
+  "aliases": [
+    "2,4,5-Trimethoxyamphetamine",
+    "2,4,5-Trimethoxyphenylisopropylamine",
+    "二・四・五―トリメトキシ―α―メチルフェネチルアミン及びその塩類",
+    "2,4,5-Trimethoxy-alpha-methylbenzeneethanamine"
+  ],
+  "identifiers": {
+    "pubchem_cid": "31014",
+    "inchi_key": "TVSIMAWGATVNGK-UHFFFAOYSA-N",
+    "smiles": "CC(CC1=CC(=C(C=C1OC)OC)OC)N"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "麻薬",
+      "official_name": "二・四・五―トリメトキシ―α―メチルフェネチルアミン及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

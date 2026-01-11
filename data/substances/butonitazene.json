@@ -1,16 +1,16 @@
 {
-  "id": "2-_4-butoxybenzyl_-1-_2-diethylamino_ethyl-5-nitrobenzimidazole",
-  "common_name": "二―(四―ブトキシベンジル)―一―(二―ジエチルアミノ)エチル―五―ニトロベンズイミダゾール及びその塩類",
-  "systematic_name": "2-(4-butoxybenzyl)-1-(2-diethylamino)ethyl-5-nitrobenzimidazole",
+  "id": "butonitazene",
+  "common_name": "Butonitazene",
+  "systematic_name": "2-[2-[(4-butoxyphenyl)methyl]-5-nitrobenzimidazol-1-yl]-N,N-diethylethanamine",
   "aliases": [
     "二―(四―ブトキシベンジル)―一―(二―ジエチルアミノ)エチル―五―ニトロベンズイミダゾール及びその塩類"
   ],
   "identifiers": {
-    "pubchem_cid": "",
-    "inchi_key": "",
-    "smiles": ""
+    "pubchem_cid": "156588955",
+    "inchi_key": "UZZPOLCDCVWLAZ-UHFFFAOYSA-N",
+    "smiles": "CCCCOC1=CC=C(C=C1)CC2=NC3=C(N2CCN(CC)CC)C=CC(=C3)[N+](=O)[O-]"
   },
-  "categories": [],
+  "categories": ["オピオイド"],
   "legal": {
     "jp": {
       "law_number": "",
