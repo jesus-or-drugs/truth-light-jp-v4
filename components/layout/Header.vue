@@ -1,7 +1,7 @@
 <template>
 
   <!-- デフォルトページ用ヘッダー -->
-  <header v-if="props.variant === `default`" class="flex item-center bg-background/80 bg-slate-900 sticky z-40 backdrop-blur-lg border-teal-400 h-20 border-b-4">
+  <header v-if="props.variant === `default`" class="flex item-center bg-background/80 bg-slate-900 sticky z-40 backdrop-blur-lg border-teal-400 h-20 border-b">
     <div
       class="relative flex flex-row justify-between items-center gap-2 px-4 md:px-20 my-auto"
       :class="{
@@ -21,13 +21,13 @@
       class="w-full relative flex flex-row justify-between items-center gap-2 px-4 md:px-6"
     >
       <div class="shrink"><LayoutHeaderLogo :subtitle="subtitle" :variant="props.variant" /></div>
-      <!-- <div><LayoutHeaderNav :variant="props.variant" /></div> -->
+      <div><LayoutHeaderNav :variant="props.variant" /></div>
       <div class="shrink-0"><LayoutHeaderToc /></div>
     </div>
   </header>
 
   <!-- 規制情報ページ用ヘッダー -->
-  <header v-else="props.variant === `legal`" class="flex item-center bg-background/80 bg-slate-900 sticky z-40 backdrop-blur-lg border-teal-400 h-20 border-b-4">
+  <header v-else="props.variant === `legal`" class="flex item-center bg-background/80 bg-slate-900 sticky z-40 backdrop-blur-lg border-teal-400 h-20 border-b">
     <div
       class="relative flex flex-row justify-between items-center gap-2 px-4 md:px-20 my-auto"
       :class="{

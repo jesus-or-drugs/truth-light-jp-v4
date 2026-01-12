@@ -32,7 +32,8 @@ export default defineAppConfig({
       border: false,
       nav: [
         { title: 'NPSデータベース(α版)', to: '/substances' },
-        { title: '免責事項'},
+        { title: '本サイトについて', to: '/info'},
+        { title: '免責事項', to: '/info/disclaimer'}
         // { title: '依存症相談窓口', to: '/recovery' }
       ],
       links: [{
