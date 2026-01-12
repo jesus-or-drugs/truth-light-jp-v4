@@ -1,13 +1,11 @@
 <template>
-<div>
-    <ul
-    class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 flex flex-row gap-5 text-base text-white font-bold">
-        <li
-        v-for="i in nav">
-            <a :href="i.to">{{ i.title }}</a>
-        </li>
-    </ul>
-</div>
+<nav 
+class="hidden items-center gap-6 text-sm text-slate-300 hover:text-white md:flex">
+        <a
+        v-for="i in nav" :href="i.to">
+            {{ i.title }}
+        </a>
+</nav>
 </template>
 
 <script setup lang="ts">

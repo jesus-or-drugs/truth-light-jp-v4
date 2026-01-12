@@ -2,20 +2,24 @@
 
   <!-- デフォルトページ用ヘッダー -->
   <header 
-   v-if="props.variant === `default`"
+   v-if="variant === `default`"
   class="sticky top-0 z-50 border-b border-white/10 bg-slate-950/70 backdrop-blur">
     <div class="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
-      <a href="/" class="flex items-center gap-3">
+      <!-- <a href="/" class="flex items-center gap-3">
         <span class="h-9 w-9 rounded-xl bg-gradient-to-br from-cyan-300 to-violet-400"></span>
         <span class="text-sm font-semibold tracking-wide">Truth Light</span>
-      </a>
+      </a> -->
 
-      <nav class="hidden items-center gap-6 text-sm text-slate-300 md:flex">
+      <div><LayoutHeaderLogo :subtitle="subtitle" /></div>
+      <div><LayoutHeaderNav :variant="props.variant" /></div>
+      <div><LayoutHeaderToc /></div>
+
+      <!-- <nav class="hidden items-center gap-6 text-sm text-slate-300 md:flex">
         <a class="hover:text-white" href="/substances">Substances</a>
         <a class="hover:text-white" href="/harm-reduction">Harm Reduction</a>
         <a class="hover:text-white" href="/legal">Legal (JP)</a>
         <a class="hover:text-white" href="/articles">Articles</a>
-      </nav>
+      </nav> -->
 
       <div class="flex items-center gap-2">
         <a
@@ -65,6 +69,8 @@
 const props = defineProps<{
   variant?: "default" | "substances" | "legal",
 }>()
+
+console.log(`props.defaultの内容：${props.variant}`)
 
 const headerClass = computed(() => {
   const base = "flex item-center bg-background/80 bg-slate-900 sticky z-40 backdrop-blur-lg border-teal-400"

@@ -1,8 +1,8 @@
 <template>
-  <div>
-    <NuxtLink v-if="logo?.light && logo?.dark" to="https://www.truth-light.jp/" class="flex">
-      <NuxtImg :src="logo.dark" class="relative top-[0.08rem] h-7 dark:block" />
-      <span v-if="showTitle && title" class="ml-3 self-center text-2xl text-teal-400 font-bold drop-shadow-xl drop-shadow-teal-400"
+  <div class="flex items-center gap-3">
+    <NuxtLink v-if="logo?.light && logo?.dark" to="https://www.truth-light.jp/" class="flex items-center gap-2">
+      <NuxtImg :src="logo.dark" class="h-7 dark:block" />
+      <span v-if="showTitle && title" class="text-sm font-semibold tracking-wide"
       style="font-family: 'Avenir', 'Avenir Next', 'Segoe UI', 'Helvetica Neue', 'Arial', 'sans-serif';">
         {{ title }}
       </span>
