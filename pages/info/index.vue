@@ -51,7 +51,7 @@ Truth Lightは、そこを反転させます。
 「覚せい剤やりますか？やめたいですか？回復することはできます。」
 私たちは、根拠ある情報と回復の知恵を整理し、次の一歩につながる光を手渡します。
     </section>
-
+  </div>
   <!-- footer note -->
   <div class="mt-8 text-xs text-slate-500 dark:text-slate-400">
     <p>※ 本ページは予告なく変更される場合があります。</p>
