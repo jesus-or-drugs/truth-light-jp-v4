@@ -1,0 +1,42 @@
+{
+  "id": "dextromethorphan",
+  "common_name": "Dextromethorphan",
+  "systematic_name": "(1S,9S,10S)-4-methoxy-17-methyl-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-triene",
+  "aliases": [
+    "DXM",
+    "d-Methorphan",
+    "メジコン",
+    "メジ"
+  ],
+  "identifiers": {
+    "pubchem_cid": "5360696",
+    "inchi_key": "MKXZASYAUGDDCJ-NJAFHUGGSA-N",
+    "smiles": "CN1CC[C@@]23CCCC[C@@H]2[C@@H]1CC4=C3C=C(C=C4)OC"
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "OTC",
+      "official_name": "",
+      "effective_date": "",
+      "source_link": ""
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

@@ -15,4 +15,6 @@ useSeoMeta({
   ogImage: appConfig.truthlight.site.ogImage,
   twitterCard: 'summary_large_image'
 });
+
+definePageMeta({ layout: "default" })
 </script>

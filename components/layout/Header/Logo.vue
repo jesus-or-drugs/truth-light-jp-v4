@@ -6,8 +6,9 @@
       style="font-family: 'Avenir', 'Avenir Next', 'Segoe UI', 'Helvetica Neue', 'Arial', 'sans-serif';">
         {{ title }}
       </span>
-      <span v-if="props.subtitle !== ``" class="ml-3 self-center text-white font-bold text-lg hidden md:inline-block">{{ props.subtitle }}</span>
     </NuxtLink>
+
+      <span v-if="props.subtitle !== ``" class="ml-3 self-center text-white font-bold text-lg hidden md:inline-block">{{ props.subtitle }}</span>
   </div>
 </template>
 

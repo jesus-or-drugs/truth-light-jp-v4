@@ -1,0 +1,40 @@
+{
+    "id": "1fe-lsd",
+    "common_name": "1Fe-lsd",
+    "systematic_name": "(8β)-1-Ferrocenecarbonyl-N,N-diethyl-6-methyl-9,10-didehydroergoline-8-carboxamide",
+    "aliases": [
+        "1-(Ferrocenecarbonyl)-LSD",
+        "SYN-L-234"
+    ],
+    "identifiers": {
+        "pubchem_cid": "",
+        "inchi_key": "IIOLYFVNUDARGZ-CHOFETAFSA-N",
+        "smiles": "CCN(C([C@H]1CN(C)[C@]2([H])Cc3c4c(C2=C1)cccc4n(C(c5ccc[cH-]5)=O)c3)=O)CC.c6[cH-]ccc6.[Fe+2]"
+    },
+    "categories": ["サイケデリックス","高力価"],
+    "legal": {
+        "jp": {
+            "law_number": "",
+            "law_category": "",
+            "official_name": "",
+            "effective_date": "",
+            "source_link": ""
+        }
+    },
+    "summary": "LSDのプロドラッグ。2024年にLizard Labsが特許を取得。2025年11月ごろドイツでNPSとして販売が確認された。",
+    "history": "",
+    "effects": {
+        "effects_positive": [],
+        "effects_negative": []},
+    "external_resources": {
+        "experiences": {
+            "label": "",
+            "url": ""
+        },
+        "dosage_duration": {
+            "label": "",
+            "url": ""
+        },
+        "refs": []
+    }
+}

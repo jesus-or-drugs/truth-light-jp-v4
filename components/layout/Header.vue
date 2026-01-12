@@ -1,16 +1,36 @@
 <template>
 
   <!-- デフォルトページ用ヘッダー -->
-  <header v-if="props.variant === `default`" class="flex item-center bg-background/80 bg-slate-900 sticky z-40 backdrop-blur-lg border-teal-400 h-20 border-b">
-    <div
-      class="relative flex flex-row justify-between items-center gap-2 px-4 md:px-20 my-auto"
-      :class="{
-        'container': appConfig.truthlight.main.padded,
-      }"
-    >
-      <div><LayoutHeaderLogo :subtitle="subtitle" /></div>
-      <div><LayoutHeaderNav :variant="props.variant" /></div>
-      <LayoutHeaderToc />
+  <header 
+   v-if="props.variant === `default`"
+  class="sticky top-0 z-50 border-b border-white/10 bg-slate-950/70 backdrop-blur">
+    <div class="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
+      <a href="/" class="flex items-center gap-3">
+        <span class="h-9 w-9 rounded-xl bg-gradient-to-br from-cyan-300 to-violet-400"></span>
+        <span class="text-sm font-semibold tracking-wide">Truth Light</span>
+      </a>
+
+      <nav class="hidden items-center gap-6 text-sm text-slate-300 md:flex">
+        <a class="hover:text-white" href="/substances">Substances</a>
+        <a class="hover:text-white" href="/harm-reduction">Harm Reduction</a>
+        <a class="hover:text-white" href="/legal">Legal (JP)</a>
+        <a class="hover:text-white" href="/articles">Articles</a>
+      </nav>
+
+      <div class="flex items-center gap-2">
+        <a
+          href="/about"
+          class="rounded-xl border border-white/10 bg-white/5 px-3 py-2 text-sm text-slate-200 hover:bg-white/10"
+        >
+          About
+        </a>
+        <a
+          href="/substances"
+          class="rounded-xl border border-cyan-300/20 bg-gradient-to-br from-cyan-300/15 to-violet-400/10 px-3 py-2 text-sm text-white hover:from-cyan-300/20 hover:to-violet-400/15"
+        >
+          Browse
+        </a>
+      </div>
     </div>
   </header>
   
