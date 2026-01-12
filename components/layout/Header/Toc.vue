@@ -1,11 +1,6 @@
 <template>
-    <div class="ml-auto">
-        <ul v-if="tocEnable === true" class="flex flex-row gap-5">
-            <li
-            v-for="i in tocLinks">
-                <a :href="i.to"><img :src="`/${i.icon}`" :alt="i.title" class="w-4" /></a>
-            </li>
-        </ul>
+    <div class="flex items-center gap-2"">
+        <a v-for="i in tocLinks" :href="i.to" class="inline rounded-xl border border-white/10 bg-white/5 px-3 py-2 text-sm text-slate-200 hover:bg-white/10"><img :src="`/${i.icon}`" :alt="i.title" class="w-4" /></a>
     </div>
 </template>
 

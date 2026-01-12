@@ -65,17 +65,37 @@
               </button>
             </div>
 
-            <!-- effects -->
             <div v-if="activeTab === 'effects'">
-              <h3 v-if="substance?.effects.effects_positive.length ?? 0" class="text-lg font-semibold mb-2">ポジティブな効果</h3>
-              <ul>
-                <li v-for="ep in substance?.effects.effects_positive">{{ ep }}</li>
-              </ul>
-              <h3 v-if="substance?.effects.effects_negative.length ?? 0" class="text-lg font-semibold mb-2">ネガティブな効果</h3>
-                <ul>
-                  <li v-for="ep in substance?.effects.effects_negative">{{ ep }}</li>
-                </ul>
-              <!-- <p v-else class="text-slate-400">未記載</p> -->
+              <template v-if="((substance?.effects?.effects_positive?.length ?? 0) + (substance?.effects?.effects_negative?.length ?? 0)) > 0">
+                <!-- ポジ -->
+                <section v-if="(substance?.effects?.effects_positive?.length ?? 0) > 0" class="mb-6">
+                  <h3 class="text-lg font-semibold mb-2">ポジティブな効果</h3>
+                  <ul class="list-disc pl-5 space-y-1">
+                    <li
+                      v-for="(ep, i) in (substance?.effects?.effects_positive ?? [])"
+                      :key="`pos-${i}`"
+                    >
+                      {{ ep }}
+                    </li>
+                  </ul>
+                </section>
+
+                <!-- ネガ -->
+                <section v-if="(substance?.effects?.effects_negative?.length ?? 0) > 0">
+                  <h3 class="text-lg font-semibold mb-2">ネガティブな効果</h3>
+                  <ul class="list-disc pl-5 space-y-1">
+                    <li
+                      v-for="(en, i) in (substance?.effects?.effects_negative ?? [])"
+                      :key="`neg-${i}`"
+                    >
+                      {{ en }}
+                    </li>
+                  </ul>
+                </section>
+              </template>
+
+              <!-- 両方ない -->
+              <p v-else class="text-slate-400">記載なし</p>
             </div>
 
             <!-- dosage -->

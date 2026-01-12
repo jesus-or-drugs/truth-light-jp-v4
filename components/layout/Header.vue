@@ -3,25 +3,63 @@
   <!-- デフォルトページ用ヘッダー -->
   <header 
    v-if="variant === `default`"
-  class="sticky top-0 z-50 border-b border-white/10 bg-slate-950/70 backdrop-blur">
-    <div class="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
+   class="sticky top-0 z-50 border-b border-white/10 bg-slate-950/70 backdrop-blur">
+    <div class="mx-auto flex flex-row max-w-6xl items-center justify-between px-6 py-4 relative">
       <!-- <a href="/" class="flex items-center gap-3">
         <span class="h-9 w-9 rounded-xl bg-gradient-to-br from-cyan-300 to-violet-400"></span>
         <span class="text-sm font-semibold tracking-wide">Truth Light</span>
       </a> -->
 
+      <!-- タイトル -->
       <div><LayoutHeaderLogo :subtitle="subtitle" /></div>
-      <div><LayoutHeaderNav :variant="props.variant" /></div>
+
+      <!-- md以上: 横並びナビ -->
+      <nav class="hidden items-center gap-6 text-sm text-slate-300 md:flex">
+        <a class="hover:text-white" href="/substances">NPSデータベース</a>
+        <a class="hover:text-white" href="/info">Purpose</a>
+        <a class="hover:text-white" href="/info/legal">法規制</a>
+        <!-- <a class="hover:text-white" href="/articles">Articles</a> -->
+      </nav>
+
+      <!-- md未満: メニューボタン -->
+      <button
+        class="md:hidden inline-flex items-center gap-2 rounded-lg border px-3 py-2 text-sm"
+        @click="toggle"
+        :aria-expanded="open"
+        aria-controls="mobile-menu"
+      >
+        <span class="font-medium">Menu</span>
+        <span aria-hidden="true">{{ open ? "✕" : "☰" }}</span>
+      </button>
+
+      <!-- ここが肝: absoluteで“浮く”メニュー -->
+      <Transition
+        enter-active-class="transition-all duration-300 ease-out"
+        enter-from-class="opacity-0 -translate-y-2 max-h-0"
+        enter-to-class="opacity-100 translate-y-0 max-h-[70vh]"
+        leave-active-class="transition-all duration-200 ease-in"
+        leave-from-class="opacity-100 translate-y-0 max-h-[70vh]"
+        leave-to-class="opacity-0 -translate-y-2 max-h-0"
+      >
+        <div
+          v-show="open"
+          id="mobile-menu"
+          class="md:hidden absolute left-0 right-0 top-full border-t bg-slate-700/95 backdrop-blur shadow-lg overflow-hidden"
+          @click.stop
+        >
+          <div class="px-4 py-3 flex flex-col gap-3">
+            <NuxtLink to="/substances" class="py-2" @click="close">Substances</NuxtLink>
+            <NuxtLink to="/about" class="py-2" @click="close">About</NuxtLink>
+            <NuxtLink to="/terms" class="py-2" @click="close">Terms</NuxtLink>
+          </div>
+        </div>
+      </Transition>
+
+      <!-- <div><LayoutHeaderNav :variant="props.variant" /></div> -->
       <div><LayoutHeaderToc /></div>
 
-      <!-- <nav class="hidden items-center gap-6 text-sm text-slate-300 md:flex">
-        <a class="hover:text-white" href="/substances">Substances</a>
-        <a class="hover:text-white" href="/harm-reduction">Harm Reduction</a>
-        <a class="hover:text-white" href="/legal">Legal (JP)</a>
-        <a class="hover:text-white" href="/articles">Articles</a>
-      </nav> -->
 
-      <div class="flex items-center gap-2">
+      <!-- <div class="flex items-center gap-2">
         <a
           href="/about"
           class="rounded-xl border border-white/10 bg-white/5 px-3 py-2 text-sm text-slate-200 hover:bg-white/10"
@@ -34,10 +72,17 @@
         >
           Browse
         </a>
-      </div>
+      </div> -->
     </div>
+
+    <div
+      v-show="open"
+      class="fixed inset-0 z-40 bg-black/20 md:hidden"
+      @click="close"
+      aria-hidden="true"
+    ></div>
   </header>
-  
+
   <!-- Substancesページ用ヘッダー -->
   <header v-else-if="props.variant === `substances`"
   class="w-full shrink-0 flex items-center bg-slate-800 z-40 border-teal-600 h-14 border-b">
@@ -66,6 +111,11 @@
 </template>
 
 <script setup lang="ts">
+import { ref } from "vue"
+const open = ref(false)
+const toggle = () => (open.value = !open.value)
+const close = () => (open.value = false)
+
 const props = defineProps<{
   variant?: "default" | "substances" | "legal",
 }>()
