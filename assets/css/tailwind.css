@@ -4,8 +4,8 @@
 
 @layer base {
   html, body {
-    @apply bg-slate-50;
-    @apply text-slate-900;
+    @apply bg-slate-800;
+    @apply text-white;
   }
 }
 

@@ -1,6 +1,6 @@
 <template>
   <div class="flex items-center gap-3">
-    <NuxtLink v-if="logo?.light && logo?.dark" to="https://www.truth-light.jp/" class="flex items-center gap-2">
+    <NuxtLink v-if="logo?.light && logo?.dark" to="/" class="flex items-center gap-2">
       <NuxtImg :src="logo.dark" class="h-7 dark:block" />
       <span v-if="showTitle && title" class="text-sm font-semibold tracking-wide"
       style="font-family: 'Avenir', 'Avenir Next', 'Segoe UI', 'Helvetica Neue', 'Arial', 'sans-serif';">

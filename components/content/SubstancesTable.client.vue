@@ -248,12 +248,16 @@ const go = (id: string) => {
 <template>
   <section class="h-full min-h-0 flex flex-col">
     <div class="h-full min-h-0 overflow-y-auto">
+
+      <!-- JSONデータ読み込み中 -->
       <div v-if="pending">Loading...</div>
+
+      <!-- JSONデータ読み込み失敗 -->
       <div v-else-if="error" class="text-red-500">
         Failed to load: {{ String(error) }}
       </div>
 
-      <div v-else class="border-r rounded-r-xl md:border-r-0 border-l border-t border-b rounded-l-xl overflow-hidden border-teal-600">
+      <div v-else class="rounded-3xl border border-white/5 bg-white/5 to-transparent overflow-hidden hover:bg-white/10">
         <div class="max-h-[80vh] overflow-y-auto">
           <table class="w-full table-fixed border-separate border-spacing-0" id="substances-table">
             <colgroup>
@@ -264,7 +268,7 @@ const go = (id: string) => {
 
             <thead class="title">
               <tr class="sticky">
-                <th class="sticky border-b border-teal-600 top-0 bg-[#192539] text-left p-4">
+                <th class="sticky border-b border-white/10 top-0 text-left p-4">
                   <button
                     class="sort-toggle"
                     :class="sortClass('name')"
@@ -276,12 +280,12 @@ const go = (id: string) => {
                   <input
                     v-model="qName"
                     type="search"
-                    class="w-full h-7 p-2 bg-slate-700 rounded-lg"
+                    class="w-full h-7 p-2 rounded-lg"
                     placeholder="名称/通称で検索"
                   />
                 </th>
 
-                <th class="hidden md:table-cell sticky border-b border-teal-600 top-0 bg-[#192539] text-left pt-4 pb-4 pr-4">
+                <th class="hidden md:table-cell sticky border-b border-white/10 top-0 text-left pt-4 pb-4 pr-4">
                   <button
                     class="sort-toggle"
                     :class="sortClass('category')"
@@ -298,7 +302,7 @@ const go = (id: string) => {
                   />
                 </th>
 
-                <th class="hidden md:table-cell sticky border-b border-teal-600 top-0 bg-[#192539] text-left pt-4 pb-4 pr-4">
+                <th class="hidden md:table-cell sticky border-b border-white/10 top-0 text-left pt-4 pb-4 pr-4">
                   <button
                     class="sort-toggle"
                     :class="sortClass('legal')"
@@ -336,16 +340,16 @@ const go = (id: string) => {
                 class="row cursor-pointer group"
                 @click="go(r.id)"
               >
-                <td class="bg-[#192539] border-b border-teal-600 h-14 p-4 break-words group-hover:bg-[#2b3e5a]">
+                <td class="border-b border-white/10 h-14 p-4 break-words group-hover:bg-white/10">
                   <div class="font-medium">{{ r.commonName }}</div>
                   <div v-if="r.aliases" class="text-slate-400 text-sm">{{ r.aliases }}</div>
                 </td>
 
-                <td class="hidden md:table-cell bg-[#192539] border-b border-teal-600 h-14 p-4 w-1/4 group-hover:bg-[#2b3e5a]">
+                <td class="hidden md:table-cell border-b border-white/10  h-14 p-4 w-1/4 group-hover:bg-white/10">
                   {{ r.category }}
                 </td>
 
-                <td class="hidden md:table-cell bg-[#192539] border-b border-teal-600 h-14 p-4 w-1/4 group-hover:bg-[#2b3e5a]">
+                <td class="hidden md:table-cell border-b border-white/10  h-14 p-4 w-1/4 group-hover:bg-white/10">
                   {{ r.legal }}
                 </td>
               </tr>
