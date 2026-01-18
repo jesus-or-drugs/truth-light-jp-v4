@@ -1,16 +1,22 @@
 {
-  "id": "2f-nendck",
-  "common_name": "2F-NENDCK",
-  "systematic name": "2-(echiruamineo)-2-(2-furuoro phenyl)shikurohekisanon 類",
+  "id": "2-fluoro-2-oxo-pce",
+  "common_name": "2-fluoro-2'-Oxo-PCE",
+  "systematic name": "2-(ethylamino)-2-(2-fluorophenyl)cyclohexan-1-one",
   "aliases": [
-    "2-fluoro-2-oxo-PCE"
+    "2-fluoro-2-oxo-PCE",
+    "2-Deschloro-2-fluoro-N-ethylnorketamine",
+    "2-fluoro-N-ethylnordeschloroketamine",
+    "2'-fluoro-2-oxo-phenylcyclohexylethylamine",
+    "2-FXE",
+    "2F-NENDCK",
+    "CanKet"
   ],
   "identifiers": {
-    "pubchem_cid": "",
-    "inchi_key": "",
-    "smiles": ""
+    "pubchem_cid": "168323042",
+    "inchi_key": "RTXKYSLDFKUESF-UHFFFAOYSA-N",
+    "smiles": "CCNC1(CCCCC1=O)C2=CC=CC=C2F"
   },
-  "categories": [],
+  "categories": ["解離性薬物","アリルシクロヘキシルアミン"],
   "legal": {
     "jp": {
       "law_number": "",

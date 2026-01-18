@@ -1,26 +1,16 @@
 {
-  "id": "3-me-pcpy",
-  "common_name": "3-Me-PCPy",
+  "id": "3-methyl-pcpy",
+  "common_name": "3-Methyl-PCPy",
   "systematic name": "1-[1-(3-methylphenyl)cyclohexyl]pyrrolidine",
   "aliases": [
-    "3-Methyl-pcpy",
-    "3-Me-pcpy",
-    "FS9Z5C7CQ5",
-    "1-(1-(3-Methylphenyl)cyclohexyl)pyrrolidine",
-    "1-[1-(3-methylphenyl)cyclohexyl]pyrrolidine",
-    "RefChem:198361",
-    "UNII-FS9Z5C7CQ5",
-    "DTXSID201337066",
-    "PD150482"
+    "3-Me-pcpy"
   ],
   "identifiers": {
     "pubchem_cid": "137332188",
     "inchi_key": "JZVMREFYFTZXGN-UHFFFAOYSA-N",
-    "smiles": "",
-    "inchikey": "JZVMREFYFTZXGN-UHFFFAOYSA-N",
-    "pubchemCID": "137332188"
+    "smiles": "CC1=CC(=CC=C1)C2(CCCCC2)N3CCCC3"
   },
-  "categories": [],
+  "categories": ["解離性薬物","アリルシクロヘキシルアミン"],
   "legal": {
     "jp": {
       "law_number": "",

@@ -3,27 +3,14 @@
   "common_name": "3-HO-PCE",
   "systematic name": "3-[1-(ethylamino)cyclohexyl]phenol",
   "aliases": [
-    "3-[1-(ethylamino)cyclohexyl]phenol",
-    "3-(1-(Ethylamino)cyclohexyl)phenol",
-    "3-HO-Pce",
-    "BB7HFF5XW2",
-    "UNII-BB7HFF5XW2",
-    "RefChem:198166",
-    "3-Hydroxyeticyclidine",
-    "3-HO-Pce [NFLIS-DRUG]",
-    "Phenol, 3-(1-(ethylamino)cyclohexyl)-",
-    "DTXSID301343068",
-    "PD069701",
-    "NS00097857"
+    "3-Hydroxyeticyclidine"
   ],
   "identifiers": {
     "pubchem_cid": "137332171",
     "inchi_key": "MIKNPNLBFHVMKK-UHFFFAOYSA-N",
-    "smiles": "",
-    "inchikey": "MIKNPNLBFHVMKK-UHFFFAOYSA-N",
-    "pubchemCID": "137332171"
+    "smiles": ""
   },
-  "categories": [],
+  "categories": ["解離性薬物", "アリルシクロヘキシルアミン"],
   "legal": {
     "jp": {
       "law_number": "",
