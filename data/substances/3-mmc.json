@@ -1,16 +1,18 @@
 {
-  "id": "2-_methylamino_-1-_3-methylphenyl_propane-1-one",
-  "common_name": "二―(メチルアミノ)―一―(三―メチルフェニル)プロパン―一―オン及びその塩類",
+  "id": "3-mmc",
+  "common_name": "3-MMC",
   "systematic_name": "2-(methylamino)-1-(3-methylphenyl)propane-1-one",
   "aliases": [
+    "3-Methylmethcathinone",
+    "2-(methylamino)-1-(3-methylphenyl)-1-Propanone",
     "二―(メチルアミノ)―一―(三―メチルフェニル)プロパン―一―オン及びその塩類"
   ],
   "identifiers": {
-    "pubchem_cid": "",
-    "inchi_key": "",
-    "smiles": ""
+    "pubchem_cid": "71741532",
+    "inchi_key": "QDNXSIYWHYGMCD-UHFFFAOYSA-N",
+    "smiles": "CC1=CC(=CC=C1)C(=O)C(C)NC"
   },
-  "categories": [],
+  "categories": ["中枢神経刺激薬","エンタクトジェン","カチノン"],
   "legal": {
     "jp": {
       "law_number": "",

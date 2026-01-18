@@ -1,16 +1,19 @@
 {
-  "id": "2-_ethylamino_-2-_3-methoxyphenyl_cyclohexanone",
-  "common_name": "二―(エチルアミノ)―二―(三―メトキシフェニル)シクロヘキサノン及びその塩類",
+  "id": "methoxetamine",
+  "common_name": "Methoxetamine",
   "systematic_name": "2-(ethylamino)-2-(3-methoxyphenyl)cyclohexanone",
   "aliases": [
+    "cyclohexanone",
+    "3-MeO-2-Oxo-PCE",
+    "Mexxy",
     "二―(エチルアミノ)―二―(三―メトキシフェニル)シクロヘキサノン及びその塩類"
   ],
   "identifiers": {
-    "pubchem_cid": "",
-    "inchi_key": "",
-    "smiles": ""
+    "pubchem_cid": "52911279",
+    "inchi_key": "LPKTWLVEGBNOOX-UHFFFAOYSA-N",
+    "smiles": "CCNC1(CCCCC1=O)C2=CC(=CC=C2)OC"
   },
-  "categories": [],
+  "categories": ["解離性薬物","アリルシクロヘキシルアミン"],
   "legal": {
     "jp": {
       "law_number": "",

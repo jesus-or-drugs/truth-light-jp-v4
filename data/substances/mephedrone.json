@@ -1,16 +1,22 @@
 {
-  "id": "2-_methylamino_-1-_4-methylphenyl_propane-1-one",
-  "common_name": "二―(メチルアミノ)―一―(四―メチルフェニル)プロパン―一―オン及びその塩類",
+  "id": "mephedrone",
+  "common_name": "Mephedrone",
   "systematic_name": "2-(methylamino)-1-(4-methylphenyl)propane-1-one",
   "aliases": [
+    "4-MMC",
+    "4-methylmethcathinone",
+    "M-CAT",
+    "Meow Meow",
+    "bk-4-methylmethamphetamine",
+    "4-methylephedrone",
     "二―(メチルアミノ)―一―(四―メチルフェニル)プロパン―一―オン及びその塩類"
   ],
   "identifiers": {
-    "pubchem_cid": "",
-    "inchi_key": "",
-    "smiles": ""
+    "pubchem_cid": "45266826",
+    "inchi_key": "YELGFTGWJGBAQU-UHFFFAOYSA-N",
+    "smiles": "CC1=CC=C(C=C1)C(=O)C(C)NC"
   },
-  "categories": [],
+  "categories": ["中枢神経刺激薬","エンタクトジェン","カチノン"],
   "legal": {
     "jp": {
       "law_number": "",

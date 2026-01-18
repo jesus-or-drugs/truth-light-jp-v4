@@ -1,14 +1,19 @@
 {
-  "id": "2-_methylamino_-1-phenylpropane-1-one",
+  "id": "methcathinone",
   "common_name": "メトカチノン",
   "systematic_name": "2-(methylamino)-1-phenylpropane-1-one",
   "aliases": [
+    "Methcathinone",
+    "Monomethylpropion",
+    "Ephedrone",
+    "alpha-Methylaminopropiophenone",
+    "alpha-N-Methylaminopropiophenone",
     "二―(メチルアミノ)―一―フェニルプロパン―一―オン(別名メトカチノン)及びその塩類"
   ],
   "identifiers": {
-    "pubchem_cid": "",
-    "inchi_key": "",
-    "smiles": ""
+    "pubchem_cid": "1576",
+    "inchi_key": "LPLLVINFLBSFRP-UHFFFAOYSA-N",
+    "smiles": "CC(C(=O)C1=CC=CC=C1)NC"
   },
   "categories": [],
   "legal": {

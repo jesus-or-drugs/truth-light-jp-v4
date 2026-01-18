@@ -1,14 +1,14 @@
 {
-  "id": "2-_methylamino_-1-phenylpentane-1-one",
-  "common_name": "二―(メチルアミノ)―一―フェニルペンタン―一―オン及びその塩類",
+  "id": "pentedrone",
+  "common_name": "Pentedrone",
   "systematic_name": "2-(methylamino)-1-phenylpentane-1-one",
   "aliases": [
     "二―(メチルアミノ)―一―フェニルペンタン―一―オン及びその塩類"
   ],
   "identifiers": {
-    "pubchem_cid": "",
-    "inchi_key": "",
-    "smiles": ""
+    "pubchem_cid": "57501499",
+    "inchi_key": "WLIWIUNEJRETFX-UHFFFAOYSA-N",
+    "smiles": "CCCC(C(=O)C1=CC=CC=C1)NC"
   },
   "categories": [],
   "legal": {

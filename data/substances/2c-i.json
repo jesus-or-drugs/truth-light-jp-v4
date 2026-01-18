@@ -1,16 +1,18 @@
 {
-  "id": "2-_4-iodo-2_5-dimethoxyphenyl_ethanamine",
-  "common_name": "二―(四―ヨード―二・五―ジメトキシフェニル)エタンアミン及びその塩類",
+  "id": "2c-i",
+  "common_name": "2C-I",
   "systematic_name": "2-(4-iodo-2,5-dimethoxyphenyl)ethanamine",
   "aliases": [
+    "2,5-Dimethoxy-4-iodophenethylamine",
+    "4-iodo-2,5-dimethoxy-beta-phenethylamine",
     "二―(四―ヨード―二・五―ジメトキシフェニル)エタンアミン及びその塩類"
   ],
   "identifiers": {
-    "pubchem_cid": "",
-    "inchi_key": "",
-    "smiles": ""
+    "pubchem_cid": "10267191",
+    "inchi_key": "PQHQBRJAAZQXHL-UHFFFAOYSA-N",
+    "smiles": "COC1=CC(=C(C=C1CCN)OC)I"
   },
-  "categories": [],
+  "categories": ["サイケデリックス","2Cファミリー","フェネチルアミン"],
   "legal": {
     "jp": {
       "law_number": "",
