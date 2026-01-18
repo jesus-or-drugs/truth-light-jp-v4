@@ -256,8 +256,9 @@ const go = (id: string) => {
       <div v-else-if="error" class="text-red-500">
         Failed to load: {{ String(error) }}
       </div>
-
-      <div v-else class="rounded-3xl border border-white/5 bg-white/5 to-transparent overflow-hidden hover:bg-white/10">
+      
+      <!-- Substance Table -->
+      <div v-else class="rounded-3xl border border-white/10 to-transparent overflow-hidden">
         <div class="max-h-[80vh] overflow-y-auto">
           <table class="w-full table-fixed border-separate border-spacing-0" id="substances-table">
             <colgroup>
@@ -268,7 +269,7 @@ const go = (id: string) => {
 
             <thead class="title">
               <tr class="sticky">
-                <th class="sticky border-b border-white/10 top-0 text-left p-4">
+                <th class="text-slate-400 sticky border-b border-white/10 bg-white/5 top-0 text-left pl-6 pt-4 pr-4 pb-4">
                   <button
                     class="sort-toggle"
                     :class="sortClass('name')"
@@ -280,12 +281,12 @@ const go = (id: string) => {
                   <input
                     v-model="qName"
                     type="search"
-                    class="w-full h-7 p-2 rounded-lg"
+                    class="w-full h-7 p-2 bg-slate-700 rounded-lg"
                     placeholder="名称/通称で検索"
                   />
                 </th>
 
-                <th class="hidden md:table-cell sticky border-b border-white/10 top-0 text-left pt-4 pb-4 pr-4">
+                <th class="bg-slate-950 hidden md:table-cell sticky border-b border-white/10 bg-white/5 top-0 text-left pl-6 pt-4 pr-4 pb-4">
                   <button
                     class="sort-toggle"
                     :class="sortClass('category')"
@@ -302,7 +303,7 @@ const go = (id: string) => {
                   />
                 </th>
 
-                <th class="hidden md:table-cell sticky border-b border-white/10 top-0 text-left pt-4 pb-4 pr-4">
+                <th class="text-slate-400 bg-slate-950 hidden md:table-cell sticky border-b border-white/10 bg-white/5 top-0 text-left pl-6 pt-4 pr-4 pb-4">
                   <button
                     class="sort-toggle"
                     :class="sortClass('legal')"
@@ -312,7 +313,7 @@ const go = (id: string) => {
                   </button>
                   <br />
                   <label>
-                    <select v-model="qLegal" name="drug" class="w-full pl-2 h-7 bg-slate-700 rounded-lg">
+                    <select v-model="qLegal" name="drug" class="w-full pl-2 h-7 text-slate-400 bg-slate-700 rounded-lg">
                       <option value="">選択...</option>
                       <option value="narcotics">麻薬</option>
                       <option value="schedule-1">向1種</option>
