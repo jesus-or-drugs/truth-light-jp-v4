@@ -32,18 +32,15 @@ export default defineAppConfig({
       border: false,
       nav: [
         { title: 'NPSデータベース(α版)', to: '/substances' },
-        { title: '本サイトについて', to: '/info'},
+        { title: '依存症相談窓口', to: '/recovery' }
+        { title: '本サイトについて', to: '/info'
         { title: '免責事項', to: '/info/disclaimer'}
-        // { title: '依存症相談窓口', to: '/recovery' }
       ],
       links: [{
         icon: 'lucide:github',
         to: 'https://github.com/jesus-or-drugs/truth-light-jp-v4',
         target: '_blank',
       }],
-    },
-    hero: {
-      background: '/structure-bg-02-upscale.png',
     },
     categories: {
       stimulants: "中枢神経刺激薬", 

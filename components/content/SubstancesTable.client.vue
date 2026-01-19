@@ -323,13 +323,6 @@ const go = (id: string) => {
                       <option value="generic-scheduling">指定薬物(包括)</option>
                     </select>
                   </label>
-
-                  <!-- <input
-                    v-model="qLegal"
-                    type="search"
-                    class="w-full h-7 p-2 bg-slate-700 rounded-lg"
-                    placeholder="規制区分で検索"
-                  /> -->
                 </th>
               </tr>
             </thead>

@@ -2,8 +2,17 @@
 export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
-  modules: ['@nuxtjs/tailwindcss', '@nuxt/image'],
+  modules: ['@nuxtjs/tailwindcss', '@nuxt/image', '@nuxtjs/sitemap'],
   css: ["~/assets/css/tailwind.css"],
+
+  site: {
+    url: 'https://www.truth-light.jp', // ←本番ドメイン
+    name: 'Truth Light',
+  },
+
+  sitemap: {
+    // まずはデフォルトでOK（静的ルートは自動で拾われる）
+  },
 
   nitro: {
     routeRules: {
