@@ -1,56 +1,63 @@
 <template>
   <!-- md以上: 横並びナビ -->
-  <nav class="hidden items-center gap-6 text-sm text-slate-300 md:flex">
-    <a class="hover:text-white" href="/substances">NPSデータベース(α版)</a>
-    <a class="hover:text-white" href="/info">Purpose</a>
-    <a class="hover:text-white" href="/info/legal">法規制</a>
-    <!-- <a class="hover:text-white" href="/articles">Articles</a> -->
+  <nav class="hidden md:inline md:absolute md:left-1/2 md:-translate-x-1/2 md:top-1/2 md:-translate-y-1/2 gap-4 text-sm text-slate-300 my-auto">
+    <!-- メインメニュー -->
+  <ul class="flex flex-row list-none">
+  <li v-for="n in navItems" :key="n.key" class="pr-4 flex items-center">
+    <!-- 単体リンク -->
+    <NuxtLink
+      v-if="n.type === 'link'"
+      :to="n.item.to"
+      class="py-2 text-slate-300 hover:text-white"
+    >
+      {{ n.item.title }}
+    </NuxtLink>
+
+    <!-- ドロップダウン -->
+    <details v-else class="group relative">
+      <summary
+        class="list-none cursor-pointer select-none py-2 text-slate-300 hover:text-white inline-flex items-center gap-1"
+      >
+        <span>{{ n.title }}</span>
+        <span class="text-xs opacity-90 transition-transform duration-200 group-open:rotate-180">▾</span>
+      </summary>
+
+      <div
+        class="
+          absolute left-1/2 -translate-x-1/2 mt-2 min-w-56
+          rounded-xl border border-white/10 bg-slate-900/80 backdrop-blur shadow-lg
+          overflow-hidden opacity-0 scale-95 translate-y-1 pointer-events-none
+          transition-all duration-200 ease-out
+          group-open:opacity-100 group-open:scale-100 group-open:translate-y-0
+          group-open:pointer-events-auto
+        "
+      >
+        <div class="flex flex-col p-2">
+          <NuxtLink
+            v-for="c in n.children"
+            :key="c.key"
+            :to="c.item.to"
+            class="rounded-lg px-3 py-2 text-sm text-slate-200 hover:bg-white/5 hover:text-white"
+          >
+            {{ c.item.title }}
+          </NuxtLink>
+        </div>
+      </div>
+    </details>
+  </li>
+</ul>
+
   </nav>
+
 
   <!-- md未満: メニューボタン -->
-  <button class="md:hidden inline-flex items-center gap-2 rounded-lg border px-3 py-2 text-sm" @click="toggle"
-    :aria-expanded="open" aria-controls="mobile-menu">
-    <span class="font-medium">Menu</span>
-    <span aria-hidden="true">{{ open ? "✕" : "☰" }}</span>
+  <button id="mobileButton" type="button" src class="absolute inline md:hidden menu-button w-[42px] h-[42px] "
+  aria-controls="mobileMenu" aria-expanded="false" aria-labelledby="mobileButtonLabel">
+    <span class="inline rounded-xl border border-white/10 bg-white/5 px-3 py-2 text-sm text-slate-200 hover:bg-white/10">
+      <img src="/icon/menu_open_01_white.png" alt="開く" />
+    </span>
   </button>
-
-  <!-- ここが肝: absoluteで“浮く”メニュー -->
-  <Transition enter-active-class="transition-all duration-300 ease-out"
-    enter-from-class="opacity-0 -translate-y-2 max-h-0" enter-to-class="opacity-100 translate-y-0 max-h-[70vh]"
-    leave-active-class="transition-all duration-200 ease-in" leave-from-class="opacity-100 translate-y-0 max-h-[70vh]"
-    leave-to-class="opacity-0 -translate-y-2 max-h-0">
-    <div v-show="open" id="mobile-menu"
-      class="md:hidden absolute left-0 right-0 top-full border-t bg-slate-700/95 backdrop-blur shadow-lg overflow-hidden"
-      @click.stop>
-      <div class="px-4 py-3 flex flex-col gap-3">
-        <NuxtLink to="/substances" class="py-2" @click="close">Substances</NuxtLink>
-        <NuxtLink to="/about" class="py-2" @click="close">About</NuxtLink>
-        <NuxtLink to="/terms" class="py-2" @click="close">Terms</NuxtLink>
-      </div>
-    </div>
-  </Transition>
-
-  <!-- Mobile: details/summary (CSS + native open/close, no JS state) -->
-  <nav id="mobile-menu" class="md:hidden border-t">
-    <div class="px-4 py-3 flex flex-col gap-2">
-      <template v-for="n in navItems" :key="n.key">
-        <NextLink v-if="n.type === 'link'" :to="n.item.to" class="py-2 text-slate-200">
-          {{ n.item.title }}
-        </NextLink>
-
-        <details v-else class="rounded-lg border border-white/10">
-          <summary class="px-3 py-2 cursor-pointer text-slate-200 select-none">
-            {{ n.title }}
-          </summary>
-          <div class="px-3 pb-2 flex flex-col">
-            <NextLink v-for="c in n.children" :key="c.key" :to="c.item.to" class="py-2 text-slate-200/90">
-              {{ c.item.title }}
-            </NextLink>
-          </div>
-        </details>
-      </template>
-    </div>
-  </nav>
+  
 </template>
 
 <script setup lang="ts">
@@ -63,19 +70,24 @@ type NavNode =
   | { key: string; type: "link"; item: NavLeaf }
   | { key: string; type: "menu"; title: string; children: { key: string; item: NavLeaf }[] }
 
-// header.nav と theme.nav どっちでも動くように吸収（好きな方だけ残してもOK）
+// header.nav と theme.nav どっちでも動くように吸収
 const rawNav = computed<Record<string, any>>(
-  () => appConfig.truthlight?.theme?.nav ?? appConfig.truthlight?.header?.nav ?? {}
+  () => appConfig.truthlight?.header?.nav ?? {}
 )
+
+console.log(`rawNavの内容：${rawNav}`)
 
 const navItems = computed<NavNode[]>(() => {
   const titleMap: Record<string, string> = {
-    basics: "基本",
-    info: "情報",
+    basics: "薬物基礎編",
+    database: 'NPSデータベース(α版)',
+    recovery: '依存症回復相談',
+    info: "当サイトについて",
   }
 
   return Object.entries(rawNav.value).map(([key, value]: any) => {
-    // {title,to} なら単体リンク
+    // {title,to} の単体リンクの場合
+    console.log('valueの内容：' + value)
     if (value?.title && value?.to) {
       return { key, type: "link", item: value as NavLeaf }
     }
@@ -90,8 +102,15 @@ const navItems = computed<NavNode[]>(() => {
       key,
       type: "menu",
       title: titleMap[key] ?? key,
+      item: titleMap[key] ?? key, 
       children,
     }
   })
+})
+
+console.log(`navItemsの中身：${navItems}`)
+
+const toggleMenu =computed<void>(() => {
+
 })
 </script>

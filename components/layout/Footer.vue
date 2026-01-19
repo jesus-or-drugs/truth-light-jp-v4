@@ -1,19 +1,19 @@
 <template>
     <!-- デフォルトページ用 -->
-    <footer v-if="props.variant === `default`" class="mb-4">
-        <p class="text-slate-400 text-center">{{ copyright }}</p>
+    <footer v-if="props.variant === `default`" class="pb-4">
+        <p class="text-slate-300 text-center">{{ copyright }}</p>
     </footer>
 
-    <footer v-else-if="props.variant === `substances`" class="mb-4">
-        <p class="text-slate-400 text-center">{{ copyright }}</p>
+    <footer v-else-if="props.variant === `substances`" class="pb-4">
+        <p class="text-slate-300 text-center">{{ copyright }}</p>
     </footer>
 
-    <footer v-else-if="props.variant === `legal`" class="mb-4">
-        <p class="text-slate-400 text-center">{{ copyright }}</p>
+    <footer v-else-if="props.variant === `legal`" class="pb-4">
+        <p class="text-slate-300 text-center">{{ copyright }}</p>
     </footer>
 
-    <footer v-else class="mb-4">
-        <p class="text-slate-400 text-center">{{ copyright }}</p>
+    <footer v-else class="pb-4">
+        <p class="text-slate-300 text-center">{{ copyright }}</p>
     </footer>
 
 
@@ -27,6 +27,5 @@ const props = defineProps<{
 const appConfig = useAppConfig()
 
 const footer = appConfig.truthlight?.footer
-
 const copyright = footer.credits
 </script>

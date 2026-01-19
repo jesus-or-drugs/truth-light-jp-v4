@@ -268,8 +268,8 @@ const go = (id: string) => {
             </colgroup>
 
             <thead class="title">
-              <tr class="sticky">
-                <th class="text-slate-400 sticky border-b border-white/10 bg-white/5 top-0 text-left pl-6 pt-4 pr-4 pb-4">
+              <tr class="">
+                <th class="sticky bg-slate-900 border-b border-white/10 text-slate-400 top-0 text-left pl-6 pt-4 pr-4 pb-4">
                   <button
                     class="sort-toggle"
                     :class="sortClass('name')"
@@ -286,7 +286,7 @@ const go = (id: string) => {
                   />
                 </th>
 
-                <th class="bg-slate-950 hidden md:table-cell sticky border-b border-white/10 bg-white/5 top-0 text-left pl-6 pt-4 pr-4 pb-4">
+                <th class="sticky bg-slate-900 border-b border-white/10 text-slate-400 top-0 text-left pl-6 pt-4 pr-4 pb-4">
                   <button
                     class="sort-toggle"
                     :class="sortClass('category')"
@@ -303,7 +303,7 @@ const go = (id: string) => {
                   />
                 </th>
 
-                <th class="text-slate-400 bg-slate-950 hidden md:table-cell sticky border-b border-white/10 bg-white/5 top-0 text-left pl-6 pt-4 pr-4 pb-4">
+                <th class="sticky bg-slate-900 border-b border-white/10 text-slate-400 top-0 text-left pl-6 pt-4 pr-4 pb-4">
                   <button
                     class="sort-toggle"
                     :class="sortClass('legal')"
@@ -334,16 +334,16 @@ const go = (id: string) => {
                 class="row cursor-pointer group"
                 @click="go(r.id)"
               >
-                <td class="border-b border-white/10 h-14 p-4 break-words group-hover:bg-white/10">
+                <td class="bg-slate-900/30 border-b border-t border-slate-700/60 h-14 p-4 break-words group-hover:border-teal-500/70 group-hover:text-teal-200 group-hover:bg-teal-500/10">
                   <div class="font-medium">{{ r.commonName }}</div>
                   <div v-if="r.aliases" class="text-slate-400 text-sm">{{ r.aliases }}</div>
                 </td>
 
-                <td class="hidden md:table-cell border-b border-white/10  h-14 p-4 w-1/4 group-hover:bg-white/10">
+                <td class="hidden md:table-cell bg-slate-900/30 border-b border-t border-slate-700/60 group-hover:border-teal-500/70 group-hover:text-teal-200 group-hover:bg-teal-500/10">
                   {{ r.category }}
                 </td>
 
-                <td class="hidden md:table-cell border-b border-white/10  h-14 p-4 w-1/4 group-hover:bg-white/10">
+                <td class="hidden md:table-cell bg-slate-900/30 border-b border-t border-slate-700/60 group-hover:border-teal-500/70 group-hover:text-teal-200 group-hover:bg-teal-500/10">
                   {{ r.legal }}
                 </td>
               </tr>

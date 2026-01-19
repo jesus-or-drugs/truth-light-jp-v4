@@ -30,17 +30,20 @@ export default defineAppConfig({
         black: './logo/Jesus_fish_02_ol_black.png',
       },
       border: false,
+
       nav: {
         basics: {
-          meth: { title: "🧊メタンフェタミン", to: 'substances/methamphemine'},
-          cocaine: {title: '🚴コカイン',to: 'substances/cocaine'},
-          mdma: {title: '❌️エクスタシー', to: 'substances/mdma'}
+          type: "menu",
+          meth: { type: "link", title: "🧊メタンフェタミン", to: 'substances/methamphemine' },
+          cocaine: { type: "link", title: '🚴コカイン',to: 'substances/cocaine' },
+          mdma: { type: "link", title: '❌️エクスタシー', to: 'substances/mdma' },
         },
-        database: { title: 'NPSデータベース(α版)', to: '/substances' },
-        recovery: { title: '依存症相談窓口', to: '/recovery' },
+        database: { type: "link", title: 'NPSデータベース(α版)', to: '/substances' },
+        recovery: { type: "link", title: '依存症相談窓口', to: '/recovery' },
         info: {
-          about: {title: '本サイトについて', to: '/info'},
-          disclaimer: { title: '免責事項', to: '/info/disclaimer'}
+          type: "menu",
+          about: { type: "link", title: '本サイトについて', to: '/info'},
+          disclaimer: { type: "link", title: '免責事項', to: '/info/disclaimer'}
         }
       },
       links: [

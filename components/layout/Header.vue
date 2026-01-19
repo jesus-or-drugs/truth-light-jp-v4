@@ -4,15 +4,13 @@
   <header 
    v-if="variant === `default`"
    class="sticky top-0 z-50 border-b border-white/10 bg-slate-950/70 backdrop-blur">
-    <div class="mx-auto flex flex-row max-w-6xl items-center justify-between px-6 py-4 relative">
+    <div class="relative mx-auto flex flex-row max-w-6xl items-center justify-between px-6 py-4">
 
       <!-- タイトル -->
-      <div>
-        <LayoutHeaderLogo :subtitle="subtitle" />
-      </div>
+      <div class="static"><LayoutHeaderLogo :subtitle="subtitle" /></div>
 
       <div><LayoutHeaderNav :variant="props.variant" /></div>
-      <div><LayoutHeaderToc /></div>
+      <div class="absolute inline-block right-0"><LayoutHeaderToc /></div>
 
 
       <!-- <div class="flex items-center gap-2">
