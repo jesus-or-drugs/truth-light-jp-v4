@@ -1,6 +1,6 @@
 <template>
   <div class="flex items-center gap-3">
-    <NuxtLink v-if="logo?.light && logo?.dark" to="/" class="flex items-center gap-2">
+    <NuxtLink v-if="logo?.white && logo?.black" to="/" class="flex items-center gap-2">
       <NuxtImg :src="logo.dark" class="h-7 dark:block" />
       <span v-if="showTitle && title" class="text-sm font-semibold tracking-wide"
       style="font-family: 'Avenir', 'Avenir Next', 'Segoe UI', 'Helvetica Neue', 'Arial', 'sans-serif';">
@@ -19,15 +19,15 @@ const props = defineProps<{
 }>()
 
 type LogoConfig = {
-  light?: string
-  dark?: string
+  white?: string
+  black?: string
 }
 
 const appConfig = useAppConfig()
 
 const header = appConfig.truthlight?.header ?? {}
-
 const logo = (header.logo ?? {}) as LogoConfig
+
 const title = (header.title ?? "") as string
 const showTitle = (header.showTitle ?? true) as boolean
 </script>

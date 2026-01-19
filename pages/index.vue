@@ -1,5 +1,5 @@
 <template>
-<body class="min-h-screen bg-slate-950 text-slate-100 antialiased">
+<div class="min-h-screen bg-slate-950 text-slate-100 antialiased">
   <main>
     <!-- Hero -->
     <section class="mx-auto max-w-6xl px-6 pb-10 pt-16">
@@ -238,7 +238,7 @@
   </footer>
 
 
-</body>
+</div>
 </template>
 
 <script setup lang="ts">

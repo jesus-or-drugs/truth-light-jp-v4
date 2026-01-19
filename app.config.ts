@@ -14,7 +14,7 @@ export default defineAppConfig({
         sans: ['Avenir', 'Avenir Next', 'Segoe UI', 'Helvetica Neue', 'Arial', 'sans-serif'],
         mono: ['Source Han Code JP', '源ノ角ゴシック Code JP', 'Source Han Code', '源ノ角ゴシック Code', 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Monaco', 'Consolas', 'Liberation Mono', 'Courier New']
         }
-      },
+    },
     header: {
       title: 'Truth Light',
       showTitle: true,
@@ -26,21 +26,30 @@ export default defineAppConfig({
         dropdownType: 'select',
       },
       logo: {
-        light: './logo/Jesus_fish_02_ol_black.png',
-        dark: './logo/Jesus_fish_02_ol_white.png',
+        white: './logo/Jesus_fish_02_ol_white.png',
+        black: './logo/Jesus_fish_02_ol_black.png',
       },
       border: false,
-      nav: [
-        { title: 'NPSデータベース(α版)', to: '/substances' },
-        { title: '依存症相談窓口', to: '/recovery' }
-        { title: '本サイトについて', to: '/info'
-        { title: '免責事項', to: '/info/disclaimer'}
-      ],
-      links: [{
-        icon: 'lucide:github',
-        to: 'https://github.com/jesus-or-drugs/truth-light-jp-v4',
-        target: '_blank',
-      }],
+      nav: {
+        basics: {
+          meth: { title: "🧊メタンフェタミン", to: 'substances/methamphemine'},
+          cocaine: {title: '🚴コカイン',to: 'substances/cocaine'},
+          mdma: {title: '❌️エクスタシー', to: 'substances/mdma'}
+        },
+        database: { title: 'NPSデータベース(α版)', to: '/substances' },
+        recovery: { title: '依存症相談窓口', to: '/recovery' },
+        info: {
+          about: {title: '本サイトについて', to: '/info'},
+          disclaimer: { title: '免責事項', to: '/info/disclaimer'}
+        }
+      },
+      links: [
+        {
+          icon: 'lucide:github',
+          to: 'https://github.com/jesus-or-drugs/truth-light-jp-v4',
+          target: '_blank'
+        }
+      ]
     },
     categories: {
       stimulants: "中枢神経刺激薬", 
