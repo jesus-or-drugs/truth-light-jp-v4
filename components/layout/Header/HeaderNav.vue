@@ -1,51 +1,40 @@
 <template>
-  <!-- Desktop: hover dropdown (CSS only) -->
-  <nav class="hidden md:flex items-center gap-6">
-    <template v-for="n in navItems" :key="n.key">
-      <!-- Single link -->
-      <NextLink
-        v-if="n.type === 'link'"
-        :to="n.item.to"
-        class="text-sm text-slate-200 hover:text-white"
-      >
-        {{ n.item.title }}
-      </NextLink>
-
-      <!-- Dropdown (hover only) -->
-      <div v-else class="relative group">
-        <span class="text-sm text-slate-200 hover:text-white inline-flex items-center gap-1 cursor-default">
-          {{ n.title }}
-          <span class="text-xs opacity-70">▾</span>
-        </span>
-
-        <!-- hover area -->
-        <div class="absolute left-0 top-full pt-2 hidden group-hover:block">
-          <div
-            class="min-w-56 rounded-xl border border-white/10 bg-slate-900/95 backdrop-blur px-2 py-2 shadow-lg"
-          >
-            <NextLink
-              v-for="c in n.children"
-              :key="c.key"
-              :to="c.item.to"
-              class="block rounded-lg px-3 py-2 text-sm text-slate-200 hover:bg-white/5 hover:text-white"
-            >
-              {{ c.item.title }}
-            </NextLink>
-          </div>
-        </div>
-      </div>
-    </template>
+  <!-- md以上: 横並びナビ -->
+  <nav class="hidden items-center gap-6 text-sm text-slate-300 md:flex">
+    <a class="hover:text-white" href="/substances">NPSデータベース(α版)</a>
+    <a class="hover:text-white" href="/info">Purpose</a>
+    <a class="hover:text-white" href="/info/legal">法規制</a>
+    <!-- <a class="hover:text-white" href="/articles">Articles</a> -->
   </nav>
+
+  <!-- md未満: メニューボタン -->
+  <button class="md:hidden inline-flex items-center gap-2 rounded-lg border px-3 py-2 text-sm" @click="toggle"
+    :aria-expanded="open" aria-controls="mobile-menu">
+    <span class="font-medium">Menu</span>
+    <span aria-hidden="true">{{ open ? "✕" : "☰" }}</span>
+  </button>
+
+  <!-- ここが肝: absoluteで“浮く”メニュー -->
+  <Transition enter-active-class="transition-all duration-300 ease-out"
+    enter-from-class="opacity-0 -translate-y-2 max-h-0" enter-to-class="opacity-100 translate-y-0 max-h-[70vh]"
+    leave-active-class="transition-all duration-200 ease-in" leave-from-class="opacity-100 translate-y-0 max-h-[70vh]"
+    leave-to-class="opacity-0 -translate-y-2 max-h-0">
+    <div v-show="open" id="mobile-menu"
+      class="md:hidden absolute left-0 right-0 top-full border-t bg-slate-700/95 backdrop-blur shadow-lg overflow-hidden"
+      @click.stop>
+      <div class="px-4 py-3 flex flex-col gap-3">
+        <NuxtLink to="/substances" class="py-2" @click="close">Substances</NuxtLink>
+        <NuxtLink to="/about" class="py-2" @click="close">About</NuxtLink>
+        <NuxtLink to="/terms" class="py-2" @click="close">Terms</NuxtLink>
+      </div>
+    </div>
+  </Transition>
 
   <!-- Mobile: details/summary (CSS + native open/close, no JS state) -->
   <nav id="mobile-menu" class="md:hidden border-t">
     <div class="px-4 py-3 flex flex-col gap-2">
       <template v-for="n in navItems" :key="n.key">
-        <NextLink
-          v-if="n.type === 'link'"
-          :to="n.item.to"
-          class="py-2 text-slate-200"
-        >
+        <NextLink v-if="n.type === 'link'" :to="n.item.to" class="py-2 text-slate-200">
           {{ n.item.title }}
         </NextLink>
 
@@ -54,12 +43,7 @@
             {{ n.title }}
           </summary>
           <div class="px-3 pb-2 flex flex-col">
-            <NextLink
-              v-for="c in n.children"
-              :key="c.key"
-              :to="c.item.to"
-              class="py-2 text-slate-200/90"
-            >
+            <NextLink v-for="c in n.children" :key="c.key" :to="c.item.to" class="py-2 text-slate-200/90">
               {{ c.item.title }}
             </NextLink>
           </div>

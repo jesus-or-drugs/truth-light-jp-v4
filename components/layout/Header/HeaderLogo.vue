@@ -1,7 +1,7 @@
 <template>
   <div class="flex items-center gap-3">
-    <NuxtLink v-if="logo?.white && logo?.black" to="/" class="flex items-center gap-2">
-      <NuxtImg :src="logo.dark" class="h-7 dark:block" />
+    <NuxtLink v-if="logo?.black && logo?.white" to="/" class="flex items-center gap-2">
+      <NuxtImg :src="logo.white" class="h-7 dark:block" />
       <span v-if="showTitle && title" class="text-sm font-semibold tracking-wide"
       style="font-family: 'Avenir', 'Avenir Next', 'Segoe UI', 'Helvetica Neue', 'Arial', 'sans-serif';">
         {{ title }}
