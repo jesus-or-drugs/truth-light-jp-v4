@@ -25,7 +25,7 @@
       <div
         class="
           absolute left-1/2 -translate-x-1/2 mt-2 min-w-56
-          rounded-xl border border-white/10 bg-slate-900/80 backdrop-blur shadow-lg
+          rounded-xl border border-white/10 bg-slate-900/90 shadow-lg backdrop-blur-xl
           overflow-hidden opacity-0 scale-95 translate-y-1 pointer-events-none
           transition-all duration-200 ease-out
           group-open:opacity-100 group-open:scale-100 group-open:translate-y-0
@@ -65,52 +65,36 @@ import { computed } from "vue"
 
 const appConfig = useAppConfig()
 
-type NavLeaf = { title: string; to: string }
+type NavLeaf = { title: string; type: string; to: string }
 type NavNode =
   | { key: string; type: "link"; item: NavLeaf }
-  | { key: string; type: "menu"; title: string; children: { key: string; item: NavLeaf }[] }
+  | { key: string; type: "menu"; title: String; children: { key: string; item: NavLeaf }[] }
 
 // header.nav と theme.nav どっちでも動くように吸収
 const rawNav = computed<Record<string, any>>(
   () => appConfig.truthlight?.header?.nav ?? {}
 )
 
-console.log(`rawNavの内容：${rawNav}`)
-
 const navItems = computed<NavNode[]>(() => {
-  const titleMap: Record<string, string> = {
-    basics: "薬物基礎編",
-    database: 'NPSデータベース(α版)',
-    recovery: '依存症回復相談',
-    info: "当サイトについて",
-  }
+  return Object.entries(rawNav.value).map(
+    ([key, value]: any) => {
+      // 単一メニューはそのまま表示
+      if (value.type === "link") {
+        return { key: key, type: value.type, item: value as NavLeaf }
+      }
 
-  return Object.entries(rawNav.value).map(([key, value]: any) => {
-    // {title,to} の単体リンクの場合
-    console.log('valueの内容：' + value)
-    if (value?.title && value?.to) {
-      return { key, type: "link", item: value as NavLeaf }
-    }
+      // 複数メニューはプルダウン化
+      if (value.type === "menu") {
+        const children = Object.entries(value)
+        .filter(([k,v]: any) => v.type === "link")
+        .map(([childKey, childVal]: any) => ({key: childKey, item: childVal}))
 
-    // object ならドロップダウン扱い
-    const children = Object.entries(value ?? {}).map(([childKey, childVal]: any) => ({
-      key: childKey,
-      item: childVal as NavLeaf,
-    }))
-
-    return {
-      key,
-      type: "menu",
-      title: titleMap[key] ?? key,
-      item: titleMap[key] ?? key, 
-      children,
-    }
+        return { key, type: "menu", title: value.title, children }
+      }
+      return { key, type: "link", item: { title: String(key), to: "/" } }
   })
 })
 
-console.log(`navItemsの中身：${navItems}`)
+console.log(navItems)
 
-const toggleMenu =computed<void>(() => {
-
-})
 </script>

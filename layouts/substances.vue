@@ -1,13 +1,13 @@
 <template>
-  <div
-  class="h-[100dvh] flex flex-col overflow-hidden">
-    <LayoutHeader variant="substances" />
+  <div class="min-h-[100dvh] flex flex-col bg-slate-800 text-white">
+    <LayoutHeader variant="substances" class="shrink-0" />
 
-    <main class="flex-1 min-h-0 overflow-hidden">
+    <!-- ここがキモ：高さ固定しない、スクロールを許可 -->
+    <main class="flex-1 overflow-y-auto">
       <slot />
     </main>
-    
-    <LayoutFooter variant="substances" />
+
+    <LayoutFooter variant="substances" class="shrink-0" />
   </div>
 </template>
 

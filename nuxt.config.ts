@@ -11,7 +11,7 @@ export default defineNuxtConfig({
   },
 
   sitemap: {
-    // まずはデフォルトでOK（静的ルートは自動で拾われる）
+    sources: ['/api/__sitemap__/urls'],
   },
 
   nitro: {

@@ -11,22 +11,7 @@
 
       <div><LayoutHeaderNav :variant="props.variant" /></div>
       <div class="absolute inline-block right-0"><LayoutHeaderToc /></div>
-
-
-      <!-- <div class="flex items-center gap-2">
-        <a
-          href="/about"
-          class="rounded-xl border border-white/10 bg-white/5 px-3 py-2 text-sm text-slate-200 hover:bg-white/10"
-        >
-          About
-        </a>
-        <a
-          href="/substances"
-          class="rounded-xl border border-cyan-300/20 bg-gradient-to-br from-cyan-300/15 to-violet-400/10 px-3 py-2 text-sm text-white hover:from-cyan-300/20 hover:to-violet-400/15"
-        >
-          Browse
-        </a>
-      </div> -->
+      
     </div>
 
     <div
@@ -145,8 +130,6 @@ const close = () => (open.value = false)
 const props = defineProps<{
   variant?: "default" | "substances" | "legal",
 }>()
-
-console.log(`props.defaultの内容：${props.variant}`)
 
 const headerClass = computed(() => {
   const base = "flex item-center bg-background/80 bg-slate-900 sticky z-40 backdrop-blur-lg border-teal-400"

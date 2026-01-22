@@ -6,7 +6,7 @@
       <div class="grid gap-8 md:grid-cols-12">
         <div class="md:col-span-7">
           <p class="text-xs font-semibold tracking-[0.2em] text-cyan-300/90">
-            ハームリダクションのための知識
+            このページは工事中なので使えないです。
           </p>
 
           <h1 class="mt-3 text-4xl font-semibold tracking-tight md:text-6xl">
