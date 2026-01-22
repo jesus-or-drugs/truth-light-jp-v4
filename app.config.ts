@@ -2,7 +2,7 @@ export default defineAppConfig({
   truthlight: {
     site: {
       name: 'Truth Light',
-      description: 'この日本で薬物依存症で苦しむ人をゼロにするハームリダクションサイト',
+      description: 'この日本で薬物依存症で苦しむ人をゼロにするハームリダクション&回復支援サイト',
       ogImage: '/og-default.png'
     },
     theme: {
