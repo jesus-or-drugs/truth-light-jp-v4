@@ -4,9 +4,10 @@
   "type": "module",
   "scripts": {
     "gen": "node scripts/gen.mjs",
-    "dev": "pnpm run gen && nuxt dev",
-    "build": "pnpm run gen && nuxt build",
-    "generate": "pnpm run gen && nuxt generate",
+    "gen:ids": "node scripts/gen_substance_ids.mjs",
+    "dev": "pnpm run gen && pnpm run gen:ids && nuxt dev",
+    "build": "pnpm run gen && pnpm run gen:ids && nuxt build",
+    "generate": "pnpm run gen && pnpm run gen:ids && nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
