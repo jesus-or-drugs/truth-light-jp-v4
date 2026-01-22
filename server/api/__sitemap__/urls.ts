@@ -1,26 +1,32 @@
-// server/api/__sitemap__/urls.ts
 import { defineSitemapEventHandler } from '#imports'
 import { promises as fsp } from 'node:fs'
 import path from 'node:path'
 
+async function safeListSubstanceIds(dir: string) {
+  try {
+    await fsp.access(dir) // ここで存在チェック
+    const files = await fsp.readdir(dir)
+
+    return files
+      .filter((f) => f.endsWith('.json'))
+      .filter((f) => !f.startsWith('_')) // _scheme.json など除外
+      .map((f) => f.replace(/\.json$/, ''))
+  } catch (e) {
+    // ここで落とさず「動的0件」で返す
+    console.warn('[sitemap] cannot read dir:', dir, e)
+    return []
+  }
+}
+
 export default defineSitemapEventHandler(async () => {
-  // 1) 手動で入れたい固定ページ
-  const fixed = [
-    '/',
-    '/info',
-    '/info/disclaimer',
-    '/substances',
-  ].map((loc) => ({ loc }))
+  // 固定ページ（手動）
+  const fixed = ['/', '/info', '/info/disclaimer', '/substances'].map((loc) => ({ loc }))
 
-  // 2) /substances/[id] は data/substances/*.json のファイル名から生成
+  // 動的ページ（data/substances のファイル名から）
   const dir = path.resolve(process.cwd(), 'data/substances')
-  const files = await fsp.readdir(dir)
+  const ids = await safeListSubstanceIds(dir)
 
-  const dynamic = files
-    .filter((f) => f.endsWith('.json'))
-    .map((f) => f.replace(/\.json$/, ''))
-    .map((id) => ({ loc: `/substances/${id}` }))
+  const dynamic = ids.map((id) => ({ loc: `/substances/${encodeURIComponent(id)}` }))
 
-  // まとめて返す
   return [...fixed, ...dynamic]
 })
