@@ -1,14 +1,13 @@
 import { defineSitemapEventHandler } from '#imports'
-import { promises as fsp } from 'node:fs'
-import path from 'node:path'
+import { getRequestURL } from 'h3'
 
-export default defineSitemapEventHandler(async () => {
+export default defineSitemapEventHandler(async (event) => {
   const fixed = ['/', '/info', '/info/disclaimer', '/substances'].map((loc) => ({ loc }))
 
   try {
-    const idsPath = path.resolve(process.cwd(), 'public/data/substance_ids.json')
-    const raw = await fsp.readFile(idsPath, 'utf-8')
-    const ids: string[] = JSON.parse(raw)
+    // リクエストの origin を使って同一ドメインから静的JSONを取得
+    const origin = getRequestURL(event).origin
+    const ids = await $fetch<string[]>(`${origin}/data/substance_ids.json`)
 
     const dynamic = ids.map((id) => ({
       loc: `/substances/${encodeURIComponent(id)}`, // α対策
@@ -16,7 +15,7 @@ export default defineSitemapEventHandler(async () => {
 
     return [...fixed, ...dynamic]
   } catch (e) {
-    console.warn('[sitemap] failed to read public/data/substance_ids.json', e)
+    console.warn('[sitemap] failed to fetch /data/substance_ids.json', e)
     return fixed
   }
 })
