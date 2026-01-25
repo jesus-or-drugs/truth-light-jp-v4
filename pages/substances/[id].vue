@@ -43,9 +43,11 @@
           <!-- Summary -->
           <section class="rounded-2xl border border-slate-700/60 bg-slate-900/30 p-6">
             <h2 class="text-xl font-semibold mb-3">概要</h2>
-            <p v-if="substance?.summary" class="leading-relaxed text-slate-200 whitespace-pre-line">
-              {{ substance.summary }}
-            </p>
+            <div
+              v-if="substance?.summary"
+              class="leading-relaxed text-slate-200"
+              v-html="substance.summary"
+            />
             <p v-else class="text-slate-400">概要はまだありません。</p>
           </section>
 

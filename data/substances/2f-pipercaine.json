@@ -1,0 +1,45 @@
+{
+  "id": "2f-pipercaine",
+  "common_name": "2F-Pipercaine",
+  "systematic_name": "(1-methylpiperidin-4-yl) 2-fluorobenzoate",
+  "aliases": [
+    "2-fluoropipercaine"
+  ],
+  "identifiers": {
+    "pubchem_cid": "848678",
+    "inchi_key": "HTAHSJBVCSUAGE-UHFFFAOYSA-N",
+    "smiles": "CN1CCC(CC1)OC(=O)C2=CC=CC=C2F"
+    },
+  "categories": ["中枢神経刺激薬","局所麻酔"],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "",
+      "official_name": "",
+      "effective_date": "",
+      "source_link": ""
+    }
+  },
+  "summary": "<p>コカインのフェニル環の2位にヒドロキシ基（–OH）を導入すると結合親和性が約10倍増加し得ることが知られているため、ピペルカインの2-フッ素化も同様に、結合親和性を高める可能性がある。<p><p>ピペルカインはコカインと同様にドーパミントランスポーター（DAT）と相互作用すると報告されており、その他にもNa⁺イオンチャンネル阻害作用が関与するとされる。構造的には、トロパン骨格の部分が N-メチルピペリジン基 に置き換わっており、さらにフェニル環には 2-フルオロ置換基 が付いている。</p>",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/848678",
+    ""
+  ],
+  "molecular_formula": "C13H16FNO2",
+  "molecular_weight": "237.27g/mol"
+}

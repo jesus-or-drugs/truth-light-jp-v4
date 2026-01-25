@@ -1,0 +1,47 @@
+{
+  "id": "2f-tropacocaine",
+  "common_name": "2F-Tropacocaine",
+  "systematic_name": "(8-methyl-8-azabicyclo[3.2.1]octan-3-yl) 2-fluorobenzoate",
+  "aliases": [
+    "2-fluorotropacocaine",
+    "Tropine 2-fluorobenzoate",
+    "Pseudotropine 2-Fluorobenzoate"
+  ],
+  "identifiers": {
+    "pubchem_cid": "69566020",
+    "inchi_key": "XRHDBCOEMRBYDU-UHFFFAOYSA-N",
+    "smiles": "CN1C2CCC1CC(C2)OC(=O)C3=CC=CC=C3F"
+    },
+  "categories": ["中枢神経刺激薬","局所麻酔"],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "",
+      "official_name": "",
+      "effective_date": "",
+      "source_link": ""
+    }
+  },
+  "summary": "<p>2′-フルオロコカインは、コカインと比べてモノアミントランスポーター全体に対する親和性が低い一方で、ややNAT（ノルアドレナリントランスポーター）への親和性がわずかに高いことが報告されている。</p><p>このため、2′-フルオロトロパコカインも同様に、コカインよりDAT選択性がやや低く、力価（ポテンシー）も低い可能性がある。</p>",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/848678",
+    ""
+  ],
+  "molecular_formula": "C15H18FNO2",
+  "molecular_weight": "263.31g/mol"
+}
