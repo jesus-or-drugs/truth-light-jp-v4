@@ -1,0 +1,42 @@
+{
+  "id": "4-methylaminorex",
+  "common_name": "4-Methylaminorex",
+  "systematic_name": "4-methyl-5-phenyl-4,5-dihydro-1,3-oxazol-2-amine",
+  "aliases": [
+    "シス―二―アミノ―四―メチル―五―フェニル―二―オキサゾリン（別名四―メチルアミノレクス）及びその塩類",
+    "四―メチルアミノレクス"
+  ],
+  "identifiers": {
+    "pubchem_cid": "92196",
+    "inchi_key": "LJQBMYDFWFGESC-UHFFFAOYSA-N",
+    "smiles": "CC1C(OC(=N1)N)C2=CC=CC=C2"
+  },
+  "categories": ["中枢神経刺激薬","オキサゾリン系"],
+  "legal": {
+    "jp": {
+      "law_number": "49",
+      "law_category": "麻薬",
+      "official_name": "シス―二―アミノ―四―メチル―五―フェニル―二―オキサゾリン（別名四―メチルアミノレクス）及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/",
+      "last_verified": "2026/2/3"
+      
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

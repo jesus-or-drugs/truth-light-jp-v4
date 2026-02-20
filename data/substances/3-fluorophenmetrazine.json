@@ -5,30 +5,12 @@
   "aliases": [
     "3-Fluorophenmetrazine",
     "2-(3-fluorophenyl)-3-methylmorpholine",
-    "PAL-593",
-    "3-Fpm",
-    "BEV6RF569G",
-    "Morpholine, 2-(3-fluorophenyl)-3-methyl-",
-    "DTXSID201032414",
-    "RefChem:93965",
-    "DTXCID101517419",
-    "2-(3-Fluorophenyl)-3-methyl-Morpholine",
-    "UNII-BEV6RF569G",
-    "SCHEMBL2599533",
-    "SCHEMBL30457716",
-    "CHEBI:191014",
-    "2-(3-luorophenyl)-3-methylmorpholine",
-    "PD045019",
-    "NS00017993",
-    "A928061",
-    "Q20707008"
+    "PAL-593"
   ],
   "identifiers": {
     "pubchem_cid": "54673723",
     "inchi_key": "VHYVKJAQSJCYCK-UHFFFAOYSA-N",
-    "smiles": "",
-    "inchikey": "VHYVKJAQSJCYCK-UHFFFAOYSA-N",
-    "pubchemCID": "54673723"
+    "smiles": ""
   },
   "categories": [],
   "legal": {

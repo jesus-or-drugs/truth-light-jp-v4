@@ -6,16 +6,14 @@
     "3-Ethyl-2-(3-fluorophenyl)morpholine",
     "3F-phenetrazine",
     "3-Fluorophenetrazine",
-    "2LQ5EFT6KU",
-    "3-FPE",
-    "DTXSID601343067"
+    "3-FPE"
   ],
   "identifiers": {
     "pubchem_cid": "165361708",
     "inchi_key": "GPTHUZORYIVVNJ-UHFFFAOYSA-N",
     "smiles": ""
   },
-  "categories": [],
+  "categories": ["中枢神経刺激薬", "フェンメトラジン誘導体", "置換フェニルモルホリン"],
   "legal": {
     "jp": {
       "law_number": "",

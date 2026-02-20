@@ -1,11 +1,14 @@
 {
-  "id": "4f-4-mar",
-  "common_name": "4F-4-MAR",
+  "id": "4'-fluoro-4-methylaminorex",
+  "common_name": "4'-Fluoro-4-methylaminorex",
   "systematic name": "5-(4-furuorophenyl)-4-mechi ru-4,5-jihidorookisazo-ru-2 -amine",
   "aliases": [
-    "4-fluoro-4-Methylaminorex",
+    "Para-fluoro methylaminorex",
+    "p-Fluoro-4-methylaminorex",
+    "4'-Fluoro-4-methylaminorex",
+    "4'-Fluoro 4-mar",
     "4-FPO",
-    "4F-MAR"
+    "Para-fluoro-4-methylaminorex"
   ],
   "identifiers": {
     "pubchem_cid": "",

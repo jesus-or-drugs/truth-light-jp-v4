@@ -1,0 +1,53 @@
+{
+  "id": "Cocaine",
+  "common_name": "コカイン／Cocaine",
+  "systematic_name": "methyl (1R,2R,3S,5S)-3-benzoyloxy-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate",
+  "aliases": [
+    "Benzoylmethylecgonine",
+    "Neurocaine",
+    "Coke",
+    "コーク"
+  ],
+  "identifiers": {
+    "pubchem_cid": "446220",
+    "inchi_key": "ZPUCINDJVBIVPJ-LJISPDSOSA-N",
+    "smiles": "CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)OC(=O)C3=CC=CC=C3)C(=O)OC"
+  },
+  "categories": ["中枢神経刺激薬", "トロパンアルカロイド"],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "向三種",
+      "official_name": "",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    }
+  },
+  "summary": "コカインは南米の低木エリスロキシロン・コカの葉から得られるトロパンアルカロイドの一つ。<br />局所麻酔薬、中枢神経刺激薬、ナトリウムチャネル遮断薬、アドレナリン再取り込み阻害薬、ドーパミン再取り込み阻害、セロトニン再取り込み阻害、交感神経刺激、血管収縮など多彩な薬理作用を示す。",
+  "history": "",
+  "effects": {
+    "effects_positive": [
+      "気分の高揚・多幸感",
+      "性的増進",
+      "社交性の向上",
+      "高山病の軽減",
+      "身体・精神的な疲労の軽減"
+    ],
+    "effects_negative": [
+      "局所麻酔作用（娯楽目的の場合）",
+      "心拍数と血圧の上昇",
+      "食欲抑制",
+      ""
+    ]
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

@@ -4,33 +4,14 @@
   "systematic name": "(6aR,9R)-N,N-diethyl-7-prop-2-enyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",
   "aliases": [
     "AL-LAD",
-    "6-allyl-6-nor-LSD",
-    "020O2SR91L",
-    "DTXSID30215822",
-    "RefChem:1084202",
-    "DTXCID60138313",
-    "Ergoline-8-carboxamide, 9,10-didehydro-N,N-diethyl-6-(2-propen-1-yl)-, (8beta)-",
-    "N-Allylnorlysergic Acid N,N-Diethylamide",
-    "UNII-020O2SR91L",
-    "6-Allyl-6-nor-lysergic acid diethylamide",
-    "AL-LAD (solution)",
-    "N-ALLYLNORLSD",
-    "N-Allylnorylsergic Acid N,N-Diethylamide",
-    "CHEMBL281787",
-    "orb2814239",
-    "SCHEMBL20970937",
-    "HY-W743888",
-    "Q4652233",
-    "ERGOLINE-8-CARBOXAMIDE, 9,10-DIDEHYDRO-N,N-DIETHYL-6-(2-PROPENYL)-, (8.BETA.)-"
+    "6-allyl-6-nor-LSD"
   ],
   "identifiers": {
     "pubchem_cid": "15227511",
     "inchi_key": "JCQLEPDZFXGHHQ-OXQOHEQNSA-N",
-    "smiles": "",
-    "inchikey": "JCQLEPDZFXGHHQ-OXQOHEQNSA-N",
-    "pubchemCID": "15227511"
-  },
-  "categories": [],
+    "smiles": ""
+    },
+  "categories": ["サイケデリックス", "LSD誘導体", "置換リゼルガミド"],
   "legal": {
     "jp": {
       "law_number": "",
@@ -40,7 +21,7 @@
       "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
     }
   },
-  "summary": "",
+  "summary": "1976年に初めて学術論文にて名前が出る。その後1997年にアレクサンダー・シュルギンの「TiHKAL」にて説明され2015年にはオンラインでデザイナードラッグとして流通が確認された。",
   "history": "",
   "effects": {
     "effects_positive": [],
@@ -52,8 +33,8 @@
       "url": ""
     },
     "dosage_duration": {
-      "label": "",
-      "url": ""
+      "label": "Tripsit Wiki",
+      "url": "https://wiki.tripsit.me/wiki/AL-LAD"
     }
   },
   "refs": [

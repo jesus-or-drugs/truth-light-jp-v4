@@ -5026,23 +5026,7 @@
     "aliases": [
       "3-Fluorophenmetrazine",
       "2-(3-fluorophenyl)-3-methylmorpholine",
-      "PAL-593",
-      "3-Fpm",
-      "BEV6RF569G",
-      "Morpholine, 2-(3-fluorophenyl)-3-methyl-",
-      "DTXSID201032414",
-      "RefChem:93965",
-      "DTXCID101517419",
-      "2-(3-Fluorophenyl)-3-methyl-Morpholine",
-      "UNII-BEV6RF569G",
-      "SCHEMBL2599533",
-      "SCHEMBL30457716",
-      "CHEBI:191014",
-      "2-(3-luorophenyl)-3-methylmorpholine",
-      "PD045019",
-      "NS00017993",
-      "A928061",
-      "Q20707008"
+      "PAL-593"
     ],
     "categories": [],
     "legal": {
@@ -5367,6 +5351,54 @@
     ]
   },
   {
+    "id": "3-meo-pcp",
+    "name": "3-MeO-PCP",
+    "common_name": "3-MeO-PCP",
+    "systematic_name": "1-[1-(3-Methoxyphenyl)cyclohexyl]piperidine",
+    "aliases": [
+      "3-Methoxy-PCP",
+      "3-Methoxy-Phencyclidine"
+    ],
+    "categories": [
+      "解離性薬物",
+      "アリルシクロヘキシルアミン"
+    ],
+    "legal": {
+      "jp": {
+        "law_number": "159",
+        "law_category": "麻薬",
+        "official_name": "一―［一―（三―メトキシフェニル）シクロヘキシル］ピペリジン及びその塩類",
+        "effective_date": "-",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/",
+        "last_verified": "2026/2/3"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "11778080",
+      "inchi_key": "BQQSZHHKGPOXLN-UHFFFAOYSA-N",
+      "smiles": "COC1=CC=CC(=C1)C2(CCCCC2)N3CCCCC3"
+    },
+    "pubchemCid": "11778080",
+    "inchiKey": "BQQSZHHKGPOXLN-UHFFFAOYSA-N",
+    "summary": "NMDA型グルタミン酸受容体の非競合的アンタゴニスト",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
     "id": "3-methylbenzylpiperazine",
     "name": "3-Methylbenzylpiperazine",
     "common_name": "3-Methylbenzylpiperazine",
@@ -5440,50 +5472,6 @@
     },
     "pubchemCid": "",
     "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
-    "id": "3-methylfentanyl",
-    "name": "3-Methylfentanyl",
-    "common_name": "3-Methylfentanyl",
-    "systematic_name": "N-(3-methyl-1-phenethyl-4-piperidyl)propionanilide",
-    "aliases": [
-      "Mefentanyl",
-      "N―(三―メチル―一―フェネチル―四―ピペリジル)プロピオンアニリド(別名三―メチルフェンタニル)及びその塩類"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "N―(三―メチル―一―フェネチル―四―ピペリジル)プロピオンアニリド(別名三―メチルフェンタニル)及びその塩類",
-        "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "61996",
-      "inchi_key": "MLQRZXNZHAOCHQ-UHFFFAOYSA-N",
-      "smiles": "CCC(=O)N(C1CCN(CC1C)CCC2=CC=CC=C2)C3=CC=CC=C3"
-    },
-    "pubchemCid": "61996",
-    "inchiKey": "MLQRZXNZHAOCHQ-UHFFFAOYSA-N",
     "summary": "",
     "history": "",
     "effects": {
@@ -5874,11 +5862,13 @@
       "3-Ethyl-2-(3-fluorophenyl)morpholine",
       "3F-phenetrazine",
       "3-Fluorophenetrazine",
-      "2LQ5EFT6KU",
-      "3-FPE",
-      "DTXSID601343067"
+      "3-FPE"
     ],
-    "categories": [],
+    "categories": [
+      "中枢神経刺激薬",
+      "フェンメトラジン誘導体",
+      "置換フェニルモルホリン"
+    ],
     "legal": {
       "jp": {
         "law_number": "",
@@ -5941,6 +5931,56 @@
     },
     "pubchemCid": "",
     "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
+    "id": "4,4'-dimethylaminorex",
+    "name": "4,4'-Dimethylaminorex",
+    "common_name": "4,4'-Dimethylaminorex",
+    "systematic_name": "4-methyl-5-(4-methylphenyl)-4,5-dihydro-1,3-oxazol-2-amine",
+    "aliases": [
+      "N―〔三―メチル―一―〔二―(二―チエニル)エチル〕―四―ピペリジル〕プロピオンアニリド(別名三―メチルチオフェンタニル)及びその塩類",
+      "4,4'-DMAR",
+      "Serotoni",
+      "p-methyl-4-methylaminorex"
+    ],
+    "categories": [
+      "中枢神経刺激薬",
+      "オキサゾリン系"
+    ],
+    "legal": {
+      "jp": {
+        "law_number": "153",
+        "law_category": "麻薬",
+        "official_name": "四―メチル―五―（四―メチルフェニル）―四・五―ジヒドロオキサゾール―二―アミン及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/",
+        "last_verified": "2026/2/3"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "",
+      "inchi_key": "NPILLHMQNMXXTL-UHFFFAOYSA-N",
+      "smiles": "CC1C(OC(=N1)N)C2=CC=C(C=C2)C"
+    },
+    "pubchemCid": "",
+    "inchiKey": "NPILLHMQNMXXTL-UHFFFAOYSA-N",
     "summary": "",
     "history": "",
     "effects": {
@@ -8165,6 +8205,54 @@
     ]
   },
   {
+    "id": "4-methylaminorex",
+    "name": "4-Methylaminorex",
+    "common_name": "4-Methylaminorex",
+    "systematic_name": "4-methyl-5-phenyl-4,5-dihydro-1,3-oxazol-2-amine",
+    "aliases": [
+      "シス―二―アミノ―四―メチル―五―フェニル―二―オキサゾリン（別名四―メチルアミノレクス）及びその塩類",
+      "四―メチルアミノレクス"
+    ],
+    "categories": [
+      "中枢神経刺激薬",
+      "オキサゾリン系"
+    ],
+    "legal": {
+      "jp": {
+        "law_number": "49",
+        "law_category": "麻薬",
+        "official_name": "シス―二―アミノ―四―メチル―五―フェニル―二―オキサゾリン（別名四―メチルアミノレクス）及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/",
+        "last_verified": "2026/2/3"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "92196",
+      "inchi_key": "LJQBMYDFWFGESC-UHFFFAOYSA-N",
+      "smiles": "CC1C(OC(=N1)N)C2=CC=CC=C2"
+    },
+    "pubchemCid": "92196",
+    "inchiKey": "LJQBMYDFWFGESC-UHFFFAOYSA-N",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
     "id": "4-methylamphetamine",
     "name": "4-Methylamphetamine",
     "common_name": "4-Methylamphetamine",
@@ -8778,14 +8866,17 @@
     "refs": []
   },
   {
-    "id": "4f-4-mar",
-    "name": "4F-4-MAR",
-    "common_name": "4F-4-MAR",
+    "id": "4'-fluoro-4-methylaminorex",
+    "name": "4'-Fluoro-4-methylaminorex",
+    "common_name": "4'-Fluoro-4-methylaminorex",
     "systematic_name": "5-(4-furuorophenyl)-4-mechi ru-4,5-jihidorookisazo-ru-2 -amine",
     "aliases": [
-      "4-fluoro-4-Methylaminorex",
+      "Para-fluoro methylaminorex",
+      "p-Fluoro-4-methylaminorex",
+      "4'-Fluoro-4-methylaminorex",
+      "4'-Fluoro 4-mar",
       "4-FPO",
-      "4F-MAR"
+      "Para-fluoro-4-methylaminorex"
     ],
     "categories": [],
     "legal": {
@@ -11894,6 +11985,53 @@
     "refs": []
   },
   {
+    "id": "salicylmethylecgonine",
+    "name": "Salicylmethylecgonine",
+    "common_name": "Salicylmethylecgonine",
+    "systematic_name": "methyl (1R,2R,3S,5S)-3-(2-hydroxybenzoyloxy)-8-methyl-8-azabicyclo[3.2.1] octane-2-carboxylate",
+    "aliases": [
+      "2′-Hydroxycocaine",
+      "2'-HO-Cocaine"
+    ],
+    "categories": [
+      "中枢神経刺激薬",
+      "トロパン"
+    ],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "",
+        "official_name": "",
+        "effective_date": "",
+        "source_link": ""
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "10519659",
+      "inchi_key": "PEISRHQJLATJPJ-MMMKDXCPSA-N",
+      "smiles": "CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)OC(=O)C3=CC=CC=C3O)C(=O)OC"
+    },
+    "pubchemCid": "10519659",
+    "inchiKey": "PEISRHQJLATJPJ-MMMKDXCPSA-N",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
     "id": "a-834735",
     "name": "A-834735",
     "common_name": "A-834735",
@@ -13381,26 +13519,13 @@
     "systematic_name": "(6aR,9R)-N,N-diethyl-7-prop-2-enyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide",
     "aliases": [
       "AL-LAD",
-      "6-allyl-6-nor-LSD",
-      "020O2SR91L",
-      "DTXSID30215822",
-      "RefChem:1084202",
-      "DTXCID60138313",
-      "Ergoline-8-carboxamide, 9,10-didehydro-N,N-diethyl-6-(2-propen-1-yl)-, (8beta)-",
-      "N-Allylnorlysergic Acid N,N-Diethylamide",
-      "UNII-020O2SR91L",
-      "6-Allyl-6-nor-lysergic acid diethylamide",
-      "AL-LAD (solution)",
-      "N-ALLYLNORLSD",
-      "N-Allylnorylsergic Acid N,N-Diethylamide",
-      "CHEMBL281787",
-      "orb2814239",
-      "SCHEMBL20970937",
-      "HY-W743888",
-      "Q4652233",
-      "ERGOLINE-8-CARBOXAMIDE, 9,10-DIDEHYDRO-N,N-DIETHYL-6-(2-PROPENYL)-, (8.BETA.)-"
+      "6-allyl-6-nor-LSD"
     ],
-    "categories": [],
+    "categories": [
+      "サイケデリックス",
+      "LSD誘導体",
+      "置換リゼルガミド"
+    ],
     "legal": {
       "jp": {
         "law_number": "",
@@ -13417,7 +13542,7 @@
     },
     "pubchemCid": "15227511",
     "inchiKey": "JCQLEPDZFXGHHQ-OXQOHEQNSA-N",
-    "summary": "",
+    "summary": "1976年に初めて学術論文にて名前が出る。その後1997年にアレクサンダー・シュルギンの「TiHKAL」にて説明され2015年にはオンラインでデザイナードラッグとして流通が確認された。",
     "history": "",
     "effects": {
       "effects_positive": [],
@@ -13429,8 +13554,8 @@
         "url": ""
       },
       "dosage_duration": {
-        "label": "",
-        "url": ""
+        "label": "Tripsit Wiki",
+        "url": "https://wiki.tripsit.me/wiki/AL-LAD"
       }
     },
     "refs": [
@@ -17686,35 +17811,52 @@
     "refs": []
   },
   {
-    "id": "cocaineecgonine_esters",
-    "name": "コカインその他エクゴニンのエステル及びその塩類",
-    "common_name": "コカインその他エクゴニンのエステル及びその塩類",
-    "systematic_name": "cocaineecgonine esters",
+    "id": "Cocaine",
+    "name": "コカイン／Cocaine",
+    "common_name": "コカイン／Cocaine",
+    "systematic_name": "methyl (1R,2R,3S,5S)-3-benzoyloxy-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate",
     "aliases": [
-      "コカインその他エクゴニンのエステル及びその塩類"
+      "Benzoylmethylecgonine",
+      "Neurocaine",
+      "Coke",
+      "コーク"
     ],
-    "categories": [],
+    "categories": [
+      "中枢神経刺激薬",
+      "トロパンアルカロイド"
+    ],
     "legal": {
       "jp": {
         "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "コカインその他エクゴニンのエステル及びその塩類",
+        "law_category": "向三種",
+        "official_name": "",
         "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/328AC0000000014"
+        "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
       }
     },
     "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
+      "pubchem_cid": "446220",
+      "inchi_key": "ZPUCINDJVBIVPJ-LJISPDSOSA-N",
+      "smiles": "CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)OC(=O)C3=CC=CC=C3)C(=O)OC"
     },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
+    "pubchemCid": "446220",
+    "inchiKey": "ZPUCINDJVBIVPJ-LJISPDSOSA-N",
+    "summary": "コカインは南米の低木エリスロキシロン・コカの葉から得られるトロパンアルカロイドの一つ。<br />局所麻酔薬、中枢神経刺激薬、ナトリウムチャネル遮断薬、アドレナリン再取り込み阻害薬、ドーパミン再取り込み阻害、セロトニン再取り込み阻害、交感神経刺激、血管収縮など多彩な薬理作用を示す。",
     "history": "",
     "effects": {
-      "effects_positive": [],
-      "effects_negative": []
+      "effects_positive": [
+        "気分の高揚・多幸感",
+        "性的増進",
+        "社交性の向上",
+        "高山病の軽減",
+        "身体・精神的な疲労の軽減"
+      ],
+      "effects_negative": [
+        "局所麻酔作用（娯楽目的の場合）",
+        "心拍数と血圧の上昇",
+        "食欲抑制",
+        ""
+      ]
     },
     "external_resources": {
       "experiences": {
@@ -21095,10 +21237,10 @@
     "legal": {
       "jp": {
         "law_number": "",
-        "law_category": "麻薬",
-        "official_name": "エクゴニン及びその塩類",
+        "law_category": "",
+        "official_name": "",
         "effective_date": "",
-        "source_link": "https://laws.e-gov.go.jp/law/328AC0000000014"
+        "source_link": ""
       }
     },
     "identifiers": {
@@ -21108,6 +21250,51 @@
     },
     "pubchemCid": "",
     "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
+    "id": "ecgonine_esters",
+    "name": "Ecgonine及びそのエステル",
+    "common_name": "Ecgonine及びそのエステル",
+    "systematic_name": "(1R,2R,3S,5S)-3-hydroxy-8-methyl-8-azabicyclo [3.2.1]octane-2-carboxylate",
+    "aliases": [
+      "Ecgonine",
+      "Ecgonine esters",
+      "コカインその他エクゴニンのエステル及びその塩類"
+    ],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "麻薬",
+        "official_name": "コカインその他エクゴニンのエステル及びその塩類",
+        "effective_date": "",
+        "source_link": "https://laws.e-gov.go.jp/law/328AC0000000014"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "91460",
+      "inchi_key": "PHMBVCPLDPDESM-FKSUSPILSA-N",
+      "smiles": "CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)O)C(=O)O"
+    },
+    "pubchemCid": "91460",
+    "inchiKey": "PHMBVCPLDPDESM-FKSUSPILSA-N",
     "summary": "",
     "history": "",
     "effects": {
@@ -22353,9 +22540,14 @@
     "id": "fenethylline",
     "name": "Fenethylline",
     "common_name": "Fenethylline",
-    "systematic_name": "",
-    "aliases": [],
-    "categories": [],
+    "systematic_name": "1,3-dimethyl-7-[2-(1-phenylpropan-2-ylamino)ethyl]purine-2,6-dione",
+    "aliases": [
+      "Amfetyline"
+    ],
+    "categories": [
+      "中枢神経刺激薬",
+      "アンフェタミン誘導体"
+    ],
     "legal": {
       "jp": {
         "law_number": "",
@@ -22367,11 +22559,11 @@
     },
     "identifiers": {
       "pubchem_cid": "19527",
-      "inchi_key": "",
-      "smiles": ""
+      "inchi_key": "NMCHYWGKBADVMK-UHFFFAOYSA-N",
+      "smiles": "CC(CC1=CC=CC=C1)NCCN2C=NC3=C2C(=O)N(C(=O)N3C)C"
     },
     "pubchemCid": "19527",
-    "inchiKey": "",
+    "inchiKey": "NMCHYWGKBADVMK-UHFFFAOYSA-N",
     "summary": "",
     "history": "",
     "effects": {
@@ -26960,9 +27152,12 @@
     "id": "mecloqualone",
     "name": "Mecloqualone",
     "common_name": "Mecloqualone",
-    "systematic_name": "",
+    "systematic_name": "3-(2-chlorophenyl)-2-methylquinazolin-4-one",
     "aliases": [],
-    "categories": [],
+    "categories": [
+      "鎮静薬",
+      "キナゾリン誘導体"
+    ],
     "legal": {
       "jp": {
         "law_number": "",
@@ -26970,15 +27165,18 @@
         "official_name": "",
         "effective_date": "",
         "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+      },
+      "en": {
+        "law_category": "Scheduled I"
       }
     },
     "identifiers": {
-      "pubchem_cid": "47206644",
-      "inchi_key": "",
-      "smiles": ""
+      "pubchem_cid": "9567",
+      "inchi_key": "SFITWQDBYUMAPS-UHFFFAOYSA-N",
+      "smiles": "CC1=NC2=CC=CC=C2C(=O)N1C3=CC=CC=C3Cl"
     },
-    "pubchemCid": "47206644",
-    "inchiKey": "",
+    "pubchemCid": "9567",
+    "inchiKey": "SFITWQDBYUMAPS-UHFFFAOYSA-N",
     "summary": "",
     "history": "",
     "effects": {

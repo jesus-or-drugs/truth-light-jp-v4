@@ -1,0 +1,44 @@
+{
+  "id": "4,4'-dimethylaminorex",
+  "common_name": "4,4'-Dimethylaminorex",
+  "systematic_name": "4-methyl-5-(4-methylphenyl)-4,5-dihydro-1,3-oxazol-2-amine",
+  "aliases": [
+    "N―〔三―メチル―一―〔二―(二―チエニル)エチル〕―四―ピペリジル〕プロピオンアニリド(別名三―メチルチオフェンタニル)及びその塩類",
+    "4,4'-DMAR",
+    "Serotoni",
+    "p-methyl-4-methylaminorex"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "NPILLHMQNMXXTL-UHFFFAOYSA-N",
+    "smiles": "CC1C(OC(=N1)N)C2=CC=C(C=C2)C"
+  },
+  "categories": ["中枢神経刺激薬", "オキサゾリン系"],
+  "legal": {
+    "jp": {
+      "law_number": "153",
+      "law_category": "麻薬",
+      "official_name": "四―メチル―五―（四―メチルフェニル）―四・五―ジヒドロオキサゾール―二―アミン及びその塩類",
+      "effective_date": "",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/",
+      "last_verified": "2026/2/3"
+      
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

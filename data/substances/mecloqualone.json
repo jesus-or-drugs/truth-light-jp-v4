@@ -1,14 +1,15 @@
 {
+  "last_modified": "2026/02/01",
   "id": "mecloqualone",
   "common_name": "Mecloqualone",
-  "systematic_name": "",
+  "systematic_name": "3-(2-chlorophenyl)-2-methylquinazolin-4-one",
   "aliases": [],
   "identifiers": {
-    "pubchem_cid": "47206644",
-    "inchi_key": "",
-    "smiles": ""
+    "pubchem_cid": "9567",
+    "inchi_key": "SFITWQDBYUMAPS-UHFFFAOYSA-N",
+    "smiles": "CC1=NC2=CC=CC=C2C(=O)N1C3=CC=CC=C3Cl"
   },
-  "categories": [],
+  "categories": ["鎮静薬", "キナゾリン誘導体"],
   "legal": {
     "jp": {
       "law_number": "",
@@ -16,6 +17,9 @@
       "official_name": "",
       "effective_date": "",
       "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/"
+    },
+    "en": {
+      "law_category": "Scheduled I"
     }
   },
   "summary": "",

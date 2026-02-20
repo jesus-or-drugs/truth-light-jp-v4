@@ -10,4 +10,9 @@
 
 <script setup lang="ts">
   const appConfig = useAppConfig()
+  const site = appConfig.truthlight.site
+
+  useHead({
+    title: `${site.name} - ${site.description}`
+  })
 </script>
