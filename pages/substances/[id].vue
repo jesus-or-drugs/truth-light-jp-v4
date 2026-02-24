@@ -201,6 +201,7 @@
 </template>
 
 <script setup lang="ts">
+import ContentKetcherFrame from '~/components/content/KetcherFrame.vue'
 definePageMeta({
   layout: "substances",
 })
