@@ -35,9 +35,9 @@ export default defineAppConfig({
         basics: {
           type: "menu",
           title: "ドラッグ基礎編",
-          meth: { type: "link", title: "🧊メタンフェタミン", to: 'substances/methamphemine' },
-          cocaine: { type: "link", title: '🚴コカイン',to: 'substances/cocaine' },
-          mdma: { type: "link", title: '❌️エクスタシー', to: 'substances/mdma' },
+          meth: { type: "link", title: "🧊 メタンフェタミン", to: 'substances/methamphemine' },
+          cocaine: { type: "link", title: '🚴 コカイン',to: 'substances/cocaine' },
+          mdma: { type: "link", title: '❌️ エクスタシー', to: 'substances/mdma' },
         },
         database: { type: "link", title: 'NPSデータベース(α版)', to: '/substances' },
         recovery: { type: "link", title: '依存症相談窓口', to: '/recovery' },

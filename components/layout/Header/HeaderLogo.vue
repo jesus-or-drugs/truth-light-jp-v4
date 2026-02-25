@@ -1,14 +1,15 @@
 <template>
-  <div class="flex items-center gap-3">
-    <NuxtLink v-if="logo?.black && logo?.white" to="/" class="flex">
+  <div class="flex flex-row items-center gap-4">
+    <NuxtLink v-if="logo?.black && logo?.white" to="/" class="flex flex-row items-center gap-2">
       <NuxtImg :src="logo.white" class="h-7 dark:block" />
-      <span v-if="showTitle && title" class="text-sm font-semibold tracking-wide"
-      style="font-family: 'Avenir', 'Avenir Next', 'Segoe UI', 'Helvetica Neue', 'Arial', 'sans-serif';">
+      <span v-if="showTitle && title" class="custom-font-bold text-lg tracking-wide">
         {{ title }}
       </span>
     </NuxtLink>
 
-    <span v-if="props.subtitle !== ``" class="ml-3 self-center text-white font-bold text-lg hidden md:inline-block">{{ props.subtitle }}</span>
+    <span v-if="props.subtitle !== ``" class="ml-3 custom-font-bold text-lg hidden md:inline-block">
+      {{ props.subtitle }}
+    </span>
   </div>
 </template>
 

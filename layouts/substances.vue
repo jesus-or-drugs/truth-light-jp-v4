@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-[100dvh] flex flex-col bg-slate-800 text-white">
+  <div class="min-h-[100dvh] flex flex-col">
     <LayoutHeader variant="substances" class="shrink-0" />
 
     <!-- ここがキモ：高さ固定しない、スクロールを許可 -->
@@ -20,7 +20,7 @@
     link: [
       { rel: `preconnect`, href: `https://fonts.googleapis.com`},
       { rel: `preconnect`, href: `https://fonts.gstatic.com`, crossorigin:`anonymous`},
-      { rel: `stylesheet`, href: `https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap`}
+      { rel: `stylesheet`, href: `https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Outfit:wght@100..900&display=swap`}
     ],
   })
 

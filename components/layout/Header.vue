@@ -3,13 +3,13 @@
   <!-- デフォルトページ用ヘッダー -->
   <header 
    v-if="variant === `default`"
-   class="sticky top-0 z-50 border-b border-white/10 bg-slate-950/70 backdrop-blur">
+   class="sticky top-0 z-50 border-b border-white/10 bg-slate-800/70 backdrop-blur">
     <div class="relative mx-auto flex flex-row max-w-6xl items-center justify-between px-6 py-4">
 
       <!-- タイトル -->
       <div class="static"><LayoutHeaderLogo :subtitle="subtitle" /></div>
 
-      <div><LayoutHeaderNav :variant="props.variant" /></div>
+      <div><LayoutHeaderNav :variant="variant" /></div>
       <div class="absolute inline-block right-0"><LayoutHeaderToc /></div>
       
     </div>
@@ -25,7 +25,7 @@
   <!-- Substancesページ用ヘッダー -->
   <header 
    v-else-if="variant === `substances`"
-   class="sticky top-0 z-50 border-b border-white/10 bg-slate-950/70 backdrop-blur">
+   class="sticky top-0 z-50 border-b border-white/10 bg-slate-800/90 backdrop-blur">
     <div class="mx-auto flex flex-row items-center justify-between px-6 py-4 relative">
       <!-- <a href="/" class="flex items-center gap-3">
         <span class="h-9 w-9 rounded-xl bg-gradient-to-br from-cyan-300 to-violet-400"></span>
