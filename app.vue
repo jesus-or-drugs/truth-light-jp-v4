@@ -1,4 +1,4 @@
-<script lang="ts">
+<script setup lang="ts">
   useHead({
     link: [
       { rel: `preconnect`, href: `https://fonts.googleapis.com`},
