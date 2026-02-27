@@ -6,14 +6,14 @@
         <div class="text-sm text-slate-400 mb-2">
           <NuxtLink to="/substances" class="hover:underline">Substances</NuxtLink>
           <span class="mx-2">/</span>
-          <span class="text-slate-300">{{ routeId }}</span>
+          <span class="text-slate-200">{{ routeId }}</span>
         </div>
 
-        <h1 class="text-3xl font-bold leading-tight h-auto">{{ titleJa }}</h1>
+        <h1 class="text-3xl text-white custom-font-bold leading-tight h-auto">{{ titleJa }}</h1>
 
         <div class="mt-3 flex flex-wrap gap-2 text-xs">
           <span v-if="substance?.id" class="rounded-full border border-teal-600/60 px-3 py-1 text-teal-300">
-            id: {{ substance.id }}
+            ID: {{ substance.id }}
           </span>
           <span v-if="substance?.pubchem_cid" class="rounded-full border border-slate-600/60 px-3 py-1 text-slate-200">
             PubChem CID: {{ substance.pubchem_cid }}
@@ -42,16 +42,28 @@
         <main class="lg:col-span-8 space-y-6">
           <!-- Summary -->
           <section class="rounded-2xl border border-slate-700/60 bg-slate-900/30 p-6">
-            <h2 class="text-xl font-semibold mb-3">概要</h2>
+            <h2 class="text-xl text-slate-100 font-semibold mb-3">概要</h2>
             <div
               v-if="substance?.summary"
-              class="leading-relaxed text-slate-200"
+              class="leading-relaxed"
               v-html="substance.summary"
             />
             <p v-else class="text-slate-400">概要はまだありません。</p>
           </section>
 
-          <!-- Tabs (no shadcn dependency) -->
+          <!-- History -->
+          <section
+            v-if="substance?.history"
+            class="rounded-2xl border border-slate-700/60 bg-slate-900/30 p-6">
+
+            <h2 class="text-xl text-slate-100 font-semibold mb-3">ヒストリー</h2>
+            <div
+              class="leading-relaxed"
+              v-html="substance.history"
+            />
+          </section>
+
+          <!-- タブ -->
           <section class="rounded-2xl border border-slate-700/60 bg-slate-900/30 p-6">
             <div class="flex flex-wrap gap-2 border-b border-slate-700/60 pb-3 mb-4">
               <button
@@ -59,8 +71,8 @@
                 :key="t.key"
                 class="rounded-full px-4 py-1.5 text-sm border transition"
                 :class="activeTab === t.key
-                  ? 'border-teal-500/70 text-teal-200 bg-teal-500/10'
-                  : 'border-slate-600/60 text-slate-200 hover:bg-slate-800/40'"
+                  ? 'border-teal-600/60 text-teal-300 bg-teal-500/10'
+                  : 'border-slate-700/60 text-slate-200 hover:bg-slate-700/30'"
                 @click="activeTab = t.key"
               >
                 {{ t.label }}

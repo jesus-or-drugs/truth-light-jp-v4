@@ -14,13 +14,13 @@ html, body, #__nuxt { height: 100%; }
 .custom-font-normal {
   font-family: "Outfit", "Noto Sans JP", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 300;
+  font-weight: 400;
   font-style: normal;
 }
 
 .custom-font-bold {
   font-family: "Outfit", "Noto Sans JP", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 500;
+  font-weight: 600;
   font-style: normal;
 }

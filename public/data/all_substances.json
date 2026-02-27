@@ -6203,33 +6203,14 @@
     "aliases": [
       "O-Acetylpsilocin",
       "Psilacetin",
-      "4-acetoxy-DMT",
-      "UNII-8BLF220HX1",
-      "3-(2-(Dimethylamino)ethyl)-1H-indol-4-yl acetate",
-      "O-ACETYL-PSILOCIN",
-      "DTXSID30238955",
-      "3-[2-(Dimethylamino)ethyl]-1H-indol-4-yl acetate",
-      "1H-INDOL-4-OL, 3-(2-(DIMETHYLAMINO)ETHYL)-, 4-ACETATE",
-      "1H-Indol-4-ol, 3-[2-(dimethylamino)ethyl]-, 4-acetate",
-      "RefChem:167130",
-      "4-acetoxy-dimethyltryptamine",
-      "DTXCID80161446",
-      "4-ACETOXY-N,N-DIMETHYLTRYPTAMINE",
-      "4-AcO-DMT",
-      "[3-[2-(dimethylamino)ethyl]-1H-indol-4-yl] acetate",
-      "8BLF220HX1",
-      "3-[2-(dimethylamino)ethyl]-Indol-4-ol Acetate;",
-      "SCHEMBL4225666",
-      "SCHEMBL29400156",
-      "AKOS025149599",
-      "EN-0012",
-      "PD047343",
-      "DB-023311",
-      "NS00017629",
-      "F15174",
-      "Q3491364"
+      "プシラセチン",
+      "4-Acetoxy-DMT",
+      "4-Acetoxy-N,N-Dimethyltryptamine"
     ],
-    "categories": [],
+    "categories": [
+      "サイケデリックス",
+      "トリプタミン"
+    ],
     "legal": {
       "jp": {
         "law_number": "",
@@ -6242,28 +6223,48 @@
     "identifiers": {
       "pubchem_cid": "15429212",
       "inchi_key": "RTLRUOSYLFOFHV-UHFFFAOYSA-N",
-      "smiles": ""
+      "smiles": "CC(=O)OC1=CC=CC2=C1C(=CN2)CCN(C)C"
     },
     "pubchemCid": "15429212",
     "inchiKey": "RTLRUOSYLFOFHV-UHFFFAOYSA-N",
-    "summary": "",
-    "history": "",
+    "summary": "シロシン(4-HO-DMT)の合成プロドラッグ。インドールの4-ヒドロキシ基がアセチル化されており、血中や肝臓にて速やかに脱アセチル化されシロシンに代謝される。<br />4-AcO-DMT自体もセロトニン受容体に対する親和性を有している<sup>[2]</sup>。",
+    "history": "1963年ごろHofmannらによってシロシンの最初のプロドラッグとして報告され<sup>[3]</sup>、Shulginsの著書TiHKALにてシロシンのプロドラッグとなりうるエステルとして言及<sup>[4]</sup>。<br />その後Nicholsらによって効率的な4-AcO-DMTの合成方法が開発され<sup>[5]</sup><br />2000年代に入ると娯楽用としてオンラインで流通することとなった。",
     "effects": {
-      "effects_positive": [],
-      "effects_negative": []
+      "effects_positive": [
+        "鮮やかな色彩感覚・視覚認識の向上",
+        "内省と洞察",
+        "心地よい体感覚・刺激",
+        "自我の軟化"
+      ],
+      "effects_negative": [
+        "激しい視覚的幻覚",
+        "不安・恐怖",
+        "吐き気・嘔吐",
+        "パニック"
+      ]
     },
     "external_resources": {
       "experiences": {
-        "label": "",
-        "url": ""
+        "label": "Experiences - Erowid",
+        "url": "https://erowid.org/experiences/subs/exp_4AcODMT.shtml"
       },
       "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
+        "label": "Dosage - Erowid",
+        "url": "https://erowid.org/chemicals/4_acetoxy_dmt/4_acetoxy_dmt_dose.shtml"
+      },
+      "related_resource": [
+        {
+          "label": "4-AcO-DMT: The Ultimate Guide to Synthetic Shrooms - Tripsitter",
+          "url": "https://tripsitter.com/4-aco-dmt/"
+        }
+      ]
     },
     "refs": [
-      "https://pubchem.ncbi.nlm.nih.gov/compound/15429212"
+      "https://pubchem.ncbi.nlm.nih.gov/compound/15429212",
+      "Glatfelter GC, Pottie E, Partilla JS, Sherwood AM, Kaylo K, Pham DNK, Naeem M, Sammeta VR, DeBoer S, Golen JA, Hulley EB, Stove CP, Chadeayne AR, Manke DR, Baumann MH. Structure-Activity Relationships for Psilocybin, Baeocystin, Aeruginascin, and Related Analogues to Produce Pharmacological Effects in Mice. ACS Pharmacol Transl Sci. 2022 Nov 2;5(11):1181-1196.",
+      "Hofmann A.; Troxler F.. Esters of Indoles. U.S. Patent 3,075,992 A, 1963.",
+      "Shulgin A. T.; Shulgin A.. TiHKAL: The Continuation; Transform Press, 1997.",
+      "Nichols D. E.; Frescas S. Improvements to the Synthesis of Psilocybin and a Facile Method for Preparing the O-Acetyl Prodrug of Psilocin. Synthesis 1999, 1999, 935–938. 10.1055/s-1999-3490."
     ]
   },
   {
