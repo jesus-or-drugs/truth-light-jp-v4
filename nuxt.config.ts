@@ -14,6 +14,11 @@ export default defineNuxtConfig({
     sources: ['/api/__sitemap__/urls'],
   },
 
+  content: {
+    documentDriven: true,
+    contentHead: true,
+  },
+
   nitro: {
     routeRules: {
       // ketcher配下だけ、iframe許可（同一オリジン前提）

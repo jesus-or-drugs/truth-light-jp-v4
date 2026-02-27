@@ -1,5 +1,5 @@
 <template>
-<div class="min-h-screen bg-slate-800 text-slate-100 antialiased">
+<div class="min-h-screen text-slate-100 antialiased">
   <main>
     <!-- Hero -->
     <section class="mx-auto max-w-6xl px-6 pb-10 pt-16">
@@ -242,6 +242,15 @@
 </template>
 
 <script setup lang="ts">
-  definePageMeta({ layout: "default" })
-    // document.getElementById("year").textContent: String = new Date().getFullYear()
+definePageMeta({ layout: "default" })
+
+const appConfig = useAppConfig()
+useHead({
+  titleTemplate: null,
+})
+useSeoMeta({
+  title: appConfig.truthlight?.site?.name ?? `Truth Light`,
+  description: appConfig.truthlight?.site?.description ?? ``,
+})
+
 </script>

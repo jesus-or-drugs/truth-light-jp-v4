@@ -2,14 +2,14 @@
   <div class="flex flex-row items-center gap-4">
     <NuxtLink v-if="logo?.black && logo?.white" to="/" class="flex flex-row items-center gap-2">
       <NuxtImg :src="logo.white" class="h-7 dark:block" />
-      <span v-if="showTitle && title" class="custom-font-bold text-lg tracking-wide">
+      <span v-if="showTitle && title" class="text-white custom-font-bold text-lg tracking-wide">
         {{ title }}
       </span>
     </NuxtLink>
 
-    <span v-if="props.subtitle !== ``" class="ml-3 custom-font-bold text-lg hidden md:inline-block">
+    <span v-if="props.subtitle !== ``" class="ml-3 text-white custom-font-bold text-lg hidden md:inline-block">
       {{ props.subtitle }}
-    </span>
+    </span> 
   </div>
 </template>
 

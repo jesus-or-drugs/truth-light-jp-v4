@@ -1,6 +1,7 @@
 <template>
-  <!-- md以上: 横並びナビ -->
-  <nav v-if="props.variant === `default` || props.variant === `legal`" class="hidden md:inline md:absolute md:left-1/2 md:-translate-x-1/2 md:top-1/2 md:-translate-y-1/2 gap-4 text-sm text-slate-200 my-auto">
+  <nav v-if="variant === `substances`"
+  class="hidden md:inline md:absolute md:left-1/2 md:-translate-x-1/2 md:top-1/2 md:-translate-y-1/2 gap-4 text-sm text-slate-200 my-auto"
+  >
     <!-- メインメニュー -->
     <ul class="flex flex-row list-none">
       <li v-for="n in navItems" :key="n.key" class="pr-4 flex items-center relative group">
@@ -9,6 +10,62 @@
           v-if="n.type === 'link'"
           :to="n.item.to"
           class="py-2 text-slate-200 hover:text-white"
+        >
+          {{ n.item.title }}
+        </NuxtLink>
+
+        <!-- ドロップダウン -->
+        <template v-else>
+          <button
+            type="button"
+            class="list-none cursor-pointer select-none py-2 text-slate-300 hover:text-white"
+          >
+            <span>{{ n.title }}</span>
+            <span class="text-xs ml-1">▼</span>
+          </button>
+
+          <div
+            class="
+              absolute left-1/2 -translate-x-1/2 top-full pt-2 z-50
+            "
+          >
+            <div
+              class="
+                min-w-56 rounded-md border border-white/10 bg-slate-900/90 shadow-lg backdrop-blur-xl
+                overflow-hidden opacity-0 scale-95 translate-y-1 pointer-events-none
+                transition-all duration-200 ease-out
+                group-hover:opacity-100 group-hover:scale-100 group-hover:translate-y-0
+                group-hover:pointer-events-auto
+              "
+            >
+              <div class="flex flex-col p-2">
+                <NuxtLink
+                  v-for="c in n.children"
+                  :key="c.key"
+                  :to="c.item.to"
+                  class="rounded-md px-3 py-2 text-sm text-slate-300 hover:bg-white/5 hover:text-white"
+                >
+                  {{ c.item.title }}
+                </NuxtLink>
+              </div>
+            </div>
+          </div>
+        </template>
+      </li>
+    </ul>
+  </nav>
+
+  <nav v-else
+  class="hidden md:inline md:absolute md:left-1/2 md:-translate-x-1/2 md:top-1/2 md:-translate-y-1/2 gap-4 text-sm text-slate-200 my-auto"
+  >
+    <!-- メインメニュー -->
+    <ul class="flex flex-row list-none">
+      <li v-for="n in navItems" :key="n.key" class="pr-4 flex items-center relative group">
+        <!-- 単体リンク -->
+        <NuxtLink
+          v-if="n.type === 'link'"
+          :to="n.item.to"
+          class="py-2 text-slate-300 hover:text-white"
         >
           {{ n.item.title }}
         </NuxtLink>
@@ -51,7 +108,7 @@
         </template>
       </li>
     </ul>
-  </nav>  
+  </nav>
 
   <!-- md未満: メニューボタン -->
   <button id="mobileButton" type="button" src class="absolute inline md:hidden menu-button w-[42px] h-[42px] "
@@ -69,6 +126,7 @@ import { computed } from "vue"
 const props = defineProps<{
   variant?: "default" | "substances" | "legal",
 }>()
+const variant = computed(() => props.variant ?? "default")
 
 const appConfig = useAppConfig()
 

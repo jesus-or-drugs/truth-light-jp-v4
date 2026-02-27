@@ -1,7 +1,7 @@
 export default defineAppConfig({
   truthlight: {
     site: {
-      name: 'Truth Light',
+      name: 'Truth Light | 薬物 ✕ ハームリダクション ✕ 回復',
       description: 'この日本で薬物依存症で苦しむ人をゼロにするハームリダクション&回復支援サイト',
       ogImage: '/og-default.png'
     },
@@ -32,29 +32,30 @@ export default defineAppConfig({
       border: false,
 
       nav: {
+        database: { type: "link", title: 'NPSデータベース(α版)', to: '/substances' },
         basics: {
           type: "menu",
           title: "ドラッグ基礎編",
-          meth: { type: "link", title: "🧊 メタンフェタミン", to: 'substances/methamphemine' },
-          cocaine: { type: "link", title: '🚴 コカイン',to: 'substances/cocaine' },
-          mdma: { type: "link", title: '❌️ エクスタシー', to: 'substances/mdma' },
+          meth: { type: "link", title: "🧊 メタンフェタミン", to: '/docs/basics/methamphetamine' },
+          cocaine: { type: "link", title: '🚴 コカイン',to: '/docs/basics/cocaine' },
+          mdma: { type: "link", title: '❌️ エクスタシー', to: '/docs/basic' },
         },
-        database: { type: "link", title: 'NPSデータベース(α版)', to: '/substances' },
-        recovery: { type: "link", title: '依存症相談窓口', to: '/recovery' },
+        recovery: { type: "link", title: '依存症からの回復', to: '/docs/recovery' },
         info: {
           type: "menu",
           title: "当サイトについて",
-          about: { type: "link", title: 'インフォメーション', to: '/info'},
-          disclaimer: { type: "link", title: '免責事項', to: '/info/disclaimer'}
+          about: { type: "link", title: 'インフォメーション', to: '/docs/info/mission'},
+          disclaimer: { type: "link", title: '免責事項', to: '/docs/info/disclaimer'}
         }
       },
-      links: [
-        {
-          icon: 'lucide:github',
-          to: 'https://github.com/jesus-or-drugs/truth-light-jp-v4',
-          target: '_blank'
-        }
-      ]
+      socialLinks: {
+        links: [{
+          title: 'ヤク中クリスチャン',
+          icon: 'x-logo-white.png',
+          to: 'https://x.com/Jesus_or_Drugs',
+          target: '_blank',
+        }]
+      }
     },
     categories: {
       stimulants: "中枢神経刺激薬", 
@@ -83,15 +84,6 @@ export default defineAppConfig({
         to: 'https://x.com/Jesus_or_Drugs',
         target: '_blank',
       }],
-    },
-    toc: {
-      enable: true,
-      links: [{
-        title: 'ヤク中クリスチャン',
-        icon: 'x-logo-white.png',
-        to: 'https://x.com/Jesus_or_Drugs',
-        target: '_blank',
-      }]
     },
     search: {
       enable: true,
