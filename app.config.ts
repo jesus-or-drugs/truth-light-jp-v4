@@ -26,7 +26,7 @@ export default defineAppConfig({
         dropdownType: 'select',
       },
       logo: {
-        white: './logo/Jesus_fish_02_ol_white.png',
+        white: './logo/Jesus_fish_03_ol_white.png',
         black: './logo/Jesus_fish_02_ol_black.png',
       },
       border: false,
@@ -50,7 +50,7 @@ export default defineAppConfig({
       },
       socialLinks: {
         links: [{
-          title: 'ヤク中クリスチャン',
+          title: 'Truth Light JP',
           icon: 'x-logo-white.png',
           to: 'https://x.com/Jesus_or_Drugs',
           target: '_blank',

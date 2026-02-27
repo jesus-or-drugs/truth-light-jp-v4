@@ -26,7 +26,7 @@
 
       <!-- Not found -->
       <div v-if="notFound" class="rounded-2xl border border-red-500/40 bg-red-500/10 p-6">
-        <p class="text-red-200 font-semibold">Not found</p>
+        <p class="text-red-200 custom-font-bold">Not found</p>
         <p class="mt-2 text-slate-200">
           JSON が見つからなかった：<span class="font-mono">{{ routeId }}</span>
         </p>
@@ -42,7 +42,7 @@
         <main class="lg:col-span-8 space-y-6">
           <!-- Summary -->
           <section class="rounded-2xl border border-slate-700/60 bg-slate-900/30 p-6">
-            <h2 class="text-xl text-slate-100 font-semibold mb-3">概要</h2>
+            <h2 class="text-xl text-slate-100 custom-font-bold mb-3">概要</h2>
             <div
               v-if="substance?.summary"
               class="leading-relaxed"
@@ -56,7 +56,7 @@
             v-if="substance?.history"
             class="rounded-2xl border border-slate-700/60 bg-slate-900/30 p-6">
 
-            <h2 class="text-xl text-slate-100 font-semibold mb-3">ヒストリー</h2>
+            <h2 class="text-xl text-slate-100 custom-font-bold mb-3">ヒストリー</h2>
             <div
               class="leading-relaxed"
               v-html="substance.history"
@@ -83,7 +83,7 @@
               <template v-if="((substance?.effects?.effects_positive?.length ?? 0) + (substance?.effects?.effects_negative?.length ?? 0)) > 0">
                 <!-- ポジ -->
                 <section v-if="(substance?.effects?.effects_positive?.length ?? 0) > 0" class="mb-6">
-                  <h3 class="text-lg font-semibold mb-2">ポジティブな効果</h3>
+                  <h3 class="text-lg text-slate-100 custom-font-bold mb-2">ポジティブな効果</h3>
                   <ul class="list-disc pl-5 space-y-1">
                     <li
                       v-for="(ep, i) in (substance?.effects?.effects_positive ?? [])"
@@ -96,7 +96,7 @@
 
                 <!-- ネガ -->
                 <section v-if="(substance?.effects?.effects_negative?.length ?? 0) > 0">
-                  <h3 class="text-lg font-semibold mb-2">ネガティブな効果</h3>
+                  <h3 class="text-lg text-slate-100 custom-font-bold mb-2">ネガティブな効果</h3>
                   <ul class="list-disc pl-5 space-y-1">
                     <li
                       v-for="(en, i) in (substance?.effects?.effects_negative ?? [])"
@@ -114,38 +114,70 @@
 
             <!-- dosage -->
             <div v-if="activeTab === 'dosage'">
-              <h3 class="text-lg font-semibold mb-2">用量・作用時間</h3>
-              <p v-if="substance?.dosage" class="text-slate-200 whitespace-pre-line">{{ substance.dosage }}</p>
+              <h3 class="text-lg custom-font-bold mb-2">用量・作用時間</h3>
+              <div
+                v-if="substance?.external_resources?.dosage_duration?.label && substance?.external_resources?.dosage_duration?.url"
+              >
+                <ul class="mb-4 list-disc pl-5 space-y-1">
+                  <li>
+                    <a :href="substance.external_resources.dosage_duration.url" target="_blank"
+                      class="underline text-slate-300 hover:text-white"
+                    >
+                      外部リンク：{{ substance.external_resources.dosage_duration.label }}
+                    </a>
+                  </li>
+                </ul>
+                <p>
+                  <span class="custom-font-bold text-red-500">※本リンク先は外部サイトの情報です。当サイトは内容の正確性・最新性を保証せず、利用により生じたいかなる損害についても責任を負いかねます。<br />本サイトは情報のアーカイブ目的で掲載しており薬物の使用を推奨するものではありません。必ず日本の法令を確認し遵守してください。</span>
+                </p>
+              </div>
               <p v-else class="text-slate-400">未記載</p>
             </div>
 
             <!-- experiences -->
             <div v-if="activeTab === 'experiences'">
-              <h3 class="text-lg font-semibold mb-2">体験談</h3>
-              <p v-if="substance?.experiences" class="text-slate-200 whitespace-pre-line">{{ substance.dosage }}</p>
+              <h3 class="text-lg custom-font-bold mb-2">体験談</h3>
+              <div
+                v-if="substance?.external_resources?.experiences?.label && substance?.external_resources?.experiences?.url"
+              >
+                <ul class="mb-4 list-disc pl-5 space-y-1">
+                  <li>
+                    <a :href="substance.external_resources.experiences.url"
+                      target="_blank"
+                      rel="noreferrer"
+                      class="underline text-slate-300 hover:text-white"
+                    >
+                      外部リンク：{{ substance.external_resources.experiences.label }}
+                    </a>
+                  </li>
+                </ul>
+                <p>
+                  <span class="custom-font-bold text-red-500">※本リンク先は外部サイトの情報です。当サイトは内容の正確性・最新性を保証せず、利用により生じたいかなる損害についても責任を負いかねます。<br />本サイトは情報のアーカイブ目的で掲載しており薬物の使用を推奨するものではありません。必ず日本の法令を確認し遵守してください。</span>
+                </p>
+              </div>
               <p v-else class="text-slate-400">未記載</p>
             </div>
 
             <!-- External resources -->
             <div v-if="activeTab === 'resources'">
-              <h3 class="text-lg font-semibold mb-3">外部リンク</h3>
+              <h3 class="text-lg custom-font-bold mb-3">その他外部リソース</h3>
 
-              <div v-if="resourceLinks.length" class="space-y-3">
-                <div
-                  v-for="link in resourceLinks"
-                  :key="link.label"
-                  class="rounded-xl border border-slate-700/60 bg-slate-950/30 p-4"
-                >
-                  <p class="text-sm text-slate-300 mb-1">{{ link.label }}</p>
-                  <a
-                    class="text-teal-300 hover:underline break-all"
-                    :href="link.url"
-                    target="_blank"
-                    rel="noreferrer"
+              <div v-if="resourceLinks.length">
+                <ul class="mb-4 list-disc pl-5 space-y-3">
+                  <li
+                    v-for="link in resourceLinks"
+                    :key="link.label"
                   >
-                    {{ link.url }}
-                  </a>
-                </div>
+                    <a
+                      class="text-teal-300 hover:underline break-all"
+                      :href="link.url"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      {{ link.label }}
+                    </a>
+                  </li>
+                </ul>
               </div>
 
               <p v-else class="text-slate-400">未記載</p>
@@ -162,7 +194,7 @@
             </ClientOnly>
           </section>
           <section class="rounded-2xl border border-slate-700/60 bg-slate-900/30 p-6">
-            <h2 class="text-lg font-semibold mb-3">基本情報</h2>
+            <h2 class="text-lg custom-font-bold mb-3">基本情報</h2>
 
             <dl class="space-y-3 text-sm">
               <div class="flex gap-3">
@@ -197,7 +229,7 @@
           </section>
 
           <!-- <section class="rounded-2xl border border-slate-700/60 bg-slate-900/30 p-6">
-            <h2 class="text-lg font-semibold mb-3">ルートID確認</h2>
+            <h2 class="text-lg custom-font-bold mb-3">ルートID確認</h2>
             <p class="text-slate-300 text-sm">
               URL param: <span class="font-mono text-slate-200">{{ routeId }}</span>
             </p>
@@ -306,7 +338,6 @@ const activeTab = ref<(typeof tabs)[number]["key"]>("effects")
 
 const titleJa = computed(() => substance.value?.common_name ?? substance.value?.id ?? "")
 
-console.log(`titleJaの中身: ${titleJa}`)
 
 const aliases = computed<string[]>(() => {
   const a = substance.value?.aliases
@@ -315,12 +346,14 @@ const aliases = computed<string[]>(() => {
 })
 
 const resourceLinks = computed(() => {
-  const r = substance.value?.external_resources ?? substance.value?.resources ?? null
+  const r = substance.value?.external_resources?.other_resources ?? null
   if (!r || typeof r !== "object") return []
   const out: Array<{ label: string; url: string }> = []
-  for (const [k, v] of Object.entries(r)) {
-    if (typeof v === "string" && v.trim()) out.push({ label: k, url: v.trim() })
+  for (const v of r) {
+    out.push({ label: v.label.trim(), url: v.url.trim() })
   }
   return out
 })
+console.log(`resourceLinksの中身：`, resourceLinks.value)
+
 </script>
