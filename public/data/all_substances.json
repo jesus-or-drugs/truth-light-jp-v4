@@ -4308,6 +4308,53 @@
     "refs": []
   },
   {
+    "id": "3,4-methylenedioxyphenmetrazine",
+    "name": "3,4-Methylenedioxyphenmetrazine",
+    "common_name": "3,4-Methylenedioxyphenmetrazine",
+    "systematic_name": "2-(1,3-benzodioxol-5-yl)-3-methylmorpholine",
+    "aliases": [
+      "3,4-MDPM"
+    ],
+    "categories": [
+      "中枢神経刺激薬",
+      "フェンメトラジン誘導体",
+      "置換フェニルモルホリン"
+    ],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "指定薬物",
+        "official_name": "３－メチル－２－（３，４－メチレンジオキシフェニル）モルフォリン及びその塩類",
+        "effective_date": "2024/08/07",
+        "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "82286499",
+      "inchi_key": "JMABLCPXWZOLCW-UHFFFAOYSA-N",
+      "smiles": "CC1C(OCCN1)C2=CC3=C(C=C2)OCO3"
+    },
+    "pubchemCid": "82286499",
+    "inchiKey": "JMABLCPXWZOLCW-UHFFFAOYSA-N",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      }
+    },
+    "refs": []
+  },
+  {
     "id": "3_4-dichloromethylphenidate",
     "name": "3,4-Dichloromethylphenidate",
     "common_name": "3,4-Dichloromethylphenidate",
@@ -4639,51 +4686,6 @@
     "refs": []
   },
   {
-    "id": "3,_4-mdpm",
-    "name": "3, 4-MDPM",
-    "common_name": "3, 4-MDPM",
-    "systematic_name": "3-mechiru-2-(3,4-mechirenjio kishiphenyl)moruforin 類",
-    "aliases": [
-      "3-MDPM",
-      "3",
-      "4- Methylenedioxyphenmetrazine"
-    ],
-    "categories": [],
-    "legal": {
-      "jp": {
-        "law_number": "",
-        "law_category": "指定薬物",
-        "official_name": "３－メチル－２－（３，４－メチレンジオキシフェニル）モルフォリン及びその塩類",
-        "effective_date": "2024/08/07",
-        "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
-      }
-    },
-    "identifiers": {
-      "pubchem_cid": "",
-      "inchi_key": "",
-      "smiles": ""
-    },
-    "pubchemCid": "",
-    "inchiKey": "",
-    "summary": "",
-    "history": "",
-    "effects": {
-      "effects_positive": [],
-      "effects_negative": []
-    },
-    "external_resources": {
-      "experiences": {
-        "label": "",
-        "url": ""
-      },
-      "dosage_duration": {
-        "label": "",
-        "url": ""
-      }
-    },
-    "refs": []
-  },
-  {
     "id": "3-_2-_diisopropylamino_ethyl_-5-methoxyindole",
     "name": "三―[二―(ジイソプロピルアミノ)エチル]―五―メトキシインドール及びその塩類",
     "common_name": "三―[二―(ジイソプロピルアミノ)エチル]―五―メトキシインドール及びその塩類",
@@ -4770,26 +4772,18 @@
     "refs": []
   },
   {
-    "id": "3-cpm",
-    "name": "3-CPM",
-    "common_name": "3-CPM",
+    "id": "3-chlorophenmetrazine",
+    "name": "3-Chlorophenmetrazine",
+    "common_name": "3-Chlorophenmetrazine",
     "systematic_name": "2-(3-chlorophenyl)-3-methylmorpholine",
     "aliases": [
-      "2-(3-chlorophenyl)-3-methylmorpholine",
-      "3-Chlorophenmetrazine",
-      "3-Cpm",
-      "B6P88Q2VW5",
-      "PAL-594",
-      "Morpholine, 2-(3-chlorophenyl)-3-methyl-",
-      "RefChem:93525",
-      "UNII-B6P88Q2VW5",
-      "SCHEMBL2599554",
-      "DTXSID701337061",
-      "PD150693",
-      "CS-0283434",
-      "EN300-303778"
+      "3-CPM"
     ],
-    "categories": [],
+    "categories": [
+      "中枢神経刺激薬",
+      "フェンメトラジン誘導体",
+      "置換フェニルモルホリン"
+    ],
     "legal": {
       "jp": {
         "law_number": "",
@@ -4802,7 +4796,7 @@
     "identifiers": {
       "pubchem_cid": "43350791",
       "inchi_key": "BOFUZZAQNVYZFF-UHFFFAOYSA-N",
-      "smiles": ""
+      "smiles": "CC1C(OCCN1)C2=CC(=CC=C2)Cl"
     },
     "pubchemCid": "43350791",
     "inchiKey": "BOFUZZAQNVYZFF-UHFFFAOYSA-N",
@@ -5025,10 +5019,13 @@
     "systematic_name": "2-(3-fluorophenyl)-3-methylmorpholine",
     "aliases": [
       "3-Fluorophenmetrazine",
-      "2-(3-fluorophenyl)-3-methylmorpholine",
-      "PAL-593"
+      "3-FPM"
     ],
-    "categories": [],
+    "categories": [
+      "中枢神経刺激薬",
+      "フェンメトラジン誘導体",
+      "置換フェニルモルホリン"
+    ],
     "legal": {
       "jp": {
         "law_number": "",
@@ -5041,7 +5038,7 @@
     "identifiers": {
       "pubchem_cid": "54673723",
       "inchi_key": "VHYVKJAQSJCYCK-UHFFFAOYSA-N",
-      "smiles": ""
+      "smiles": "CC1C(OCCN1)C2=CC(=CC=C2)F"
     },
     "pubchemCid": "54673723",
     "inchiKey": "VHYVKJAQSJCYCK-UHFFFAOYSA-N",
@@ -5854,14 +5851,12 @@
     "refs": []
   },
   {
-    "id": "3f-phenetrazine",
-    "name": "3F-Phenetrazine",
-    "common_name": "3F-Phenetrazine",
+    "id": "3-fluorophenetrazine",
+    "name": "3-Fluorophenetrazine",
+    "common_name": "3-Fluorophenetrazine",
     "systematic_name": "3-ethyl-2-(3-fluorophenyl)morpholine",
     "aliases": [
-      "3-Ethyl-2-(3-fluorophenyl)morpholine",
       "3F-phenetrazine",
-      "3-Fluorophenetrazine",
       "3-FPE"
     ],
     "categories": [
@@ -5881,7 +5876,7 @@
     "identifiers": {
       "pubchem_cid": "165361708",
       "inchi_key": "GPTHUZORYIVVNJ-UHFFFAOYSA-N",
-      "smiles": ""
+      "smiles": "CCC1C(OCCN1)C2=CC(=CC=C2)F"
     },
     "pubchemCid": "165361708",
     "inchiKey": "GPTHUZORYIVVNJ-UHFFFAOYSA-N",
@@ -6253,10 +6248,6 @@
         "url": "https://tripsit.me/factsheets/4-aco-dmt"
       },
       "other_resources": [
-        {
-          "label": "4-AcO-DMT: The Ultimate Guide to Synthetic Shrooms - Tripsitter",
-          "url": "https://tripsitter.com/4-aco-dmt/"
-        },
         {
           "label": "4-AcO-DMT: The Ultimate Guide to Synthetic Shrooms - Tripsitter",
           "url": "https://tripsitter.com/4-aco-dmt/"
@@ -10381,6 +10372,53 @@
     ]
   },
   {
+    "id": "",
+    "name": "",
+    "common_name": "",
+    "systematic_name": "",
+    "aliases": [],
+    "categories": [],
+    "legal": {
+      "jp": {
+        "law_number": "",
+        "law_category": "",
+        "official_name": "",
+        "effective_date": "",
+        "source_link": ""
+      }
+    },
+    "identifiers": {
+      "pubchem_cid": "",
+      "inchi_key": "",
+      "smiles": ""
+    },
+    "pubchemCid": "",
+    "inchiKey": "",
+    "summary": "",
+    "history": "",
+    "effects": {
+      "effects_positive": [],
+      "effects_negative": []
+    },
+    "external_resources": {
+      "experiences": {
+        "label": "",
+        "url": ""
+      },
+      "dosage_duration": {
+        "label": "",
+        "url": ""
+      },
+      "other_resources": [
+        {
+          "label": "4-AcO-DMT: The Ultimate Guide to Synthetic Shrooms - Tripsitter",
+          "url": "https://tripsitter.com/4-aco-dmt/"
+        }
+      ]
+    },
+    "refs": []
+  },
+  {
     "id": "5-meo-dmt",
     "name": "5-MeO-DMT",
     "common_name": "5-MeO-DMT",
@@ -10389,33 +10427,11 @@
       "N,N-Dimethyl-5-methoxytryptamine",
       "5-Methoxy-N,N-dimethyltryptamine",
       "O-Methylbufotenine",
-      "5-MeO-DMT",
-      "MeODMT",
+      "5-MeO",
       "Methylbufotenine",
-      "Bufotenine, O-methyl-",
       "3-(2-Dimethylaminoethyl)-5-methoxyindole",
       "2-(5-Methoxy-1H-indol-3-yl)-N,N-dimethylethanamine",
-      "1H-Indole-3-ethanamine, 5-methoxy-N,N-dimethyl-",
-      "CT 4334",
-      "5-Methoxy-N,N-dimethyl-1H-indole-3-ethanamine",
-      "NSC 88624",
-      "EINECS 213-813-2",
-      "NSC-88624",
-      "5-Methoxy-N,N-dimethyl-1H-indole-3-ethylamine",
-      "3-(2-(N,N-Dimethyl)aminoethyl)-5-methoxyindole",
-      "BRN 0164771",
-      "INDOLE, 3-(2-(N,N-DIMETHYLAMINO)ETHYL)-5-METHOXY-",
-      "5-METHOXY-N-DIMETHYLTRYPTAMINE",
-      "Indole, 3-(2-(dimethylamino)ethyl)-5-methoxy-",
-      "3-[2-(N,N-Dimethylamino)ethyl]-5-methoxy-indole",
-      "CHEBI:2086",
-      "DTXSID70144324",
-      "Indole, 3-[2-(dimethylamino)ethyl]-5-methoxy-",
-      "5-22-12-00027 (Beilstein Handbook Reference)",
-      "[2-(5-METHOXY-1H-INDOL-3-YL)-ETHYL]-DIMETHYL-AMINE",
-      "3-(2-(N,N-Dimethylamino)ethyl)-5-methoxy-indole",
-      "(2-(5-Methoxy-1H-Indol-3-Yl)-Ethyl)-Dimethyl-Amine",
-      "5-OMe-DMT"
+      "5-Methoxy-N,N-dimethyl-1H-indole-3-ethanamine"
     ],
     "categories": [],
     "legal": {

@@ -1,30 +1,16 @@
 {
-  "id": "3-cpm",
-  "common_name": "3-CPM",
+  "id": "3-chlorophenmetrazine",
+  "common_name": "3-Chlorophenmetrazine",
   "systematic name": "2-(3-chlorophenyl)-3-methylmorpholine",
   "aliases": [
-    "2-(3-chlorophenyl)-3-methylmorpholine",
-    "3-Chlorophenmetrazine",
-    "3-Cpm",
-    "B6P88Q2VW5",
-    "PAL-594",
-    "Morpholine, 2-(3-chlorophenyl)-3-methyl-",
-    "RefChem:93525",
-    "UNII-B6P88Q2VW5",
-    "SCHEMBL2599554",
-    "DTXSID701337061",
-    "PD150693",
-    "CS-0283434",
-    "EN300-303778"
+    "3-CPM"
   ],
   "identifiers": {
     "pubchem_cid": "43350791",
     "inchi_key": "BOFUZZAQNVYZFF-UHFFFAOYSA-N",
-    "smiles": "",
-    "inchikey": "BOFUZZAQNVYZFF-UHFFFAOYSA-N",
-    "pubchemCID": "43350791"
+    "smiles": "CC1C(OCCN1)C2=CC(=CC=C2)Cl"
   },
-  "categories": [],
+  "categories": ["中枢神経刺激薬", "フェンメトラジン誘導体", "置換フェニルモルホリン"],
   "legal": {
     "jp": {
       "law_number": "",

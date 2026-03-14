@@ -1,18 +1,16 @@
 {
-  "id": "3,_4-mdpm",
-  "common_name": "3, 4-MDPM",
-  "systematic name": "3-mechiru-2-(3,4-mechirenjio kishiphenyl)moruforin 類",
+  "id": "3,4-methylenedioxyphenmetrazine",
+  "common_name": "3,4-Methylenedioxyphenmetrazine",
+  "systematic name": "2-(1,3-benzodioxol-5-yl)-3-methylmorpholine",
   "aliases": [
-    "3-MDPM",
-    "3",
-    "4- Methylenedioxyphenmetrazine"
+    "3,4-MDPM"
   ],
   "identifiers": {
-    "pubchem_cid": "",
-    "inchi_key": "",
-    "smiles": ""
+    "pubchem_cid": "82286499",
+    "inchi_key": "JMABLCPXWZOLCW-UHFFFAOYSA-N",
+    "smiles": "CC1C(OCCN1)C2=CC3=C(C=C2)OCO3"
   },
-  "categories": [],
+  "categories": ["中枢神経刺激薬", "フェンメトラジン誘導体", "置換フェニルモルホリン"],
   "legal": {
     "jp": {
       "law_number": "",

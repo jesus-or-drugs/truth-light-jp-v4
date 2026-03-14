@@ -1,17 +1,15 @@
 {
-  "id": "3f-phenetrazine",
-  "common_name": "3F-Phenetrazine",
+  "id": "3-fluorophenetrazine",
+  "common_name": "3-Fluorophenetrazine",
   "systematic name": "3-ethyl-2-(3-fluorophenyl)morpholine",
   "aliases": [
-    "3-Ethyl-2-(3-fluorophenyl)morpholine",
     "3F-phenetrazine",
-    "3-Fluorophenetrazine",
     "3-FPE"
   ],
   "identifiers": {
     "pubchem_cid": "165361708",
     "inchi_key": "GPTHUZORYIVVNJ-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "CCC1C(OCCN1)C2=CC(=CC=C2)F"
   },
   "categories": ["中枢神経刺激薬", "フェンメトラジン誘導体", "置換フェニルモルホリン"],
   "legal": {

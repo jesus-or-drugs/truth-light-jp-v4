@@ -4,15 +4,14 @@
   "systematic name": "2-(3-fluorophenyl)-3-methylmorpholine",
   "aliases": [
     "3-Fluorophenmetrazine",
-    "2-(3-fluorophenyl)-3-methylmorpholine",
-    "PAL-593"
+    "3-FPM"
   ],
   "identifiers": {
     "pubchem_cid": "54673723",
     "inchi_key": "VHYVKJAQSJCYCK-UHFFFAOYSA-N",
-    "smiles": ""
+    "smiles": "CC1C(OCCN1)C2=CC(=CC=C2)F"
   },
-  "categories": [],
+  "categories": ["中枢神経刺激薬", "フェンメトラジン誘導体", "置換フェニルモルホリン"],
   "legal": {
     "jp": {
       "law_number": "",

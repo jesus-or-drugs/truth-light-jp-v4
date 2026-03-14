@@ -10,6 +10,11 @@
         </div>
 
         <h1 class="text-3xl text-white custom-font-bold leading-tight h-auto">{{ titleJa }}</h1>
+        <p v-if="aliases.length">
+          <span v-for="const [k, v] in Object().entries(aliases)">
+            {{ a }}
+          </span>
+        </p>
 
         <div class="mt-3 flex flex-wrap gap-2 text-xs">
           <span v-if="substance?.id" class="rounded-full border border-teal-600/60 px-3 py-1 text-teal-300">
@@ -214,7 +219,10 @@
               <div class="flex gap-3">
                 <dt class="w-28 text-slate-400">カテゴリー</dt>
                 <dd class="flex-1 text-slate-200 break-words">
-                  <span v-for="cat in substance?.categories">{{cat || "—" }}</span>
+                  <span v-for="cat in substance?.categories">
+                    <span v-if=""
+                    {{cat+", " || "—" }}
+                  </span>
                 </dd>
               </div>
 
