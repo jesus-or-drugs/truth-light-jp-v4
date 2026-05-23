@@ -108,11 +108,13 @@ const { data: basicsFeeds } = await useAsyncData('basics-feeds', async () => {
     .order('updatedAt', 'DESC')
     .all()
 
-  return contents.filter((content) => {
+  return contents.filter((content) => 
     content.path.startsWith('docs/basics/') &&
     content.path !== '/docs/basics'
-  })
+  )
 })
+
+console.log(`basicsFeedsの中身：${basicsFeeds}`)
 
 const carouselRef = ref<HTMLElement | null>(null)
 
