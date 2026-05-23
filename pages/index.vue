@@ -111,7 +111,7 @@ const { data: basicsFeeds } = await useAsyncData('basics-feeds', async () => {
   console.log(contents)
 
   return contents.filter((content) =>
-    content.path.startsWith('/docs/basics/')
+    content.path.startsWith('/basics/')
   )
 })
 
