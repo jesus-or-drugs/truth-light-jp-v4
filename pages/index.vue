@@ -103,13 +103,15 @@ useSeoMeta({
 
 const route = useRoute()
 
-const { data: basicsFeeds } = await useAsyncData('basics-feeds', () => {
-  return queryCollection('docs')
-    .where('path', 'LIKE', '/docs/basics/%')
-    .where('path', '<>', '/docs/basics')
-    .select('title', 'description', 'path', 'createdAt', 'updatedAt', 'ogImage')
+const { data: basicsFeeds } = await useAsyncData('basics-feeds', async () => {
+  const contents = await queryCollection('docs')
     .order('updatedAt', 'DESC')
     .all()
+
+  return contents.filter((content) => {
+    content.path.startsWith('docs/basics/') &&
+    content.path !== '/docs/basics'
+  })
 })
 
 const carouselRef = ref<HTMLElement | null>(null)
