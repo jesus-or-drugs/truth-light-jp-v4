@@ -89,8 +89,6 @@
 </style>
 
 <script setup lang="ts">
-import ContentKetcherFrame from '~/components/content/ContentKetcherFrame.vue'
-
 definePageMeta({ layout: "default" })
 
 const appConfig = useAppConfig()
@@ -108,14 +106,12 @@ const { data: basicsFeeds } = await useAsyncData('basics-feeds', async () => {
     .order('updatedAt', 'DESC')
     .all()
 
-  console.log(contents)
+  console.log('Contentsの中身！：', contents)
 
   return contents.filter((content) =>
-    content.path.startsWith('/basics/')
+    content.path.startsWith('/docs/basics/')
   )
 })
-
-console.log('basicsFeeds:', basicsFeeds.value)
 
 const carouselRef = ref<HTMLElement | null>(null)
 
