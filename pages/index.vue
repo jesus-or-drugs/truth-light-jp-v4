@@ -114,7 +114,7 @@ const { data: basicsFeeds } = await useAsyncData('basics-feeds', async () => {
   )
 })
 
-console.log(`basicsFeedsの中身：${basicsFeeds}`)
+console.log(`basicsFeedsの中身：${basicsFeeds.value}`)
 
 const carouselRef = ref<HTMLElement | null>(null)
 
