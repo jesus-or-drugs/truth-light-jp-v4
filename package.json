@@ -12,7 +12,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@nuxt/content": "^3.11.2",
+    "@nuxt/content": "3.11.2",
     "@nuxt/image": "2.0.0",
     "@nuxtjs/sitemap": "^7.5.2",
     "better-sqlite3": "^12.6.2",
@@ -32,5 +32,8 @@
     "tsx": "^4.21.0",
     "typescript": "^6.0.2",
     "vue-tsc": "^3.2.6"
+  },
+  "engines": {
+    "node": "20.x"
   }
 }

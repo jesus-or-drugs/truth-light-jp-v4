@@ -831,12 +831,15 @@
   },
   {
     "id": "2-fluoro-2-oxo-pce",
-    "name": "2-fluoro-2-Oxo-PCE",
-    "common_name": "2-fluoro-2-Oxo-PCE",
+    "name": "2'-Fluoro-2-Oxo-PCE",
+    "common_name": "2'-Fluoro-2-Oxo-PCE",
     "systematic_name": "2-(ethylamino)-2-(2-fluorophenyl)cyclohexan-1-one",
     "aliases": [
-      "2-Deschloro-2-fluoro-N-ethylnorketamine",
+      "2-deschloro-2-fluoro-N-ethylnorketamine",
       "2-fluoro-N-ethylnordeschloroketamine",
+      "2-fluoro-2-oxo-phenylcyclohexylethylamine",
+      "2'-Deschloro-2'-fluoro-N-ethylnorketamine",
+      "2'-fluoro-N-ethylnordeschloroketamine",
       "2'-fluoro-2-oxo-phenylcyclohexylethylamine",
       "2-FXE",
       "2F-NENDCK",
@@ -860,7 +863,7 @@
       "inchi_key": "RTXKYSLDFKUESF-UHFFFAOYSA-N",
       "smiles": "CCNC1(CCCCC1=O)C2=CC=CC=C2F"
     },
-    "summary": "",
+    "summary": "<p>2'-Fluoro-2-Oxo-PCEはアリルシクロヘキシルアミンに属するNMDA受容体アンタゴニスト/解離性薬物である。構造的にケタミンの類縁体であり、N-methyl基がN-ethyl基になりフェニル基の2位の塩素がフッ素に置換されている。</p>",
     "history": "",
     "effects": {
       "effects_positive": [],
@@ -879,14 +882,16 @@
     "refs": []
   },
   {
-    "id": "2-fluorodeschloroketamine",
-    "name": "2-Fluorodeschloroketamine",
-    "common_name": "2-Fluorodeschloroketamine",
+    "id": "2-fluoro-2-oxo-pcm",
+    "name": "2'-Fluoro-2-Oxo-PCM",
+    "common_name": "2'-Fluoro-2-Oxo-PCM",
     "systematic_name": "2-(2-fluorophenyl)-2-(methylamino)cyclohexan-1-one",
     "aliases": [
+      "2'-Fluorodeschloroketamine",
+      "2-Fluorodeschloroketamine",
       "Fluoroketamine",
       "2-FDCK",
-      "2'-Fl-2-Oxo-PCM",
+      "2'-FDCK",
       "二―(二―フルオロフェニル)―二―(メチルアミノ)シクロヘキサノン及びその塩類"
     ],
     "categories": [
@@ -926,13 +931,14 @@
     "refs": []
   },
   {
-    "id": "2-fpm",
-    "name": "2-FPM",
-    "common_name": "2-FPM",
+    "id": "2-fluorophenmetrazine",
+    "name": "2-Fluorophenmetrazine",
+    "common_name": "2-Fluorophenmetrazine",
     "systematic_name": "2-(2-fluorophenyl)-3-methylmorpholine",
     "aliases": [
-      "2-Fluorophenmetrazine",
-      "2-(2-fluorophenyl)-3-methylmorpholine"
+      "2-FPM",
+      "2-(2-fluorophenyl)-3-methylmorpholine",
+      "２－（２－フルオロフェニル）－３－メチルモルフォリン及びその塩類"
     ],
     "categories": [
       "中枢神経刺激薬",
