@@ -11,7 +11,6 @@
         </h2>
       </div>
 
-      <pre>{{ basicsFeeds }}</pre>
     </section>
 
     <section>
