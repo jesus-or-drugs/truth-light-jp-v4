@@ -1,6 +1,7 @@
 ---
 title: '🐘 ケタミンとPCP：解離性麻酔薬と「中身不明」の危険性'
 description: 'ケタミンとPCPの歴史、作用機序、毒性、ハームリダクション、依存症からの回復'
+ogImage: '/ogp/basics/og-ketamine.png'
 seo:
   meta:
     - name: 'keywords'

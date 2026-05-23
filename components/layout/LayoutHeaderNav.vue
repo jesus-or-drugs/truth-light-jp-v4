@@ -11,7 +11,7 @@
         <NuxtLink
           v-if="n.type === 'link'"
           :to="n.item.to"
-          class="flex items-center h-full hover:text-[#FF9B51]"
+          class="flex items-center h-full hover:text-[#FF9B51] hover:bg-[#BFC9D1]/20"
         >
           {{ n.item.title }}
         </NuxtLink>

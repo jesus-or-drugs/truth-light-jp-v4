@@ -62,6 +62,8 @@ import { withoutTrailingSlash } from 'ufo'
 
 definePageMeta({ layout: 'default' })
 
+const appConfig = useAppConfig()
+
 const route = useRoute()
 const path = computed(() => withoutTrailingSlash(route.path) || '/')
 
@@ -95,11 +97,25 @@ const headLink = computed<HeadLinkItem[]>(() => {
   return (page.value?.seo?.link ?? []) as HeadLinkItem[]
 })
 
+const siteUrl = appConfig.truthlight.site.url
+const defaultOgImage = appConfig.truthlight.site.ogImage
+const ogImage = computed(() => {
+  return page.value?.ogImage
+    ? new URL(page.value.ogImage, siteUrl).toString()
+    : new URL(defaultOgImage, siteUrl).toString()
+})
+
 // v3標準: seo は useSeoMeta と組み合わせる想定 :contentReference[oaicite:3]{index=3}
 useSeoMeta({
   title: () => page.value?.seo?.title ?? page.value?.title,
   description: () => page.value?.seo?.description ?? page.value?.description,
+  ogTitle: () => page.value?.seo?.title ?? page.value?.title,
   ogDescription: () => page.value?.seo?.description ?? page.value?.description,
+  ogImage: () => ogImage.value,
+  twitterCard: 'summary_large_image',
+  twitterTitle: () => page.value?.seo?.title ?? page.value?.title,
+  twitterDescription: () => page.value?.seo?.description ?? page.value?.description,
+  twitterImage: () => ogImage.value,
 })
 
 // seo.meta / seo.link みたいな「配列系」は useHead 側に流す

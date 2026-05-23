@@ -1,6 +1,7 @@
 ---
-title: 'メタンフェタミン: 日本で生まれ育ったQueen of Drug'
+title: '🧊 メタンフェタミン: 日本で生まれ育ったQueen of Drug'
 description: 'メタンフェタミンの歴史、作用機序、毒性、ハームリダクション、依存症からの回復'
+ogImage: '/ogp/basics/og-methamphetamine.png'
 seo:
   meta:
     - name: 'keywords'
@@ -10,6 +11,8 @@ seo:
     - name: 'author'
       content: '夢可愛アイ'
 ---
+
+![メタンフェタミン: 日本で生まれ育ったQueen of Drug](/ogp/basics/og-methamphetamine.png)
 
 メタンフェタミンはノルアドレナリン・ドーパミンなどのモノアミン神経伝達を強める中枢神経刺激薬であり、使用により覚醒感、エネルギーの向上、多幸感、食欲低下、不眠などを引き起こす。  
 同時に不安や攻撃性、妄想・幻聴などの精神病様症状を引き起こす場合もあり、薬物の作用が切れると倦怠感、集中力・認知能力の低下、過眠などを引き起こす。  
