@@ -46,7 +46,7 @@
         </nav>
       </aside>
 
-      <!-- 本文 -->
+      <!-- Main text -->
       <article
         class="flex-1"
       >

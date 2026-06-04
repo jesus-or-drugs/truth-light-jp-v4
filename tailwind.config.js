@@ -1,7 +1,20 @@
 
 export default {
   darkMode: 'class',
-  safelist: ['dark'],
+  safelist: [
+    'dark',
+    'flow-root',
+    'float-right',
+    'clear-both',
+    'w-[320px]',
+    'w-full',
+    'max-w-full',
+    'mb-2',
+    'mb-6',
+    'ml-6',
+    'text-xs',
+    'text-slate-500',
+  ],
   prefix: '',
   content: [
     './content/**/*',

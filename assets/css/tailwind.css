@@ -26,6 +26,12 @@ html, body, #__nuxt { height: 100%; }
 }
 
 /* Nuxt Content Markdown */
+#__nuxtContent p {
+  text-align: justify;
+  margin-bottom: 1.75rem;
+  line-height: 1.75rem;
+}
+
 #__nuxtContent a {
   color: #25343F;
   text-decoration-line: underline;
@@ -48,9 +54,15 @@ html, body, #__nuxt { height: 100%; }
   margin-bottom: 1rem;
 }
 
-#__nuxtContent p {
-  margin-bottom: 1.75rem;
-  line-height: 1.75rem;
+#__nuxtContent h2 a,
+#__nuxtContent h3 a {
+  text-decoration: none !important;
+}
+
+#__nuxtContent h2 a:hover,
+#__nuxtContent h3 a:hover {
+  color: #25343F;
+  cursor: default;
 }
 
 #__nuxtContent .yumekawa-manga {
@@ -83,13 +95,19 @@ html, body, #__nuxt { height: 100%; }
   padding-left: 1.5rem;
 }
 
-#__nuxtContent h2 a,
-#__nuxtContent h3 a {
-  text-decoration: none !important;
+
+#__nuxtContent article table {
+  margin-bottom: 1rem;
+}
+#__nuxtContent article th,
+#__nuxtContent article td {
+  border: 2px solid #25343F;
+  padding: 0.5rem;
 }
 
-#__nuxtContent h2 a:hover,
-#__nuxtContent h3 a:hover {
-  color: #25343F;
-  cursor: default;
+#__nuxtContent article code {
+  border: 1px solid #BFC9D1;
+  border-radius: 0.25rem;
+  background-color: #BFC9D13A;
+  padding: 0.125rem;
 }
