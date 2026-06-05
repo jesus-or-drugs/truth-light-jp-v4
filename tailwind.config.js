@@ -14,6 +14,9 @@ export default {
     'ml-6',
     'text-xs',
     'text-slate-500',
+    'decoration-dotted',
+    'underline',
+    'underline-offset-4',
   ],
   prefix: '',
   content: [

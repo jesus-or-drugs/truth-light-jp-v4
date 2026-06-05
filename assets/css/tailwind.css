@@ -9,6 +9,12 @@
   }
 }
 
+@layer components {
+  .article-underline-dotted {
+    @apply border-b border-dotted;
+  }
+}
+
 html, body, #__nuxt { height: 100%; }
 
 .custom-font-normal {
