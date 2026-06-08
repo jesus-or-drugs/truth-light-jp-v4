@@ -10,8 +10,22 @@
 }
 
 @layer components {
+  #__nuxtContent article figure {
+    @apply mb-4
+  }
+  #__nuxtContent article figure figcaption {
+    @apply mt-2
+  }
+  .article-no-bottom-margin {
+    @apply mb-0
+  }
+
   .article-underline-dotted {
-    @apply border-b border-dotted;
+    @apply underline decoration-dotted underline-offset-4;
+  }
+
+  .article-comment {
+    @apply text-xs
   }
 }
 
@@ -101,10 +115,11 @@ html, body, #__nuxt { height: 100%; }
   padding-left: 1.5rem;
 }
 
-
-#__nuxtContent article table {
-  margin-bottom: 1rem;
+#__nuxtContent article table caption {
+  white-space: nowrap;
+  padding: 0.5rem;
 }
+
 #__nuxtContent article th,
 #__nuxtContent article td {
   border: 2px solid #25343F;
