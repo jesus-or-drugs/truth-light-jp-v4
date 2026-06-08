@@ -4,6 +4,20 @@ export default defineNuxtConfig({
       htmlAttrs: {
         lang: 'ja',
       },
+      script: [
+        {
+          src: 'https://www.googletagmanager.com/gtag/js?id=G-2W5X248N5S',
+          async: true
+        },
+        {
+          innerHTML: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-2W5X248N5S');
+          `
+        }
+      ],
     },
   },
   compatibilityDate: '2025-07-15',
