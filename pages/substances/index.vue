@@ -3,7 +3,6 @@ import ContentSubstancesTable from '~/components/content/ContentSubstancesTable.
 
 const route = useRoute()
 definePageMeta({
-    layout: "substances",
     key: route => route.fullPath,
 })
 
