@@ -34,6 +34,7 @@
 					<!-- 単体リンク -->
 					<NuxtLink
 					v-if="n.type === 'link'"
+					:key="n.key"
 					:to="n.item.to"
 					class="py-2 hover:text-[#FF9B51]"
 					@click.prevent="navigateFromMenu(n.item.to)"
