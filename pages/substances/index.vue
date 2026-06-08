@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import ContentSubstancesTable from '~/components/content/ContentSubstancesTable.client.vue'
 
+const route = useRoute()
 definePageMeta({ layout: "substances" })
 
 useSeoMeta({
@@ -13,7 +14,7 @@ useSeoMeta({
 
 <template>
   <ClientOnly>
-    <ContentSubstancesTable />
+    <ContentSubstancesTable :key="route.fullPath" />
     <template #fallback>
       <div class="text-base text-center mt-16">Loading…</div>
     </template>
