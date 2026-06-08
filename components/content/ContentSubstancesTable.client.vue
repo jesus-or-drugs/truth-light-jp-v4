@@ -304,7 +304,7 @@ console.log(sorted)
                   />
                 </th>
 
-                <th class="sticky bg-[#DDE4E7] border-b border-white/10 text-slate-400 top-0 text-left pl-6 pt-4 pr-4 pb-4">
+                <th class="sticky bg-[#DDE4E7] border-b border-white/10 text-slate-400 top-0 text-left pl-6 pt-4 pr-4 pb-4 hidden md:table-cell">
                   <button
                     class="sort-toggle"
                     :class="sortClass('category')"
@@ -321,7 +321,7 @@ console.log(sorted)
                   />
                 </th>
 
-                <th class="sticky bg-[#DDE4E7] border-b border-white/10 text-slate-400 top-0 text-left pl-6 pt-4 pr-4 pb-4">
+                <th class="sticky bg-[#DDE4E7] border-b border-white/10 text-slate-400 top-0 text-left pl-6 pt-4 pr-4 pb-4 hidden md:table-cell">
                   <button
                     class="sort-toggle"
                     :class="sortClass('legal')"
