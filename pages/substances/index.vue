@@ -2,7 +2,10 @@
 import ContentSubstancesTable from '~/components/content/ContentSubstancesTable.client.vue'
 
 const route = useRoute()
-definePageMeta({ layout: "substances" })
+definePageMeta({
+    layout: "substances",
+    key: route => route.fullPath,
+})
 
 useSeoMeta({
   title: `規制物質データベース`,
