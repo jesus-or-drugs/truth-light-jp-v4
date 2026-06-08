@@ -16,10 +16,8 @@ useSeoMeta({
 </script>
 
 <template>
-  <ClientOnly>
     <ContentSubstancesTable :key="route.fullPath" />
     <template #fallback>
       <div class="text-base text-center mt-16">Loading…</div>
     </template>
-  </ClientOnly>
 </template>
