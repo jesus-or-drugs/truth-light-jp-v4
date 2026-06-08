@@ -1,7 +1,7 @@
 <template>
     <!-- md未満: メニューボタン -->
     <button id="mobileButton" type="button" class="inline md:hidden menu-button h-[34px] w-[34px]"
-		aria-controls="mobileMenu" aria-expanded="false" aria-label="モバイルメニューを開く"
+		aria-controls="mobileMenu" :aria-expanded="isMobileMenuOpen" aria-label="モバイルメニューを開く"
 		@click="isMobileMenuOpen = !isMobileMenuOpen"
 	>
         <img src="/icon/menu_open_01_black.png" alt="" class="w-[34px] h-[34px]" />
@@ -11,7 +11,8 @@
 		p-4
 		transition-transform duration-300 ease-in-out
 		md:hidden"
-		:class="{ 'translate-x-0': isMobileMenuOpen, '-translate-x-full': !isMobileMenuOpen }"
+		:class="{ 'translate-x-0 pointer-events-auto': isMobileMenuOpen, '-translate-x-full pointer-events-none': !isMobileMenuOpen }"
+		:aria-hidden="!isMobileMenuOpen"
 		aria-label="モバイルメニュー"
 	>
         <div class="flex flex-col">
@@ -35,6 +36,7 @@
 					v-if="n.type === 'link'"
 					:to="n.item.to"
 					class="py-2 hover:text-[#FF9B51]"
+					@click="closeMobileMenu"
 					>
 					{{ n.item.title }}
 					</NuxtLink>
@@ -47,7 +49,9 @@
 							<li v-for="c in n.children" class="block">
 								<NuxtLink
 									:key="c.key"
-									:to="c.item.to">
+									:to="c.item.to"
+									@click="closeMobileMenu"
+								>
 									{{ c.item.title }}
 								</NuxtLink>
 							</li>
@@ -65,8 +69,8 @@
 import { computed, ref } from "vue"
 
 const isMobileMenuOpen = ref(false)
-const menuOpen = () => {
-	isMobileMenuOpen.value = true
+const closeMobileMenu = () => {
+	isMobileMenuOpen.value = false
 }
 
 const appConfig = useAppConfig()
