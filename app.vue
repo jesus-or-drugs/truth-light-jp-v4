@@ -1,16 +1,18 @@
 <template>
   <div class="relative bg-[#EAEFEF] text-[#25343F] custom-font-normal">
-    <NuxtLayout>
-      <NuxtPage />
+    <NuxtLayout :key="layoutKey">
+      <NuxtPage :key="route.fullPath" />
     </NuxtLayout>
     <ChatbotFloatingIcon />
   </div>
 </template>
 
 <script setup lang="ts">
+const route = useRoute()
 const appConfig = useAppConfig()
 const siteName = appConfig.truthlight?.site?.name ?? ``
 const topPageName = appConfig.truthlight?.site?.topPageName ?? ``
+const layoutKey = computed(() => String(route.meta.layout ?? "default"))
 
 useHead({
   titleTemplate: (titleChunk) => {

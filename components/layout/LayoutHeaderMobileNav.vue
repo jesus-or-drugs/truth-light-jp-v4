@@ -36,7 +36,7 @@
 					v-if="n.type === 'link'"
 					:to="n.item.to"
 					class="py-2 hover:text-[#FF9B51]"
-					@click="closeMobileMenu"
+					@click.prevent="navigateFromMenu(n.item.to)"
 					>
 					{{ n.item.title }}
 					</NuxtLink>
@@ -50,7 +50,7 @@
 								<NuxtLink
 									:key="c.key"
 									:to="c.item.to"
-									@click="closeMobileMenu"
+									@click.prevent="navigateFromMenu(c.item.to)"
 								>
 									{{ c.item.title }}
 								</NuxtLink>
@@ -71,6 +71,10 @@ import { computed, ref } from "vue"
 const isMobileMenuOpen = ref(false)
 const closeMobileMenu = () => {
 	isMobileMenuOpen.value = false
+}
+const navigateFromMenu = async (to: string) => {
+	await navigateTo(to)
+	closeMobileMenu()
 }
 
 const appConfig = useAppConfig()
