@@ -22,7 +22,7 @@
         <!-- 左ボタン -->
         <button
           type="button"
-          class="absolute -left-12 top-1/2 z-10 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full bg-white/90 shadow-md hover:bg-[#FF9B51] hover:text-white"
+          class="hidden md:flex items-center justify-center absolute -left-12 top-1/2 z-10 h-10 w-10 -translate-y-1/2 rounded-full bg-white/90 shadow-md hover:bg-[#FF9B51] hover:text-white"
           @click="scrollCarousel('left')"
         >
           <img src="/ui/angle-small-left.png" class="h-10 w-10" alt="左にカルーセルを移動" />
@@ -40,7 +40,7 @@
               v-for="basicsContent in basicsFeeds"
               :key="basicsContent.path"
               :to="basicsContent.path"
-              class="group block mb-8 shrink-0 basis-[calc((100%-2rem)/3)]"
+              class="group block mb-8 basis-[100%-6rem] md:shrink-0 md:basis-[calc((100%-2rem)/3)]"
             >
 
               <div class="overflow-hidden border border-[#BFC9D1]/70 rounded-md">
@@ -63,7 +63,7 @@
         <!-- 右ボタン -->
         <button
           type="button"
-          class="absolute -right-12 top-1/2 z-10 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full bg-white/90 shadow-md hover:bg-[#FF9B51] hover:text-white"
+          class="hidden md:flex items-center justify-center absolute -right-12 top-1/2 z-10 h-10 w-10 -translate-y-1/2 rounded-full bg-white/90 shadow-md hover:bg-[#FF9B51] hover:text-white"
           @click="scrollCarousel('right')"
         >
           <img src="/ui/angle-small-right.png" class="h-10 w-10" alt="右にカルーセルを移動" />
