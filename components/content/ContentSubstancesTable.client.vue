@@ -264,126 +264,124 @@ console.log(sorted)
 </script>
 
 <template>
-  <section class="h-full min-h-0 flex flex-col">
-    <div class="h-full min-h-0 overflow-y-auto">
+  <section class="flex flex-col">
 
-      <!-- JSONデータ読み込み中 -->
-      <div v-if="pending"
-        class="flex items-center justify-center min-h-[100dvh] text-base"
-      >
-        サブスタンス情報ロード中...
+    <!-- JSONデータ読み込み中 -->
+    <div v-if="pending"
+      class="flex items-center justify-center min-h-[100dvh] text-base"
+    >
+      サブスタンス情報ロード中...
+    </div>
+
+    <!-- JSONデータ読み込み失敗 -->
+    <div v-else-if="error"
+      class="flex items-center justify-center min-h-[100dvh] text-base text-red-500"
+    >
+      ロードに失敗: {{ String(error) }}
+    </div>
+    
+    <!-- サブスタンステーブル -->
+    <div v-else class="mx-4 mt-2 rounded-lg border border-[#BFC9D1] overflow-hidden">
+      <div class="h-[calc(100dvh-108px)] overflow-y-auto">
+        <table class="w-full table-fixed border-collapse border-spacing-0" id="substances-table">
+          <colgroup>
+            <col class="w-2/4" />
+            <col class="w-1/4 hidden md:table-cell" />
+            <col class="w-1/4 hidden md:table-cell" />
+          </colgroup>
+
+          <thead class="title">
+            <tr class="">
+              <th class="sticky bg-[#DDE4E7] border-b border-white/10 text-slate-400 top-0 text-left pl-6 pt-4 pr-4 pb-4">
+                <button
+                  class="sort-toggle"
+                  :class="sortClass('name')"
+                  @click="toggleSort('name')"
+                >
+                  名称
+                </button>
+                <br />
+                <input
+                  v-model="qName"
+                  type="search"
+                  class="w-full h-7 p-2 bg-[#EAEFEF]rounded-lg"
+                  placeholder="検索"
+                />
+              </th>
+
+              <th class="sticky bg-[#DDE4E7] border-b border-white/10 text-slate-400 top-0 text-left pl-6 pt-4 pr-4 pb-4 hidden md:table-cell">
+                <button
+                  class="sort-toggle"
+                  :class="sortClass('category')"
+                  @click="toggleSort('category')"
+                >
+                  カテゴリー
+                </button>
+                <br />
+                <input
+                  v-model="qCategory"
+                  type="search"
+                  class="w-full h-7 p-2 bg-[#EAEFEF]rounded-lg"
+                  placeholder="検索"
+                />
+              </th>
+
+              <th class="sticky bg-[#DDE4E7] border-b border-white/10 text-slate-400 top-0 text-left pl-6 pt-4 pr-4 pb-4 hidden md:table-cell">
+                <button
+                  class="sort-toggle"
+                  :class="sortClass('legal')"
+                  @click="toggleSort('legal')"
+                >
+                  規制区分
+                </button>
+                <br />
+                <label>
+                  <select v-model="qLegal" name="drug" class="w-full pl-2 h-7 text-slate-400 bg-[#EAEFEF]rounded-lg">
+                    <option value="">選択...</option>
+                    <option value="narcotics">麻薬</option>
+                    <option value="schedule-1">向1種</option>
+                    <option value="schedule-2">向2種</option>
+                    <option value="schedule-3">向3種</option>
+                    <option value="designated-substances">指定薬物</option>
+                    <option value="generic-scheduling">指定薬物(包括)</option>
+                  </select>
+                </label>
+              </th>
+            </tr>
+          </thead>
+          <tbody class="">
+            <tr
+              v-for="r in sorted"
+              :key="r.id"
+              class="row cursor-pointer group "
+              @click="go(r.id)"
+            >
+              <td class="bg-[#DDE4E7]/30 border-y border-[#BFC9D1] h-14 p-4 break-words group-hover:text-[#FF9B51] group-hover:bg-[#FF9B51]/10">
+                <div class="font-base custom-font-bold">{{ r.commonName }}</div>
+                <div v-if="r.aliases" class="text-slate-400 text-sm">{{ r.aliases }}</div>
+              </td>
+
+              <td class="hidden md:table-cell bg-[#DDE4E7]/30 border-y border-[#BFC9D1] group-hover:text-[#FF9B51] group-hover:bg-[#FF9B51]/10">
+                {{ r.category }}
+              </td>
+
+              <td class="hidden md:table-cell bg-[#DDE4E7]/30 border-y border-[#BFC9D1] group-hover:text-[#FF9B51] group-hover:bg-[#FF9B51]/10">
+                {{ r.legal }}
+              </td>
+            </tr>
+
+            <tr v-if="sorted.length === 0">
+              <td colspan="3" class="bg-[#192539] p-6 text-slate-300">
+                該当なし
+              </td>
+            </tr>
+          </tbody>
+        </table>
       </div>
+    </div>
 
-      <!-- JSONデータ読み込み失敗 -->
-      <div v-else-if="error"
-        class="flex items-center justify-center min-h-[100dvh] text-base text-red-500"
-      >
-        ロードに失敗: {{ String(error) }}
-      </div>
-      
-      <!-- サブスタンステーブル -->
-      <div v-else class="mx-4 rounded-lg border border-[#BFC9D1] overflow-hidden">
-        <div class="max-h-[80vh] overflow-y-auto">
-          <table class="w-full table-fixed border-collapse border-spacing-0" id="substances-table">
-            <colgroup>
-              <col class="w-2/4" />
-              <col class="w-1/4 hidden md:table-cell" />
-              <col class="w-1/4 hidden md:table-cell" />
-            </colgroup>
-
-            <thead class="title">
-              <tr class="">
-                <th class="sticky bg-[#DDE4E7] border-b border-white/10 text-slate-400 top-0 text-left pl-6 pt-4 pr-4 pb-4">
-                  <button
-                    class="sort-toggle"
-                    :class="sortClass('name')"
-                    @click="toggleSort('name')"
-                  >
-                    名称
-                  </button>
-                  <br />
-                  <input
-                    v-model="qName"
-                    type="search"
-                    class="w-full h-7 p-2 bg-[#EAEFEF]rounded-lg"
-                    placeholder="検索"
-                  />
-                </th>
-
-                <th class="sticky bg-[#DDE4E7] border-b border-white/10 text-slate-400 top-0 text-left pl-6 pt-4 pr-4 pb-4 hidden md:table-cell">
-                  <button
-                    class="sort-toggle"
-                    :class="sortClass('category')"
-                    @click="toggleSort('category')"
-                  >
-                    カテゴリー
-                  </button>
-                  <br />
-                  <input
-                    v-model="qCategory"
-                    type="search"
-                    class="w-full h-7 p-2 bg-[#EAEFEF]rounded-lg"
-                    placeholder="検索"
-                  />
-                </th>
-
-                <th class="sticky bg-[#DDE4E7] border-b border-white/10 text-slate-400 top-0 text-left pl-6 pt-4 pr-4 pb-4 hidden md:table-cell">
-                  <button
-                    class="sort-toggle"
-                    :class="sortClass('legal')"
-                    @click="toggleSort('legal')"
-                  >
-                    規制区分
-                  </button>
-                  <br />
-                  <label>
-                    <select v-model="qLegal" name="drug" class="w-full pl-2 h-7 text-slate-400 bg-[#EAEFEF]rounded-lg">
-                      <option value="">選択...</option>
-                      <option value="narcotics">麻薬</option>
-                      <option value="schedule-1">向1種</option>
-                      <option value="schedule-2">向2種</option>
-                      <option value="schedule-3">向3種</option>
-                      <option value="designated-substances">指定薬物</option>
-                      <option value="generic-scheduling">指定薬物(包括)</option>
-                    </select>
-                  </label>
-                </th>
-              </tr>
-            </thead>
-            <tbody class="">
-              <tr
-                v-for="r in sorted"
-                :key="r.id"
-                class="row cursor-pointer group "
-                @click="go(r.id)"
-              >
-                <td class="bg-[#DDE4E7]/30 border-y border-[#BFC9D1] h-14 p-4 break-words group-hover:text-[#FF9B51] group-hover:bg-[#FF9B51]/10">
-                  <div class="font-base custom-font-bold">{{ r.commonName }}</div>
-                  <div v-if="r.aliases" class="text-slate-400 text-sm">{{ r.aliases }}</div>
-                </td>
-
-                <td class="hidden md:table-cell bg-[#DDE4E7]/30 border-y border-[#BFC9D1] group-hover:text-[#FF9B51] group-hover:bg-[#FF9B51]/10">
-                  {{ r.category }}
-                </td>
-
-                <td class="hidden md:table-cell bg-[#DDE4E7]/30 border-y border-[#BFC9D1] group-hover:text-[#FF9B51] group-hover:bg-[#FF9B51]/10">
-                  {{ r.legal }}
-                </td>
-              </tr>
-
-              <tr v-if="sorted.length === 0">
-                <td colspan="3" class="bg-[#192539] p-6 text-slate-300">
-                  該当なし
-                </td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-      </div>
-
-      <div v-if="!pending && !error" class="mx-4 mt-2 text-[#BFC9D1] text-sm">
-        件数: {{ sorted.length }} / {{ rows.length }}
-      </div>
+    <div v-if="!pending && !error" class="mx-4 my-2 text-[#BFC9D1] text-sm">
+      件数: {{ sorted.length }} / {{ rows.length }}
     </div>
   </section>
 </template>
