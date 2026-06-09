@@ -11,13 +11,16 @@
 
 @layer components {
   #__nuxtContent article figure {
-    @apply mb-4
+    @apply mb-4;
   }
   #__nuxtContent article figure figcaption {
-    @apply mt-2
+    @apply mt-2;
+  }
+  .article-eyecatch {
+    @apply flex justify-center mb-8;
   }
   .article-no-bottom-margin {
-    @apply mb-0
+    @apply mb-0;
   }
 
   .article-underline-dotted {
@@ -25,7 +28,7 @@
   }
 
   .article-comment {
-    @apply text-xs
+    @apply text-xs;
   }
 }
 

@@ -36,14 +36,14 @@ export default defineAppConfig({
           meth: { type: "link", title: "🧊 メタンフェタミン", to: '/docs/basics/methamphetamine' },
           cocaine: { type: "link", title: '🚴 コカイン',to: '/docs/basics/cocaine' },
           mdma: { type: "link", title: '❌️ エクスタシー', to: '/docs/basics/ecstasy' },
-          marijuana: { type: "link", title: '🥦 マリファナ', to: '/docs/basics/marijuana' },
+          /* marijuana: { type: "link", title: '🥦 マリファナ', to: '/docs/basics/marijuana' }, */
           ketamine: { type: 'link', title: '🐘 ケタミン/PCP', to: '/docs/basics/ketamine-pcp' },
         },
         recovery: {
           type: "menu",
           title: '❤️‍🩹 依存症からの回復',
           support: { type: 'link', title: '相談先', to: '/docs/recovery/get-help' },
-          program: { type: 'link', title: '依存症回復プログラム', to: '/docs/recovery/program' },
+          /* program: { type: 'link', title: '依存症回復プログラム', to: '/docs/recovery/program' }, */
         },
         info: {
           type: "menu",
