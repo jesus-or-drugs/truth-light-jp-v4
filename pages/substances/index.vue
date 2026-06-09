@@ -17,8 +17,9 @@ useSeoMeta({
 <template>
   <ClientOnly>
     <ContentSubstancesTable :key="route.fullPath" />
+    
     <template #fallback>
-      <div class="text-base text-center mt-16">Loading…</div>
+      <div class="flex items-center justify-center min-h-[100dvh] text-base">ロード中...</div>
     </template>
   </ClientOnly>
 </template>

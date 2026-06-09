@@ -1,11 +1,5 @@
 <template>
-    <!-- サブスタンス検索用 -->
-    <footer v-if="props.variant === `substances`" class="">
-        <p class="text-[#25343F] text-center">{{ copyright }}</p>
-    </footer>
-
-  <!-- デフォルトページ用 -->
-  <footer v-else class="pb-4 bg-[#BFC9D1] border-t border-[#EAEFEF]/20">
+  <footer class="pb-4 bg-[#BFC9D1] border-t border-[#EAEFEF]/20">
     <div class="mx-auto max-w-6xl px-6 py-10">
       <div class="grid gap-8 md:grid-cols-3">
         <div>
@@ -46,8 +40,6 @@
       </p>
     </div>
   </footer>
-
-
 </template>
 
 <script setup lang="ts">
@@ -62,6 +54,5 @@ const site = appConfig.truthlight?.site ?? ''
 const footer = appConfig.truthlight?.footer ?? ''
 const links = footer.links ?? ''
 const resources = footer.resources ?? ''
-
 const copyright = footer.credits
 </script>

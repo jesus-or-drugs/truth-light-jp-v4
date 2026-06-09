@@ -2,7 +2,7 @@
   <div class="relative bg-[#EAEFEF] text-[#25343F] custom-font-normal">
     <LayoutHeader />
 
-    <main class="min-h-[100dvh]">
+    <main class="min-h-[calc(100dvh-4rem)]">
       <NuxtPage :key="route.fullPath" />
     </main>
 

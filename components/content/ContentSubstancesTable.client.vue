@@ -268,10 +268,16 @@ console.log(sorted)
     <div class="h-full min-h-0 overflow-y-auto">
 
       <!-- JSONデータ読み込み中 -->
-      <div v-if="pending">ロード中...</div>
+      <div v-if="pending"
+        class="flex items-center justify-center min-h-[100dvh] text-base"
+      >
+        サブスタンス情報ロード中...
+      </div>
 
       <!-- JSONデータ読み込み失敗 -->
-      <div v-else-if="error" class="text-red-500">
+      <div v-else-if="error"
+        class="flex items-center justify-center min-h-[100dvh] text-base text-red-500"
+      >
         ロードに失敗: {{ String(error) }}
       </div>
       

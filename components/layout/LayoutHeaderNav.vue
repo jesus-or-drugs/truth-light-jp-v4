@@ -72,11 +72,6 @@
 <script setup lang="ts">
 import { computed } from "vue"
 
-const props = defineProps<{
-  variant?: "default" | "substances"
-}>()
-const variant = computed(() => props.variant ?? "default")
-
 const appConfig = useAppConfig()
 
 type NavLeaf = { title: string; type: string; to: string }
