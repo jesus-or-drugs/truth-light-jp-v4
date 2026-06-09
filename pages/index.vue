@@ -31,7 +31,7 @@
         <!-- 表示領域 -->
         <div
           ref="carouselRef"
-          class="no-scrollbar overflow-x-auto scroll-smooth"
+          class="mx-4 md:mx-0 no-scrollbar overflow-x-auto scroll-smooth"
         >
           <div
             class="flex flex-row gap-4"
@@ -40,7 +40,7 @@
               v-for="basicsContent in basicsFeeds"
               :key="basicsContent.path"
               :to="basicsContent.path"
-              class="group block mb-8 basis-[100%-6rem] md:shrink-0 md:basis-[calc((100%-2rem)/3)]"
+              class="group block mb-8 shrink-0 basis-[calc(100%-3rem)] md:basis-[calc((100%-2rem)/3)]"
             >
 
               <div class="overflow-hidden border border-[#BFC9D1]/70 rounded-md">
