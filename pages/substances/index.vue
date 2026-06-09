@@ -15,7 +15,6 @@ useSeoMeta({
 </script>
 
 <template>
-  <p>substancesページです。</p>
   <ClientOnly>
     <ContentSubstancesTable :key="route.fullPath" />
     <template #fallback>
