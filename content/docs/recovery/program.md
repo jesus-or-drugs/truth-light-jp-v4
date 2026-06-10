@@ -10,6 +10,7 @@ seo:
     - name: 'author'
       content: '夢可愛アイ'
     - name: 'copyright'
-      content: 'Copyright © 2025 Truth Light. All rights reserved.'
+      content: '© 2026 Truth Light'
 ---
 
+NAやAAなどの自助グループでは分かち合いの他に

@@ -1,6 +1,7 @@
 ---
-title: '依存症相談窓口一覧'
+title: '依存症相談・支援先一覧'
 description: '「薬物がやめられない…」そんな悩みを一人で抱えてる依存症の方に、依存症相談窓口・施設・自助グループを一挙紹介。必ずあなたの回復できる場所が見つかるはずです。'
+ogImage: '/ogp/recovery/og-get-help.png'
 seo:
   meta:
     - name: 'keywords'
@@ -12,6 +13,137 @@ seo:
     - name: 'copyright'
       content: 'Copyright © 2025 Truth Light. All rights reserved.'
 ---
+
+<div class="article-eyecatch">
+  <img src="/ogp/recovery/og-get-help.png" alt="依存症相談・支援先一覧" />
+</div>
+
+<div class="yumekawa-manga flex flex-row items-end">
+  <div class="flex-none">
+    <img
+      src="/yumekawa-manga/yumekawa-psyche-01-128px.png"
+      alt="夢可愛サイケ"
+      class="w-16 h-16"
+    />
+  </div>
+  <div class="flex flex-1 flex-row items-center justify-start">
+    <div class="flex-none">
+      <img
+        src="/yumekawa-manga/fukidashi-left-h128px.png"
+        alt="吹き出し"
+        class="h-16 w-auto"
+      />
+    </div>
+    <div class="flex flex-col w-[70%] min-h-16 rounded-lg bg-[#DDE4E7] px-3 py-2 items-center justify-center">
+      <p class="m-0">ボー..............</p>
+    </div>
+  </div>
+</div>
+<div class="yumekawa-manga flex flex-row items-end">
+  <div class="flex flex-1 flex-row items-center justify-end">
+    <div class="flex flex-col w-[70%] min-h-16 rounded-lg bg-[#DDE4E7] px-3 py-2 items-center justify-center">
+      <p class="m-0">これはまた... お姉ちゃん大丈夫？</p>
+    </div>
+    <div class="flex-none">
+      <img
+        src="/yumekawa-manga/fukidashi-right-h128px.png"
+        alt="吹き出し"
+        class="h-16 w-auto"
+      />
+    </div>
+  </div>
+  <div class="flex-none">
+    <img
+      src="/yumekawa-manga/yumekawa-ai-02-128px.png"
+      alt="夢可愛アイ"
+      class="w-16 h-16"
+    />
+  </div>
+</div>
+<div class="yumekawa-manga flex flex-row items-end">
+  <div class="flex-none">
+    <img
+      src="/yumekawa-manga/yumekawa-psyche-01-128px.png"
+      alt="夢可愛サイケ"
+      class="w-16 h-16"
+    />
+  </div>
+  <div class="flex flex-1 flex-row items-center justify-start">
+    <div class="flex-none">
+      <img
+        src="/yumekawa-manga/fukidashi-left-h128px.png"
+        alt="吹き出し"
+        class="h-16 w-auto"
+      />
+    </div>
+    <div class="flex flex-col w-[70%] min-h-16 rounded-lg bg-[#DDE4E7] px-3 py-2 items-center justify-center">
+      <p class="m-0">あぁ... シャブの切れ目... 絶望だ... 死にたい...<br />金ももうないし...<br />シャブを何度やめようとしてもやめられない...</p>
+    </div>
+  </div>
+</div>
+<div class="yumekawa-manga flex flex-row items-end">
+  <div class="flex flex-1 flex-row items-center justify-end">
+    <div class="flex flex-col w-[70%] min-h-16 rounded-lg bg-[#DDE4E7] px-3 py-2 items-center justify-center">
+      <p class="m-0">だからってテレビの砂嵐を凝視してたら更に死にたくなるじゃない...！<br />でも解決はあるわ。<br />その絶望を経験して乗り越えて幸せになった人たちはたくさんいるの。</p>
+    </div>
+    <div class="flex-none">
+      <img
+        src="/yumekawa-manga/fukidashi-right-h128px.png"
+        alt="吹き出し"
+        class="h-16 w-auto"
+      />
+    </div>
+  </div>
+  <div class="flex-none">
+    <img
+      src="/yumekawa-manga/yumekawa-ai-02-128px.png"
+      alt="夢可愛アイ"
+      class="w-16 h-16"
+    />
+  </div>
+</div>
+<div class="yumekawa-manga flex flex-row items-end">
+  <div class="flex-none">
+    <img
+      src="/yumekawa-manga/yumekawa-psyche-01-128px.png"
+      alt="夢可愛サイケ"
+      class="w-16 h-16"
+    />
+  </div>
+  <div class="flex flex-1 flex-row items-center justify-start">
+    <div class="flex-none">
+      <img
+        src="/yumekawa-manga/fukidashi-left-h128px.png"
+        alt="吹き出し"
+        class="h-16 w-auto"
+      />
+    </div>
+    <div class="flex flex-col w-[70%] min-h-16 rounded-lg bg-[#DDE4E7] px-3 py-2 items-center justify-center">
+      <p class="m-0">そんな人どこにいるの...<br />薬を使ってたら人間扱いしてくれない、こんな世の中に...</p>
+    </div>
+  </div>
+</div>
+<div class="yumekawa-manga flex flex-row items-end">
+  <div class="flex flex-1 flex-row items-center justify-end">
+    <div class="flex flex-col w-[70%] min-h-16 rounded-lg bg-[#DDE4E7] px-3 py-2 items-center justify-center">
+      <p class="m-0">これから紹介する場所は元依存症でその絶望を乗り越えて自分なりの幸せを手に入れた人たちがたくさんいるの。<br />必ずサイケの絶望を理解して共に助け合って生きてくれる人がいるわよ。</p>
+    </div>
+    <div class="flex-none">
+      <img
+        src="/yumekawa-manga/fukidashi-right-h128px.png"
+        alt="吹き出し"
+        class="h-16 w-auto"
+      />
+    </div>
+  </div>
+  <div class="flex-none">
+    <img
+      src="/yumekawa-manga/yumekawa-ai-02-128px.png"
+      alt="夢可愛アイ"
+      class="w-16 h-16"
+    />
+  </div>
+</div>
 
 ## 依存症相談・支援先一覧
 
