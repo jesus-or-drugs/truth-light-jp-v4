@@ -7,6 +7,10 @@
     @apply bg-slate-950;
     @apply text-white;
   }
+
+  a {
+    @apply text-[#25343F] underline;
+  }
 }
 
 @layer components {
@@ -56,7 +60,7 @@ html, body, #__nuxt { height: 100%; }
 }
 
 #__nuxtContent a {
-  color: #25343F;
+  /* color: #25343F; */
   text-decoration-line: underline;
 }
 #__nuxtContent a:hover {

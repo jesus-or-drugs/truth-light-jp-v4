@@ -42,7 +42,7 @@ export default defineAppConfig({
         recovery: {
           type: "menu",
           title: '❤️‍🩹 依存症からの回復',
-          support: { type: 'link', title: '相談先', to: '/docs/recovery/get-help' },
+          support: { type: 'link', title: '依存症相談・支援先一覧', to: '/docs/recovery/get-help' },
           /* program: { type: 'link', title: '依存症回復プログラム', to: '/docs/recovery/program' }, */
         },
         info: {

@@ -40,7 +40,7 @@
               v-for="basicsContent in basicsFeeds"
               :key="basicsContent.path"
               :to="basicsContent.path"
-              class="group block mb-8 shrink-0 basis-[calc(100%-3rem)] md:basis-[calc((100%-2rem)/3)]"
+              class="group block mb-8 shrink-0 basis-[calc(100%-3rem)] md:basis-[calc((100%-2rem)/3)] no-underline"
             >
 
               <div class="overflow-hidden border border-[#BFC9D1]/70 rounded-md">

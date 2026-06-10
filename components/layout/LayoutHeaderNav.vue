@@ -11,7 +11,7 @@
         <NuxtLink
           v-if="n.type === 'link'"
           :to="n.item.to"
-          class="flex items-center h-full hover:text-[#FF9B51] hover:bg-[#BFC9D1]/20"
+          class="flex items-center h-full hover:text-[#FF9B51] hover:bg-[#BFC9D1]/20 no-underline"
         >
           {{ n.item.title }}
         </NuxtLink>
@@ -55,7 +55,7 @@
                   v-for="c in n.children"
                   :key="c.key"
                   :to="c.item.to"
-                  class="rounded-md px-3 py-2 text-sm hover:bg-white/20 hover:text-[#FF9B51]"
+                  class="rounded-md px-3 py-2 text-sm hover:bg-white/20 hover:text-[#FF9B51] no-underline"
                 >
                   {{ c.item.title }}
                 </NuxtLink>

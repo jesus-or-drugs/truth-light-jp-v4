@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-row items-center gap-2 mx-auto md:mx-0">
-    <NuxtLink v-if="logo?.black && logo?.white" to="/" class="flex flex-row items-center gap-2">
+    <NuxtLink v-if="logo?.black && logo?.white" to="/" class="flex flex-row items-center gap-2 no-underline">
       <NuxtImg :src="logo.black" class="h-7 dark:block" />
       <span v-if="showTitle && title" class="custom-font-bold text-lg tracking-wide">
         {{ title }}
