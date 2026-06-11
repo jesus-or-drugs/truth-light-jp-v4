@@ -37,19 +37,20 @@ export default defineAppConfig({
           cocaine: { type: "link", title: '🚴 コカイン',to: '/docs/basics/cocaine' },
           mdma: { type: "link", title: '❌️ エクスタシー', to: '/docs/basics/ecstasy' },
           /* marijuana: { type: "link", title: '🥦 マリファナ', to: '/docs/basics/marijuana' }, */
-          ketamine: { type: 'link', title: '🐘 ケタミン/PCP', to: '/docs/basics/ketamine-pcp' },
+          ketamine: { type: 'link', title: '🐘 ケタミン/PCP', to: '/docs/basics/ketamine-and-pcp' },
         },
         recovery: {
           type: "menu",
           title: '❤️‍🩹 依存症からの回復',
+          addiction: { type: 'link', title: '薬物依存症とは', to: '/docs/recovery/what-is-addiction' },
           support: { type: 'link', title: '依存症相談・支援先一覧', to: '/docs/recovery/get-help' },
           /* program: { type: 'link', title: '依存症回復プログラム', to: '/docs/recovery/program' }, */
         },
         info: {
           type: "menu",
           title: "ℹ️ インフォメーション",
-          about: { type: "link", title: '私たちについて', to: '/docs/info/about-us'},
-          disclaimer: { type: "link", title: '免責事項', to: '/docs/info/disclaimer'},
+          about: { type: "link", title: '私たちについて', to: '/about-us'},
+          disclaimer: { type: "link", title: '免責事項', to: '/disclaimer'},
           contactUs: { type: "link", title: "お問い合わせ", to: '/contact-us' }
         }
       },
