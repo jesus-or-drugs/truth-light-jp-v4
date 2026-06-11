@@ -13,13 +13,13 @@
     
     <div
       class="prose
-      mx-auto max-w-6xl md:flex md:flex-row-reverse"
+      mx-auto max-w-6xl md:flex md:flex-row-reverse md:gap-6"
     >
       <!-- TOC -->
       <aside
         v-if="page?.body?.toc?.links?.length"
-        class="w-full mx-6
-        md:sticky md:w-1/4"
+        class="w-full flex-none
+          md:sticky md:w-1/4"
         aria-label="Table of contents"
       >
         <nav class="rounded-lg border p-4">
@@ -48,7 +48,8 @@
 
       <!-- Main text -->
       <article
-        class="flex-1"
+        class="flex-initial w-full
+          md:w-3/4"
       >
         <ContentRenderer v-if="page" :value="page" />  
       </article>
