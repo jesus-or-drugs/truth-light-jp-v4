@@ -1,7 +1,7 @@
 ---
 title: '依存症相談・支援先一覧'
 description: '「薬物がやめられない…」そんな悩みを一人で抱えてる依存症の方に、依存症相談窓口・施設・自助グループを一挙紹介。必ずあなたの回復できる場所が見つかるはずです。'
-ogImage: '/ogp/recovery/og-get-help.png'
+ogImage: '/ogp/recovery/og-get-help_1200x630.jpg'
 seo:
   meta:
     - name: 'keywords'
@@ -11,11 +11,11 @@ seo:
     - name: 'author'
       content: '夢可愛アイ'
     - name: 'copyright'
-      content: '© 2025 Truth Light.'
+      content: '© 2026 Truth Light.'
 ---
 
 <div class="article-eyecatch">
-  <img src="/ogp/recovery/og-get-help.png" alt="依存症相談・支援先一覧" />
+  <img src="/ogp/recovery/og-get-help.jpg" alt="依存症相談・支援先一覧" />
 </div>
 
 <div class="yumekawa-manga flex flex-row items-end">
