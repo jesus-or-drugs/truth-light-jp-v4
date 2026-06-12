@@ -49,4 +49,5 @@ seo:
 > 依存症は、脳の回路、遺伝的要因、環境、そして個人の人生経験が複雑に絡み合って生じる治療可能な慢性疾患です。依存症の人は物質を使用したりある行動に没頭したりしますが、それらは強迫的なものとなり、有害な結果をもたらすにもかかわらずしばしば継続してしまいます。
 
 ## 参考文献
-1. アメリカ精神医学会. "Substance Use Screening, Risk Assessment, and Use Disorder Diagnosis in Adults [Internet]." 2022. https://www.ncbi.nlm.nih.gov/books/NBK565474/table/table-3/. Retrived by 2026-06-11.
+1. アメリカ精神医学会. "Substance Use Screening, Risk Assessment, and Use Disorder Diagnosis in Adults [Internet]." 2022. [https://www.ncbi.nlm.nih.gov/books/NBK565474/table/table-3/](https://www.ncbi.nlm.nih.gov/books/NBK565474/table/table-3/){target="_blank" rel="noopener noreferrer"}. Retrived by 2026-06-11.
+1. アメリカ依存症学会. "" 2019. [https://www.asam.org/quality-care/definition-of-addiction](https://www.asam.org/quality-care/definition-of-addiction){target="_blank" rel="noopener noreferrer"}. Retrived by 2026-06-11.
