@@ -14,6 +14,9 @@
 }
 
 @layer components {
+  #__nuxtContent article {
+    @apply text-wrap;
+  }
   #__nuxtContent article figure {
     @apply mb-4;
   }
@@ -25,10 +28,6 @@
   }
   #__nuxtContent article blockquote p {
     @apply mb-0;
-  }
-  #__nuxtContent article ol li,
-  #__nuxtContent article ul li {
-    @apply text-wrap;
   }
   .article-eyecatch {
     @apply flex justify-center mb-8;
