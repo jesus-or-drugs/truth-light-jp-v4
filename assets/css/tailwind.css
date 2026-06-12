@@ -29,18 +29,16 @@
   #__nuxtContent article blockquote p {
     @apply mb-0;
   }
-  .article-eyecatch {
+  #__nuxtContent article .article-eyecatch {
     @apply flex justify-center mb-8;
   }
-  .article-no-bottom-margin {
+  #__nuxtContent article .article-no-bottom-margin {
     @apply mb-0;
   }
-
-  .article-underline-dotted {
+  #__nuxtContent article .article-underline-dotted {
     @apply underline decoration-dotted underline-offset-4;
   }
-
-  .article-comment {
+  #__nuxtContent article .article-comment {
     @apply text-xs;
   }
 }
