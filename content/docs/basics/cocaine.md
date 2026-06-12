@@ -461,3 +461,4 @@ seo:
   1. Grzybowski A. "The history of cocaine in medicine and its importance to the discovery of the different forms of anaesthesia." Klin Oczna, 09(1-3), 101-105, 2007. [https://pubmed.ncbi.nlm.nih.gov/17687926/](https://pubmed.ncbi.nlm.nih.gov/17687926/){target="_blank" rel="noopener noreferrer"}.
   1. HISTORY.com Editors "Cocaine." HISTORY.com, [https://www.history.com/articles/history-of-cocaine](https://www.history.com/articles/history-of-cocaine){target="_blank" rel="noopener noreferrer"}. Retrived by 2026-06-05.
   1. 岩手薬剤師会　「薬物乱用防止啓発事業  指導者用資料集」 [https://www.iwayaku.or.jp/wp/wp-content/uploads/2017/04/20181219_05.pdf](https://www.iwayaku.or.jp/wp/wp-content/uploads/2017/04/20181219_05.pdf){target="_blank" rel="noopener noreferrer"}. Retrived by 2026-06-08.
+  1. TripSit Wiki. "Cocaine" 2017. [https://wiki.tripsit.me/wiki/Cocaine](https://wiki.tripsit.me/wiki/Cocaine){target="_blank" rel="noopener noreferrer"}. Retrived by 2016-06-12.

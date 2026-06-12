@@ -13,7 +13,8 @@
     
     <div
       class="prose
-      mx-auto max-w-6xl md:flex md:flex-row-reverse md:gap-6"
+      mx-auto max-w-6xl px-4
+      md:flex md:flex-row-reverse md:gap-6"
     >
       <!-- TOC -->
       <aside
