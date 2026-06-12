@@ -7,61 +7,68 @@
         <img src="/icon/menu_open_01_black.png" alt="" class="w-[34px] h-[34px]" />
     </button>
 
-    <nav id="mobileMenu" class="text-sm fixed inset-y-0 left-0 h-screen z-50 w-[85vw] max-w-sm bg-[#EAEFEF] text-[#25343F] border-r border-[#BFC9D1]/80
-		p-4
-		transition-transform duration-300 ease-in-out
-		md:hidden"
-		:class="{ 'translate-x-0 pointer-events-auto': isMobileMenuOpen, '-translate-x-full pointer-events-none': !isMobileMenuOpen }"
-		:aria-hidden="!isMobileMenuOpen"
-		aria-label="モバイルメニュー"
-	>
-        <div class="flex flex-col">
-            <div class="flex flex-row items-center justify-between">
-                <p class="custom-font-bold">メニュー</p>
+    <nav
+			id="mobileMenu"
+			class="text-sm fixed inset-y-0 left-0 h-screen z-50 w-[85vw] max-w-sm bg-[#EAEFEF] text-[#25343F] border-r border-[#BFC9D1]/80 p-4
+			transition-transform duration-300 ease-in-out
+			md:hidden"
+			:class="{ 'translate-x-0 pointer-events-auto': isMobileMenuOpen, '-translate-x-full pointer-events-none': !isMobileMenuOpen }"
+			:aria-hidden="!isMobileMenuOpen"
+			aria-label="モバイルメニュー"
+		>
 
-                <button id="mobileCloseButton" type="button"
-                    class="rounded-lg border border-white/10 px-3 py-2 hover:bg-white/10"
-					aria-label="モバイルメニューを閉じる"
-					@click="isMobileMenuOpen = false"
-				>
-                    ✕
-                </button>
-            </div>
+			<div class="flex flex-col">
+				<div class="flex flex-row items-center justify-between">
+					<p class="custom-font-bold">メニュー</p>
 
-			<!-- メインメニュー -->
-			<ul class="flex flex-col justify-start gap-2 list-none">
-				<li v-for="n in navItems" :key="n.key" class="flex items-center relative group">
-					<!-- 単体リンク -->
-					<NuxtLink
-					v-if="n.type === 'link'"
-					:key="n.key"
-					:to="n.item.to"
-					class="py-2 hover:text-[#FF9B51]"
-					@click.prevent="navigateFromMenu(n.item.to)"
+					<button
+						id="mobileCloseButton"
+						type="button"
+						class="rounded-lg border border-white/10 px-3 py-2 hover:bg-white/10"
+						aria-label="モバイルメニューを閉じる"
+						@click="isMobileMenuOpen = false"
 					>
-					{{ n.item.title }}
-					</NuxtLink>
+						✕
+					</button>
+				</div>
 
-					<!-- ドロップダウン -->
-					<template v-else>
-					<details name="nestedMenu" class="flex flex-col gap-1">
-						<summary><span>{{ n.title }}</span></summary>
-						<ul class="flex flex-col gap-2 pl-4">
-							<li v-for="c in n.children" class="block">
-								<NuxtLink
-									:key="c.key"
-									:to="c.item.to"
-									@click.prevent="navigateFromMenu(c.item.to)"
-								>
-									{{ c.item.title }}
-								</NuxtLink>
-							</li>
-						</ul>
-					</details>					
-					</template>
-				</li>
-			</ul>
-        </div>
+				<!-- メインメニュー -->
+				<ul class="flex flex-col justify-start gap-2 list-none">
+					<li v-for="n in navItems" :key="n.key" class="flex items-center relative group">
+						<!-- 単体リンク -->
+						<NuxtLink
+						v-if="n.type === 'link'"
+						:key="n.key"
+						:to="n.item.to"
+						class="py-2 hover:text-[#FF9B51]"
+						@click.prevent="navigateFromMenu(n.item.to)"
+						>
+						{{ n.item.title }}
+						</NuxtLink>
+
+						<!-- ドロップダウン -->
+						<template v-else>
+						<details name="nestedMenu" class="flex flex-col gap-1">
+
+							<summary><span>{{ n.title }}</span></summary>
+
+							<ul class="flex flex-col gap-2 pl-4">
+								<li v-for="c in n.children" class="block">
+									<NuxtLink
+										:key="c.key"
+										:to="c.item.to"
+										class="no-underline"
+										@click.prevent="navigateFromMenu(c.item.to)"
+									>
+										{{ c.item.title }}
+									</NuxtLink>
+								</li>
+							</ul>
+						</details>					
+						</template>
+					</li>
+				</ul>
+      </div>
     </nav>
 
 </template>

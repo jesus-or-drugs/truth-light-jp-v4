@@ -24,7 +24,11 @@
     @apply my-6 border-l-4 border-[#25343F] rounded-r-lg bg-slate-300 px-5 py-4 text-[#25343F];
   }
   #__nuxtContent article blockquote p {
-    @apply mb-0
+    @apply mb-0;
+  }
+  #__nuxtContent article ol li,
+  #__nuxtContent article ul li {
+    @apply text-wrap;
   }
   .article-eyecatch {
     @apply flex justify-center mb-8;
