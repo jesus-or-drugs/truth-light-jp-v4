@@ -58,7 +58,7 @@ export default defineAppConfig({
       socialLinks: {
         links: [{
           title: 'Truth Light JP',
-          icon: './icon/X/x-logo-black.png',
+          icon: './icon/X/x-logo.png',
           to: 'https://x.com/TruthLightJP',
           target: '_blank',
         }]

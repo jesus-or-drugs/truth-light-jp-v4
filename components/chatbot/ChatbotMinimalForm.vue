@@ -129,7 +129,7 @@ const submitPrompt = async (text: string): Promise<void> => {
     <button type="button" class="hover:opacity-80"
       @click="handleClickCloseButton"
     >
-      <img src="/ui/close-white.png" alt="チャットを閉じる" class="w-4 h-4" /></button>
+      <img src="/ui/close_white.png" alt="チャットを閉じる" class="w-4 h-4" /></button>
   </div>
 
   <!-- メッセージエリア -->
