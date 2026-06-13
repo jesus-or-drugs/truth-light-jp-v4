@@ -2,11 +2,11 @@
     <!-- md未満: メニューボタン -->
     <button id="mobileButton"
 			type="button"
-			class="inline md:hidden menu-button w-4 h-auto"
+			class="inline md:hidden menu-button w-auto h-4"
 			aria-controls="mobileMenu" :aria-expanded="isMobileMenuOpen" aria-label="モバイルメニューを開く"
 			@click="isMobileMenuOpen = !isMobileMenuOpen"
 		>
-        <img src="/ui/menu_hamburger.png" alt="" class="w-4 h-auto" />
+        <img src="/ui/menu_hamburger.png" alt="" class="w-auto h-4" />
     </button>
 
     <nav

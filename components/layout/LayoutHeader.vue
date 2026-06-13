@@ -1,7 +1,7 @@
 <template>
   <header class="top-0 z-50">
     <div class="relative h-16 mx-auto px-10 flex flex-row items-center justify-between">
-      <div class="md:hidden w-[34px] h-[34px]"><LayoutHeaderMobileNav /></div>
+      <div class="md:hidden w-auto h-4"><LayoutHeaderMobileNav /></div>
       <div><LayoutHeaderLogo :subtitle="subtitle" /></div>
       <div class="h-full hidden md:inline-block"><LayoutHeaderNav /></div>
       <div class=""><LayoutHeaderSocialLink /></div>

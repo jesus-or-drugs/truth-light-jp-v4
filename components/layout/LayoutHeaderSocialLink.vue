@@ -1,6 +1,8 @@
 <template>
     <div class="flex items-center gap-2"">
-        <a v-for="i in links" :href="i.to" class="inline rounded-xl border border-white/10 bg-white/5 px-3 py-2 text-sm text-slate-200 hover:bg-white/10"><img :src="`/${i.icon}`" :alt="i.title" class="w-4 h-auto" /></a>
+        <a v-for="i in links" :href="i.to" class="inline">
+            <img :src="`/${i.icon}`" :alt="i.title" class="w-4 h-auto" />
+        </a>
     </div>
 </template>
 
