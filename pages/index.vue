@@ -101,14 +101,14 @@ useSeoMeta({
 const route = useRoute()
 
 const { data: basicsFeeds } = await useAsyncData('basics-feeds', async () => {
-  const contents = await queryCollection('docs')
+  const contents = await queryCollection('readings')
     .order('updatedAt', 'DESC')
     .all()
 
   console.log('Contentsの中身！：', contents)
 
   return contents.filter((content) =>
-    content.path.startsWith('/docs/basics/')
+    content.path.startsWith('readings/basics/')
   )
 })
 

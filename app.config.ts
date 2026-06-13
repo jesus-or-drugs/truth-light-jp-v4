@@ -33,19 +33,19 @@ export default defineAppConfig({
         basics: {
           type: "menu",
           title: "🔰 ハームリダクション",
-          meth: { type: "link", title: "🧊 メタンフェタミン", to: '/docs/basics/methamphetamine' },
-          cocaine: { type: "link", title: '🚴 コカイン',to: '/docs/basics/cocaine' },
-          mdma: { type: "link", title: '❌️ エクスタシー', to: '/docs/basics/ecstasy' },
-          /* marijuana: { type: "link", title: '🥦 マリファナ', to: '/docs/basics/marijuana' }, */
-          ketamine: { type: 'link', title: '🐘 ケタミン/PCP', to: '/docs/basics/ketamine-and-pcp' },
+          meth: { type: "link", title: "🧊 メタンフェタミン", to: '/readings/basics/methamphetamine' },
+          cocaine: { type: "link", title: '🚴 コカイン',to: '/readings/basics/cocaine' },
+          mdma: { type: "link", title: '❌️ エクスタシー', to: '/readings/basics/ecstasy' },
+          /* marijuana: { type: "link", title: '🥦 マリファナ', to: '/readings/basics/marijuana' }, */
+          ketamine: { type: 'link', title: '🐘 ケタミン/PCP', to: '/readings/basics/ketamine-and-pcp' },
         },
         recovery: {
           type: "menu",
           title: '❤️‍🩹 依存症からの回復',
-          addiction: { type: 'link', title: '薬物依存症とは', to: '/docs/recovery/what-is-addiction' },
-          support: { type: 'link', title: '依存症相談・支援先一覧', to: '/docs/recovery/get-help' },
-          dict: { type: 'link', title: '回復用語集', to: '/docs/recovery/dict'}
-          /* program: { type: 'link', title: '依存症回復プログラム', to: '/docs/recovery/program' }, */
+          addiction: { type: 'link', title: '薬物依存症とは', to: '/readings/recovery/what-is-addiction' },
+          support: { type: 'link', title: '依存症相談・支援先一覧', to: '/readings/recovery/get-help' },
+          dict: { type: 'link', title: '回復用語集', to: '/readings/recovery/dict'}
+          /* program: { type: 'link', title: '依存症回復プログラム', to: '/readings/recovery/program' }, */
         },
         info: {
           type: "menu",

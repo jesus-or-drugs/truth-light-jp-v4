@@ -70,8 +70,8 @@ const route = useRoute()
 const path = computed(() => withoutTrailingSlash(route.path) || '/')
 
 const { data: page } = await useAsyncData(
-  () => `docs:${path.value}`,
-  () => queryCollection('docs').path(path.value).first()
+  () => `readings:${path.value}`,
+  () => queryCollection('readings').path(path.value).first()
 )
 
 if (!page.value) {

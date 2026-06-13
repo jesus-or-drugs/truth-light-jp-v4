@@ -20,6 +20,12 @@
   #__nuxtContent article p {
     @apply mb-8 text-justify leading-loose;
   }
+  #__nuxtContent article li {
+    @apply mb-4 leading-loose;
+  }
+  #__nuxtContent article li:last-child {
+    @apply mb-0;
+  }
   #__nuxtContent article figure {
     @apply mb-4;
   }

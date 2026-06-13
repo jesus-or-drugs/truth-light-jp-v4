@@ -4,9 +4,9 @@ import { z } from 'zod'
 
 export default defineContentConfig({
   collections: {
-    docs: defineCollection({
+    readings: defineCollection({
       type: 'page',
-      source: 'docs/**/*.md',
+      source: 'readings/**/*.md',
       schema: z.object({
         createdAt: z.string().optional(),
         updatedAt: z.string().optional(),
