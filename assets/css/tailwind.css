@@ -17,6 +17,9 @@
   #__nuxtContent article {
     @apply text-wrap;
   }
+  #__nuxtContent article p {
+    @apply mb-8 text-justify leading-loose;
+  }
   #__nuxtContent article figure {
     @apply mb-4;
   }
@@ -26,7 +29,11 @@
   #__nuxtContent article blockquote {
     @apply my-6 border-l-4 border-[#25343F] rounded-r-lg bg-slate-300 px-5 py-4 text-[#25343F];
   }
-  #__nuxtContent article blockquote p {
+  #__nuxtContent article blockquote p:last-child {
+    @apply mb-0;
+  }
+  #__nuxtContent article blockquote ul,
+  #__nuxtContent article blockquote ol  {
     @apply mb-0;
   }
   #__nuxtContent article .article-eyecatch {
@@ -55,16 +62,11 @@ html, body, #__nuxt { height: 100%; }
 .custom-font-bold {
   font-family: "Outfit", "Noto Sans JP", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 600;
+  font-weight: 700;
   font-style: normal;
 }
 
 /* Nuxt Content Markdown */
-#__nuxtContent p {
-  text-align: justify;
-  margin-bottom: 1.75rem;
-  line-height: 1.75rem;
-}
 
 #__nuxtContent a {
   /* color: #25343F; */
