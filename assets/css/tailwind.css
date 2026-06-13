@@ -43,7 +43,10 @@
     @apply mb-0;
   }
   #__nuxtContent article .article-eyecatch {
-    @apply flex justify-center mb-8;
+    @apply flex justify-center mb-8 w-full h-auto;
+  }
+  #__nuxtContent article .article-eyecatch img {
+    @apply block w-full h-auto;
   }
   #__nuxtContent article .article-no-bottom-margin {
     @apply mb-0;

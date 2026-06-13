@@ -42,7 +42,7 @@
 
 
       <p class="mt-4 text-xs text-[#25343F] text-center">
-        © <span id="year"></span> Truth Light. All rights reserved.
+        {{ footer.credits }}
       </p>
     </div>
   </footer>
