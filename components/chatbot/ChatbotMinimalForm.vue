@@ -20,7 +20,7 @@ let counter: number = 0
 msgs.value[counter] = {
   id: counter,
   role: 'assistant',
-  content: 'はじめまして！夢可愛AIです！<br />最初に<a href="https://www.truth-light.jp/docs/info/ai-disclaimer">夢可愛AI利用規約</a>をご確認くださいね。',
+  content: 'はじめまして！夢可愛AIです！<br />最初に<a href="https://www.truth-light.jp/disclaimer">夢可愛AI利用規約</a>をご確認くださいね。',
   format: "html",
   substanceCard: null,
 }

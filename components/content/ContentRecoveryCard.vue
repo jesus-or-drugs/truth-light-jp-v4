@@ -11,7 +11,7 @@ const substanceName = props.substanceName ?? '薬物'
   <div class="flex flex-row items-center justify-center w-[70%] max-w-[520px]">
     <div class="flex flex-col flex-1 min-h-16 rounded-lg bg-[#FF9B51] px-3 py-2 items-center justify-center">
       <p class="m-0 text-white">{{ substanceName }}が止めれなくて困っていませんか？</p>
-      <p class="m-0 text-white"><NuxtLink to="/docs/recovery/get-help" class="text-white">→→ {{ substanceName }}依存症からの回復方法について知る ←←</NuxtLink></p>
+      <p class="m-0 text-white"><NuxtLink to="/readings/recovery/get-help" class="text-white">→→ {{ substanceName }}依存症からの回復方法について知る ←←</NuxtLink></p>
     </div>
 
     <div class="flex-none">
