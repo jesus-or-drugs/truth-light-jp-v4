@@ -44,6 +44,7 @@ export default defineAppConfig({
           title: '❤️‍🩹 依存症からの回復',
           addiction: { type: 'link', title: '薬物依存症とは', to: '/docs/recovery/what-is-addiction' },
           support: { type: 'link', title: '依存症相談・支援先一覧', to: '/docs/recovery/get-help' },
+          dict: { type: 'link', title: '回復用語集', to: '/docs/recovery/dict'}
           /* program: { type: 'link', title: '依存症回復プログラム', to: '/docs/recovery/program' }, */
         },
         info: {
