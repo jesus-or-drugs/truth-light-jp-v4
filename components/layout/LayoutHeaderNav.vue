@@ -43,7 +43,7 @@
           >
             <div
               class="
-                min-w-56 rounded-md border border-[#BFC9D1] bg-[#dce3e8] shadow-lg backdrop-blur-xl
+                min-w-56 rounded-md border border-[#BFC9D1] bg-[#DCE3E8] shadow-lg backdrop-blur-xl
                 overflow-hidden hidden pointer-events-none
                 transition-all duration-200 ease-out
                 group-hover:block

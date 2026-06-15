@@ -36,7 +36,7 @@
         <!-- Main -->
         <main class="lg:col-span-8 space-y-6">
           <!-- Summary -->
-          <section class="rounded-2xl border border-[#BFC9D1] bg-[#DDE4E7] p-6">
+          <section class="rounded-2xl border border-[#BFC9D1] bg-[#DCE3E8] p-6">
             <h2 class="text-xl text-[#25343F] custom-font-bold mb-3">概要</h2>
             <div
               v-if="substance?.summary"
@@ -49,7 +49,7 @@
           <!-- History -->
           <section
             v-if="substance?.history"
-            class="rounded-2xl border border-[#BFC9D1] bg-[#DDE4E7] p-6">
+            class="rounded-2xl border border-[#BFC9D1] bg-[#DCE3E8] p-6">
 
             <h2 class="text-xl text-[#25343F] custom-font-bold mb-3">ヒストリー</h2>
             <div
@@ -59,7 +59,7 @@
           </section>
 
           <!-- タブ -->
-          <section class="rounded-2xl border border-[#BFC9D1] bg-[#DDE4E7] p-6">
+          <section class="rounded-2xl border border-[#BFC9D1] bg-[#DCE3E8] p-6">
             <div class="flex flex-wrap gap-2 border-b border-[#BFC9D1] pb-3 mb-4">
               <button
                 v-for="t in tabs"
@@ -188,7 +188,7 @@
               <ContentKetcherFrame :smiles="substance?.identifiers?.smiles" />
             </ClientOnly>
           </section>
-          <section class="rounded-2xl border border-[#BFC9D1] bg-[#DDE4E7] p-6">
+          <section class="rounded-2xl border border-[#BFC9D1] bg-[#DCE3E8] p-6">
             <h2 class="text-lg custom-font-bold mb-3">基本情報</h2>
 
             <dl class="space-y-3 text-sm">
