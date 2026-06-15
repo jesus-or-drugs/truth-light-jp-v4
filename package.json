@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "gen": "node scripts/gen.mjs",
-    "gen:ids": "node scripts/gen_substance_ids.mjs",
+    "gen:ids": "node scripts/gen_ids.mjs",
     "dev": "npm run gen && npm run gen:ids && nuxt dev",
     "build": "npm run gen && npm run gen:ids && nuxt build",
     "generate": "npm run gen && npm run gen:ids && nuxt generate",

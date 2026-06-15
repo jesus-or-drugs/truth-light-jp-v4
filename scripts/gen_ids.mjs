@@ -18,4 +18,4 @@ const ids = files
 
 fs.writeFileSync(outFile, JSON.stringify(ids), "utf-8")
 
-console.log(`✅ wrote ${ids.length} ids -> ${outFile}`)
+console.log(`✅ [gen_ids.mjs] wrote ${ids.length} ids -> ${outFile}`)
