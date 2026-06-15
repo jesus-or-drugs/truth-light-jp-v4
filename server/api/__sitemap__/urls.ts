@@ -1,17 +1,17 @@
 import { defineSitemapEventHandler } from '#imports'
 import { getRequestURL } from 'h3'
-import type { SitemapUrlInput } from '#sitemap/types'
+import type { SitemapUrl } from '#sitemap/types'
 
 export default defineSitemapEventHandler(async (event) => {
-  const fixed: SitemapUrlInput[] = [
+  const fixed: SitemapUrl[] = [
     '/',
     '/about-us',
     '/disclaimer',
     '/contact-us',
     '/substances'
-  ].map((loc) => ({ loc }))
+  ].map((loc): SitemapUrl => ({ loc }))
 
-  const readingUrls: SitemapUrlInput[] = []
+  const readingUrls: SitemapUrl[] = []
 
   try {
     const readings = await queryCollection(event, 'readings')
@@ -31,7 +31,7 @@ export default defineSitemapEventHandler(async (event) => {
     console.warn('[sitemap] failed to fetch Nuxt Content readings.', e)
   }
 
-  const substanceUrls: SitemapUrlInput[] = []
+  const substanceUrls: SitemapUrl[] = []
 
   try {
     // リクエストの origin を使って同一ドメインから静的JSONを取得
@@ -42,7 +42,7 @@ export default defineSitemapEventHandler(async (event) => {
       ...ids.map((id) => ({
         loc: `/substances/${encodeURIComponent(id)}`,
         changefreq: 'monthly' as const,
-        priority: 0.7,
+        priority: 0.7 as SitemapUrl['priority'],
       }))
     )
     
@@ -51,8 +51,8 @@ export default defineSitemapEventHandler(async (event) => {
   }
 
   const urls = [
-    ...fixed,
     ...readingUrls,
+    ...fixed,
     ...substanceUrls,
   ]
 
@@ -61,7 +61,7 @@ export default defineSitemapEventHandler(async (event) => {
   )
 })
 
-function getContentPriority(path: string) {
+function getContentPriority(path: string): SitemapUrl['priority'] {
   if (path.startsWith('/readings/recovery')) return 0.9
   if (path.startsWith('/readings/basics')) return 0.8
   return 0.6
