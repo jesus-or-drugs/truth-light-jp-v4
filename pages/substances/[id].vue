@@ -22,7 +22,7 @@
           </span>
         </div>
       </header>
-
+      
       <!-- Not found -->
       <div v-if="notFound" class="rounded-2xl border border-red-500/40 bg-red-500/10 p-6">
         <p class="text-red-200 custom-font-bold">Not found</p>
@@ -33,6 +33,52 @@
 
       <!-- Content -->
       <div v-else class="grid grid-cols-1 lg:grid-cols-12 gap-6">
+
+        <!-- Side -->
+        <aside class="lg:col-span-4 space-y-6">
+          <section v-if="substance?.identifiers?.smiles">
+            <ClientOnly>
+              <ContentKetcherFrame :smiles="substance?.identifiers?.smiles" />
+            </ClientOnly>
+          </section>
+          <section class="rounded-2xl border border-[#BFC9D1] bg-[#DCE3E8] p-6">
+            <h2 class="text-lg custom-font-bold mb-3">基本情報</h2>
+
+            <dl class="space-y-3 text-sm">
+              <div class="flex gap-3">
+                <dt class="w-28 text-[#25343F]">系統名<sup>[1]</sup></dt>
+                <dd class="flex-1 text-[#25343F] break-words">
+                  {{ substance?.systematic_name || "—" }}
+                </dd>
+              </div>
+
+              <div class="flex gap-3">
+                <dt class="w-28 text-[#25343F]">SMILES<sup>[1]</sup></dt>
+                <dd class="w-28 flex-1 text-[#25343F] break-words">
+                  {{ substance?.identifiers?.smiles || "—" }}
+                </dd>
+              </div>
+
+              <div class="flex gap-3">
+                <dt class="w-28 text-[#25343F]">カテゴリー</dt>
+                <dd class="flex-1 text-[#25343F]break-words">
+                  <span v-for="cat in substance?.categories">
+                    {{ cat }},
+                  </span>
+                </dd>
+              </div>
+
+              <div class="flex gap-3">
+                <dt class="w-28 text-[#25343F]">法規制</dt>
+                <dd class="flex-1 text-[#25343F] break-words">
+                  <span class="block">{{ substance?.legal?.jp?.law_category || "—" }}</span>
+                  <span v-if="substance?.legal?.jp?.source_link" class="block underline"><a :href="substance?.legal?.jp?.source_link" target="_blank">[一次ソース]</a></span>
+                </dd>
+              </div>
+            </dl>
+          </section>
+        </aside>
+
         <!-- Main -->
         <main class="lg:col-span-8 space-y-6">
           <!-- Summary -->
@@ -181,61 +227,6 @@
           </section>
         </main>
 
-        <!-- Side -->
-        <aside class="lg:col-span-4 space-y-6">
-          <section v-if="substance?.identifiers?.smiles">
-            <ClientOnly>
-              <ContentKetcherFrame :smiles="substance?.identifiers?.smiles" />
-            </ClientOnly>
-          </section>
-          <section class="rounded-2xl border border-[#BFC9D1] bg-[#DCE3E8] p-6">
-            <h2 class="text-lg custom-font-bold mb-3">基本情報</h2>
-
-            <dl class="space-y-3 text-sm">
-              <div class="flex gap-3">
-                <dt class="w-28 text-[#25343F]">系統名<sup>[1]</sup></dt>
-                <dd class="flex-1 text-[#25343F] break-words">
-                  {{ substance?.systematic_name || "—" }}
-                </dd>
-              </div>
-
-              <div class="flex gap-3">
-                <dt class="w-28 text-[#25343F]">SMILES<sup>[1]</sup></dt>
-                <dd class="w-28 flex-1 text-[#25343F] break-words">
-                  {{ substance?.identifiers?.smiles || "—" }}
-                </dd>
-              </div>
-
-              <div class="flex gap-3">
-                <dt class="w-28 text-[#25343F]">カテゴリー</dt>
-                <dd class="flex-1 text-[#25343F]break-words">
-                  <span v-for="cat in substance?.categories">
-                    {{ cat }},
-                  </span>
-                </dd>
-              </div>
-
-              <div class="flex gap-3">
-                <dt class="w-28 text-[#25343F]">法規制</dt>
-                <dd class="flex-1 text-[#25343F] break-words">
-                  <span class="block">{{ substance?.legal?.jp?.law_category || "—" }}</span>
-                  <span v-if="substance?.legal?.jp?.source_link" class="block underline"><a :href="substance?.legal?.jp?.source_link" target="_blank">[一次ソース]</a></span>
-                </dd>
-              </div>
-            </dl>
-          </section>
-
-          <!-- <section class="rounded-2xl border border-slate-700/60 bg-slate-900/30 p-6">
-            <h2 class="text-lg custom-font-bold mb-3">ルートID確認</h2>
-            <p class="text-slate-300 text-sm">
-              URL param: <span class="font-mono text-slate-200">{{ routeId }}</span>
-            </p>
-            <p class="mt-2 text-slate-400 text-sm">
-              読み込み対象ファイル候補:
-              <span class="font-mono">{{ triedIds.join(", ") }}</span>
-            </p>
-          </section> -->
-        </aside>
       </div>
     </div>
   </div>
