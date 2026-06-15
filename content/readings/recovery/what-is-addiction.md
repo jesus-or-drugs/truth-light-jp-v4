@@ -92,11 +92,11 @@ Truth Lightでは依存症をこの「心の痛みを逃れようとする病」
 もちろん病気だからと言って薬物を使い続けていいというものではなく、回復していく責任というものが依存症にはあります。  
 ただ過度に自分を責めたり、過去のことに執着するのをやめて、今自分にできることだけ考えて自分だけは自分のことを愛してあげることが大切です。
 
-## 依存症は「偽りの癒し」に囚われること
+<!-- ## 依存症は「偽りの癒し」に囚われること
 
 薬物を初めて使ったときは
 
-依存症は
+依存症は -->
 
 ## 参考文献
 1. アメリカ精神医学会. "Substance Use Screening, Risk Assessment, and Use Disorder Diagnosis in Adults [Internet]." 2022. [https://www.ncbi.nlm.nih.gov/books/NBK565474/table/table-3/](https://www.ncbi.nlm.nih.gov/books/NBK565474/table/table-3/){target="_blank" rel="noopener noreferrer"}. Retrived by 2026-06-11.

@@ -1,8 +1,25 @@
 import { defineSitemapEventHandler } from '#imports'
 import { getRequestURL } from 'h3'
+import type { SitemapUrlInput } from '#sitemap/types'
 
 export default defineSitemapEventHandler(async (event) => {
-  const fixed = ['/', '/info', '/info/disclaimer', '/substances'].map((loc) => ({ loc }))
+  const fixed: SitemapUrlInput[] = [
+    '/',
+    '/about-us',
+    '/disclaimer',
+    '/contact-us',
+    '/substances'
+  ].map((loc) => ({ loc }))
+
+  const readingsUrls: SitemapUrlInput[] = []
+
+  try {
+
+  } catch (e) {
+
+  }
+
+  const substancesUrl: SitemapUrlInput[] = []
 
   try {
     // リクエストの origin を使って同一ドメインから静的JSONを取得

@@ -57,6 +57,9 @@
   #__nuxtContent article .article-comment {
     @apply text-xs;
   }
+  #__nuxtContent article .article-float-right {
+    @apply float-right mb-6 ml-6 w-full max-w-full md:w-[320px];
+  }
 }
 
 html, body, #__nuxt { height: 100%; }
