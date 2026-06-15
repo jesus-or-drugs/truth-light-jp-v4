@@ -1,6 +1,8 @@
 ---
 title: '🚴 コカイン：NDRIと局所麻酔薬の原型'
 description: 'コカインの歴史、作用機序、毒性、ハームリダクション、依存症からの回復'
+createdAt: '2026-05-23'
+updatedAt: '2026-06-15'
 ogImage: '/ogp/basics/og-cocaine.png'
 seo:
   meta:

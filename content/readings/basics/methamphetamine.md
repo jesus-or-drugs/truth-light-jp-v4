@@ -1,6 +1,8 @@
 ---
 title: '🧊 メタンフェタミン: 日本で生まれ育った国民的ドラッグ'
 description: 'メタンフェタミンの歴史、作用機序、毒性、ハームリダクション、依存症からの回復'
+createdAt: '2026-03-30'
+updatedAt: '2026-06-15'
 ogImage: '/ogp/basics/og-methamphetamine.png'
 seo:
   meta:
