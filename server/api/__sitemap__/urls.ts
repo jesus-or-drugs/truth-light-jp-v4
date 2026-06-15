@@ -11,28 +11,58 @@ export default defineSitemapEventHandler(async (event) => {
     '/substances'
   ].map((loc) => ({ loc }))
 
-  const readingsUrls: SitemapUrlInput[] = []
+  const readingUrls: SitemapUrlInput[] = []
 
   try {
+    const readings = await queryCollection(event, 'readings')
+      .select('path', 'updatedAt')
+      .all()
+    console.log(...readings)
 
+    readingUrls.push(
+      ...readings.map((reading) => ({
+        loc: reading.path,
+        lastmod: reading.updatedAt ?? '',
+        changefreq: 'monthly' as const,
+        priority: getContentPriority(reading.path),
+      }))
+    )
   } catch (e) {
-
+    console.warn('[sitemap] failed to fetch Nuxt Content readings.', e)
   }
 
-  const substancesUrl: SitemapUrlInput[] = []
+  const substanceUrls: SitemapUrlInput[] = []
 
   try {
     // リクエストの origin を使って同一ドメインから静的JSONを取得
     const origin = getRequestURL(event).origin
     const ids = await $fetch<string[]>(`${origin}/data/substance_ids.json`)
 
-    const dynamic = ids.map((id) => ({
-      loc: `/substances/${encodeURIComponent(id)}`, // α対策
-    }))
-
-    return [...fixed, ...dynamic]
+    substanceUrls.push(
+      ...ids.map((id) => ({
+        loc: `/substances/${encodeURIComponent(id)}`,
+        changefreq: 'monthly' as const,
+        priority: 0.7,
+      }))
+    )
+    
   } catch (e) {
     console.warn('[sitemap] failed to fetch /data/substance_ids.json', e)
-    return fixed
   }
+
+  const urls = [
+    ...fixed,
+    ...readingUrls,
+    ...substanceUrls,
+  ]
+
+  return Array.from(
+    new Map(urls.map((url) => [url.loc, url])).values(),
+  )
 })
+
+function getContentPriority(path: string) {
+  if (path.startsWith('/readings/recovery')) return 0.9
+  if (path.startsWith('/readings/basics')) return 0.8
+  return 0.6
+}
