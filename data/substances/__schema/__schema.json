@@ -1,0 +1,39 @@
+{
+  "last_modified": "",
+  "id": "",
+  "common_name": "",
+  "systematic_name": "",
+  "aliases": [],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "",
+    "smiles": ""
+  },
+  "categories": [],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "",
+      "official_name": "",
+      "effective_date": "",
+      "source_link": ""
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  },
+  "refs": []
+}

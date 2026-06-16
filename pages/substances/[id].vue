@@ -25,9 +25,9 @@
       
       <!-- Not found -->
       <div v-if="notFound" class="rounded-2xl border border-red-500/40 bg-red-500/10 p-6">
-        <p class="text-red-200 custom-font-bold">Not found</p>
-        <p class="mt-2 text-slate-200">
-          JSON が見つからなかった：<span class="font-mono">{{ routeId }}</span>
+        <h1 class="mb-2 text-3xl text-red-500 custom-font-bold">Not found</h1>
+        <p>
+          サブスタンス情報が見つかりませんでした：<span class="font-mono">{{ routeId }}.json</span>
         </p>
       </div>
 

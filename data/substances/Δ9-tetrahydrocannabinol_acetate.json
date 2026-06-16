@@ -1,0 +1,46 @@
+{
+  "id": "Δ9-tetrahydrocannabinol_acetate",
+  "common_name": "Δ9-Tetrahydrocannabinol acetate",
+  "systematic name": "[(6aR,10aR)-6,6,9-trimethyl-3-pentyl-6a,7,8,10a-tetrahydrobenzo[c]chromen-1-yl] acetate",
+  "aliases": [
+    "THC-O",
+    "THCO",
+    "THC-O-acetate",
+    "Δ9-THC-O",
+    "Δ9-THCO",
+    "Δ9-THC-O-acetate",
+    "六ａ・七・八・十ａ―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六Ｈ―ジベンゾ［ｂ・ｄ］ピラン―一―イル＝アセテート及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "198013",
+    "inchi_key": "DEWSJDIJFWQLOA-RTBURBONSA-N",
+    "smiles": "CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1)OC(=O)C"
+  },
+  "categories": ["カンナビノイド"],
+  "legal": {
+    "jp": {
+      "law_number": "70",
+      "law_category": "麻薬",
+      "official_name": "六ａ・七・八・十ａ―テトラヒドロ―六・六・九―トリメチル―三―ペンチル―六Ｈ―ジベンゾ［ｂ・ｄ］ピラン―一―イル＝アセテート及びその塩類",
+      "effective_date": "2024-08-30",
+      "source_link": "https://laws.e-gov.go.jp/law/402CO0000000238/#Mp-At_1-Pr_1-It_70"
+    }
+  },
+  "summary": "日本の法律においては立体異性体は区別されていない。",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  },
+  "refs": []
+}
