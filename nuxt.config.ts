@@ -44,6 +44,16 @@ export default defineNuxtConfig({
   sitemap: {
     sources: ['/api/__sitemap__/urls'],
   },
+    fonts: {
+      families: [
+        {
+          name: 'Noto Sans JP',
+          provider: 'google',
+          weights: [400, 700],
+          styles: ['normal'],
+        },
+      ],
+    },
   nitro: {
     routeRules: {
       "/ketcher/**": {

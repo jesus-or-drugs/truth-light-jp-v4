@@ -14,14 +14,14 @@
 
 @layer components {
   .custom-font-normal {
-    font-family: "Google Sans", "Noto Sans JP", sans-serif;
+    font-family: "Noto Sans JP", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
   }
 
   .custom-font-bold {
-    font-family: "Google Sans", "Noto Sans JP", sans-serif;
+    font-family: "Noto Sans JP", sans-serif;
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
