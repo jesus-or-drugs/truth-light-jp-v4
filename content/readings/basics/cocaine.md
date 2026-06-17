@@ -3,7 +3,7 @@ title: '🚴 コカイン：局所麻酔薬の顔ももつドラッグのシャ�
 description: 'コカインの歴史、作用機序、毒性、ハームリダクション、依存症からの回復'
 createdAt: '2026-05-23'
 updatedAt: '2026-06-15'
-ogImage: '/ogp/basics/og-cocaine.png'
+ogImage: '/ogp/basics/ogp-cocaine.jpg'
 seo:
   meta:
     - name: 'keywords'
@@ -13,6 +13,10 @@ seo:
     - name: 'author'
       content: '夢可愛アイ'
 ---
+
+<div class="article-eyecatch">
+  <img src="/ogp/basics/ogp-cocaine.jpg" alt="コカイン: 局所麻酔薬の顔ももつドラッグのシャンパン" />
+</div>
 
 <!-- サイケ_#01 -->
 <div class="yumekawa-manga flex flex-row items-end">

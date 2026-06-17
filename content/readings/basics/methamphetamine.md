@@ -3,7 +3,7 @@ title: '🧊 メタンフェタミン: 日本で生まれ育った国民的ド�
 description: 'メタンフェタミンの歴史、作用機序、毒性、ハームリダクション、依存症からの回復'
 createdAt: '2026-03-30'
 updatedAt: '2026-06-15'
-ogImage: '/ogp/basics/og-methamphetamine.png'
+ogImage: '/ogp/basics/ogp-methamphetamine.jpg'
 seo:
   meta:
     - name: 'keywords'
@@ -15,7 +15,7 @@ seo:
 ---
 
 <div class="article-eyecatch">
-  <img src="/ogp/basics/og-methamphetamine.png" alt="メタンフェタミン: 日本で生まれ育った国民的ドラッグ" />
+  <img src="/ogp/basics/ogp-methamphetamine.jpg" alt="メタンフェタミン: 日本で生まれ育った国民的ドラッグ" />
 </div>
 
 メタンフェタミンはノルアドレナリン・ドーパミンなどのモノアミン神経伝達を強める中枢神経刺激薬であり、使用により覚醒感、エネルギーの向上、多幸感、食欲低下、不眠などを引き起こす。  
@@ -43,6 +43,7 @@ seo:
       class="mb-2"
     />
   </a>
+  <figcaption>メタンフェタミンの作用機序</figcaption>
 </figure>
 
 通常の神経伝達では神経細胞の終末からシナプス間隙へ放出されたドーパミンなどの神経伝達物質は役目を終えると再取り込みポンプ(トランスポーターとも言う)によって再び神経細胞内に回収され再利用に備えられる。  

@@ -27,10 +27,10 @@
     @apply mb-0;
   }
   #__nuxtContent article figure {
-    @apply mb-4;
+    @apply mb-4 p-2 border border-[#BFC9D1];
   }
   #__nuxtContent article figure figcaption {
-    @apply mt-2;
+    @apply mt-2 text-sm text-center;
   }
   #__nuxtContent article blockquote {
     @apply my-6 border-l-4 border-[#25343F] rounded-r-lg bg-slate-300 px-5 py-4 text-[#25343F];

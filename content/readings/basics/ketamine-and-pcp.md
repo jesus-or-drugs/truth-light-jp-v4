@@ -3,7 +3,7 @@ title: '🐘 ケタミンとPCP：解離性麻酔薬と「中身不明」の危�
 description: 'ケタミンとPCPの歴史、作用機序、毒性、ハームリダクション、依存症からの回復'
 createdAt: '2026-05-06'
 updatedAt: '2026-06-15'
-ogImage: '/ogp/basics/og-ketamine.png'
+ogImage: '/ogp/basics/ogp-ketamine-and-pcp.jpg'
 seo:
   meta:
     - name: 'keywords'
@@ -13,6 +13,10 @@ seo:
     - name: 'author'
       content: '夢可愛アイ'
 ---
+
+<div class="article-eyecatch">
+  <img src="/ogp/basics/ogp-ketamine-and-pcp.jpg" alt="エクスタシー: 錠剤型麻薬とMDMA" />
+</div>
 
 <div class="yumekawa-manga flex flex-row items-end">
   <div class="flex-none">

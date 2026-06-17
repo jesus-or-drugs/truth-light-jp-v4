@@ -3,7 +3,7 @@ title: '❌️ エクスタシー: 錠剤型麻薬とMDMA'
 description: 'MDMAと錠剤型麻薬の歴史、作用機序、毒性、ハームリダクション、依存症からの回復'
 createdAt: '2026-05-14'
 updatedAt: '2026-06-15'
-ogImage: '/ogp/basics/og-ecstasy.png'
+ogImage: '/ogp/basics/ogp-ecstasy.jpg'
 seo:
   meta:
     - name: 'keywords'
@@ -13,6 +13,10 @@ seo:
     - name: 'author'
       content: '夢可愛アイ'
 ---
+
+<div class="article-eyecatch">
+  <img src="/ogp/basics/ogp-ecstasy.jpg" alt="エクスタシー: 錠剤型麻薬とMDMA" />
+</div>
 
 <div class="yumekawa-manga flex flex-row items-end">
   <div class="flex-none">
@@ -118,12 +122,6 @@ seo:
       class="w-16 h-16"
     />
   </div>
-</div>
-
-<div class="flex justify-center">
-
-![エクスタシーの真実](/ogp/basics/og-ecstasy.png)
-
 </div>
 
 メチレンジオキシメタンフェタミン(MDMA)は**セロトニン・ノルアドレナリン・ドーパミン放出薬(SNDRA)**であり、ヨーロッパを中心にクラブシーンやナイトライフの“お供”として広く乱用されている。
