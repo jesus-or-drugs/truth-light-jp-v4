@@ -9,6 +9,8 @@
     "inchi_key": "",
     "smiles": ""
   },
+  "molecular_formula": "",
+  "molecular_weight": "",
   "categories": [],
   "legal": {
     "jp": {
@@ -16,24 +18,22 @@
       "law_category": "",
       "official_name": "",
       "effective_date": "",
-      "source_link": ""
+      "source_link": "",
+      "last_reviewed": ""
     }
   },
   "summary": "",
-  "history": "",
   "effects": {
     "effects_positive": [],
     "effects_negative": []
   },
-  "external_resources": {
-    "experiences": {
-      "label": "",
-      "url": ""
-    },
-    "dosage_duration": {
-      "label": "",
-      "url": ""
-    }
+  "experiences": {
+    "label": "",
+    "url": ""
+  },
+  "dosage_duration": {
+    "label": "",
+    "url": ""
   },
   "refs": []
 }

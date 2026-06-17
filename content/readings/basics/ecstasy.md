@@ -2,7 +2,7 @@
 title: '❌️ エクスタシー: 錠剤型麻薬とMDMA'
 description: 'MDMAと錠剤型麻薬の歴史、作用機序、毒性、ハームリダクション、依存症からの回復'
 createdAt: '2026-05-14'
-updatedAt: '2026-06-15'
+updatedAt: '2026-06-16'
 ogImage: '/ogp/basics/ogp-ecstasy.jpg'
 seo:
   meta:

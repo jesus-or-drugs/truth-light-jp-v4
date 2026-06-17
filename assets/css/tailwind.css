@@ -21,7 +21,7 @@
     @apply mb-8 text-justify leading-loose;
   }
   #__nuxtContent article li {
-    @apply mb-4 leading-loose;
+    @apply mb-3 leading-loose;
   }
   #__nuxtContent article li:last-child {
     @apply mb-0;

@@ -2,7 +2,7 @@
 title: '🚴 コカイン：局所麻酔薬の顔ももつドラッグのシャンパン'
 description: 'コカインの歴史、作用機序、毒性、ハームリダクション、依存症からの回復'
 createdAt: '2026-05-23'
-updatedAt: '2026-06-15'
+updatedAt: '2026-06-16'
 ogImage: '/ogp/basics/ogp-cocaine.jpg'
 seo:
   meta:

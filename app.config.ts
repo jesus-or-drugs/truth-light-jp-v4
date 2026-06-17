@@ -17,17 +17,10 @@ export default defineAppConfig({
       showTitle: true,
       showTitleInMobile: true,
       darkModeToggle: true,
-      languageSwitcher: {
-        enable: false,
-        triggerType: 'icon',
-        dropdownType: 'select',
-      },
       logo: {
         white: './logo/Jesus_fish_03_ol_white.png',
         black: './logo/Jesus_fish_03_ol_grey.png',
       },
-      border: false,
-
       nav: {
         database: { type: "link", title: '💽 規制物質DB', to: '/substances' },
         basics: {
