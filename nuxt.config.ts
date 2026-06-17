@@ -4,6 +4,9 @@ export default defineNuxtConfig({
       htmlAttrs: {
         lang: 'ja',
       },
+      link: [
+        { rel: 'icon', type: 'image/x-icon', href: '/icon/favicon.ico' },
+      ],
       script: process.env.NODE_ENV === 'production'
         ? [
             {
@@ -27,6 +30,7 @@ export default defineNuxtConfig({
   modules: [
     '@nuxtjs/tailwindcss',
     '@nuxt/image',
+    '@nuxt/fonts',
     '@nuxtjs/sitemap',
     '@nuxt/content'
   ],
