@@ -1,0 +1,62 @@
+{
+  "last_modified": "2026-06-17",
+  "id": "1b-lsd",
+  "common_name": "1B-LSD",
+  "systematic_name": "(6aR,9R)-4-butanoyl-N,N-diethyl-7-methyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide",
+  "aliases": [
+    "1B-LSD",
+    "N1-Butyryl-lysergic acid diethylamide"
+  ],
+  "identifiers": {
+    "pubchem_cid": "145875086",
+    "inchi_key": "SVRFNPSJPIDUBC-DYESRHJHSA-N",
+    "smiles": "CCCC(=O)N1C=C2C[C@@H]3C(=C[C@H](CN3C)C(=O)N(CC)CC)C4=C2C1=CC=C4"
+
+  },
+  "molecular_formula": "C24H31N3O2",
+  "molecular_weight": "393.5",
+  "categories": ["サイケデリックス", "LSDアナログ"],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物",
+      "official_name": "四―ブタノイル―Ｎ・Ｎ―ジエチル―七―メチル―四・六・六ａ・七・八・九―ヘキサヒドロインドロ［四・三―ｆｇ］キノリン―九―カルボキサミド及びその塩類",
+      "effective_date": "2020/08/26",
+      "last_reviewed": "2026-06-17",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014#Mp-At_1-Pr_1-It_216"
+    }
+  },
+  "summary": "Lazard Labsが開発したLSDアナログ。<br />LSD同様の幻覚作用があるとされるが力価はLSD-25の1/7とされている。<br />代謝には主にCYP3A4とCYP2D6が関与している。",
+  "history": "",
+  "effects": {
+    "effects_positive": [
+      "精神的・身体的なエネルギーの増加",
+      "気分の高揚",
+      "クリエイティビティの増加",
+      "音楽への感受性が上がり、より深く味わえる",
+      "五感の増加",
+      "目を開けていても閉じていても起こる視覚変化",
+      "人生観が変わるほどのスピリチュアル体験、または個人的な気づき",
+      "深い内省"
+    ],
+    "effects_negative": [
+      "不安",
+      "パニック",
+      "発汗の増加",
+      "妄想",
+      "圧倒的なビジョン・体験"
+    ]
+  },
+  "experiences": {
+    "label": "1B-LSD Reports - Erowid Experience Vaults",
+    "url": "https://erowid.org/experiences/subs/exp_1BLSD.shtml"
+  },
+  "dosage_duration": {
+    "label": "What is 1B-LSD? The World of LSD Analogs",
+    "url": "https://tripsitter.com/1b-lsd/"
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/145875086",
+    "Wagmann L, Richter LHJ, Kehl T, Wack F, Bergstrand MP, Brandt SD, Stratford A, Maurer HH, Meyer MR. In vitro metabolic fate of nine LSD-based new psychoactive substances and their analytical detectability in different urinary screening procedures. Anal Bioanal Chem. 2019 Jul;411(19):4751-4763. doi: 10.1007/s00216-018-1558-9. Epub 2019 Jan 7. PMID: 30617391."
+  ]
+}

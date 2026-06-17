@@ -1,0 +1,60 @@
+{
+  "id": "1v-lsd",
+  "common_name": "1V-LSD",
+  "systematic name": "(6aR,9R)-N,N-diethyl-7-methyl-4-pentanoyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide",
+  "aliases": [
+    "1V-LSD",
+    "VALERIE",
+    "1-VALEROYL-LSD"
+  ],
+  "identifiers": {
+    "pubchem_cid": "162368540",
+    "inchi_key": "GIIBVGJWUZNECE-XMSQKQJNSA-N",
+    "smiles": "CCCCC(=O)N1C=C2C[C@@H]3C(=C[C@H](CN3C)C(=O)N(CC)CC)C4=C2C1=CC=C4"
+  },
+  "categories": ["サイケデリックス", "LSDアナログ"],
+  "legal": {
+    "jp": {
+      "law_number": "133",
+      "law_category": "指定薬物",
+      "official_name": "Ｎ・Ｎ―ジエチル―七―メチル―四―ペンタノイル―四・六・六ａ・七・八・九―ヘキサヒドロインドロ［四・三―ｆｇ］キノリン―九―カルボキサミド及びその塩類",
+      "effective_date": "2023/03/10",
+      "last_reviewed": "2026-06-17",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014#Mp-At_1-Pr_1-It_133"
+    }
+  },
+  "summary": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "1V-LSD - Erowid Experience Vaults",
+      "url": "https://erowid.org/experiences/subs/exp_1VLSD.shtml"
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/162368540"
+  ],
+  "molecular_formula": "C25H33N3O2",
+  "molecular_weight": "407.5",
+  "smiles_canonical": null,
+  "smiles_isomeric": null,
+  "systematic_name": "(6aR,9R)-N,N-diethyl-7-methyl-4-pentanoyl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide",
+  "synonyms_pubchem": [
+    "1V-LSD",
+    "VALERIE",
+    "1-VALEROYL-LSD",
+    "V9TJ3HT283",
+    "(6AR,9R)-N,N-DIETHYL-7-METHYL-4-PENTANOYL-4,6,6A,7,8,9-HEXAHYDROINDOLO(4,3-FG)QUINOLINE-9-CARBOXAMIDE",
+    "RefChem:79978",
+    "SCHEMBL25219199",
+    "DTXSID801342453",
+    "PD163775"
+  ]
+}

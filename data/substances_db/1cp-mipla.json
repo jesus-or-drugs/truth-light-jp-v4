@@ -1,0 +1,43 @@
+{
+  "id": "1cp-mipla",
+  "common_name": "1cP-MiPLA",
+  "systematic name": "(6aR,9R)-4-(cyclopropanecarbonyl)-N,7-dimethyl-N-propan-2-yl-6,6a,8,9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide",
+  "aliases": [
+    "1cP-MiPLA"
+  ],
+  "identifiers": {
+    "pubchem_cid": "170763684",
+    "inchi_key": "DBIYDHUGEKMIHZ-DYESRHJHSA-N",
+    "smiles": "170763684"
+  },
+  "molecular_formula": "C24H29N3O2",
+  "molecular_weight": "391.5",
+  "categories": ["サイケデリックス", "LSDアナログ"],
+  "legal": {
+    "jp": {
+      "law_number": "138",
+      "law_category": "指定薬物",
+      "official_name": "四―（シクロプロピルカルボニル）―Ｎ―メチル―Ｎ―（プロパン―二―イル）―七―メチル―四・六・六ａ・七・八・九―ヘキサヒドロインドロ［四・三―ｆｇ］キノリン―九―カルボキサミド及びその塩類",
+      "effective_date": "2025/01/27",
+      "last_reviewed": "2026-06-17",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014#Mp-At_1-Pr_1-It_138"
+    }
+  },
+  "summary": "MiPLAのプロドラッグと考えられている。<br />2020年にオンライン上で1cP-MiPLA 200μgが含まれたブロッターの販売が確認された。",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "experiences": {
+    "label": "MiPLA -Erowid Experience Vaults.",
+    "url": "https://erowid.org/experiences/subs/exp_MIPLA.shtml"
+  },
+  "dosage_duration": {
+    "label": "",
+    "url": ""
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/170763684",
+    "https://aipsin.com/newsubstance/562/"
+  ]
+}
