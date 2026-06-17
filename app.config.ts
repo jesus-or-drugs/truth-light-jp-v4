@@ -22,7 +22,7 @@ export default defineAppConfig({
         black: './logo/Jesus_fish_03_ol_grey.png',
       },
       nav: {
-        database: { type: "link", title: '💽 規制物質DB', to: '/substances' },
+        database: { type: "link", title: '💽 規制物質DB(α版)', to: '/substances' },
         basics: {
           type: "menu",
           title: "🔰 ハームリダクション",
