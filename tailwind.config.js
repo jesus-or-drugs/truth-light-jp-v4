@@ -32,7 +32,7 @@ export default {
     },
     extend: {
       fontFamily: {
-        sans: ['Avenir', 'Helvetica', 'Arial', 'ヒラギノ角ゴシック　Pro', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo', '游ゴシック体', 'Yu Gothic', 'YuGothic', 'sans-serif'],
+        sans: ['Noto Sans JP', 'sans-serif'],
         mono: ['Source Han Code JP', '源ノ角ゴシック Code JP', 'Source Han Code', '源ノ角ゴシック Code', 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Monaco', 'Consolas', 'Liberation Mono', 'Courier New', 'monospace'],
       },
       keyframes: {

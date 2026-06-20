@@ -73,6 +73,10 @@
   #__nuxtContent article .article-float-right {
     @apply float-right mb-6 ml-6 w-full max-w-full md:w-[320px];
   }
+  #__nuxtContent .article-quote-source {
+    text-align: right;
+    font-style: italic;
+  }
 }
 
 html, body, #__nuxt { height: 100%; }
