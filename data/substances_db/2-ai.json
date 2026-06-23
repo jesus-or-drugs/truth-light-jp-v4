@@ -1,0 +1,46 @@
+{
+  "last_modified": "2026-06-24",
+  "id": "2-ai",
+  "common_name": "2-AI",
+  "systematic name": "2,3-dihydro-1H-inden-2-amine",
+  "aliases": [
+    "2-Aminoindan",
+    "2-Aminoindane",
+    "Indan-2-amine",
+    "インダン―二―アミン及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "76310",
+    "inchi_key": "LMHHFZAXSANGGM-UHFFFAOYSA-N",
+    "smiles": "C1C(CC2=CC=CC=C21)N"
+  },
+  "molecular_formula": "C9H11N",
+  "molecular_weight": "133.19",
+  "categories": ["中枢神経刺激薬"],
+  "legal": {
+    "jp": {
+      "law_number": "57",
+      "law_category": "指定薬物",
+      "official_name": "インダン―二―アミン及びその塩類",
+      "effective_date": "2007/12/12",
+      "last_reviewed": "2026-06-24",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014#Mp-At_1-Pr_1-It_57"
+    }
+  },
+  "summary": "2-Aminoindane（2-AI）は、インダン骨格を持つ合成アミノインダン系／シクロ化フェネチルアミン系の中枢刺激薬である。<br />主にNET・DAT基質としてNE/DA放出に作用し、放出EC50はNET 86±13 nM、DAT 439±38 nM、SERT >10,000 nMで、セロトニン性は弱い。類縁体にはMDAI、5-IAI、NM-2-AI、MEAIなどがあり、天然アルカロイドではなく植物由来ではない。",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "experiences": {
+    "label": "2-Aminoindan Reports - Erowid Experience Vaults",
+    "url": "https://erowid.org/experiences/subs/exp_2Aminoindan.shtml"
+  },
+  "dosage_duration": {
+    "label": "2-Aminoindane",
+    "url": "ttps://psychonautwiki.org/wiki/2-Aminoindane"
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/76310"
+  ]
+}

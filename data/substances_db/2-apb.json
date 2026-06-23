@@ -1,0 +1,46 @@
+{
+  "last_modified": "2026-06-24",
+  "id": "2-apb",
+  "common_name": "2-APB",
+  "systematic name": "1-(1-benzofuran-2-yl)propan-2-amine",
+  "aliases": [
+    "2-(2-Aminopropyl)benzofuran"
+  ],
+  "identifiers": {
+    "pubchem_cid": "413938",
+    "inchi_key": "QGLBWEFCBFEAPH-UHFFFAOYSA-N",
+    "smiles": "CC(CC1=CC2=CC=CC=C2O1)N"
+  },
+  "molecular_formula": "C14H16BNO",
+  "molecular_weight": "225.10",
+  "categories": [ "ベンゾフラン系", "異性体" ],
+  "legal": {
+    "jp": {
+      "law_number": "271",
+      "law_category": "指定薬物",
+      "official_name": "一―（ベンゾフラン―二―イル）プロパン―二―アミン及びその塩類",
+      "effective_date": "2015/02/18",
+      "last_reviewed": "2026-06-24",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014#Mp-At_1-Pr_1-It_271"
+    }
+  },
+  "summary": "2-APBは6-APB(BenzoFury)と5-APBの異性体である。",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/413938"
+  ]
+}

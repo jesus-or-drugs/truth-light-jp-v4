@@ -1,0 +1,46 @@
+{
+  "id": "delta8-thc_acetate",
+  "common_name": "Δ8-THC acetate",
+  "systematic name": "[(6aR,10aR)-6,6,9-trimethyl-3-pentyl-6a,7,10,10a-tetrahydrobenzo[c]chromen-1-yl] acetate",
+  "aliases": [
+    "Δ8-THCO",
+    "Δ8-THC-O",
+    "Δ8-THC-O-Acetate",
+    "Δ8-Tetrahydrocannabinol Acetate",
+    "Δ8-THC-O-Acetate",
+    "[(6aR,10aR)-6,6,9-trimethyl-3-pentyl-6a,7,10,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-yl] acetate",
+    "６ａ，７，１０，１０ａ－テトラヒドロ－６，６，９－トリメチル－３－ペンチル－６Ｈ－ジベンゾ［ｂ，ｄ］ピラン－１－イル＝アセテート及びその塩類"
+  ],
+  "identifiers": {
+    "pubchem_cid": "14589394",
+    "inchi_key": "WPRGTCVOBXQUHO-RTBURBONSA-N",
+    "smiles": "CCCCCC1=CC2=C([C@@H]3CC(=CC[C@H]3C(O2)(C)C)C)C(=C1)OC(=O)C",
+    "cas_no": "23050-54-6"
+  },
+  "categories": ["合成カンナビノイド"],
+  "legal": {
+    "jp": {
+      "law_number": "",
+      "law_category": "指定薬物(包括)",
+      "official_name": "６ａ，７，１０，１０ａ－テトラヒドロ－６，６，９－トリメチル－３－ペンチル－６Ｈ－ジベンゾ［ｂ，ｄ］ピラン－１－イル＝アセテート及びその塩類",
+      "effective_date": "-",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "",
+  "history": "",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  }
+}

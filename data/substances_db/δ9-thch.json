@@ -1,0 +1,47 @@
+{
+  "last_modified": "2026-06-24",
+  "id": "delta9-thch",
+  "common_name": "Δ9-THCH",
+  "systematic name": "(6aR,10aR)-3-hexyl-6a,7,8,10a-tetrahydro-6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol",
+  "aliases": [
+    "THCH",
+    "Δ9-Tetrahydrocannabihexol",
+    "Δ9-Tetrahydrocannabinol-C6",
+    "Δ9-THC-C6"
+  ],
+  "identifiers": {
+    "pubchem_cid": "",
+    "inchi_key": "DMJVNNFBMZZLFB-QZTJIDSGSA-N",
+    "smiles": "CC1=C[C@]2([H])[C@@](C(C)(C)OC3=C2C(O)=CC(CCCCCC)=C3)([H])CC1",
+    "cas_no": "36482-24-3"
+  },
+  "molecular_formula": "C22H32O2",
+  "molecular_weight": "225.10",
+  "categories": ["合成カンナビノイド"],
+  "legal": {
+    "jp": {
+      "law_number": "359",
+      "law_category": "指定薬物(包括)",
+      "official_name": "六ａ・七・八・十ａ―テトラヒドロ―六・六・九―トリメチル―六Ｈ―ジベンゾ［ｂ・ｄ］ピラン",
+      "effective_date": "2023/07/25",
+      "last_reviewed": "2026-06-24",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014"
+    }
+  },
+  "summary": "大麻に含まれるTHCの1位の炭素鎖をC5→C6に修飾したホモログである。",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "experiences": {
+    "label": "",
+    "url": ""
+  },
+  "dosage_duration": {
+    "label": "",
+    "url": ""
+  },
+  "refs": [
+    "https://www.caymanchem.com/product/33352/delta9-thch"
+  ]
+}

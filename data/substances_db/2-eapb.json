@@ -1,0 +1,46 @@
+{
+  "last_modified": "2026-06-24",
+  "id": "2-eapb",
+  "common_name": "2-EAPB",
+  "systematic name": "1-(1-benzofuran-2-yl)-N-ethylpropan-2-amine",
+  "aliases": [
+    "2-EAPB",
+    "2-(2-(Ethylamino)propyl)benzofuran"
+  ],
+  "identifiers": {
+    "pubchem_cid": "102144589",
+    "inchi_key": "SGGKRTSTBXBERJ-UHFFFAOYSA-N",
+    "smiles": "CCNC(C)CC1=CC2=CC=CC=C2O1"
+  },
+  "molecular_formula": "C13H17NO",
+  "molecular_weight": "203.28",
+  "categories": ["ベンゾフラン系", "異性体"],
+  "legal": {
+    "jp": {
+      "law_number": "267",
+      "law_category": "指定薬物",
+      "official_name": "一―（ベンゾフラン―二―イル）―Ｎ―エチルプロパン―二―アミン及びその塩類",
+      "effective_date": "2015/01/30",
+      "last_reviewed": "2026-06-24",
+      "source_link": "https://laws.e-gov.go.jp/law/419M60000100014#Mp-At_1-Pr_1-It_267"
+    }
+  },
+  "summary": "2-EAPBは2-APBの窒素原子にエチル基が付与された6-EAPB(BenzoFury)・5-EAPBの異性体である",
+  "effects": {
+    "effects_positive": [],
+    "effects_negative": []
+  },
+  "external_resources": {
+    "experiences": {
+      "label": "",
+      "url": ""
+    },
+    "dosage_duration": {
+      "label": "",
+      "url": ""
+    }
+  },
+  "refs": [
+    "https://pubchem.ncbi.nlm.nih.gov/compound/102144589"
+  ]
+}
