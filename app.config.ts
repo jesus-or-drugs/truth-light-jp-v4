@@ -29,7 +29,7 @@ export default defineAppConfig({
           meth: { type: "link", title: "🧊 メタンフェタミン", to: '/readings/basics/methamphetamine' },
           cocaine: { type: "link", title: '🚴 コカイン',to: '/readings/basics/cocaine' },
           mdma: { type: "link", title: '❌️ エクスタシー', to: '/readings/basics/ecstasy' },
-          /* marijuana: { type: "link", title: '🥦 マリファナ', to: '/readings/basics/marijuana' }, */
+          marijuana: { type: "link", title: '🥦 マリファナ', to: '/readings/basics/marijuana' },
           ketamine: { type: 'link', title: '🐘 ケタミン/PCP', to: '/readings/basics/ketamine-and-pcp' },
         },
         recovery: {
