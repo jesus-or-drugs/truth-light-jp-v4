@@ -1,4 +1,10 @@
 export default defineNuxtConfig({
+  site: {
+    url: 'https://www.truth-light.jp',
+    name: 'Truth Light',
+    description: 'Truth Lightは「日本版Erowid」を目指し、薬物に対する正しい情報と依存症からの回復の道を提供します。',
+    defaultLocale: 'ja',
+  },
   app: {
     head: {
       htmlAttrs: {
@@ -25,35 +31,32 @@ export default defineNuxtConfig({
         : [],
     },
   },
+  css: [
+    '~/assets/css/tailwind.css',
+  ],
+  sitemap: {
+    sources: ['/api/__sitemap__/urls'],
+  },
+  fonts: {
+    families: [
+      {
+        name: 'Noto Sans JP',
+        provider: 'google',
+        weights: [400, 700],
+        styles: ['normal'],
+      },
+    ],
+  },
   compatibilityDate: '2025-07-15',
-  devtools: { enabled: true },
+  devtools: { enabled: true },  
   modules: [
+    '@nuxtjs/seo',
     '@nuxtjs/tailwindcss',
     '@nuxt/image',
     '@nuxt/fonts',
     '@nuxtjs/sitemap',
     '@nuxt/content'
   ],
-  css: [
-    '~/assets/css/tailwind.css',
-  ],
-  site: {
-    url: 'https://www.truth-light.jp',
-    name: 'Truth Light',
-  },
-  sitemap: {
-    sources: ['/api/__sitemap__/urls'],
-  },
-    fonts: {
-      families: [
-        {
-          name: 'Noto Sans JP',
-          provider: 'google',
-          weights: [400, 700],
-          styles: ['normal'],
-        },
-      ],
-    },
   nitro: {
     routeRules: {
       "/ketcher/**": {
