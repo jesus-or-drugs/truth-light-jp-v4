@@ -15,7 +15,7 @@ seo:
 ---
 
 <div class="article-eyecatch">
-  <img src="/ogp/basics/ogp-marijuana.jpg" alt="メタンフェタミン: 日本で生まれ育った国民的ドラッグ" />
+  <img src="/ogp/basics/ogp-marijuana.jpg" alt="マリファナ：統合失調症を引き起こす可能性はトップクラス！？" />
 </div>
 
 マリファナは一年草である大麻(<em>Cannabis sativa L.</em>)を乾燥させたものである。その加工方法や形体によって様々な呼び名があり、大麻を乾燥させたものを<strong>🥦、💐、草、ウィード、グラス。</strong>樹脂を乾燥させたものを<strong>ハッシュ、ハシシ、チョコ。</strong>ブタンガスでオイルだけを抽出したものを<strong>BHO(ブタンハニーオイル)、ハチミツ、蜜</strong>など様々な呼び名がある。
