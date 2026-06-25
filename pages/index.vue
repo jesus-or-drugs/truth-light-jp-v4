@@ -12,7 +12,7 @@
 
         <!-- Side panel -->
         <aside class="md:col-span-4">
-          <div class="rounded-2xl border border-[#BFC9D1]/50 bg-[#DCE3E8] bg-gradient-to-b from-white/20 to-[#DCE3E8]  p-5">
+          <div class="p-5 rounded-2xl border border-[#BFC9D1]/20 bg-white/10">
             <div class="flex items-start justify-between gap-3">
               <div>
                 <p class="text-sm custom-font-bold">ニュース</p>
@@ -43,29 +43,61 @@
       </div>
     </section>
 
-    <!-- News-->
+    <!-- BASICS-->
     <section class="mx-auto max-w-6xl px-6 pb-14">
-      <h2 class="custom-font-bold text-4xl">BASICS</h2>
-      <div class="grid gap-4 md:grid-cols-4">
-        <a href="/categories" class="rounded-3xl border border-white/10 bg-white/5 p-5 hover:bg-white/10">
-          <p class="text-sm custom-font-bold">Browse by category</p>
-          <p class="mt-2 text-sm text-slate-300">Stimulants, Psychedelics, Dissociatives…</p>
-        </a>
+      <h2 class="mb-8 custom-font-bold text-4xl">BASICS</h2>
+      <div
+        class="relative mx-auto"
+      >
+        <!-- 左ボタン -->
+        <button
+          type="button"
+          class="hidden md:flex items-center justify-center absolute -left-12 top-1/2 z-10 h-10 w-10 -translate-y-1/2 rounded-full bg-white/90 shadow-md hover:bg-[#FF9B51] hover:text-white"
+          @click="scrollCarousel('left')"
+        >
+          <img src="/ui/angle-small-left.png" class="h-10 w-10" alt="左にカルーセルを移動" />
+        </button>
 
-        <a href="/tags/risk" class="rounded-3xl border border-white/10 bg-white/5 p-5 hover:bg-white/10">
-          <p class="text-sm custom-font-bold">Browse by risk</p>
-          <p class="mt-2 text-sm text-slate-300">Overdose, dependence, neurotoxicity tags.</p>
-        </a>
+        <!-- 表示領域 -->
+        <div
+          ref="carouselRef"
+          class="mx-4 md:mx-0 no-scrollbar overflow-x-auto scroll-smooth"
+        >
+          <div
+            class="flex flex-row gap-4"
+          >
+            <NuxtLink
+              v-for="basicsContent in basicsFeeds"
+              :key="basicsContent.path"
+              :to="basicsContent.path"
+              class="group block mb-8 shrink-0 basis-[calc(100%-3rem)] md:basis-[calc((100%-2rem)/3)] no-underline"
+            >
 
-        <a href="/legal" class="rounded-3xl border border-white/10 bg-white/5 p-5 hover:bg-white/10">
-          <p class="text-sm custom-font-bold">Legal status (JP)</p>
-          <p class="mt-2 text-sm text-slate-300">Understand classification and updates.</p>
-        </a>
+              <div class="overflow-hidden border border-[#BFC9D1]/70 rounded-md">
+                <div class="overflow-hidden">
+                  <img
+                    :src="basicsContent.ogImage"  
+                    :alt="basicsContent.title"
+                    class="transition-transform duration-300 ease-out group-hover:scale-125"
+                  />
+                </div>
+                <div class="p-4">
+                  <h2 class="custom-font-bold mb-2">{{ basicsContent.title }}</h2>
+                  <p class="text-slate-500 text-s5">{{ basicsContent.description }}</p>
+                </div>
+              </div>
 
-        <a href="/start" class="rounded-3xl border border-white/10 bg-white/5 p-5 hover:bg-white/10">
-          <p class="text-sm custom-font-bold">Start here</p>
-          <p class="mt-2 text-sm text-slate-300">If you’re new, begin with essentials.</p>
-        </a>
+            </NuxtLink>
+          </div>
+        </div>
+        <!-- 右ボタン -->
+        <button
+          type="button"
+          class="hidden md:flex items-center justify-center absolute -right-12 top-1/2 z-10 h-10 w-10 -translate-y-1/2 rounded-full bg-white/90 shadow-md hover:bg-[#FF9B51] hover:text-white"
+          @click="scrollCarousel('right')"
+        >
+          <img src="/ui/angle-small-right.png" class="h-10 w-10" alt="右にカルーセルを移動" />
+        </button>
       </div>
     </section>
 
@@ -151,12 +183,23 @@
       <div class="rounded-3xl border border-white/10 bg-gradient-to-br from-white/5 to-transparent p-6">
         <h3 class="text-sm custom-font-bold">Important note</h3>
         <p class="mt-2 text-sm text-slate-300">
-          Truth Light is for education and harm reduction. We do not provide purchasing information.
-          If you or someone is in immediate danger, contact local emergency services.
+          Truth Lightの情報は純粋に教育目的や危害軽減のためであり、あらゆる乱用性薬物の使用を推奨するものではありません。<br />
+          また生命に関わる緊急事態においては緊急搬送や病院の受診を強くお勧めいたします。
         </p>
       </div>
     </section>
 </template>
+
+<style lang="css" scoped>
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+</style>
 
 <script setup lang="ts">
 definePageMeta({ layout: "default" })
@@ -171,5 +214,28 @@ useSeoMeta({
   ogImage: appConfig.truthlight?.site?.ogImage ?? '',
   twitterCard: 'summary_large_image',
 })
+
+const { data: basicsFeeds } = await useAsyncData('basics-feeds', async () => {
+  const contents = await queryCollection('readings')
+    .order('updatedAt', 'DESC')
+    .all()
+
+  console.log('Contentsの中身！：', contents)
+
+  return contents.filter((content) =>
+    content.path.startsWith('/readings/basics')
+  )
+})
+
+const carouselRef = ref<HTMLElement | null>(null)
+
+const scrollCarousel = (direction: 'left' | 'right') => {
+  if (!carouselRef.value) return
+
+  carouselRef.value.scrollBy({
+    left: direction === 'right' ? 360 : -360,
+    behavior: 'smooth',
+  })
+}
 
 </script>
