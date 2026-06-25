@@ -62,8 +62,6 @@
 <script setup lang="ts">
 import { withoutTrailingSlash } from 'ufo'
 
-definePageMeta({ layout: 'default' })
-
 const appConfig = useAppConfig()
 
 const route = useRoute()
@@ -110,8 +108,8 @@ const ogImage = computed(() => {
 // v3標準: seo は useSeoMeta と組み合わせる想定 :contentReference[oaicite:3]{index=3}
 useSeoMeta({
   title: () => page.value?.seo?.title ?? page.value?.title,
-  description: () => page.value?.seo?.description ?? page.value?.description,
   ogTitle: () => page.value?.seo?.title ?? page.value?.title,
+  description: () => page.value?.seo?.description ?? page.value?.description,
   ogDescription: () => page.value?.seo?.description ?? page.value?.description,
   ogImage: () => ogImage.value,
   twitterCard: 'summary_large_image',

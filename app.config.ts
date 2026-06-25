@@ -1,10 +1,10 @@
 export default defineAppConfig({
   truthlight: {
     site: {
-      // name: 'Truth Light',
+      name: 'Truth Light',
       topPageName: 'Truth Light | 薬物依存のリカバリー＆ハームリダクション',
       topPageDescription: 'Truth Lightは「日本版Erowid」を目指し、薬物に対する正しい情報と依存症からの回復の道を提供します。',
-      // url: 'https://www.truth-light.jp/',
+      url: 'https://www.truth-light.jp/',
       ogImage: '/og-default.png'
     },
     theme: {

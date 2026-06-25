@@ -15,12 +15,15 @@
 <script setup lang="ts">
 const route = useRoute()
 const appConfig = useAppConfig()
+
 const siteName = appConfig.truthlight?.site?.name ?? ``
 const topPageName = appConfig.truthlight?.site?.topPageName ?? ``
 
 useHead({
   titleTemplate: (titleChunk) => {
-    return titleChunk ? `${titleChunk} | ${siteName}` : topPageName
+    return titleChunk
+      ? `${titleChunk} | ${siteName}`
+      : topPageName
   },
 })
 </script>
