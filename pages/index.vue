@@ -202,6 +202,6 @@ const scrollCarousel = (direction: 'left' | 'right') => {
   })
 }
 
-const noteFeed = await $fetch('/api/feed/note-feed.get.ts')
+const noteFeed = await $fetch('/api/feed/note-feed')
 console.log(noteFeed)
 </script>
