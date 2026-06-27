@@ -122,16 +122,6 @@
       </div>
     </section>
 
-    <!-- Disclaimer -->
-    <section class="mx-auto max-w-6xl px-6 pb-16">
-      <div class="rounded-3xl border border-white/10 bg-gradient-to-br from-white/5 to-transparent p-6">
-        <h3 class="text-sm custom-font-bold">Important note</h3>
-        <p class="mt-2 text-sm text-slate-300">
-          Truth Lightの情報は純粋に教育目的や危害軽減のためであり、あらゆる乱用性薬物の使用を推奨するものではありません。<br />
-          また生命に関わる緊急事態においては緊急搬送や病院の受診を強くお勧めいたします。
-        </p>
-      </div>
-    </section>
 </template>
 
 <style lang="css" scoped>
