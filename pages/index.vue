@@ -114,29 +114,9 @@
           <h2 class="mb-8 mt-2 pl-2 pb-2 border-b-2 border-[#25343F] custom-font-bold text-4xl">NEWS</h2>
 
           <div class="mt-4 divide-y divide-white/10 rounded-3xl border border-white/10 bg-white/5">
-            <a href="/substances/4f-mph" class="block p-4 hover:bg-white/10">
-              <div class="flex items-center justify-between">
-                <p class="text-sm font-medium">4F-MPH</p>
-                <p class="text-xs text-slate-400">Jan 12</p>
-              </div>
-              <p class="mt-1 text-xs text-slate-400">Added pharmacology notes + sources.</p>
-            </a>
 
-            <a href="/legal" class="block p-4 hover:bg-white/10">
-              <div class="flex items-center justify-between">
-                <p class="text-sm font-medium">Legal (JP)</p>
-                <p class="text-xs text-slate-400">Jan 10</p>
-              </div>
-              <p class="mt-1 text-xs text-slate-400">Scheduled substances list refreshed.</p>
-            </a>
+            <ContentNoteFeed />
 
-            <a href="/harm-reduction/interactions" class="block p-4 hover:bg-white/10">
-              <div class="flex items-center justify-between">
-                <p class="text-sm font-medium">Interactions</p>
-                <p class="text-xs text-slate-400">Jan 8</p>
-              </div>
-              <p class="mt-1 text-xs text-slate-400">New section: depressants + respiratory risk.</p>
-            </a>
           </div>
         </div>
       </div>
@@ -166,6 +146,8 @@
 </style>
 
 <script setup lang="ts">
+import ContentNoteFeed from '~/components/content/ContentNoteFeed.vue'
+
 definePageMeta({ layout: "default" })
 
 const appConfig = useAppConfig()
@@ -201,7 +183,4 @@ const scrollCarousel = (direction: 'left' | 'right') => {
     behavior: 'smooth',
   })
 }
-
-const noteFeed = await $fetch('/api/feed/note-feed')
-console.log(noteFeed)
 </script>
