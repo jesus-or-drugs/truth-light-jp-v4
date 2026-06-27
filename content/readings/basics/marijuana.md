@@ -18,13 +18,86 @@ seo:
   <img src="/ogp/basics/ogp-marijuana.jpg" alt="マリファナ：統合失調症を引き起こす可能性はトップクラス！？" />
 </div>
 
+<div class="yumekawa-manga flex flex-row items-end">
+  <div class="flex-none">
+    <img
+      src="/yumekawa-manga/yumekawa-psyche-01-128px.png"
+      alt="夢可愛サイケ"
+      class="w-16 h-16"
+    />
+  </div>
+  <div class="flex flex-1 flex-row items-center justify-start">
+    <div class="flex-none">
+      <img
+        src="/yumekawa-manga/fukidashi-left-h128px.png"
+        alt="吹き出し"
+        class="h-16 w-auto"
+      />
+    </div>
+    <div class="flex flex-col w-[70%] min-h-16 rounded-lg bg-[#DDE4E7] px-3 py-2 items-center justify-center">
+      <p class="m-0">アイ(妹)は健常者でいいよな。薬使わないでも何とか上手くやっていける。</p>
+    </div>
+  </div>
+</div>
+<div class="yumekawa-manga flex flex-row items-end">
+  <div class="flex flex-1 flex-row items-center justify-end">
+    <div class="flex flex-col w-[70%] min-h-16 rounded-lg bg-[#DDE4E7] px-3 py-2 items-center justify-center">
+      <p class="m-0">いや、実は私は「</p>
+    </div>
+    <div class="flex-none">
+      <img
+        src="/yumekawa-manga/fukidashi-right-h128px.png"
+        alt="吹き出し"
+        class="h-16 w-auto"
+      />
+    </div>
+  </div>
+  <div class="flex-none">
+    <img
+      src="/yumekawa-manga/yumekawa-ai-02-128px.png"
+      alt="夢可愛アイ"
+      class="w-16 h-16"
+    />
+  </div>
+</div>
+
+
 マリファナは一年草である大麻(<em>Cannabis sativa L.</em>)を乾燥させたものである。その加工方法や形体によって様々な呼び名があり、大麻を乾燥させたものを<strong>🥦、💐、草、ウィード、グラス。</strong>樹脂を乾燥させたものを<strong>ハッシュ、ハシシ、チョコ。</strong>ブタンガスでオイルだけを抽出したものを<strong>BHO(ブタンハニーオイル)、ハチミツ、蜜</strong>など様々な呼び名がある。
 
 マリファナは世界で最も乱用されている違法薬物の一つであり、近年その法的地位は変わりつつある。
 
-## 薬理学
+## 薬理学的プロフィール
 
-カンナビノイド受容体はGタンパク質共役受容体として大きく別けてCB1受容体とCB2受容体の2種類が発現している。CB1は主に中枢神経系にCB2は末梢に発現していると考えられている。
+### 植物性カンナビノイド
+
+<figure class="article-float-right">
+  <a href="/content/cannabinoids-numbering.jpg" class="glightbox">
+    <img src="/content/cannabinoids-numbering.jpg" alt="大麻草に含まれる植物性カンナビノイド"
+      class="mb-2"
+    />
+  </a>
+  <figcaption>大麻草に含まれる植物性カンナビノイド"</figcaption>
+</figure>
+
+大麻に含まれるカンナビノイドは120種類以上存在するが、カンナビノイド受容体に対して親和性を持つカンナビノイドはΔ9-THC(テトラヒドロカンナビノール)、Δ8-THC、CBN(カンナビノール)のみである。  
+CBD(カンナビジオール)やCBG(カンナビゲロール)を含んでいる大麻草も多く、生理的活性は有するが陶酔感などのいわゆる“ハイ”になる感覚はTHCと比べると弱い。
+
+### 内因性カンナビノイド
+
+<figure class="article-float-right">
+  <a href="/content/anandamide-structure.png" class="glightbox">
+    <img src="/content/anandamide-structure.png" alt="内因性カンナビノイドであるアナンダミドの構造"
+      class="mb-2"
+    />
+  </a>
+  <figcaption>内因性カンナビノイドであるアナンダミドの構造</figcaption>
+</figure>
+
+カンナビノイドは植物性だけではなく、人間の体内でも生合成され神経伝達に用いられている。アナンダミドはオメガ6脂肪酸であるアラキドン酸から生成される。
+
+内因性カンナビノイドはストレス適応や食欲、記憶、学習、免疫、炎症などを調節しており、しばしばシナプス間の逆行伝達(シナプス後=>シナプス前)によって神経伝達の興奮を調整する役割も持つ。
+
+THCなどの一部カンナビノイドはGタンパク質共役受容体であるCB1受容体とCB2受容体の作動薬である。CB1は主に中枢神経系にCB2は末梢神経系に発現していると考えられている。
 アナンダミドと2-アラキドノイルグリセロールやJWH-018等の合成カンナビノイドはCB1のフルアゴニストとして作用するが、THCは部分アゴニストとしての効力しか持たないようである。
 
 CB1受容体には内因性リガンドが結合するオルソステリック部位と、正と負のアロステリック部位が存在する。このアロステリック部位の負の調節因子は神経ステロイドであるプレグネノロンであり、THCのシグナル伝達を減弱させることが明らかとなっている。もう一つのCB1受容体の負のアロステリック調節因子はCBDでありTHCと内在性カンナビノイドのCB1受容体活性化を減弱させる。
@@ -108,36 +181,6 @@ CB1受容体には内因性リガンドが結合するオルソステリック�
   痙攣や極度の興奮に陥る可能性がある。  
   マリファナの不安惹起作用によってバッドトリップに陥る可能性がある。
 
-## 色々なカンナビノイド
-
-### 植物性カンナビノイド
-
-<figure class="article-float-right">
-  <a href="/content/cannabinoids-numbering.jpg" class="glightbox">
-    <img src="/content/cannabinoids-numbering.jpg" alt="大麻草に含まれる植物性カンナビノイド"
-      class="mb-2"
-    />
-  </a>
-  <figcaption>大麻草に含まれる植物性カンナビノイド"</figcaption>
-</figure>
-
-大麻に含まれるカンナビノイドは120種類以上存在するが、カンナビノイド受容体に対して親和性を持つカンナビノイドはΔ9-THC(テトラヒドロカンナビノール)、Δ8-THC、CBN(カンナビノール)のみである。  
-CBD(カンナビジオール)やCBG(カンナビゲロール)を含んでいる大麻草も多く、生理的活性は有するが陶酔感などのいわゆる“ハイ”になる感覚はTHCと比べると弱い。
-
-### 内因性カンナビノイド
-
-<figure class="article-float-right">
-  <a href="/content/anandamide-structure.png" class="glightbox">
-    <img src="/content/anandamide-structure.png" alt="内因性カンナビノイドであるアナンダミドの構造"
-      class="mb-2"
-    />
-  </a>
-  <figcaption>内因性カンナビノイドであるアナンダミドの構造</figcaption>
-</figure>
-
-カンナビノイドは植物性だけではなく、人間の体内でも生合成され神経伝達に用いられている。アナンダミドはオメガ6脂肪酸であるアラキドン酸から生成される。
-
-内因性カンナビノイドはストレス適応や食欲、記憶、学習、免疫、炎症などを調節しており、しばしばシナプス間の逆行伝達(シナプス後=>シナプス前)によって神経伝達の興奮を調整する役割も持つ。
 
 ## 参考文献
 1. saferparty.ch. “Cannabis”　safeparty.ch, [https://en.saferparty.ch/substanzen/cannabis](https://en.saferparty.ch/substanzen/cannabis){target="_blank" rel="noopener noreferrer"}. Retrived by 2026-06-16.

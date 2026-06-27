@@ -22,10 +22,10 @@ export default defineAppConfig({
         black: './logo/Jesus_fish_03_ol_grey.png',
       },
       nav: {
-        database: { type: "link", title: '💽 規制物質DB(α版)', to: '/substances' },
+        database: { type: "link", title: '規制物質DB(α版)', to: '/substances' },
         basics: {
           type: "menu",
-          title: "🔰 ハームリダクション",
+          title: "ハームリダクション",
           meth: { type: "link", title: "🧊 メタンフェタミン", to: '/readings/basics/methamphetamine' },
           cocaine: { type: "link", title: '🚴 コカイン',to: '/readings/basics/cocaine' },
           mdma: { type: "link", title: '❌️ エクスタシー', to: '/readings/basics/ecstasy' },
@@ -34,15 +34,20 @@ export default defineAppConfig({
         },
         recovery: {
           type: "menu",
-          title: '❤️‍🩹 依存症からの回復',
+          title: '依存症からの回復',
           addiction: { type: 'link', title: '薬物依存症とは', to: '/readings/recovery/what-is-addiction' },
           support: { type: 'link', title: '依存症相談・支援先一覧', to: '/readings/recovery/get-help' },
           dict: { type: 'link', title: '回復用語集', to: '/readings/recovery/dict'}
           /* program: { type: 'link', title: '依存症回復プログラム', to: '/readings/recovery/program' }, */
         },
+        blog: {
+          type: 'link',
+          title: 'ブログ',
+          to: 'https://note.com/truthlight_proj'
+        },
         info: {
           type: "menu",
-          title: "ℹ️ インフォメーション",
+          title: "インフォメーション",
           // about: { type: "link", title: '私たちについて', to: '/about-us'},
           // disclaimer: { type: "link", title: '免責事項', to: '/disclaimer'},
           // contactUs: { type: "link", title: "お問い合わせ", to: '/contact-us' }
