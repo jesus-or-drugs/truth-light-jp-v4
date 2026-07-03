@@ -111,7 +111,7 @@
         </div>
 
         <div class="md:col-span-5">
-          <h2 class="mb-8 mt-2 pl-2 pb-2 border-b-2 border-[#25343F] custom-font-bold text-4xl">NEWS</h2>
+          <h2 class="mb-8 mt-2 pl-2 pb-2 border-b-2 border-[#25343F] custom-font-bold text-4xl">Note記事</h2>
 
           <div class="mt-4 divide-y divide-white/10 rounded-3xl border border-white/10 bg-white/5">
 
