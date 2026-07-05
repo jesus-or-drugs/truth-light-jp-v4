@@ -34,8 +34,33 @@
     </section>
 
     <!-- BASICS-->
-    <section class="mx-auto max-w-6xl mt-12 px-6 pb-14">
-      <h2 class="mb-8 custom-font-bold text-5xl">BASICS</h2>
+    <section class="flex flex-row items-start justify-end gap-4 mx-auto max-w-6xl mt-12 px-6 pb-14">
+      <div>
+        <h2 class="mb-8 custom-font-bold text-4xl">Harm Reduction</h2>
+        <h3 class="mb-16 text-base text-slate-500">薬物使用に関するリスクともし薬物を使ってしまったときの危害軽減</h3>
+        <div class="flex flex-row items-start justify-center">        
+          <div class="h-10 flex items-baseline gap-2">
+            <!-- 左ボタン -->
+            <button
+              type="button"
+              class="hidden md:flex items-baseline z-30 h-10 w-10 bg-white/90 hover:bg-[#FF9B51] hover:text-white"
+              @click="scrollCarousel('left')"
+            >
+              <img src="/ui/angle-small-left.png" class="h-10 w-10" alt="左にカルーセルを移動" />
+            </button>
+            <!-- 右ボタン -->
+            <button
+              type="button"
+              class="hidden md:flex items-baseline z-30 h-10 w-10 bg-white/90 hover:bg-[#FF9B51] hover:text-white"
+              @click="scrollCarousel('right')"
+            >
+              <img src="/ui/angle-small-right.png" class="h-10 w-10" alt="右にカルーセルを移動" />
+            </button>
+          </div>
+        </div>
+
+      </div>
+
 
       <div
         class="relative mx-auto"
@@ -74,25 +99,12 @@
         </div>
       </div>
 
-      <div class="flex flex-row items-start justify-center">        
-        <div class="h-10 flex items-baseline gap-2">
-          <!-- 左ボタン -->
-          <button
-            type="button"
-            class="hidden md:flex items-baseline z-30 h-10 w-10 bg-white/90 hover:bg-[#FF9B51] hover:text-white"
-            @click="scrollCarousel('left')"
-          >
-            <img src="/ui/angle-small-left.png" class="h-10 w-10" alt="左にカルーセルを移動" />
-          </button>
-          <!-- 右ボタン -->
-          <button
-            type="button"
-            class="hidden md:flex items-baseline z-30 h-10 w-10 bg-white/90 hover:bg-[#FF9B51] hover:text-white"
-            @click="scrollCarousel('right')"
-          >
-            <img src="/ui/angle-small-right.png" class="h-10 w-10" alt="右にカルーセルを移動" />
-          </button>
-        </div>
+
+    </section>
+
+    <section class="mx-auto max-w-6xl">
+      <div class="w-full h-[500px] bg-[#2e4454] rounded-3xl">
+
       </div>
 
     </section>
