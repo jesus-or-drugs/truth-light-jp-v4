@@ -34,7 +34,7 @@
     </section>
 
     <!-- Harm Reduction-->
-    <section class="flex flex-row items-start justify-end gap-4 max-w-6xl mx-auto mt-12 mb-12 px-6">
+    <section class="flex flex-row items-start justify-end gap-4 max-w-6xl mx-auto mt-12 mb-12">
       <div class="w-1/4 flex-none">
         <h2 class="mb-8 custom-font-bold text-4xl">Harm Reduction</h2>
         <h3 class="mb-16 text-base text-slate-500">薬物使用に関するリスクと薬物使用したときの危害軽減法</h3>
@@ -98,7 +98,7 @@
     </section>
 
     <!-- Recovery-->
-    <section class="flex flex-row items-start justify-end gap-4 mx-auto max-w-6xl px-6 pb-14">
+    <section class="flex flex-row items-start justify-end gap-4 mx-auto max-w-6xl pb-14">
       <div class="w-1/4 flex-none">
         <h2 class="mb-8 custom-font-bold text-4xl">Recovery</h2>
         <h3 class="mb-16 text-base text-slate-500">薬物依存症からの回復・成長</h3>
@@ -161,33 +161,31 @@
 
     <!-- Truth Lightの基本理念 -->
     <section class="page-sections mx-auto max-w-6xl">
-      <div class="w-[1152px] h-[500px] px-16 py-16 bg-[#2e4454] rounded-3xl">
-        <h2 class="text-4xl text-slate-100 custom-font-black text-center">Truth Lightの基本理念</h2>
-        <h3 class="text-2xl text-slate-100 custom-font-black text-center">Mission</h3>
+      <div class="w-[1152px] h-auto mb-8 px-48 py-16 bg-[#2e4454] rounded-3xl">
+        <h2 class="mb-16 text-4xl text-slate-100 custom-font-black text-center">Truth Lightの基本理念</h2>
+
+        <h3 class="mb-4 text-2xl text-slate-100 custom-font-black text-center">Mission</h3>
         <p>ダメ。ゼッタイ。を超えて薬物を乱用する人は必ずいることを認め
         その人たちと共存して生きていく世の中で変えていきます。
         違法流通や入手方法には関与せず、薬物の基本的情報や文化・歴史などのアーカイブ
         またハームリダクションと薬物教育のための公共的コミュニティを設立する。</p>
 
-        <h3 class="text-2xl text-slate-100 custom-font-black text-center">Vision</h3>
-        <p>・誰もアクセス可能な日本での精神活性物質のデータベースを運用していく。
-        ・回復したアディクトのパーソナルストーリーなどで希望のバトンを渡していく
-        ・キリスト教系教会、ダルク、ナルコティクス・アノニマスなど外部団体とも横の繋がりを構築していく。</p>
+        <h3 class="mb-4 text-2xl text-slate-100 custom-font-black text-center">Vision</h3>
+        <p>誰もアクセス可能な日本での精神活性物質のデータベースを運用していく。
+        回復したアディクトのパーソナルストーリーなどで希望のバトンを渡していく
+        キリスト教系教会、ダルク、ナルコティクス・アノニマスなど外部団体とも横の繋がりを構築していく。</p>
 
-        <h3 class="text-2xl text-slate-100 custom-font-black text-center">Value</h3>
-        <p><strong class="text-red-500">「愛」</strong>を中心に起き、人々に大きなメッセージをつなげ続けていく。</p>
+        <h3 class="mb-4 text-2xl text-slate-100 custom-font-black text-center">Value</h3>
         <p>
-          Truth Lightでは依存症という疾患に対して様々な分野からメスを入れます。それが以下の5つのValuesです。
-          
-          
+          Truth Lightでは依存症という疾患に対して様々な分野からメスを入れます。それが以下の5つのValuesです。<br />          
           神学的<br />
           社会学的<br />
+          文化学<br />
           脳科学的<br />
           心理学的<br />
           薬理学的
         </p>
       </div>
-
     </section>
 </template>
 

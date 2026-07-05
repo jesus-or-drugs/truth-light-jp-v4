@@ -34,7 +34,7 @@
     font-style: normal;
   }
   .page-sections p {
-    @apply text-slate-100;
+    @apply mb-8 text-slate-100 text-justify;
   }
 
   #__nuxtContent article {
