@@ -3,7 +3,7 @@ title: '12ステッププログラムの回復用語集'
 description: '薬物依存症は治療できる病です。一度使ってしまったら人生終了ではありません。依存症は孤独の病・人間関係の病とも言われ、苦しみを理解し助け合う仲間が回復には必要です。'
 createdAt: '2026-06-14'
 updatedAt: '2026-06-16'
-ogImage: '/ogp/recovery/ogp-dict_1200x630.jpg'
+ogImage: '/ogp/recovery/ogp-dict.jpg'
 seo:
   meta:
     - name: 'keywords'

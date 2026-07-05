@@ -27,6 +27,16 @@
     font-style: normal;
   }
 
+  .custom-font-black {
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+  }
+  .page-sections p {
+    @apply text-slate-100;
+  }
+
   #__nuxtContent article {
     @apply text-wrap;
   }

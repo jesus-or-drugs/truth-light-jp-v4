@@ -42,7 +42,7 @@ export default defineNuxtConfig({
       {
         name: 'Noto Sans JP',
         provider: 'google',
-        weights: [400, 700],
+        weights: [400, 700, 900],
         styles: ['normal'],
       },
     ],

@@ -3,7 +3,7 @@ title: '薬物依存症とは？ 心の痛み・孤独を避けようとする�
 description: '薬物依存症は治療できる病です。一度使ってしまったら人生終了ではありません。依存症は孤独の病・人間関係の病とも言われ、苦しみを理解し助け合う仲間が回復には必要です。'
 createdAt: '2026-06-14'
 updatedAt: '2026-06-16'
-ogImage: '/ogp/recovery/ogp-what-is-addiction_1200x630.jpg'
+ogImage: '/ogp/recovery/ogp-what-is-addiction.jpg'
 seo:
   meta:
     - name: 'keywords'

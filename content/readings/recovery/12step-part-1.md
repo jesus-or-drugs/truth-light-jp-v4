@@ -3,6 +3,7 @@ title: '依存症回復プログラム「12ステップ」基礎編'
 description: '「薬物がやめられない…」そんな悩みを一人で抱えてる依存症の方に、依存症回復プログラムである「12ステップ」を紹介。必ずあなたにも回復できます。'
 createdAt: '2026-06-22'
 updatedAt: '2026-06-22'
+ogImage: '/ogp/recovery/og-get-help.jpg'
 seo:
   meta:
     - name: 'keywords'

@@ -8,13 +8,27 @@
     {
       "type": "node",
       "request": "launch",
-      "name": "Debug Nuxt Dev",
+      "name": "Debug Nuxt Server",
       "runtimeExecutable": "npm",
       "runtimeArgs": ["run", "dev"],
       "console": "integratedTerminal",
       "skipFiles": [
         "<node_internals>/**"
-      ]
+      ],
+    },
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Debug Nuxt Client",
+      "url": "http://localhost:3000",
+      "webRoot": "${workspaceFolder}",
+      "sourceMaps": true
+    }
+  ],
+  "compounds": [
+    {
+      "name": "Debug Nuxt Full",
+      "configurations": ["Debug Nuxt Server", "Debug Nuxt Client"]
     }
   ]
 }

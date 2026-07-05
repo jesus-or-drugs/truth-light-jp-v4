@@ -33,18 +33,18 @@
       </div>
     </section>
 
-    <!-- BASICS-->
-    <section class="flex flex-row items-start justify-end gap-4 mx-auto max-w-6xl mt-12 px-6 pb-14">
-      <div>
+    <!-- Harm Reduction-->
+    <section class="flex flex-row items-start justify-end gap-4 max-w-6xl mx-auto mt-12 mb-12 px-6">
+      <div class="w-1/4 flex-none">
         <h2 class="mb-8 custom-font-bold text-4xl">Harm Reduction</h2>
-        <h3 class="mb-16 text-base text-slate-500">薬物使用に関するリスクともし薬物を使ってしまったときの危害軽減</h3>
+        <h3 class="mb-16 text-base text-slate-500">薬物使用に関するリスクと薬物使用したときの危害軽減法</h3>
         <div class="flex flex-row items-start justify-center">        
           <div class="h-10 flex items-baseline gap-2">
             <!-- 左ボタン -->
             <button
               type="button"
               class="hidden md:flex items-baseline z-30 h-10 w-10 bg-white/90 hover:bg-[#FF9B51] hover:text-white"
-              @click="scrollCarousel('left')"
+              @click="scrollCarousel('left', harmReductionCarouselRef)"
             >
               <img src="/ui/angle-small-left.png" class="h-10 w-10" alt="左にカルーセルを移動" />
             </button>
@@ -52,7 +52,7 @@
             <button
               type="button"
               class="hidden md:flex items-baseline z-30 h-10 w-10 bg-white/90 hover:bg-[#FF9B51] hover:text-white"
-              @click="scrollCarousel('right')"
+              @click="scrollCarousel('right', harmReductionCarouselRef)"
             >
               <img src="/ui/angle-small-right.png" class="h-10 w-10" alt="右にカルーセルを移動" />
             </button>
@@ -61,13 +61,10 @@
 
       </div>
 
-
-      <div
-        class="relative mx-auto"
-      >
+      <div class="flex-initial w-3/4 relative mx-auto">
         <!-- 表示領域 -->
         <div
-          ref="carouselRef"
+          ref="harmReductionCarouselRef"
           class="mx-4 md:mx-0 no-scrollbar overflow-x-auto scroll-smooth"
         >
           <div
@@ -98,48 +95,100 @@
           </div>
         </div>
       </div>
-
-
     </section>
 
-    <section class="mx-auto max-w-6xl">
-      <div class="w-full h-[500px] bg-[#2e4454] rounded-3xl">
-
+    <!-- Recovery-->
+    <section class="flex flex-row items-start justify-end gap-4 mx-auto max-w-6xl px-6 pb-14">
+      <div class="w-1/4 flex-none">
+        <h2 class="mb-8 custom-font-bold text-4xl">Recovery</h2>
+        <h3 class="mb-16 text-base text-slate-500">薬物依存症からの回復・成長</h3>
+        <div class="flex flex-row items-start justify-center">        
+          <div class="h-10 flex items-baseline gap-2">
+            <!-- 左ボタン -->
+            <button
+              type="button"
+              class="hidden md:flex items-baseline z-30 h-10 w-10 bg-white/90 hover:bg-[#FF9B51] hover:text-white"
+              @click="scrollCarousel('left', recoveryCarouselRef)"
+            >
+              <img src="/ui/angle-small-left.png" class="h-10 w-10" alt="左にカルーセルを移動" />
+            </button>
+            <!-- 右ボタン -->
+            <button
+              type="button"
+              class="hidden md:flex items-baseline z-30 h-10 w-10 bg-white/90 hover:bg-[#FF9B51] hover:text-white"
+              @click="scrollCarousel('right', recoveryCarouselRef)"
+            >
+              <img src="/ui/angle-small-right.png" class="h-10 w-10" alt="右にカルーセルを移動" />
+            </button>
+          </div>
+        </div>
       </div>
+      <div class="flex-initial w-3/4 relative mx-auto">
+        <!-- 表示領域 -->
+        <div
+          ref="recoveryCarouselRef"
+          class="mx-4 md:mx-0 no-scrollbar overflow-x-auto scroll-smooth"
+        >
+          <div
+            class="flex flex-row gap-4"
+          >
+            <NuxtLink
+              v-for="recoveryContent in recoveryFeeds"
+              :key="recoveryContent.path"
+              :to="recoveryContent.path"
+              class="group block mb-8 shrink-0 basis-[calc(100%-3rem)] md:basis-[calc((100%-2rem)/3)] no-underline"
+            >
 
-    </section>
-
-    <!-- Trending + Updated -->
-    <section class="mx-auto max-w-6xl px-6 pb-14">
-      <div class="grid gap-6 md:grid-cols-12">
-        <div class="md:col-span-7">
-            <h2 class="flex items-end justify-between mb-8 mt-2 pl-2 pb-2 border-b-2 border-[#25343F] custom-font-bold text-4xl "><span>TRENDING</span><a class="text-sm text-slate-300 hover:text-white" href="/substances">View all</a></h2>
-
-          <div class="mt-4 grid gap-3 sm:grid-cols-2">
-            <!-- Card item -->
-            <a href="/substances/mdpv" class="rounded-2xl border border-white/10 bg-white/5 p-4 hover:bg-white/10">
-              <div class="flex items-center justify-between gap-3">
-                <p class="text-sm font-medium">MDPV</p>
-                <span class="rounded-full border border-white/10 bg-white/5 px-2 py-1 text-[11px] text-slate-300">stimulant</span>
+              <div class="overflow-hidden border border-[#BFC9D1]/70 rounded-md">
+                <div class="overflow-hidden">
+                  <img
+                    :src="recoveryContent.ogImage"  
+                    :alt="recoveryContent.title"
+                    class="transition-transform duration-300 ease-out group-hover:scale-125"
+                  />
+                </div>
+                <div class="p-4">
+                  <h2 class="custom-font-bold mb-2">{{ recoveryContent.title }}</h2>
+                  <p class="text-slate-500 text-s5">{{ recoveryContent.description }}</p>
+                </div>
               </div>
-              <p class="mt-2 text-xs text-slate-400">High risk: compulsive redosing, agitation, paranoia.</p>
-            </a>
-          </div>
-          
-        </div>
-
-        <div class="md:col-span-5">
-          <h2 class="mb-8 mt-2 pl-2 pb-2 border-b-2 border-[#25343F] custom-font-bold text-4xl">Note記事</h2>
-
-          <div class="mt-4 divide-y divide-white/10 rounded-3xl border border-white/10 bg-white/5">
-
-            <ContentNoteFeed />
-
+              
+            </NuxtLink>
           </div>
         </div>
       </div>
     </section>
 
+    <!-- Truth Lightの基本理念 -->
+    <section class="page-sections mx-auto max-w-6xl">
+      <div class="w-[1152px] h-[500px] px-16 py-16 bg-[#2e4454] rounded-3xl">
+        <h2 class="text-4xl text-slate-100 custom-font-black text-center">Truth Lightの基本理念</h2>
+        <h3 class="text-2xl text-slate-100 custom-font-black text-center">Mission</h3>
+        <p>ダメ。ゼッタイ。を超えて薬物を乱用する人は必ずいることを認め
+        その人たちと共存して生きていく世の中で変えていきます。
+        違法流通や入手方法には関与せず、薬物の基本的情報や文化・歴史などのアーカイブ
+        またハームリダクションと薬物教育のための公共的コミュニティを設立する。</p>
+
+        <h3 class="text-2xl text-slate-100 custom-font-black text-center">Vision</h3>
+        <p>・誰もアクセス可能な日本での精神活性物質のデータベースを運用していく。
+        ・回復したアディクトのパーソナルストーリーなどで希望のバトンを渡していく
+        ・キリスト教系教会、ダルク、ナルコティクス・アノニマスなど外部団体とも横の繋がりを構築していく。</p>
+
+        <h3 class="text-2xl text-slate-100 custom-font-black text-center">Value</h3>
+        <p><strong class="text-red-500">「愛」</strong>を中心に起き、人々に大きなメッセージをつなげ続けていく。</p>
+        <p>
+          Truth Lightでは依存症という疾患に対して様々な分野からメスを入れます。それが以下の5つのValuesです。
+          
+          
+          神学的<br />
+          社会学的<br />
+          脳科学的<br />
+          心理学的<br />
+          薬理学的
+        </p>
+      </div>
+
+    </section>
 </template>
 
 <style lang="css" scoped>
@@ -174,19 +223,30 @@ const { data: basicsFeeds } = await useAsyncData('basics-feeds', async () => {
     .order('updatedAt', 'DESC')
     .all()
 
-  console.log('Contentsの中身！：', contents)
-
   return contents.filter((content) =>
     content.path.startsWith('/readings/basics')
   )
 })
 
-const carouselRef = ref<HTMLElement | null>(null)
+const { data: recoveryFeeds } = await useAsyncData('recovery-feeds', async() => {
+  const contents = await queryCollection('readings')
+    .order('updatedAt', 'DESC')
+    .all()
 
-const scrollCarousel = (direction: 'left' | 'right') => {
-  if (!carouselRef.value) return
+  return contents.filter((content) =>
+    content.path.startsWith('/readings/recovery')
+  )
+})
 
-  carouselRef.value.scrollBy({
+const harmReductionCarouselRef = ref<HTMLElement | null>(null)
+const recoveryCarouselRef = ref<HTMLElement | null>(null)
+
+const scrollCarousel = (direction: 'left' | 'right', eleRef: HTMLElement | null) => {
+  console.log('eleRef.valueの内容' + eleRef)
+
+  if (!eleRef) return
+
+  eleRef.scrollBy({
     left: direction === 'right' ? 360 : -360,
     behavior: 'smooth',
   })
