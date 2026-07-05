@@ -6,7 +6,7 @@
         <!-- Mission -->
         <div class="md:col-span-8">
           <h1 class="mt-3 text-6xl custom-font-bold tracking-tight leading-[1.25]">
-            Truth Lightは薬物依存の<br /><strong class="text-[#FF9B51]">ハームリダクション</strong>>から<br /><strong class="text-[#FF9B51]">リカバリー</strong>まで正しい情報を提供します。
+            Truth Lightは薬物依存の<br /><strong class="text-[#FF9B51]">ハームリダクション</strong>から<br /><strong class="text-[#FF9B51]">リカバリー</strong>まで正しい情報を提供します。
           </h1>
         </div>
 
