@@ -42,7 +42,7 @@ export default defineAppConfig({
         },
         blog: {
           type: 'link',
-          title: 'ブログ',
+          title: 'Note',
           to: 'https://note.com/truthlight_proj'
         },
         info: {
