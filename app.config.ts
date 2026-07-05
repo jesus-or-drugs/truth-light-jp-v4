@@ -40,17 +40,17 @@ export default defineAppConfig({
           dict: { type: 'link', title: '回復用語集', to: '/readings/recovery/dict'}
           /* program: { type: 'link', title: '依存症回復プログラム', to: '/readings/recovery/program' }, */
         },
-        blog: {
-          type: 'link',
-          title: 'Note',
-          to: 'https://note.com/truthlight_proj'
-        },
         info: {
           type: "menu",
           title: "インフォメーション",
           // about: { type: "link", title: '私たちについて', to: '/about-us'},
           // disclaimer: { type: "link", title: '免責事項', to: '/disclaimer'},
           // contactUs: { type: "link", title: "お問い合わせ", to: '/contact-us' }
+        },
+        blog: {
+          type: 'link',
+          title: 'Note',
+          to: 'https://note.com/truthlight_proj'
         }
       },
       socialLinks: {

@@ -10,6 +10,18 @@
   a {
     @apply text-[#25343F] underline;
   }
+
+  strong {
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  em {
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: italic;
+  }
 }
 
 @layer components {
@@ -34,7 +46,7 @@
     font-style: normal;
   }
   .page-sections p {
-    @apply mb-8 text-slate-100 text-justify;
+    @apply mb-8 text-slate-100 text-justify leading-loose;
   }
 
   #__nuxtContent article {

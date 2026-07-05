@@ -6,12 +6,12 @@
         <!-- Mission -->
         <div class="md:col-span-8">
           <h1 class="mt-3 text-6xl custom-font-bold tracking-tight leading-[1.25]">
-            Truth Lightは薬物依存の<br /><span class="text-[#FF9B51]">ハームリダクション</span>から<br /><span class="text-[#FF9B51]">リカバリー</span>まで正しい情報を提供します。
+            Truth Lightは薬物依存の<br /><strong class="text-[#FF9B51]">ハームリダクション</strong>>から<br /><strong class="text-[#FF9B51]">リカバリー</strong>まで正しい情報を提供します。
           </h1>
         </div>
 
         <!-- Side panel -->
-        <aside class="md:col-span-4">
+        <aside class="hidden">
           <div class="p-5 rounded-2xl border border-[#BFC9D1]/25 bg-gradient-to-b from-[#EAEFEF] to-[#BFC9D1]/50">
             <div class="flex items-start justify-between gap-3">
               <div>
@@ -171,19 +171,20 @@
         またハームリダクションと薬物教育のための公共的コミュニティを設立する。</p>
 
         <h3 class="mb-4 text-2xl text-slate-100 custom-font-black text-center">Vision</h3>
-        <p>誰もアクセス可能な日本での精神活性物質のデータベースを運用していく。
+        <p>
+        1. 誰もアクセス可能な日本での規制物質のデータベースを運用していく。
+        2. 重要度が高い物質については専門の記事を執筆する。
+        3. 海外のハームリダクション系サイト(Erowid, Bluelightsなど)と関係性を築き上げていく。
         回復したアディクトのパーソナルストーリーなどで希望のバトンを渡していく
-        キリスト教系教会、ダルク、ナルコティクス・アノニマスなど外部団体とも横の繋がりを構築していく。</p>
+        キリスト教系教会、ダルク、ナルコティクス・アノニマスなど外部団体とも横の繋がりを構築していく。
+        アディクトの卓越したセンスを活かした生き直し</p>
 
         <h3 class="mb-4 text-2xl text-slate-100 custom-font-black text-center">Value</h3>
         <p>
-          Truth Lightでは依存症という疾患に対して様々な分野からメスを入れます。それが以下の5つのValuesです。<br />          
-          神学的<br />
-          社会学的<br />
-          文化学<br />
-          脳科学的<br />
-          心理学的<br />
-          薬理学的
+          Truth Lightでは依存症という疾患に対して様々な分野からメスを入れます。<br />
+          それが以下の5つのValuesです。<br />
+
+          <strong>神学, 社会学, 文化, 脳科学, 心理学, 薬理学</strong>
         </p>
       </div>
     </section>
