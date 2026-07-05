@@ -1,7 +1,7 @@
 <template>
     <!-- Hero -->
-    <section class="mx-auto max-w-6xl px-6 pb-16 pt-16">
-      <div class="grid gap-8 md:grid-cols-12">
+    <section class="text-slate-100 bg-[#25343F]">
+      <div class="mx-auto max-w-6xl px-6 py-16 grid gap-8 md:grid-cols-12">
 
         <!-- Mission -->
         <div class="md:col-span-8">
@@ -34,20 +34,12 @@
     </section>
 
     <!-- BASICS-->
-    <section class="mx-auto max-w-6xl px-6 pb-14">
-      <h2 class="mb-8 mt-2 pl-2 pb-2 border-b-2 border-[#25343F] custom-font-bold text-4xl">BASICS</h2>
+    <section class="mx-auto max-w-6xl mt-12 px-6 pb-14">
+      <h2 class="mb-8 custom-font-bold text-5xl">BASICS</h2>
+
       <div
         class="relative mx-auto"
       >
-        <!-- 左ボタン -->
-        <button
-          type="button"
-          class="hidden md:flex items-center justify-center absolute -left-12 top-1/2 z-10 h-10 w-10 -translate-y-1/2 rounded-full bg-white/90 shadow-md hover:bg-[#FF9B51] hover:text-white"
-          @click="scrollCarousel('left')"
-        >
-          <img src="/ui/angle-small-left.png" class="h-10 w-10" alt="左にカルーセルを移動" />
-        </button>
-
         <!-- 表示領域 -->
         <div
           ref="carouselRef"
@@ -80,15 +72,29 @@
             </NuxtLink>
           </div>
         </div>
-        <!-- 右ボタン -->
-        <button
-          type="button"
-          class="hidden md:flex items-center justify-center absolute -right-12 top-1/2 z-10 h-10 w-10 -translate-y-1/2 rounded-full bg-white/90 shadow-md hover:bg-[#FF9B51] hover:text-white"
-          @click="scrollCarousel('right')"
-        >
-          <img src="/ui/angle-small-right.png" class="h-10 w-10" alt="右にカルーセルを移動" />
-        </button>
       </div>
+
+      <div class="flex flex-row items-start justify-center">        
+        <div class="h-10 flex items-baseline gap-2">
+          <!-- 左ボタン -->
+          <button
+            type="button"
+            class="hidden md:flex items-baseline z-30 h-10 w-10 bg-white/90 hover:bg-[#FF9B51] hover:text-white"
+            @click="scrollCarousel('left')"
+          >
+            <img src="/ui/angle-small-left.png" class="h-10 w-10" alt="左にカルーセルを移動" />
+          </button>
+          <!-- 右ボタン -->
+          <button
+            type="button"
+            class="hidden md:flex items-baseline z-30 h-10 w-10 bg-white/90 hover:bg-[#FF9B51] hover:text-white"
+            @click="scrollCarousel('right')"
+          >
+            <img src="/ui/angle-small-right.png" class="h-10 w-10" alt="右にカルーセルを移動" />
+          </button>
+        </div>
+      </div>
+
     </section>
 
     <!-- Trending + Updated -->
