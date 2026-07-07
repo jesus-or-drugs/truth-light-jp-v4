@@ -68,6 +68,10 @@ export default defineNuxtConfig({
     },
   },
   runtimeConfig: {
+    smtpHost: '',
+    smtpPort: '',
+    smtpUser: '',
+    smtpPass: '',
     openaiApiKey: '',
     public: {
       maintenanceMode: false,

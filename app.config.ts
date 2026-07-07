@@ -45,7 +45,7 @@ export default defineAppConfig({
           title: "インフォメーション",
           // about: { type: "link", title: '私たちについて', to: '/about-us'},
           // disclaimer: { type: "link", title: '免責事項', to: '/disclaimer'},
-          // contactUs: { type: "link", title: "お問い合わせ", to: '/contact-us' }
+          contactUs: { type: "link", title: "お問い合わせ", to: '/contact-us' }
         },
         blog: {
           type: 'link',

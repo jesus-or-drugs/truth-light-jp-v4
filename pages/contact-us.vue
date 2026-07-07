@@ -111,7 +111,7 @@ const handleSubmit = async () => {
 
       <div class="rounded-xl bg-[#EAEFEF] p-4 text-xs leading-6 text-[#25343F]/70">
         送信いただいた内容は、今後のサイト開発のために活用させていただきます。<br />
-        いただいた情報をTruth Light運営者以外の第三者に開示することはありません。<br />
+        いただいた情報をTruth Light運営者以外のいかなる第三者に開示することはありません。<br />
         緊急性の高い医療・法律・安全に関する相談には対応できません。<br />
       </div>
 
