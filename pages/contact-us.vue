@@ -16,10 +16,10 @@ const handleSubmit = async () => {
   errorMessage.value = ''
 
   try {
-    // TODO: 後で /api/contact などに送信処理を作る
-    console.log('お問い合わせ内容:', form)
-
-    await new Promise((resolve) => setTimeout(resolve, 800))
+    await $fetch('/api/contact-us', {
+      method: 'POST',
+      body: form,
+    })
 
     isSent.value = true
 
