@@ -59,7 +59,7 @@ const handleSubmit = async () => {
           autocomplete="name"
           required
           class="w-full rounded-xl border border-[#BFC9D1] bg-white px-4 py-3 text-[#25343F] outline-none transition focus:border-[#FF9B51] focus:ring-2 focus:ring-[#FF9B51]/30"
-          placeholder="山田 太郎"
+          placeholder="夢可愛アイ"
         />
       </div>
 
