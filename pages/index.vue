@@ -160,8 +160,8 @@
     </section>
 
     <!-- Truth Lightの基本理念 -->
-    <section class="page-sections mx-auto max-w-6xl">
-      <div class="w-[1152px] h-auto mb-8 px-48 py-16 bg-[#2e4454] rounded-3xl">
+    <section class="page-sections mx-auto mb-16 max-w-6xl">
+      <div class="w-[1152px] h-auto px-48 py-16 bg-[#2e4454] rounded-3xl">
         <h2 class="mb-16 text-4xl text-slate-100 custom-font-black text-center">Truth Lightの基本理念</h2>
 
         <h3 class="mb-4 text-2xl text-slate-100 custom-font-black text-center">Mission</h3>

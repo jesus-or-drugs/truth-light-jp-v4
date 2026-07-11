@@ -104,7 +104,6 @@ seo:
 
 <figure class="article-float-right">
   <img src="/content/US_timeline_-_Drugs_involved_in_overdose_deaths.svg.png" alt="" class="bg-white" />
-
   <figcaption>
     (National Drug-Involved Overdose Deaths, 1999-2020)
   </figcaption>
