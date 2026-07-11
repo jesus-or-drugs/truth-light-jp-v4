@@ -7,11 +7,6 @@ export default defineAppConfig({
       url: 'https://www.truth-light.jp/',
       ogImage: '/og-default.png'
     },
-    theme: {
-      customizable: true,
-      color: 'slate',
-      radius: 0.5
-    },
     header: {
       title: 'Truth Light',
       showTitle: true,
@@ -71,16 +66,6 @@ export default defineAppConfig({
       opioids: "オピオイド",
       cannabinoids: "カンナビノイド"
     }, 
-    aside: {
-      useLevel: true,
-      levelStyle: 'header',
-      collapse: false,
-    },
-    main: {
-      breadCrumb: true,
-      showTitle: true,
-      padded: true
-    },
     footer: {
       credits: '© 2025-2026 Truth Light.',
       links: [
@@ -113,10 +98,5 @@ export default defineAppConfig({
         }
       ]
     },
-    search: {
-      enable: true,
-      inAside: false,
-      style: 'input',
-    }
   }
 });

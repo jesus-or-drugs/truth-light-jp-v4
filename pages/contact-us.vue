@@ -75,7 +75,7 @@ const handleSubmit = async () => {
           autocomplete="email"
           required
           class="w-full rounded-xl border border-[#BFC9D1] bg-white px-4 py-3 text-[#25343F] outline-none transition focus:border-[#FF9B51] focus:ring-2 focus:ring-[#FF9B51]/30"
-          placeholder="example@example.com"
+          placeholder="user@example.com"
         />
       </div>
 
