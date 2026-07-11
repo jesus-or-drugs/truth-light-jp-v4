@@ -67,8 +67,8 @@ export default defineAppConfig({
       psychedelics: 'サイケデリックス',
       dissociatives: "解離性麻酔薬",
       deliriants: "せん妄誘発薬薬",
-      depressant: '鎮静薬',
-      opioid: "オピオイド",
+      depressants: '鎮静薬',
+      opioids: "オピオイド",
       cannabinoids: "カンナビノイド"
     }, 
     aside: {
