@@ -42,7 +42,7 @@
 
 
       <p class="mt-4 text-xs text-[#25343F] text-center">
-        {{ footer.credits }}
+        {{ footer.credits }} v{{ site.version }}
       </p>
     </div>
   </footer>

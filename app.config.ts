@@ -6,17 +6,11 @@ export default defineAppConfig({
       topPageDescription: 'Truth Lightは「日本版Erowid」を目指し、薬物に対する正しい情報と依存症からの回復の道を提供します。',
       url: 'https://www.truth-light.jp/',
       version: "1.0.1",
-      ogImage: '/og-default.png'
+      ogImage: '/ogp/default/ogp-default.png'
     },
     header: {
       title: 'Truth Light',
-      showTitle: true,
-      showTitleInMobile: true,
-      darkModeToggle: true,
-      logo: {
-        white: './logo/Jesus_fish_03_ol_white.png',
-        black: './logo/Jesus_fish_03_ol_grey.png',
-      },
+      logo: '/logo/truth-light-logo-title_01.png',
       nav: {
         database: { type: "link", title: '規制物質DB(α版)', to: '/substances' },
         basics: {
