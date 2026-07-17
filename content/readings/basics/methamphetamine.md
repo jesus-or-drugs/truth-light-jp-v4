@@ -33,7 +33,7 @@ seo:
   ### 1.神経細胞内への侵入
 
 <figure class="article-float-right">
-  <a href="/content/metamphetamine-pharmacology-joined.png" class="glightbox">
+  <a href="/content/metamphetamine-pharmacology-joined.png" class="glightbox" external>
     <img src="/content/metamphetamine-pharmacology-joined.png" alt="メタンフェタミンの薬理学的機序"
       class="mb-2"
     />
@@ -156,7 +156,7 @@ seo:
 ### 世界で拡大するメタンフェタミン渦
 
 <figure class="article-float-right">
-  <a href="/content/nida-overdose-deaths-select-drug-categories.jpg" class="glightbox">
+  <a href="/content/nida-overdose-deaths-select-drug-categories.jpg" class="glightbox" external>
     <img src="/content/nida-overdose-deaths-select-drug-categories.jpg" alt="アメリカでのオーバードーズの死者数推移(ドラッグ別): 1999-2023(NIDA, 2024)" class="bg-white" />
   </a>
   <figcaption>
