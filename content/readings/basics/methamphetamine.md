@@ -157,7 +157,7 @@ seo:
 
 <figure class="article-float-right">
   <a href="/content/nida-overdose-deaths-select-drug-categories.jpg" class="glightbox">
-    <img src="/content/nida-overdose-deaths-select-drug-categories.jpg" alt="" class="bg-white" />
+    <img src="/content/nida-overdose-deaths-select-drug-categories.jpg" alt="アメリカでのオーバードーズの死者数推移(ドラッグ別): 1999-2023(NIDA, 2024)" class="bg-white" />
   </a>
   <figcaption>
     アメリカでのオーバードーズの死者数推移(ドラッグ別): 1999-2023(NIDA, 2024)
