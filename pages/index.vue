@@ -7,7 +7,7 @@
       >
         <!-- Mission -->
         <div class="md:col-span-8">
-          <h1 class="mt-3 text-xl text-center md:text-left md:text-6xl custom-font-bold tracking-tight leading-[1.25]">
+          <h1 class="mt-3 text-xl text-center md:text-left md:text-6xl custom-font-bold tracking-tight leading-snug">
             Truth Lightは薬物依存の<br />
             <strong class="text-[#FF9B51]">ハームリダクション</strong>から<br />
             <strong class="text-[#FF9B51]">リカバリー</strong>まで正しい情報を提供します。
@@ -103,16 +103,35 @@
     </section>
 
     <!-- Recovery-->
-    <section class="flex flex-row items-start justify-end gap-4 mx-auto max-w-6xl pb-14">
-      <div class="w-1/4 flex-none">
-        <h2 class="mb-8 custom-font-bold text-4xl">Recovery</h2>
-        <h3 class="mb-16 text-base text-slate-500">薬物依存症からの回復・成長</h3>
-        <div class="flex flex-row items-start justify-center">        
-          <div class="h-10 flex items-baseline gap-2">
+    <section class="flex flex-col gap-4 max-w-6xl mx-auto mb-12
+       md:flex-row md:items-start md:justify-end"
+    >
+      <div
+        class="px-4
+          md:w-1/4 md:flex-none md:px-0"
+      >
+        <h2
+          class="custom-font-bold text-lg
+            md:mb-8 md:text-4xl"
+        >
+          Recovery
+        </h2>
+        <h3
+          class="text-sm text-slate-500
+            md:mb-16 md:text-base"
+        >
+          薬物依存症からの回復・成長
+        </h3>
+
+        <div
+          class="hidden
+            md:flex md:flex-row md:items-start md:justify-center"
+        >
+          <div class="flex items-baseline gap-2">
             <!-- 左ボタン -->
             <button
               type="button"
-              class="hidden md:flex items-baseline z-30 h-10 w-10 bg-white/90 hover:bg-[#FF9B51] hover:text-white"
+              class="rounded-md h-10 w-10 bg-white/90 hover:bg-[#FF9B51] hover:text-white"
               @click="scrollCarousel('left', recoveryCarouselRef)"
             >
               <img src="/ui/angle-small-left.png" class="h-10 w-10" alt="左にカルーセルを移動" />
@@ -120,7 +139,7 @@
             <!-- 右ボタン -->
             <button
               type="button"
-              class="hidden md:flex items-baseline z-30 h-10 w-10 bg-white/90 hover:bg-[#FF9B51] hover:text-white"
+              class="rounded-md h-10 w-10 bg-white/90 hover:bg-[#FF9B51] hover:text-white"
               @click="scrollCarousel('right', recoveryCarouselRef)"
             >
               <img src="/ui/angle-small-right.png" class="h-10 w-10" alt="右にカルーセルを移動" />
@@ -128,11 +147,14 @@
           </div>
         </div>
       </div>
-      <div class="flex-initial w-3/4 relative mx-auto">
+
+      <div
+        class="px-4
+          md:flex-initial md:w-3/4 md:px-0">
         <!-- 表示領域 -->
         <div
           ref="recoveryCarouselRef"
-          class="mx-4 md:mx-0 no-scrollbar overflow-x-auto scroll-smooth"
+          class="no-scrollbar overflow-x-auto scroll-smooth"
         >
           <div
             class="flex flex-row gap-4"
@@ -141,7 +163,8 @@
               v-for="recoveryContent in recoveryFeeds"
               :key="recoveryContent.path"
               :to="recoveryContent.path"
-              class="group block mb-8 shrink-0 basis-[calc(100%-3rem)] md:basis-[calc((100%-2rem)/3)] no-underline"
+              class="group block mb-8 shrink-0 basis-[calc(100%-2rem)] no-underline
+                md:basis-[calc((100%-2rem)/3)]"
             >
 
               <div class="overflow-hidden border border-[#BFC9D1]/70 rounded-md">
@@ -153,8 +176,8 @@
                   />
                 </div>
                 <div class="p-4">
-                  <h2 class="custom-font-bold mb-2">{{ recoveryContent.title }}</h2>
-                  <p class="text-slate-500 text-s5">{{ recoveryContent.description }}</p>
+                  <h2 class="mb-2 custom-font-bold text-xs md:text-sm">{{ recoveryContent.title }}</h2>
+                  <p class="text-slate-500 text-xs md:text-sm">{{ recoveryContent.description }}</p>
                 </div>
               </div>
               
@@ -165,9 +188,9 @@
     </section>
 
     <!-- Truth Lightの基本理念 -->
-    <section class="page-sections mx-auto mb-16 max-w-6xl">
-      <div class="w-[1152px] h-auto px-48 py-16 bg-[#2e4454] rounded-3xl">
-        <h2 class="mb-16 text-4xl text-slate-100 custom-font-black text-center">Truth Lightの基本理念</h2>
+    <section class="page-sections mx-auto mb-12 px-4 max-w-6xl md:px-0">
+      <div class="w-full h-auto p-4 md:p-12 bg-[#2e4454] rounded-3xl">
+        <h2 class="mb-12 text-4xl text-slate-100 custom-font-black text-center">Truth Lightの基本理念</h2>
 
         <h3 class="mb-4 text-2xl text-slate-100 custom-font-black text-center">Mission</h3>
         <p>ダメ。ゼッタイ。を超えて薬物を乱用する人は必ずいることを認め
