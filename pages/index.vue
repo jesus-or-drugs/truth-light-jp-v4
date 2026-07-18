@@ -1,49 +1,51 @@
 <template>
     <!-- Hero -->
-    <section class="text-slate-100 bg-[#25343F]">
-      <div class="mx-auto max-w-6xl px-6 py-16 grid gap-8 md:grid-cols-12">
-
+    <section class="mb-12 text-slate-100 bg-[#25343F]">
+      <div
+        class="mx-auto max-w-6xl px-6 py-16 grid gap-8
+          md:grid-cols-12"
+      >
         <!-- Mission -->
         <div class="md:col-span-8">
-          <h1 class="mt-3 text-6xl custom-font-bold tracking-tight leading-[1.25]">
-            Truth Lightは薬物依存の<br /><strong class="text-[#FF9B51]">ハームリダクション</strong>から<br /><strong class="text-[#FF9B51]">リカバリー</strong>まで正しい情報を提供します。
+          <h1 class="mt-3 text-xl text-center md:text-left md:text-6xl custom-font-bold tracking-tight leading-[1.25]">
+            Truth Lightは薬物依存の<br />
+            <strong class="text-[#FF9B51]">ハームリダクション</strong>から<br />
+            <strong class="text-[#FF9B51]">リカバリー</strong>まで正しい情報を提供します。
           </h1>
         </div>
-
-        <!-- Side panel -->
-        <aside class="hidden">
-          <div class="p-5 rounded-2xl border border-[#BFC9D1]/25 bg-gradient-to-b from-[#EAEFEF] to-[#BFC9D1]/50">
-            <div class="flex items-start justify-between gap-3">
-              <div>
-                <p class="text-sm custom-font-bold">ニュース</p>
-                <p class="mt-1 text-sm text-slate-300">
-                  最新の法律改正・サイト情報更新
-                </p>
-              </div>
-            </div>
-
-            <div class="mt-5 space-y-3">
-              <a href="/updates" class="block rounded-2xl border border-white/10 bg-white/5 p-4 hover:bg-white/10">
-                <p class="text-sm font-medium">Recently updated</p>
-                <p class="mt-1 text-xs text-slate-400">See change log and data sources.</p>
-              </a>
-            </div>
-          </div>
-        </aside>
       </div>
     </section>
 
     <!-- Harm Reduction-->
-    <section class="flex flex-row items-start justify-end gap-4 max-w-6xl mx-auto mt-12 mb-12">
-      <div class="w-1/4 flex-none">
-        <h2 class="mb-8 custom-font-bold text-4xl">Harm Reduction</h2>
-        <h3 class="mb-16 text-base text-slate-500">薬物使用に関するリスクと薬物使用したときの危害軽減法</h3>
-        <div class="flex flex-row items-start justify-center">        
-          <div class="h-10 flex items-baseline gap-2">
+    <section class="flex flex-col gap-4 max-w-6xl mx-auto mb-12
+       md:flex-row md:items-start md:justify-end"
+    >
+      <div
+        class="px-4
+          md:w-1/4 md:flex-none md:px-0"
+      >
+        <h2
+          class="custom-font-bold text-lg
+            md:mb-8 md:text-4xl"
+        >
+          Harm Reduction
+        </h2>
+        <h3
+          class="text-sm text-slate-500
+            md:mb-16 md:text-base"
+        >
+          薬物使用に関するリスクと薬物使用したときの危害軽減法
+        </h3>
+
+        <div
+          class="hidden
+            md:flex md:flex-row md:items-start md:justify-center"
+        >
+          <div class="flex items-baseline gap-2">
             <!-- 左ボタン -->
             <button
               type="button"
-              class="hidden md:flex items-baseline z-30 h-10 w-10 bg-white/90 hover:bg-[#FF9B51] hover:text-white"
+              class="rounded-md h-10 w-10 bg-white/90 hover:bg-[#FF9B51] hover:text-white"
               @click="scrollCarousel('left', harmReductionCarouselRef)"
             >
               <img src="/ui/angle-small-left.png" class="h-10 w-10" alt="左にカルーセルを移動" />
@@ -51,7 +53,7 @@
             <!-- 右ボタン -->
             <button
               type="button"
-              class="hidden md:flex items-baseline z-30 h-10 w-10 bg-white/90 hover:bg-[#FF9B51] hover:text-white"
+              class="rounded-md h-10 w-10 bg-white/90 hover:bg-[#FF9B51] hover:text-white"
               @click="scrollCarousel('right', harmReductionCarouselRef)"
             >
               <img src="/ui/angle-small-right.png" class="h-10 w-10" alt="右にカルーセルを移動" />
@@ -61,11 +63,13 @@
 
       </div>
 
-      <div class="flex-initial w-3/4 relative mx-auto">
+      <div
+        class="px-4
+          md:flex-initial md:w-3/4 md:px-0">
         <!-- 表示領域 -->
         <div
           ref="harmReductionCarouselRef"
-          class="mx-4 md:mx-0 no-scrollbar overflow-x-auto scroll-smooth"
+          class="no-scrollbar overflow-x-auto scroll-smooth"
         >
           <div
             class="flex flex-row gap-4"
@@ -74,7 +78,8 @@
               v-for="basicsContent in basicsFeeds"
               :key="basicsContent.path"
               :to="basicsContent.path"
-              class="group block mb-8 shrink-0 basis-[calc(100%-3rem)] md:basis-[calc((100%-2rem)/3)] no-underline"
+              class="group block mb-8 shrink-0 basis-[calc(100%-2rem)] no-underline
+                md:basis-[calc((100%-2rem)/3)]"
             >
 
               <div class="overflow-hidden border border-[#BFC9D1]/70 rounded-md">
@@ -86,8 +91,8 @@
                   />
                 </div>
                 <div class="p-4">
-                  <h2 class="custom-font-bold mb-2">{{ basicsContent.title }}</h2>
-                  <p class="text-slate-500 text-s5">{{ basicsContent.description }}</p>
+                  <h2 class="mb-2 custom-font-bold text-xs md:text-sm">{{ basicsContent.title }}</h2>
+                  <p class="text-slate-500 text-xs md:text-sm">{{ basicsContent.description }}</p>
                 </div>
               </div>
 
@@ -181,10 +186,14 @@
 
         <h3 class="mb-4 text-2xl text-slate-100 custom-font-black text-center">Value</h3>
         <p>
-          Truth Lightでは依存症という疾患に対して様々な分野からメスを入れます。<br />
-          それが以下の5つのValuesです。<br />
-
-          <strong>神学, 社会学, 文化, 脳科学, 心理学, 薬理学</strong>
+          Truth Lightでは薬物について以下の5つのValuesを記録していきます。<br />
+        </p>
+        <p class="flex justify-between">
+          <strong>薬理</strong>
+          <strong>リスク</strong>
+          <strong>歴史</strong>
+          <strong>文化</strong>
+          <strong>回復</strong>
         </p>
       </div>
     </section>

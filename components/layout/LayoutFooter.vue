@@ -30,12 +30,7 @@
         </div>
       </div>
 
-      <div class="mt-16 text-xs text-slate-500 text-center">
-        <p>私たちはキリストの死と復活と十字架による罪の赦しを信じているキリスト教系の団体です。</p>
-        <p>本サイトの目的は薬物依存症の人を回復に回復の方法を提供すること意図としており、無理な宗教勧誘等は行いません。</p>
-      </div>
-
-      <div class="mt-8 text-xs text-slate-500 text-center">
+      <div class="mt-8 text-xs text-slate-500 text-center italic">
         <p>当サイトの画像やデザインは一部生成AIを利用しています。</p>
         <p>記事本文は一部生成AIによる情報収集を行い一次ソースを確認しファクトチェックを行った上で掲載しています。</p>
       </div>
