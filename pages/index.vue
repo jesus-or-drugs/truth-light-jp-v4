@@ -17,7 +17,7 @@
     </section>
 
     <!-- Harm Reduction-->
-    <section class="flex flex-col gap-4 max-w-6xl mx-auto mb-12
+    <section class="flex flex-col gap-4 max-w-6xl mx-auto mb-8
        md:flex-row md:items-start md:justify-end"
     >
       <div
@@ -103,7 +103,7 @@
     </section>
 
     <!-- Recovery-->
-    <section class="flex flex-col gap-4 max-w-6xl mx-auto mb-12
+    <section class="flex flex-col gap-4 max-w-6xl mx-auto mb-8
        md:flex-row md:items-start md:justify-end"
     >
       <div
@@ -188,17 +188,38 @@
     </section>
 
     <!-- Truth Lightの基本理念 -->
-    <section class="page-sections mx-auto mb-12 px-4 max-w-6xl md:px-0">
-      <div class="w-full h-auto p-4 md:p-12 bg-[#2e4454] rounded-3xl">
-        <h2 class="mb-12 text-4xl text-slate-100 custom-font-black text-center">Truth Lightの基本理念</h2>
+    <section
+      class="page-sections mx-auto mb-12 px-4 max-w-6xl
+        md:px-0"
+    >
+      <div
+        class="w-full h-auto p-4 rounded-md bg-[#2e4454] text-sm
+          md:p-12 md:text-lg"
+      >
+        <h2
+          class="mb-8 text-lg text-slate-100 custom-font-black text-center
+            md:mb-12 md:text-4xl"
+        >
+          Truth Lightの基本理念
+        </h2>
 
-        <h3 class="mb-4 text-2xl text-slate-100 custom-font-black text-center">Mission</h3>
+        <h3
+          class="mb-4 text-center text-base text-slate-100 custom-font-black
+            md:mb-6 md:text-2xl"
+        >
+          Mission
+        </h3>
         <p>ダメ。ゼッタイ。を超えて薬物を乱用する人は必ずいることを認め
         その人たちと共存して生きていく世の中で変えていきます。
         違法流通や入手方法には関与せず、薬物の基本的情報や文化・歴史などのアーカイブ
         またハームリダクションと薬物教育のための公共的コミュニティを設立する。</p>
 
-        <h3 class="mb-4 text-2xl text-slate-100 custom-font-black text-center">Vision</h3>
+        <h3
+          class="mb-4 text-center text-base text-slate-100 custom-font-black
+            md:mb-6 md:text-2xl"
+        >
+          Vision
+        </h3>
         <p>
         1. 誰もアクセス可能な日本での規制物質のデータベースを運用していく。<br />
         2. 重要度が高い物質については専門の記事を執筆する。<br />
@@ -207,11 +228,16 @@
         5. キリスト教系教会、ダルク、ナルコティクス・アノニマスなど外部団体とも横の繋がりを構築していく。<br />
         6. アディクトの卓越したセンスを活かした生き直しを実現できる場所を創る。</p>
 
-        <h3 class="mb-4 text-2xl text-slate-100 custom-font-black text-center">Value</h3>
+        <h3
+          class="mb-4 text-center text-base text-slate-100 custom-font-black
+            md:mb-6 md:text-2xl"
+        >
+          Values
+        </h3>
         <p>
-          Truth Lightでは薬物について以下の5つのValuesを記録していきます。<br />
+          Truth Lightでは薬物について以下の5つのValuesを記録していきます。
         </p>
-        <p class="flex justify-between">
+        <p class="flex gap-4">
           <strong>薬理</strong>
           <strong>リスク</strong>
           <strong>歴史</strong>
