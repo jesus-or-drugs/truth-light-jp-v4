@@ -3,7 +3,7 @@ title: '🥦 マリファナ：統合失調症を引き起こす可能性はト�
 description: 'マリファナのメカニズム、効果、危険性、相互作用、ハームリダクション、依存症からの回復について解説します。'
 createdAt: '2026-06-17'
 updatedAt: '2026-06-24'
-ogImage: '/ogp/basics/ogp-marijuana.jpg'
+ogImage: '/ogp/basics/ogp-marijuana_v2.jpg'
 seo:
   meta:
     - name: 'keywords'
